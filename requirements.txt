@@ -1,1 +1,4 @@
 pymupdf
+cohere
+qdrant-client
+python-dotenv
