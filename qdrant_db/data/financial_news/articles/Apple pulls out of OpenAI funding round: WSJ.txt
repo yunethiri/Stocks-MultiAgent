@@ -1,0 +1,24 @@
+link: https://finance.yahoo.com/video/apple-pulls-openai-funding-round-151248687.html
+
+source: finance.yahoo.com
+
+title: Apple pulls out of OpenAI funding round: WSJ
+
+summary: 
+
+publishDate: 2024-09-30T15:12:48.000Z
+
+content: Apple (AAPL) recently pulled out of talks to participate in the next round of funding for OpenAI as it seeks to raise $6.5 billion, according to The Wall Street Journal. Nvidia (NVDA) and Microsoft (MSFT) are reportedly expected to participate in the funding round, with the latter expected to invest $1 billion. This comes after Microsoft (MSFT) invested $13 billion in OpenAI.
+
+Catalysts Hosts Seana Smith and Madison Mills report more on the story and discuss some of the other players involved in funding OpenAI.
+
+For more expert insight and the latest market action, click here to watch this full episode of Catalysts.
+
+This post was written by Melanie Riehl
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999667406082153
+

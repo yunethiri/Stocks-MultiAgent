@@ -1,0 +1,24 @@
+link: https://finance.yahoo.com/video/nvidia-releases-earnings-takeaways-mag-220716796.html
+
+source: finance.yahoo.com
+
+title: Nvidia releases earnings: Takeaways from Mag 7 Q3 results
+
+summary: 
+
+publishDate: 2024-11-20T22:07:16.000Z
+
+content: Nvidia released its third quarter earnings release, with revenue and earnings beating Wall Street expectations. The chipmaker's results close out the "Magnificent Seven" third quarter earnings, as Tesla (TSLA), Microsoft (MSFT), Meta (META), Alphabet (GOOG, GOOGL), Amazon (AMZN), and Apple (AAPL) have already released results for the quarter.
+
+Yahoo Finance's Josh Schafer joins Asking for a Trend Josh Lipton to go over his takeaways from the Magnificent Seven earnings: earnings growth is not an issue, Nvidia is still the leader of the pack, and 2025 outperformance is uncertain.
+
+To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.
+
+This post was written by Naomi Buchanan.
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998941421508789
+

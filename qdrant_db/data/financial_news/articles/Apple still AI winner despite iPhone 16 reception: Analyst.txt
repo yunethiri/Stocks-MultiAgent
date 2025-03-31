@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/video/apple-still-ai-winner-despite-210713797.html
+
+source: finance.yahoo.com
+
+title: Apple still AI winner despite iPhone 16 reception: Analyst
+
+summary: 
+
+publishDate: 2024-09-27T21:07:13.000Z
+
+content: Apple's (AAPL) new iPhone 16 has received mixed reception. Antoine Chkaiban, New Street Research technology infrastructure analyst tells Julie Hyman and Josh Lipton on Market Domination to break down why he’s concerned about the iPhone maker in the near term despite expecting the company to be a major benefactor of artificial intelligence (AI).
+
+“We're concerned about the upcoming cycle for a number of reasons,” Chkaiban says. “There are early data points suggesting that iPhone 16 reception is poor. Users are often disappointed. They see limited innovation. He adds that Apple Intelligence being delayed until after the initial launch of the device “doesn't really help.”
+
+Among the other factors contributing to Apple’s near-term headwinds are shortening refresh cycles as “iPhone users hold onto their devices for longer” and increased competition in China. Another concern is a general weakness in consumer demand.
+
+Chkaiban projects Apple will ship 215 million iPhones in fiscal 2025, which is 10% below consensus estimates.
+
+Despite near-term concerns, the analyst says Apple is in a prime position in the AI era. He explains, “The generative AI iPhone revolution indeed won't be hardware-driven. It will happen over multiple cycles. It won't create a near-term product cycle, but it will still revolutionize the user experience over time and I do believe that Apple is very well positioned to capture some value as they control a large ecosystem of high-end devices.”
+
+“Over coming years, I think Apple can do well with generative AI, with Apple intelligence getting rolled out. But it's not going to drive a near-term product cycle. That's what we're concerned about.”
+
+He expects that Apple’s revenue will grow, but this growth will be driven by services rather than device sales. “Bottom line is Apple can probably grow revenues mid to high single digits and earnings between low-to-mid teens. And so yes, over the long run, I think Apple is definitely a good name to own. And if there is indeed a pullback related to weakness in the current cycle, that would probably create a good entry point.”
+
+For more expert insight and the latest market action, click here to watch this full episode of Market Domination.
+
+This post was written by Naomi Buchanan.
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9986456036567688
+

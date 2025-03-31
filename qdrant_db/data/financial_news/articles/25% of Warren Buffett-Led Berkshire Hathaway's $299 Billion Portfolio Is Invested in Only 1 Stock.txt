@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/25-warren-buffett-led-berkshire-093000624.html
+
+source: finance.yahoo.com
+
+title: 25% of Warren Buffett-Led Berkshire Hathaway's $299 Billion Portfolio Is Invested in Only 1 Stock
+
+summary: 
+
+publishDate: 2024-12-21T09:30:00.000Z
+
+content: Thanks to his unbelievable track record of compounding capital over many decades as the CEO of Berkshire Hathaway, Warren Buffett is probably the most closely watched investor out there. Everyone can learn a thing or two following his advice and actions.
+
+One of Buffett's best bets has been to buy shares in Apple (NASDAQ: AAPL), the dominant consumer-electronics enterprise. Berkshire first purchased the stock in the first quarter of 2016, and since the start of that year, Apple has soared 862% (as of Dec. 17), meaningfully outperforming the S&P 500.
+
+As of this writing, 25% of Berkshire's massive $299 billion portfolio is in Apple, making it its top holding, even after the Oracle of Omaha trimmed the position over the past year. Continue reading to learn what first caught Buffett's attention and if the stock is a smart buy right now.
+
+Favorable characteristics
+
+Nearly a decade ago, just before Buffett and Berkshire first bought a stake in Apple, it was obvious that Apple possessed one of the world's most powerful brands. The company's successful history of developing and bringing to market extremely popular and in-demand hardware devices allowed it to resonate strongly with consumers. That positioning has helped the company flex its pricing power.
+
+Besides Apple's brand, Buffett likely understood that the company had tremendous customer loyalty. Credit partly goes to the brand's image.
+
+However, Apple's ecosystem, which mixes its hardware offerings with a suite of internally developed software and services to provide a superior user experience, essentially locks consumers in, discouraging them to change to competitors' offerings. Buffett even suggested that if you offered someone $10,000 on the condition that they could never use an iPhone again, the deal would be declined -- probably without hesitation. This points to Apple's customer loyalty.
+
+Buffett appreciates businesses that are in sound financial shape, and perhaps no company is as financially fit as Apple. It generates incredible amounts of operating income and free cash flow quarter in and quarter out, allowing management to repurchase shares and pay dividends. As of Sept. 28, Apple had a net cash position of $50 billion, a financial cushion that lets investors sleep well at night.
+
+During the first three months of 2016, Apple shares traded at a price-to-earnings ratio (P/E) of 10.6. With the benefit of hindsight, that valuation made the investment opportunity seem like a no-brainer. No wonder Buffett made the decision to buy Apple stock then.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999986886978149
+

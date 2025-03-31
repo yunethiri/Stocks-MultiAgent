@@ -1,0 +1,50 @@
+link: https://finance.yahoo.com/news/the-year-washington-tried-to-humble-big-tech-090058290.html
+
+source: finance.yahoo.com
+
+title: The year Washington tried to humble Big Tech
+
+summary: 
+
+publishDate: 2024-12-27T09:00:58.000Z
+
+content: The US government long had the nation’s biggest tech giants in its sights, and in 2024, it hit bull's-eye.
+
+The big victory came in August when the Justice Department convinced a federal district court judge that Google (GOOG, GOOGL) had abused its search engine dominance and violated antitrust law.
+
+"Google is a monopolist, and it has acted as one to maintain its monopoly," the judge wrote in his ruling.
+
+It was the government’s most resounding antitrust victory against any major company since prosecutors went after AT&T in the 1980s and Microsoft in the 1990s.
+
+Prosecutors then asked the same judge to force Google's parent Alphabet to sell off parts of its empire, a dramatic request that will play out in a separate phase of the trial in 2025. The end result could be the dismantling of a glittering Silicon Valley empire amassed over two decades.
+
+What transpired in 2024 could have future implications for some of the other big names in the tech world.
+
+Apple (AAPL), Amazon (AMZN), and Meta (META) are all defending themselves against a series of other federal- and state-led antitrust suits, some of which make similar claims.
+
+For now, Wall Street doesn't appear rattled. The so-called Magnificent Seven stocks of the world's largest technology companies helped push the market higher in 2024, thanks partly to advancements around artificial intelligence.
+
+They include Apple, Amazon, Meta, Microsoft, Nvidia (NVDA), Tesla (TSLA), and Alphabet. Alphabet, in fact, hit an all-time record high this month.
+
+• USD (GOOG) View Quote Details
+
+Some legal experts argue that the government's antitrust gains in 2024 are still too premature to seriously rattle the gigantic tech companies.
+
+"The Biden administration has moved antitrust down the field in some ways," said University of Tennessee law professor Maurice Stucke. "But are we in the end zone? No."
+
+The cases that allege companies acted illegally to maintain a monopoly take years to work through the justice system. The more present dangers for tech giants, Stucke said, are the chances that the government will try to block newly proposed mergers or that their businesses could be eclipsed by AI startups.
+
+"That sends them greater chills than any regulator," Stucke said. "They don't want to be the next Intel."
+
+Amy Bos, director of state and federal affairs for technology sector advocate NetChoice (which also represents Yahoo Finance), agreed that the government's merger challenges pose the most looming threats.
+
+"It shows in the boardrooms," she said. "I think there's increased hesitation by companies whether to merge, whether to grow their business, because they may come under increased scrutiny."
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9740079045295715
+

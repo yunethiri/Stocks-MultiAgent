@@ -1,0 +1,46 @@
+link: https://finance.yahoo.com/news/magnificent-7-shake-up-why-wall-street-is-reassessing-teslas-position-and-looking-toward-netflix-130053237.html
+
+source: finance.yahoo.com
+
+title: Magnificent 7 shake-up: Why Wall Street is reassessing Tesla's position and looking toward Netflix
+
+summary: 
+
+publishDate: 2024-10-27T13:00:53.000Z
+
+content: Tesla (TSLA) has work to do if it wants to remain among tech elites.
+
+Despite a surprising third quarter earnings report that sent the EV maker's stock surging — resulting in its biggest intraday jump in over a decade — Wall Street is once again reevaluating its inclusion in the Magnificent Seven.
+
+The group’s members — Nvidia (NVDA), Apple (AAPL), Alphabet (GOOG, GOOGL), Amazon (AMZN), Meta (META), Microsoft (MSFT), and Tesla — dominated markets in 2023 and have returned as a potential key driver as third quarter earnings season gets underway. The group is expected to lead with 18.1% year-over-year earnings growth in Q3, and four of the stocks — Nvidia, Alphabet, Amazon, and Meta — are projected to be in the top 10 contributors to S&P 500 earnings growth, according to FactSet.
+
+The debate over Tesla has returned as concerns linger despite its earnings resurgence. Tesla's third quarter profits jumped 17%, a dramatic turnaround after two quarters of declines.
+
+That’s not enough for Wall Street: Strategists tell me it's still at risk of falling behind the rest of Big Tech due to overhyped fundamentals.
+
+Freedom Capital Markets chief global strategist Jay Woods likened Tesla to bitcoin, suggesting the stock trades more on “hopes and dreams” than fundamentals.
+
+“Tesla had its moment in the sun … to me, it's more like a Cisco (CSCO) or an Intel (INTC) during the dot-com bubble, and now we're moving on to other things,” Woods warned on Yahoo Finance’s Morning Brief.
+
+While CEO Elon Musk has often categorized Tesla as a tech company, the firm’s AI and robotics bets will likely take years to pay off. In the meantime, Tesla must rely on improving its core auto business — a stark contrast to its Magnificent Seven peers.
+
+“I've been in the tech sector since 1990, and I remember the Four Horsemen … We didn't add an auto stock with Cisco, Intel, Dell (DELL), and Microsoft,” longtime tech investor Dan Morgan told me.
+
+Tesla’s recent underperformance and high valuation further strain its standing among its Mag Seven peers. At nearly 73 times forward earnings per Yahoo Finance data, its forward price-to-earnings multiple far exceeds others in the group.
+
+• USD (TSLA) View Quote Details
+
+As of Friday afternoon, just over 40% of analysts covering Tesla rated the stock a Buy, according to Bloomberg data, making Tesla the least favored Magnificent Seven stock among analysts.
+
+As far as Tesla’s replacement, Netflix has emerged as a strong contender.
+
+Wealth Enhancement Group’s Ayako Yoshioka noted to me that Netflix “makes the most sense,” as shares of the original FAANG member recently hit an all-time high, buoyed by strong earnings and solid guidance.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9674758911132812
+

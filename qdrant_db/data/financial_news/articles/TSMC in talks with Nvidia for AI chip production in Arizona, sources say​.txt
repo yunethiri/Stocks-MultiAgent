@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/exclusive-tsmc-talks-nvidia-ai-090521536.html
+
+source: finance.yahoo.com
+
+title: TSMC in talks with Nvidia for AI chip production in Arizona, sources say​
+
+summary: 
+
+publishDate: 2024-12-05T09:05:21.000Z
+
+content: TAIPEI/SINGAPORE (Reuters) - Taiwan Semiconductor Manufacturing Co (TSM, 2330.TW) is in discussions with Nvidia Corp (NVDA) to produce its Blackwell artificial intelligence chips at the contract manufacturer's new plant in Arizona, three sources familiar with the matter said.
+
+TSMC is already making preparations to start production early next year, the sources said.
+
+• USD (TSM) View Quote Details
+
+Nvidia's Blackwell chips, which the company unveiled in March, have so far been manufactured at TSMC's facilities in Taiwan. The company has seen high demand from customers involved in generative AI and accelerated computing for the chips, which it says is 30 times speedier at tasks like serving up answers from chatbots.
+
+Nvidia CEO Jensen Huang present NVIDIA Blackwell platform at an event ahead of the COMPUTEX forum, in Taipei, Taiwan June 2, 2024. REUTERS/Ann Wang · REUTERS / Reuters
+
+The agreement, if finalised, would secure another customer for TSMC's Arizona facility, which is scheduled to start volume production next year.
+
+TSMC and Nvidia declined to comment. The sources did not want to be identified as the talks were confidential.
+
+Two of the sources said Apple (AAPL) and Advanced Micro Devices (AMD) are current customers at the Arizona plant. Apple and AMD did not immediately respond to requests for comment.
+
+• USD (NVDA) View Quote Details
+
+However, while TSMC plans to produce the front-end process of Nvidia's Blackwell chips in Arizona, the chips will still need to be shipped back to Taiwan for packaging. The Arizona facility does not have chip on wafer on substrate (CoWoS) capacity that is essential to the Blackwell chips, two of the sources said.
+
+All of TSMC's CoWoS capacity is currently in Taiwan.
+
+Taiwan's TSMC, the world's largest contract chipmaker, is investing tens of billions of dollars in building three facilities in Phoenix and the project has won significant subsidies from the U.S. government which wants to bring semiconductor manufacturing back to the United States.
+
+(Reporting by Wen-Yee Lee in Taipei and Fanny Potkin in Singapore; Editing by Brenda Goh and Jacqueline Wong)
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999735355377197
+

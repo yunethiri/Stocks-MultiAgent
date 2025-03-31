@@ -1,0 +1,38 @@
+link: https://finance.yahoo.com/news/apple-stock-vs-tesla-stock-090000565.html
+
+source: finance.yahoo.com
+
+title: Apple Stock vs. Tesla Stock: Billionaires Are Buying One and Selling the Other Ahead of 2025
+
+summary: 
+
+publishDate: 2024-12-13T09:00:00.000Z
+
+content: Apple (NASDAQ: AAPL) and Tesla (NASDAQ: TSLA) are two of the largest and most popular stocks among retail and institutional investors. But a few billionaire-led hedge funds sold Apple and bought Tesla during the third quarter. Here are the details.
+
+Israel Englander of Millennium Management sold 11.5 million shares of Apple, reducing his stake by 90%. Apple had been one of his 10 largest holdings, but it no longer ranks in the top 50. Meanwhile, Englander bought 225,760 shares of Tesla, increasing his position by 51%.
+
+Louis Bacon of Moore Capital Management sold 431,000 shares of Apple, exiting his position entirely. Apple had been one of his 10 largest holdings. Meanwhile, Bacon bought 25,000 shares of Tesla, which now ranks among his top 25 holdings.
+
+Dan Loeb of Third Point sold 1 million shares of Apple, reducing his take by 52%. Apple had been the seventh-largest position in the portfolio, but it no longer ranks among the top 10. Meanwhile, Loeb bought 400,000 shares of Tesla, opening a new position
+
+The trades above are detailed in the latest Forms 13F completed by each hedge fund. While those forms were filed recently, the trades took place at least two months ago. So, here is a more up-to-date look at Apple and Tesla.
+
+1. Apple
+
+Apple has cultivated brand authority and pricing power by developing a ecosystem of tightly integrated hardware, software, and services. The company has a strong presence in consumer electronics categories like smartphones and personal computers, as well as adjacent markets like financial services, streaming media, and mobile app distribution and advertising.
+
+However, Apple is beset by headwinds. For instance, vertical integration of hardware and services has traditionally been a competitive advantage for the company. But the Digital Markets Act (DMA) in Europe has weakened that advantage by forcing Apple to permit third-party app stores on its devices, and to allow alternative in-app payment methods. Similar legislation has been introduced in the U.S., which could be problematic for Apple if implemented.
+
+Additionally, Apple's services business is driven in large part by Alphabet. Apple receives up to $20 billion annually for making Google the default search engine on its devices, but that revenue could disappear. Federal Judge Amit Mehta recently ruled that Alphabet had an illegal monopoly in internet search. The appeals process may last years, but Alphabet's ability to pay for default search placement will likely be limited, if not completely prohibited.
+
+Finally, some analysts have framed the introduction of Apple Intelligence -- a suite of artificial intelligence features for its devices -- as the catalyst for an iPhone upgrade cycle of epic proportions. However, those expectations not only seem overbaked, but also have been priced into the stock several times over.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999920129776001
+
