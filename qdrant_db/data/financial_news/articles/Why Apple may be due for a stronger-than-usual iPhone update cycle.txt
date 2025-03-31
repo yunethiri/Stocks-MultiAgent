@@ -1,0 +1,32 @@
+link: https://finance.yahoo.com/video/why-apple-may-due-stronger-223633365.html
+
+source: finance.yahoo.com
+
+title: Why Apple may be due for a stronger-than-usual iPhone update cycle
+
+summary: 
+
+publishDate: 2024-12-09T22:36:33.000Z
+
+content: Apple (AAPL) launches its iOS 18.2 update today. Some features in the update include ChatGPT integration into Siri and creating your own emojis.
+
+Creative Strategies CEO and Principal Analyst Ben Bajarin sits down with Asking for a Trend Anchor Josh Lipton to talk about how the new iOS update could impact iPhone demands and sales.
+
+"I think the super cycle term gets thrown around," says Bajarin. "I mean, I'm just still of the strong conviction that hardware changes, design changes drive those super cycles, not software. I do still think this is going to be a stronger-than-normal upgrade cycle only because we've known that this is an aging base."
+
+Bajarin went out to talk about the partnership between Apple and Sam Altman's OpenAI, the company that develops ChatGPT.
+
+"I think OpenAI, they're not Google. In no way, shape, or form are they brand-recognized or used as much as Google," says Bajarin. "So you could see the differences of this deal between a Google for search and ChatGPT and OpenAI for other features."
+
+Watch the video above to hear Bajarin's full take on Apple's iOS update.
+
+To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.
+
+This post was written by Daniel A. Nelson
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+

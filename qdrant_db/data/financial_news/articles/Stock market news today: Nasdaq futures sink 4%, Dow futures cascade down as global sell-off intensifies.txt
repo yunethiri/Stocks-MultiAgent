@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/stock-market-news-today-nasdaq-futures-sink-4-dow-futures-cascade-down-as-global-sell-off-intensifies-113202522.html
+
+source: finance.yahoo.com
+
+title: Stock market news today: Nasdaq futures sink 4%, Dow futures cascade down as global sell-off intensifies
+
+summary: 
+
+publishDate: 2024-08-05T11:32:02.000Z
+
+content: Wall Street's stock sell-off was set to intensify in a major way Monday as concerns mounted over the health of the US economy.
+
+Dow Jones Industrial Average futures (YM=F) lost over 1,000 points before the bell. Nasdaq 100 futures (NQ=F) were crushed by over 5% after the tech-heavy index entered into a correction with Friday's sharp losses. S&P 500 futures' (ES=F) losses cascaded around 4%.
+
+Wall Street's "fear gauge" — the CBOE Volatility Index (^VIX) — soared, reaching its highest level since the early days of the COVID-19 pandemic. Treasury yields plummeted, with the benchmark 10-year Treasury yield (^TNX) sinking below 3.8%.
+
+The global stock market is in the midst of a rapidly intensifying sell-off after Friday's lackluster US jobs report added to concerns about the economy and on whether the Federal Reserve had waited too long to begin cutting interest rates. Of note, almost 100% of bets are on the central bank to cut rates by 0.5% by its September meeting, according to the CME FedWatch tool.
+
+Some of the biggest companies in the stock market were set to see their values plummet at the open. Apple (AAPL) was down more than 6% amid the sell-off, and also after news that Berkshire Hathaway (BRK-B) had cut its stake in the company in half. Nvidia's (NVDA) pull back continued, as it dropped 10%. Tesla (TSLA) plunged more than 8%.
+
+Crypto also took a beating, with Bitcoin (BTC-USD) sinking more than 15% to creep back toward the $50,000 level.
+
+The concerns have spread throughout the world, as well. Traders in Asia greeted the week with a similar sell-off, as Japan's Nikkei 225 (^N225) was routed by more than 12% in its biggest-ever daily loss. In commodities, meanwhile, oil was near its lows of the year, with WTI crude futures (CL=F) down to near $72 a barrel.
+
+The US market is headed into a quieter week of data and earnings. With the jobs market still in focus, weekly unemployment claims due Thursday will take a bigger spotlight than usual.
+
+Live 2 updates Markets correct through price or time Stocks were under heavy pressure early Monday and the story is both complicated and simple — investors fear the Fed waited too long to begin cutting rates. But the violent moves we're seeing in markets to what wasn't a great, but also not terrible, jobs report force us to turn our attention to the dynamics of the market itself rather than additional news about the economy, earnings, and so on. Which recalls to us one of our favorite market adages: markets correct through price or time. Meaning that when the price of any asset — a stock, bond, etc. — becomes divorced from its fundamental drivers, the price of that asset will find equilibrium by either falling in price or going nowhere while fundamentals catch up. With fears rippling through markets that the Fed is no longer cutting rates for the right reason (inflation is at its 2% target), but for the wrong reason (the economy is tipping into a downturn), investors are choosing the former option. The current earnings season is on track to show profits in the second quarter rose at the fastest annual pace in nearly three years. Recent market action suggests investors think expectations for future profits are simply too high. And rather than wait to see if stocks trading at current prices can "grow into" these valuations, investors are selling first and asking questions later.
+
+What to watch today Good point by 22V Research's Dennis DeBusschere in a new note on whether to buy the dip at the open: "If investors are going to buy the oversold condition, credit spreads and inflation expectations need to send a signal that the current economic expansion will continue." Suffice it to say, keep an eye on those two things throughout the session.
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999971389770508
+

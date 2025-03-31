@@ -1,0 +1,44 @@
+link: https://finance.yahoo.com/news/san-francisco-fed-president-mary-daly-we-want-to-finish-the-inflation-fight-170054305.html
+
+source: finance.yahoo.com
+
+title: San Francisco Fed president Mary Daly: We want to finish the inflation fight
+
+summary: 
+
+publishDate: 2024-12-20T17:00:54.000Z
+
+content: Listen and subscribe to Opening Bid on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.
+
+The market is spooked by an inflation-concerned Fed not smashing the pedal down to slash rates and appease bullish investors.
+
+The vibe is not lost on San Francisco Fed president Mary Daly, seen often as a policy dove who's a voting member on the FOMC this year.
+
+"Well, it was a close call, frankly, and it took a lot of deliberation as it often does with myself and my team, and then also with the FOMC participants. Ultimately, I decided that it was appropriate to reduce [interest rates] 25 basis points — that will be 100 basis points of recalibration. And I see that as right-sizing the policy rate level to the economy," Daly said on Yahoo Finance's Opening Bid podcast (video above).
+
+Added Daly, "So I see the recalibration period now as completed. We now are back to the time we can make our decisions more slowly. Data-dependent, using the data to affect the incoming forecast and, you know, determine how many rate cuts we'll ultimately do next year. We'll have to be agile and data-dependent."
+
+On Wednesday, the Federal Reserve reduced interest rates by 25 basis points to a range of 4.25% to 4.5%. It marked the Fed's third straight rate cut of 2024, which began with a blast — a 50 basis point reduction on Sept. 18.
+
+Daly voted for the reduction in interest rates. The lone dissenting vote — a rarity under the Jerome Powell-led Federal Reserve — was newly appointed Cleveland Fed president Beth Hammack.
+
+Hammack preferred not to cut interest rates.
+
+"I mean, we might get really positive inflation news and we'll react to that if we do. But I do think that we want to make sure we finish the job," said Daly, who noted getting inflation to 2% helps build trust and credibility for the Fed.
+
+"So we are resolute to get that job done and that will mean restricted policy through the year [in 2025] in all likelihood."
+
+San Francisco Fed president Mary Daly talks with Yahoo Finance executive editor Brian Sozzi on the outlook for Fed policy on Yahoo Finance's Opening Bid vodcast. · Yahoo Finance
+
+But what spooked a market that has been bidding up Big Tech stocks such as Apple (AAPL) and Meta (META) with reckless abandon in December was the Fed not committing to aggressive rate cutting in 2025.
+
+The consensus among Fed officials is now for two rate cuts next year, down from the four forecast in September. The outlook for inflation is further clouded by potential moves by the incoming Trump administration, such as possible tariffs on China.
+
+The Dow Jones Industrial Average promptly finished Wednesday's session down more than 1,100 points. Stocks stabilized Thursday and Friday, with the latter supported by a slower increase than expected on the Personal Consumption Expenditures (PCE) index.
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997547268867493
+

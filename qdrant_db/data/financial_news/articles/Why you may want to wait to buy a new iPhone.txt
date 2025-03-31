@@ -1,0 +1,24 @@
+link: https://finance.yahoo.com/video/why-may-want-wait-buy-165246188.html
+
+source: finance.yahoo.com
+
+title: Why you may want to wait to buy a new iPhone
+
+summary: 
+
+publishDate: 2024-08-07T16:52:46.000Z
+
+content: Apple (AAPL) is expected to release the latest iPhone in September. While some may be excited to upgrade their phone, they may want to heed caution before buying.
+
+Yahoo Finance Tech Editor Dan Howley to break down the next cycle of iPhones and why consumers may want to hold out before buying the latest edition.
+
+For more expert insight and the latest market action, click here to watch this full episode of Wealth!
+
+This post was written by Nicholas Jacobino
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7751376032829285
+

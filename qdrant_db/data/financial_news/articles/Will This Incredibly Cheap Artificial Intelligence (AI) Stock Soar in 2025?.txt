@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/incredibly-cheap-artificial-intelligence-ai-082000557.html
+
+source: finance.yahoo.com
+
+title: Will This Incredibly Cheap Artificial Intelligence (AI) Stock Soar in 2025?
+
+summary: 
+
+publishDate: 2024-12-21T08:20:00.000Z
+
+content: This has turned out to be a forgettable year for Qorvo (NASDAQ: QRVO) investors as shares of the chipmaker are down 38% as of this writing, which is in stark contrast to the 23% gains clocked by the PHLX Semiconductor Sector index in 2024.
+
+Known primarily for supplying smartphone chips to the likes of Apple (NASDAQ: AAPL) and Samsung, shares of Qorvo plunged following the release of the company's fiscal 2025 second-quarter results in October. Though the company's revenue and earnings were higher than Wall Street's expectations, its terrible guidance led investors to press the panic button.
+
+Let's see why that was the case and check if Qorvo can ride the growing demand for artificial intelligence (AI)-enabled smartphones and witness a turnaround in its stock market fortunes next year.
+
+Qorvo may remain under pressure in the near term
+
+Qorvo's revenue in the second quarter of fiscal 2025 was down 5% year over year to $1.05 billion. The company's non-GAAP (adjusted) earnings fell to $1.88 per share from $2.39 per share in the year-ago period, a year-over-year decline of 21%. Analysts would have settled for $1.85 per share in earnings on revenue of $1.03 billion.
+
+However, Qorvo was unable to follow up its better-than-expected results with a strong outlook. The company expects its revenue in the current quarter to land at $900 million, along with adjusted earnings of $1.20 per share. Analysts were looking for $1.06 billion in revenue from Qorvo, along with $1.92 per share in earnings.
+
+So, Qorvo missed Wall Street's fiscal Q3 expectations by a huge margin, leading investors to press the panic button. Moreover, the company is forecasting its fiscal 2025 revenue and gross margin to be slightly lower than fiscal 2024 levels. Qorvo management blamed the shift toward entry-level 5G Android smartphones from mid-tier 5G smartphones for its poor guidance, adding that the company isn't expecting this trend to reverse anytime soon.
+
+The shift toward cheaper smartphone models suggests that Qorvo may be selling lower-margin chips and generating lesser revenue when compared to chips that go into mid-tier smartphones. The company does point out that the demand for flagship and premium smartphones remains solid, but things aren't rosy in the lower tiers.
+
+Qorvo's guidance for the current quarter indicates that its top line is on track to drop by 16% year over year. The bottom line will also take a big hit considering that it reported $2.10 per share in earnings in the year-ago period. Consensus estimates are projecting a 2.5% drop in Qorvo's top line this year to $3.68 billion, while earnings are expected to drop at an alarming pace of 22% in fiscal 2025 to $4.82 per share.
+
+Story Continues
+
+language: en
+
+sentiment: positive
+
+confidence: 0.999284565448761
+
