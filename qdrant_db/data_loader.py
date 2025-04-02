@@ -29,7 +29,7 @@ COHERE_API_KEY = os.getenv('COHERE_API_KEY')
 co = cohere.ClientV2(COHERE_API_KEY)
 model="embed-english-v3.0"
 VECTOR_SIZE = 1024
-chunk_size = 1024
+chunk_size = 3000
 
 # connect to qdrant
 client = QdrantClient("qdrant", port=6333)
