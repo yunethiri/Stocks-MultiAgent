@@ -1,0 +1,17 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+COPY data_loader.py /app/data_loader.py
+
+# Install necessary packages
+RUN pip install qdrant-client cohere python-dotenv
+
+# For monitoring and debugging
+RUN apt-get update && apt-get install -y curl
+
+# Set Qdrant client to use higher timeout
+ENV QDRANT_TIMEOUT=300
+
+# Entry point will be the Python script mounted from the host
+CMD ["python", "/app/data_loader.py"]
