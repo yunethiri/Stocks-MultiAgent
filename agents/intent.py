@@ -1,11 +1,12 @@
-from typing import Dict, List, Any, Optional, Annotated, TypedDict
+# core/intent_agent.py
+
+from typing import Dict, List, Any, Optional, TypedDict
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langgraph.graph import StateGraph, END
 import json
-import uuid
 from datetime import datetime
 
 class IntentClassification(BaseModel):
@@ -28,12 +29,21 @@ class IntentAgent:
     def __init__(self, model_name="gpt-4o"):
         self.llm = ChatOpenAI(temperature=0, model=model_name)
         self.registered_agents = {}
-        self.sessions = {}  # Store session data
+        self.memory_agent = None
+        self.output_agent = None
         self.graph = self._build_graph()
         
     def register_agent(self, agent_id: str, agent):
         """Register an agent with the intent agent"""
         self.registered_agents[agent_id] = agent
+        
+    def set_memory_agent(self, memory_agent):
+        """Set the memory agent"""
+        self.memory_agent = memory_agent
+        
+    def set_output_agent(self, output_agent):
+        """Set the output agent"""
+        self.output_agent = output_agent
         
     def _build_graph(self):
         """Build the LangGraph for intent processing"""
@@ -43,13 +53,11 @@ class IntentAgent:
         # Add nodes
         workflow.add_node("classify_intent", self._classify_intent)
         workflow.add_node("delegate_tasks", self._delegate_tasks)
-        workflow.add_node("aggregate_responses", self._aggregate_responses)
         workflow.add_node("handle_error", self._handle_error)
         
         # Define edges
         workflow.add_edge("classify_intent", "delegate_tasks")
-        workflow.add_edge("delegate_tasks", "aggregate_responses")
-        workflow.add_edge("aggregate_responses", END)
+        workflow.add_edge("delegate_tasks", END)
         
         # Error handling edges
         workflow.add_edge_from_parent("handle_error")
@@ -147,70 +155,6 @@ class IntentAgent:
             state["error"] = f"Task delegation failed: {str(e)}"
             return state
     
-    def _aggregate_responses(self, state: IntentAgentState) -> IntentAgentState:
-        """Aggregate responses from all agents into a final response"""
-        try:
-            if state.get("error"):
-                return state
-                
-            # Prepare the aggregation prompt with all agent responses
-            agent_responses_text = ""
-            for agent_id, response in state["agent_responses"].items():
-                # Format may differ between agents, handle accordingly
-                if isinstance(response, dict) and "response" in response:
-                    agent_responses_text += f"\n\n{agent_id.upper()} AGENT RESPONSE:\n{response['response']}"
-                elif isinstance(response, str):
-                    agent_responses_text += f"\n\n{agent_id.upper()} AGENT RESPONSE:\n{response}"
-                else:
-                    # Handle more complex response structures
-                    agent_responses_text += f"\n\n{agent_id.upper()} AGENT RESPONSE:\n{json.dumps(response, indent=2)}"
-            
-            # If we have an "out_of_scope" response, use it directly
-            if "out_of_scope" in state["agent_responses"]:
-                state["final_response"] = state["agent_responses"]["out_of_scope"]["response"]
-                return state
-            
-            # If we have just one agent response, we might use it directly
-            if len(state["agent_responses"]) == 1:
-                agent_id = list(state["agent_responses"].keys())[0]
-                response = state["agent_responses"][agent_id]
-                
-                # If it's already a well-formatted string, use it directly
-                if isinstance(response, dict) and "response" in response:
-                    state["final_response"] = response["response"]
-                    return state
-            
-            # Otherwise, synthesize a response from multiple agents
-            prompt = ChatPromptTemplate.from_template("""
-            You are an expert financial analyst specializing in Apple (AAPL) stock.
-            Synthesize the following information from different analysis agents into a coherent, comprehensive response.
-            
-            USER QUERY: {query}
-            
-            {agent_responses}
-            
-            Create a well-structured, professional response that directly addresses the user's query.
-            Be concise but thorough, highlighting the most important insights from each agent.
-            If there are conflicting perspectives, acknowledge them and provide a balanced view.
-            """)
-            
-            # Run the aggregation chain
-            chain = prompt | self.llm
-            result = chain.invoke({
-                "query": state["query"],
-                "agent_responses": agent_responses_text
-            })
-            
-            state["final_response"] = result.content
-            
-            # Update chat history
-            self._update_chat_history(state)
-            
-            return state
-        except Exception as e:
-            state["error"] = f"Response aggregation failed: {str(e)}"
-            return state
-    
     def _handle_error(self, state: IntentAgentState) -> IntentAgentState:
         """Handle any errors that occurred during processing"""
         error_msg = state.get("error", "An unknown error occurred")
@@ -235,35 +179,12 @@ class IntentAgent:
         state["final_response"] = result.content
         return state
     
-    def _update_chat_history(self, state: IntentAgentState):
-        """Update the chat history for the session"""
-        session_id = state["session_id"]
-        
-        if session_id not in self.sessions:
-            self.sessions[session_id] = {
-                "chat_history": []
-            }
-        
-        # Add the current exchange to history
-        self.sessions[session_id]["chat_history"].append({
-            "user": state["query"],
-            "assistant": state["final_response"],
-            "timestamp": datetime.now().isoformat()
-        })
-        
-        # Update state with full history
-        state["chat_history"] = self.sessions[session_id]["chat_history"]
-    
     def process_query(self, query: str, session_id: Optional[str] = None) -> Dict[str, Any]:
         """Process a user query through the intent agent pipeline"""
-        # Generate session ID if not provided
-        if not session_id:
-            session_id = str(uuid.uuid4())
-        
-        # Get chat history if available
+        # Get chat history from memory agent
         chat_history = []
-        if session_id in self.sessions:
-            chat_history = self.sessions[session_id]["chat_history"]
+        if self.memory_agent:
+            chat_history = self.memory_agent.get_chat_history(session_id)
         
         # Initialize state
         initial_state = IntentAgentState(
@@ -280,23 +201,25 @@ class IntentAgent:
             }
         )
         
-        # Process through the graph
+        # Process through the intent graph
         result = self.graph.invoke(initial_state)
         
-        # Prepare the response
-        response = {
-            "response": result["final_response"],
-            "session_id": session_id
-        }
+        # Forward to output agent for response aggregation
+        if self.output_agent:
+            final_result = self.output_agent.aggregate_responses(result)
+        else:
+            # Fallback if output agent not set
+            final_result = {
+                "response": "Output agent not configured",
+                "session_id": session_id
+            }
         
-        # Add sources if available (particularly from RAG agent)
-        if "document" in result.get("agent_responses", {}):
-            doc_response = result["agent_responses"]["document"]
-            if isinstance(doc_response, dict) and "sources" in doc_response:
-                response["sources"] = doc_response["sources"]
-        
-        # Include debug info if in development mode
-        if os.getenv("ENVIRONMENT") == "development":
-            response["debug_info"] = result["debug_info"]
+        # Update memory with the exchange
+        if self.memory_agent:
+            self.memory_agent.add_exchange(
+                session_id=session_id,
+                user_message=query,
+                assistant_message=final_result["response"]
+            )
             
-        return response
+        return final_result
