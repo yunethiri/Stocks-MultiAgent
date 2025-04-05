@@ -55,7 +55,7 @@ def process_data(data_path, collection_name):
         try:
             file_name = os.path.basename(file_path)
             
-            # check if file was already processed
+            #check if file was already processed
             search_results = client.scroll(
                 collection_name=collection_name,
                 scroll_filter=models.Filter(
@@ -220,9 +220,10 @@ def process_news_data(data_path, collection_name):
 
 if __name__ == "__main__":
     print("Starting data loading process...")
-    process_data("../data/aapl_10k_forms/apple_filings_text/*.txt", "aapl_10k_forms")
-    process_data("../data/earnings_calls/earnings_calls_txt/*.txt", "earnings_calls")
-    process_data("/data/financial_news/articles/*.txt", "financial_news")
+    process_data("data/aapl_10k_10Q_forms/apple_filings_text_10K/*.txt", "aapl_10k_10q_forms")
+    process_data("data/aapl_10k_10Q_forms/apple_filings_text_10Q/*.txt", "aapl_10k_10q_forms")
+    process_data("data/earnings_calls/earnings_calls_txt/*.txt", "earnings_calls")
+    process_news_data("data/financial_news/articles/*.txt", "financial_news")
     print("Data loading complete!")
 
 
