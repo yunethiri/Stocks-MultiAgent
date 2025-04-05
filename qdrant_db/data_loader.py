@@ -35,7 +35,7 @@ chunk_size = 3000
 client = QdrantClient("qdrant", port=6333)
 
 # process data
-def process_data(data_path, collection_name):
+def process_data(data_path, collection_name, check_files = False):
     # create collection if it doesn't exist
     try:
         client.get_collection(collection_name)
@@ -55,18 +55,19 @@ def process_data(data_path, collection_name):
         try:
             file_name = os.path.basename(file_path)
             
-            #check if file was already processed
-            search_results = client.scroll(
-                collection_name=collection_name,
-                scroll_filter=models.Filter(
-                    must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
-                ),
-                limit=1
-            )
-            
-            if search_results:
-                print(f"Skipping already processed file: {file_name}")
-                continue
+            if check_files:
+                #check if file was already processed
+                search_results = client.scroll(
+                    collection_name=collection_name,
+                    scroll_filter=models.Filter(
+                        must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
+                    ),
+                    limit=1
+                )
+                
+                if search_results:
+                    print(f"Skipping already processed file: {file_name}")
+                    continue
                 
             with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read()
@@ -119,7 +120,7 @@ SUMMARY_PATTERN = re.compile(r"^summary:\s*(.*)", re.MULTILINE)
 DATE_PATTERN = re.compile(r"^publishDate:\s*(.+)", re.MULTILINE)
 CONTENT_PATTERN = re.compile(r"^content:\s*(.+)", re.MULTILINE)
 
-def process_news_data(data_path, collection_name):
+def process_news_data(data_path, collection_name, check_files = False):
     # create collection if it doesn't exist
     try:
         client.get_collection(collection_name)
@@ -139,18 +140,19 @@ def process_news_data(data_path, collection_name):
         try:
             file_name = os.path.basename(file_path)
             
-            # check if file was already processed
-            search_results = client.scroll(
-                collection_name=collection_name,
-                scroll_filter=models.Filter(
-                    must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
-                ),
-                limit=1
-            )
-            
-            if search_results:
-                print(f"Skipping already processed file: {file_name}")
-                continue
+            if check_files:
+                # check if file was already processed
+                search_results = client.scroll(
+                    collection_name=collection_name,
+                    scroll_filter=models.Filter(
+                        must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
+                    ),
+                    limit=1
+                )
+                
+                if search_results:
+                    print(f"Skipping already processed file: {file_name}")
+                    continue
                 
             with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read()
@@ -220,10 +222,10 @@ def process_news_data(data_path, collection_name):
 
 if __name__ == "__main__":
     print("Starting data loading process...")
-    process_data("data/aapl_10k_10Q_forms/apple_filings_text_10K/*.txt", "aapl_10k_10q_forms")
-    process_data("data/aapl_10k_10Q_forms/apple_filings_text_10Q/*.txt", "aapl_10k_10q_forms")
-    process_data("data/earnings_calls/earnings_calls_txt/*.txt", "earnings_calls")
-    process_news_data("data/financial_news/articles/*.txt", "financial_news")
+    process_data(data_path="/data/aapl_10k_10Q_forms/apple_filings_text_10K/*.txt", collection_name="aapl_10k_10q_forms", check_files=False)
+    process_data(data_path="/data/aapl_10k_10Q_forms/apple_filings_text_10Q/*.txt", collection_name="aapl_10k_10q_forms", check_files=False)
+    process_data(data_path="/data/earnings_calls/earnings_calls_txt/*.txt", collection_name="earnings_calls", check_files=False)
+    process_news_data(data_path="/data/financial_news/articles/*.txt", collection_name="financial_news", check_files=False)
     print("Data loading complete!")
 
 
