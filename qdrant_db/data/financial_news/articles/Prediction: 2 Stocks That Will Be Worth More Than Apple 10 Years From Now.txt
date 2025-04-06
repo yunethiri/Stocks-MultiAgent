@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/prediction-2-stocks-worth-more-144100348.html
+
+source: finance.yahoo.com
+
+title: Prediction: 2 Stocks That Will Be Worth More Than Apple 10 Years From Now
+
+summary: 
+
+publishDate: 2024-11-27T14:41:00.000Z
+
+content: iPhone maker Apple (NASDAQ: AAPL) has been one of the world's most valuable stocks for a long time.
+
+It rose above several oil giants to the top spot in 2011 and hasn't dropped out of the Top 3 since then. Apple isn't always the top dog, occasionally passed by fellow tech giants like Nvidia (NASDAQ: NVDA) or Microsoft (NASDAQ: MSFT) for a while, but it never strays far from the top spot. And it's back on the throne as of this writing with a $3.54 trillion market cap on November 25.
+
+Start Your Mornings Smarter! Wake up with Breakfast news in your inbox every market day. Sign Up For Free »
+
+I'm not saying that the iPhone will go out of style and send Apple's stock tumbling down the rankings over the next decade. However, I could definitely imagine a couple of currently smaller names becoming more valuable than Cupertino's finest in 10 years or so. Read on to see why I expect Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Amazon (NASDAQ: AMZN) to wrest away Apple's market cap crown over time.
+
+Why Apple might lose its market crown
+
+First of all, I have to assume that Apple's record-setting stock gains will slow down in the coming years. Otherwise, Amazon and Alphabet would have a hard time catching up. They are starting several steps behind the current leader, after all:
+
+Tech Giant Market Cap 5-year Market Cap Change Apple $3.54 trillion 203% Amazon $2.10 trillion 145% Alphabet $2.03 trillion 130%
+
+Data found on YCharts and Finviz, 11/25/24.
+
+Apple didn't find its leading market position in a cereal box. Despite faltering sales of iPhones and iPads, the company maintained a solid foundation of hardware sales paired with soaring software and service revenues in recent years. This trio has stayed fairly close since 2020, but Apple always seems to find a way back up.
+
+My mildly bearish thesis is that Apple is running out of truly innovative ideas. I know, you've heard it all before -- iPads are just larger iPhones without a phone service, the lucrative Apple ecosystem is bad for the customer, high prices don't always reflect superior products, and so on. Apple bears have been saying this stuff for years, but guess who's still the most valuable company in the world?
+
+Still, Apple has seen more misses than home runs lately. The Apple Vision Pro virtual reality headset never found a market and is reportedly being discontinued after less than a year. The latest round of product introductions essentially featured slightly faster iPhones, MacBooks, and iPads with more memory. Only time will tell whether the highly touted Apple Intelligence set of artificial intelligence (AI) features will make a difference. Either way, Apple didn't lead the charge into the generative AI era.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9985378980636597
+

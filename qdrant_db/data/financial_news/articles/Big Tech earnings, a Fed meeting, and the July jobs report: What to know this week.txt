@@ -1,0 +1,100 @@
+link: https://finance.yahoo.com/news/big-tech-earnings-a-fed-meeting-and-the-july-jobs-report-what-to-know-this-week-113019417.html
+
+source: finance.yahoo.com
+
+title: Big Tech earnings, a Fed meeting, and the July jobs report: What to know this week
+
+summary: 
+
+publishDate: 2024-07-28T11:30:19.000Z
+
+content: The stock market rally is in its most fragile state in months ahead of Wall Street's busiest week of the summer.
+
+The S&P 500 (GSPC) and Nasdaq Composite (^IXIC) recently had their worst single-day drops since 2022 as the indexes struggled to recover losses during a Friday rally. All three major averages closed the final full week of July lower. The S&P 500 was down more than 1%, while the Nasdaq fell over 2.3%. Meanwhile, the Dow Jones Industrial Average (DJI) rose about 0.6%.
+
+In the week ahead, a Federal Reserve meeting, the July jobs report, and earnings from Big Tech stalwarts Apple (AAPL), Amazon (AMZN), Microsoft (MSFT), and Meta (META) will drive the direction of markets to kick off August.
+
+Updates on job openings, activity in the services and manufacturing sectors, and consumer confidence are also on the calendar.
+
+A busy week of corporate earnings awaits, with 171 members of the S&P 500 expected to report quarterly results. AMD (AMD), Arm (ARM), Boeing (BA), McDonald's (MCD), and Starbucks (SBUX) will be among the companies highlighting the schedule.
+
+A September 'signal'
+
+The Fed will announce its latest monetary policy decision next Wednesday. Markets largely expect the central bank to hold rates steady at its July meeting.
+
+Recent updates in the economy have investors eyeing when the Fed's first cut will come though. In June, the core Personal Consumption Expenditures (PCE) index, which strips out the cost of food and energy and is closely watched by the Federal Reserve, rose 2.6% over the prior year, its lowest annual increase in more than three years. Separate data for the month showed a significant decrease in another inflation metric, the Consumer Price Index (CPI).
+
+Meanwhile, the labor market has shown signs of cooling. The ratio of job openings to unemployed workers is back at pre-pandemic levels, and last month, the unemployment rate hit its highest level since November 2021.
+
+This has prompted markets to price in the Fed's first cut in September, and investors will be keenly listening to Jerome Powell's press conference on Wednesday for any confirmation.
+
+"The overall tone from the meeting, including from Chair Powell's press conference, should signal that a rate cut in September is a reasonable baseline without pre-committing to this action," Deutsche Bank chief US economist Matthew Luzzetti wrote in a note to clients.
+
+Federal Reserve Chair Jerome Powell departs after holding a press conference following a two-day meeting of the Federal Open Market Committee on interest rate policy in Washington, U.S., May 1, 2024. (REUTERS/Kevin Lamarque) (REUTERS / Reuters)
+
+Labor market look
+
+Friday will bring a fresh look at monthly job additions as economists continue to debate whether recent cooling in the labor market represents normalization or more significant deterioration.
+
+Story continues
+
+The July jobs report is expected to show 175,000 nonfarm payroll jobs were added to the US economy, with unemployment holding steady at 4.1%, according to data from Bloomberg. In June, the US economy added 206,000 jobs while the unemployment rate rose to 4.1%.
+
+"The 180K increase to payrolls we expect in July would still be a respectable gain, but would underscore that, directionally, the jobs market is deteriorating," Wells Fargo's economics team led by Jay Bryson wrote in a weekly note to clients. "By a range of measures, including the unemployment rate, quit rate, level of temporary help workers and small business hiring plans, the labor market is not only softer than a year or two ago, but weaker compared to its pre-pandemic state."
+
+Given this backdrop, whether unemployment holds steady or ticks up as it has for the past three months will be in particular focus.
+
+Big Tech on deck
+
+The stock market's recent slump has included a big sell-off in tech.
+
+Since July 10, Roundhill's Magnificent Seven ETF (MAGS) — which tracks Nvidia (NVDA), Apple (AAPL), Alphabet (GOOGL, GOOG), Amazon (AMZN), Meta (META), Microsoft (MSFT), and Tesla (TSLA) — has dropped about 12%.
+
+Truist co-chief investment officer Keith Lerner recently told Yahoo Finance the pullback has made sense given the runup in Big Tech stocks over the past year and how overstretched positioning in many of the large tech stocks had become. This, combined with investors rotating into less-loved areas of the market rally that could benefit from the Fed cutting interest rates, has become the hallmark of the market action over the past two weeks.
+
+Earnings from four of the Magnificent Seven tech stocks — Amazon, Meta, Microsoft, and Apple — could change that. But as the sell-off after Alphabet and Tesla earnings showed in the prior week, it's been a tough season to impress investors with earnings.
+
+"When we look at the earnings that we've seen over the last week, I don't think the earnings are bad," Lerner said. "I don't think the businesses, the fundamental business trends, are bad, but I just think that they were not good enough relative to these really high [expectations]."
+
+And, to Lerner's point, stocks that miss on Wall Street estimates for earnings, revenue, or both are seeing significantly worse price reactions in the next trading day than typically seen over the past five years, according to research from Evercore ISI's Julian Emanuel.
+
+For now, Emanuel wrote in a note to clients, "earnings remain a catalyst for volatility, not higher S&P 500 prices."
+
+Weekly Calendar
+
+Monday
+
+Economic data: Dallas Fed manufacturing activity, July (-14.2 expected, -15.1 prior)
+
+Earnings: McDonald's (MCD), Philips (PHG), Tilray (TLRY)
+
+Tuesday
+
+Economic data: S&P CoreLogic 20-city year-over-year NSA, May (7.2% prior); Conference Board consumer confidence, July (99.7 expected, 100.4 prior) JOLTS job openings, June (8.14 million prior); Dallas Fed services activity, (-4.1 prior)
+
+Earnings: Microsoft (MSFT), Advanced Micro Devices (AMD), BP (BP), Caesars Entertainment (CZR), Electronic Arts (EA), First Solar (FSLR), JetBlue (JBLU), Marathon Petroleum Corporation (MPC), Merck (MRK), Pinterest (PINS), Pfizer (PFE), Procter & Gamble (PG), Starbucks (SBUX), SoFi (SOFI)
+
+Wednesday
+
+Economic data: MBA Mortgage Applications, week ended July 26 (-2.2% prior); ADP private payrolls, July (+168,000 expected, +150,000 prior); Minnesota Chicago PMI, July (44.0 expected, 47.4 prior); Employment cost index, second quarter (1.0% expected, 1.2% prior); Federal Reserve monetary policy decision (no interest rate change expected)
+
+Earnings: Meta (META), Altria (MO), Arm (ARM), Boeing (BA), Carvana (CVNA), Generac (GNRC), Humana (HUM), The Kraft Heinz Company (KHC), Mastercard (MA), Norwegian Cruise Lines (NCLH), Paycom (PAYC), Qualcomm (QCOM)
+
+Thursday
+
+Economic data: Challenger jobs cuts, year-over-year, July, (+19.8% prior); Unit labor costs, second quarter (+4% prior); Nonfarm productivity, fourth quarter (+1.6% expected, +5.2% prior); Initial jobless claims, week ending July 27 (235,000 prior); S&P Global US manufacturing PMI, July final (49.5 prior); Construction spending, month-over-month, July (+0.2% expected, -0.1% prior); ISM manufacturing, July (49 expected, 48.5 prior); ISM prices paid, July (52.1 prior)
+
+Earnings: Apple (AAPL), Amazon (AMZN), Block (SQ), Booking Holdings (BKNG), Canada Goose (GOOS), Coinbase (COIN), ConocoPhillips (COP), Crocs (CROX), DraftKings (DKNG), Marathon Digital Holdings (MARA), Mobileye (MBLY), Moderna (MRNA), Roku (ROKU) SiriusXM (SIRI), Wayfair (W)
+
+Friday
+
+Economic calendar: Nonfarm payrolls, July (+175,000 expected, +206,000 prior); Unemployment rate, January (4.1% expected, 4.1% previously); Average hourly earnings, month-over-month, July (+0.3% expected, +0.3% prior); Average hourly earnings, year-over-year, July (+3.7% expected, +3.9% prior); Average weekly hours worked, July (34.4 expected, 34.3 prior); Labor force participation rate, July (62.6% previously); Factory orders, June (+0.5% expected, -0.5% prior); Durable goods orders, June final (-6.6% prior)
+
+Earnings: Chevron (CVX), Exxon Mobil (XOM)
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9990641474723816
+

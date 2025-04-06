@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/39-5-warren-buffetts-300-095600544.html
+
+source: finance.yahoo.com
+
+title: 39.5% of Warren Buffett's $300.5 Billion Berkshire Hathaway Portfolio Is Invested in These 2 S&P 500 Dividend Stocks
+
+summary: 
+
+publishDate: 2024-12-13T09:56:00.000Z
+
+content: Under the leadership of CEO Warren Buffett, Berkshire Hathaway has become one of history's most successful businesses. The investment conglomerate has a market capitalization of more than $1 trillion, and it currently ranks as the world's 10th most valuable company.
+
+In addition to its collection of partly and fully owned private subsidiaries, Buffett's company owns a portfolio of publicly traded stocks that's currently worth $300.5 billion. Investors who dive into the breakdown of Berkshire's portfolio may notice that the portfolio is actually heavily concentrated around a relatively small number of holdings. Those who dig a bit deeper might also notice that each of Berkshire's 10 largest stock holdings pays a dividend.
+
+So while Berkshire itself doesn't pay a dividend, it's clear that Buffett's company prefers high-quality businesses that can reliably return cash to shareholders through direct payments. Read on for a look at two S&P 500 stocks that account for 39.5% of the investment conglomerate's stock portfolio.
+
+The dividend is small, but this stock is still Buffett's biggest bet
+
+Keith Noonan: With a market cap of roughly $3.67 trillion, Apple (NASDAQ: AAPL) stands as the world's most valuable company. It didn't reach that position by accident. The tech giant has frequently ranked as the world's most profitable business over the last decade, and impressive earnings growth has translated to stellar performance for the company and its stock.
+
+The company's iPhone line is at the center of Apple's profit-generating machine, and its hardware typically accounts for the majority of overall global smartphone sales revenue, despite many other players operating in the space. The iPhone's stellar brand strength and loyal user base allow Apple to command average selling prices that far surpass the competition, and the company captures the large majority of global smartphone operating profits. In addition to dominating the mobile space, Apple sees strong performance from software and services, wearables, and other categories.
+
+Berkshire Hathaway first invested in Apple stock in the first quarter of 2016. The Oracle of Omaha's company dramatically increased its investments in the tech leader as profits continued to soar. Despite it sporting a relatively small dividend yield, Berkshire's heavy investment in the stock meant that Apple has been one of its biggest generators of dividend income over the last decade.
+
+Even as Berkshire has made some significant shifts in its portfolio composition, Apple continues to account for 24.2% of the investment conglomerate's total stock holdings. While the stock pays an annual dividend of $1 per share and only yields roughly 0.4% at today's prices, Berkshire's holdings of 300 million shares mean that it would be on track to generate $300 million in dividend income over the next year if it maintained its Apple position at current levels. But recent moves from Buffett's company suggest that its dividend proceeds on the stock could wind up being lower.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999997615814209
+

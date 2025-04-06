@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/the-ai-stock-trade-is-starting-to-shift-beyond-the-magnificent-7-151133023.html
+
+source: finance.yahoo.com
+
+title: The AI stock trade is starting to shift beyond the 'Magnificent 7'
+
+summary: 
+
+publishDate: 2024-12-27T15:11:33.000Z
+
+content: Investor enthusiasm surrounding artificial intelligence has once again driven the "Magnificent Seven" tech stocks to another banner year, with Tesla (TSLA), Meta (META), Amazon (AMZN), Alphabet (GOOG, GOOGL), and Apple (AAPL) stocks all recently hitting record highs, while Nvidia (NVDA) shares boast a more than 175% gain this year.
+
+Next year, investors expect the hype to spread even further into areas like utilities and software stocks, which will continue to benefit from Big Tech's large AI bet. Goldman Sachs chief US equity strategist David Kostin projects the S&P 500 (^GSPC) will reach 6,500 by the end of 2025 and that the rest of the market's gains will come closer to those of large-cap tech stocks.
+
+"It's less about valuation but more about earnings growth that will dictate those returns," Kostin said during a Goldman Sachs 2025 media roundtable with reporters. "The narrowing of the differential between the growth rates is likely to lead to a narrowing of [difference in] the performance."
+
+The rapid earnings growth seen in large caps over the past 18 months is expected to slow, while earnings are expected to pick up for the other 493 stocks in the S&P 500.
+
+BofA's equity strategy team, led by Savita Subramanian, issued a 6,666 year-end target for the S&P 500 in 2025 that includes a call for a broadening of earnings driven in part by AI.
+
+"AI is definitely playing a role in 2025 earnings," Subramanian told Yahoo Finance. "And in fact, one of the reasons that we're bullish on the broadening out of earnings is the idea that instead of everybody spending on tech capex, tech capex is actually picking up, and tech companies are sort of spending on a broader array of industries."
+
+The Nvidia logo is seen on the exterior of an office building on Nov. 30, 2024, in Shenzhen, Guangdong Province, China. (Cheng Xin/Getty Images) · Cheng Xin via Getty Images
+
+To Subramanian's point, Microsoft (MSFT), Amazon, Alphabet, and Meta alone are expected to have increased capital expenditures by 42% in 2024 and another 17% in 2025, pushing their total spend next year to $244 billion. Not all of this spending is on AI chips. Tech companies are also ramping up spending to pay for the power required to run AI data centers.
+
+During a 2025 outlook roundtable with reporters, BlackRock's Investment Institute pointed out that the power required to operate one data center is about equal to the average amount of power used in a day by all of New York City. This has strategists, including BofA's Subramanian, bullish on the companies exposed to that part of the technology buildout, including the Utilities sector (XLU), which is already up more than 20% in 2024, partially driven by AI optimism.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9954462647438049
+

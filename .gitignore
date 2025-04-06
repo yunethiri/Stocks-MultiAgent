@@ -4,4 +4,3 @@ __pycache__/*
 .env
 myenv/
 qdrant_db/qdrant_data/*
-qdrant_db/data/*

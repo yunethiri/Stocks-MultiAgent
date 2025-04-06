@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-tops-20000-for-first-time-as-big-tech-surge-leads-stocks-higher-173206052.html
+
+source: finance.yahoo.com
+
+title: Stock market today: Nasdaq tops 20,000 for first time as Big Tech surge leads stocks higher
+
+summary: 
+
+publishDate: 2024-12-11T17:32:06.000Z
+
+content: US stocks rallied on Wednesday, led by Big Tech, as investors digested another month of sticky inflation data that met economists' expectations and likely pointed to a Federal Reserve interest rate cut next week.
+
+The tech-heavy Nasdaq Composite (^IXIC) jumped about 1.7% amid a feverish rally in the "Magnificent Seven" tech stocks. Google parent Alphabet's (GOOG, GOOGL) shares extended gains to hit a record high, up as much as 4.6%. Meanwhile Tesla (TSLA), Meta (META), Amazon (AMZN) and Apple (AAPL) all also surged to record highs.
+
+The S&P 500 (^GSPC) rose around 0.8%, while the Dow Jones Industrial Average (^DJI) hugged the after initially opening the day higher.
+
+Meanwhile, bitcoin (BTC-USD) prices soared to trade above $100,600 a token in afternoon trade.
+
+Fresh inflation data out on Wednesday showed consumer prices rose as forecast in November, keeping the Federal Reserve on track to lower interest rates again in December.
+
+The latest data from the Bureau of Labor Statistics showed that the Consumer Price Index (CPI) increased 2.7% over the prior year in November, a slight uptick from October's 2.6% annual gain in prices. The yearly increase matched economist expectations.
+
+On a "core" basis, which strips out the more volatile costs of food and gas, prices in November climbed 0.3% over the prior month, matching October, and posted an annual rate of 3.3% for the fourth consecutive month.
+
+• USD (^DJI) View Quote Details
+
+Earlier on Wednesday, a report that China is considering devaluing its currency sent ripples through global stock markets and boosted the dollar (DX=F). The potential move is seen as a response to higher tariffs promised by President-elect Donald Trump, as a weaker yuan (CNHUSD=X) could make Chinese exports cheaper.
+
+On the corporate front, Macy's (M) stock somewhat recovered from double-digit losses earlier in the session after the department store chain lowered its full-year profit guidance. The retailer released its third-quarter results after delaying the report while it investigated an employee hiding up to $154 million in expenses.
+
+LIVE
+
+8 updates
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999995231628418
+
