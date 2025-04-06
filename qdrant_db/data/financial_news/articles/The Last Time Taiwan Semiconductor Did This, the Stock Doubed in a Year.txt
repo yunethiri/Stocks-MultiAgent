@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/last-time-taiwan-semiconductor-did-121500501.html
+
+source: finance.yahoo.com
+
+title: The Last Time Taiwan Semiconductor Did This, the Stock Doubed in a Year
+
+summary: 
+
+publishDate: 2024-12-28T12:15:00.000Z
+
+content: While a company's past performance is no guarantee of its future results, history is one of the few reasonable things we can use to guide our predictions. Particularly for cyclical companies, it can be a pretty good indicator of what's to come. I'm seeing a situation that looks extremely promising for Taiwan Semiconductor Manufacturing (NYSE: TSM) as its setup is similar to the scenario it saw in 2020.
+
+The last time Taiwan Semi had a setup similar to its current one, the stock doubled in the year that followed. So could it repeat that performance in 2025?
+
+A revenue tailwind is emerging
+
+Taiwan Semiconductor is the world's largest third-party chip manufacturer. It contracts out its chipmaking capacities to clients like Nvidia (NASDAQ: NVDA) and Apple (NASDAQ: AAPL), meaning a significant chunk of the world's most powerful devices contain chips originating from TSMC's foundries.
+
+Taiwan Semi also has the ability to produce chips using the most advanced process currently available -- the 3nm process node. Node sizes used to refer to the smallest distance in nanometers between specific features on a chip; while they don't anymore, each successive reduction in node size represents a meaningful improvement in the density and processing power of the chips it produces.
+
+The 3nm node packs a lot of processing power, but Taiwan Semi is already working on a 2nm process, and expects to start using it to make chips for its clients in late 2025. All of this is reminiscent of how the company looked as it entered 2020.
+
+Back then, Taiwan Semiconductor was just launching its 5nm chips, which were an improvement from its previous best 7nm chips. Additionally, a huge wave of chip demand was about to hit TSMC (although it didn't know it) when COVID-19 shut down the world, driving many people to upgrade their computers and other digital devices so that they could more effectively work, and learn remotely, and make use of video chat services to stay in touch with those outside their home.
+
+As we enter 2025, there is massive demand for AI chips, and TSMC will roll out 2nm chips later this year. Back in Q3 2023, management forecast that sales of AI chips would grow at a compound annual rate of 50% over the following five years, and predicted that at the end of that period, they would account for a percentage of its revenue in the low teens.
+
+However, that growth has so far been even faster than management expected. AI revenue is projected to triple in 2024, and make up a mid-teens percentage of revenue. Management indicated there were no signs of that growth slowing down heading into 2025, so the types of secular trends that prevailed in 2020 should also be apparent in 2025.
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9853159785270691
+
