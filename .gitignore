@@ -6,3 +6,4 @@ myenv/
 qdrant_db/qdrant_data/*
 qdrant_db/data/*
 .streamlit/secrets.toml
+secrets.toml
