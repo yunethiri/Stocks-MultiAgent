@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-from api import get_stock_data
+#from api import get_stock_data
 from openai import OpenAI
 
 openai_api_key = st.secrets["openai_api_key"]  # Use OpenAI API key
@@ -18,10 +18,10 @@ DEFAULT_SYMBOL = "AAPL"
 EXAMPLE_PROMPTS = [
     "What is your role?",
     "Give me an overview of the stock",
-    "What is the highest Close rate?",
-    "What are the key technical indicators suggesting?",
-    "What is the lowest Open rate?",
-    "Show me support and resistance levels"
+    "Give me an overview of Apple's 10K Report for 2024",
+    "What is the sentiment of the stock in financial news in Q4 2024?",
+    "What is the overall sentiment of the stock in 2024?",
+    "What are the key points in Apple's Earnings Calls in Q4 2024 regarding the stock?",
 ]
 
 
@@ -253,7 +253,7 @@ def main():
 
 
     try:
-        df = pd.read_csv('frontend/AAPL_2024_stock_data.csv')
+        df = pd.read_csv('AAPL_2024_stock_data.csv')
         df['date'] = pd.to_datetime(df['date'])
         df = df.sort_values('date', ascending=True)
         df.set_index('date', inplace=True)
