@@ -12,7 +12,6 @@ from langgraph.checkpoint import JsonCheckpoint
 
 load_dotenv()
 
-
 class RAGAgentState(BaseModel):
     """Represents the state of our financial RAG agent."""
 
@@ -67,18 +66,7 @@ class RAGAgent:
             "aapl_10k_10q_forms",
         ]
 
-        # Initialise memory and output agents
-        self.memory_agent = None
-        self.output_agent = None
         self.graph = self._build_graph()
-
-    def set_memory_agent(self, memory_agent):
-        """Set the memory agent"""
-        self.memory_agent = memory_agent
-
-    def set_output_agent(self, output_agent):
-        """Set the output agent"""
-        self.output_agent = output_agent
 
     def build_graph(self):
         """Build the LangGraph workflow for the financial RAG agent."""
