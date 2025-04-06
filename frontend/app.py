@@ -5,9 +5,10 @@ import pandas as pd
 import plotly.graph_objects as go
 
 from api import get_stock_data
-import openai
 from openai import OpenAI
 
+openai_api_key = st.secrets["openai_api_key"]  # Use OpenAI API key
+client = OpenAI(api_key = openai_api_key)
 
 # constants
 STOCK_SYMBOLS = [
@@ -57,7 +58,7 @@ def create_candlestick_chart(df: pd.DataFrame, symbol: str) -> go.Figure:
 
     if not df.empty:
         fig.add_trace(go.Candlestick(
-            x=df.index,
+            x=df.index,    #xaxis
             open=df['Open'],
             high=df['High'],
             low=df['Low'],
@@ -71,6 +72,12 @@ def create_candlestick_chart(df: pd.DataFrame, symbol: str) -> go.Figure:
         xaxis_title="Date",
         xaxis_rangeslider_visible=False,
         height=500
+    )
+
+    fig.update_xaxes(
+        dtick="M1",           # Tick every month
+        tick0="2024-01-02",
+        tickformat="%b %Y"    # Format ticks as "Jan 2024", "Feb 2024", etc.
     )
 
     return fig
@@ -115,38 +122,38 @@ def display_example_prompts() -> None:
                 st.session_state.pending_prompt = prompt
 
 
-def handle_stock_selection() -> None:
-    """Handle stock symbol selection in sidebar and sidebar information is displayed."""
-    with st.sidebar:
-        st.header("Settings")
-        new_symbol = st.selectbox(
-            "Select Stock Symbol:",
-            options=STOCK_SYMBOLS,
-            index=STOCK_SYMBOLS.index(st.session_state.current_symbol)
-        )
+# def handle_stock_selection() -> None:
+#     """Handle stock symbol selection in sidebar and sidebar information is displayed."""
+#     with st.sidebar:
+#         st.header("Settings")
+#         new_symbol = st.selectbox(
+#             "Select Stock Symbol:",
+#             options=STOCK_SYMBOLS,
+#             index=STOCK_SYMBOLS.index(st.session_state.current_symbol)
+#         )
 
-        st.subheader("How to use:")
-        st.write("1. Select a stock symbol from the dropdown")
-        st.write("2. Type a question about the stock in the input box")
-        st.write("3. Press Enter to get the answer from the chatbot")
+#         st.subheader("How to use:")
+#         st.write("1. Select a stock symbol from the dropdown")
+#         st.write("2. Type a question about the stock in the input box")
+#         st.write("3. Press Enter to get the answer from the chatbot")
 
-        st.subheader("About:")
-        st.write("This app uses OpenAI's chat model to analyse stock data.")
-        st.write(
-            "The chatbot is limited to a maximum of 5 days of data.") #to be changed 
-        st.write("API pulls the last 5 months of data.")
+#         st.subheader("About:")
+#         st.write("This app uses OpenAI's chat model to analyse stock data.")
+#         st.write(
+#             "The chatbot is limited to a maximum of 5 days of data.") #to be changed 
+#         st.write("API pulls the last 5 months of data.")
 
-        if new_symbol != st.session_state.current_symbol:
-            st.session_state.current_symbol = new_symbol
-            st.session_state.messages = []
-            try:
-                st.session_state.stock_data = get_stock_data(
-                    st.secrets["stock_api_key"],
-                    new_symbol
-                )
-            except Exception as e:
-                st.error(f"Failed to load data: {str(e)}")
-            st.rerun()
+#         if new_symbol != st.session_state.current_symbol:
+#             st.session_state.current_symbol = new_symbol
+#             st.session_state.messages = []
+#             try:
+#                 st.session_state.stock_data = get_stock_data(
+#                     st.secrets["stock_api_key"],
+#                     new_symbol
+#                 )
+#             except Exception as e:
+#                 st.error(f"Failed to load data: {str(e)}")
+#             st.rerun()
 
 
 def process_prompt(prompt: str) -> None:
@@ -186,14 +193,14 @@ def generate_chat_response(prompt: str) -> str:
 
     try:
         # Call OpenAI's ChatCompletion endpoint
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",  # or "gpt-4", depending on the model you want to use
             messages=messages,
             max_tokens=1000  # Adjust max tokens as needed
         )
         
         # Extract and return the response from OpenAI API
-        return response['choices'][0]['message']['content']
+        return response.choices[0].message.content
 
     except Exception as e:
         st.error(f"Failed to generate response: {str(e)}")
@@ -226,53 +233,35 @@ def main():
     init_session_state()
 
     # page title
-    st.title("📈 Stock Analysis AI Chatbot")
+    st.title("Stock Analysis Chatbot")  ## to edit to make it more special 
+    with st.sidebar:
+        st.header("Settings")
+        new_symbol = st.selectbox(
+            "Select Stock Symbol:",
+            options=STOCK_SYMBOLS,
+            index=STOCK_SYMBOLS.index(st.session_state.current_symbol)
+        )
+
+        st.subheader("How to use:")
+        st.write("1. Select a stock symbol from the dropdown")
+        st.write("2. Type a question about the stock in the input box")
+        st.write("3. Press Enter to get the answer from the chatbot")
+
+        st.subheader("About:")
+        st.write("This app uses OpenAI's chat model to analyse stock data.")
+        st.write("API pulls 2024 data.")
+
 
     try:
-        # gets and cache stock data
-        use_example_data = st.sidebar.checkbox("Use Example Stock Data", 
-                                               help="Use pre-loaded example data if API limit is reached")
+        df = pd.read_csv('frontend/AAPL_2024_stock_data.csv')
+        df['date'] = pd.to_datetime(df['date'])
+        df = df.sort_values('date', ascending=True)
+        df.set_index('date', inplace=True)
 
-        if use_example_data:
-            try:
-                df = pd.read_csv('data/stock_data.csv')
-                df['date'] = pd.to_datetime(df['date'])
-                df = df.sort_values('date', ascending=True)
-                
-                # Display a warning that example data is being used
-                st.warning("Using example stock data from local CSV file.")
-                st.session_state.stock_data = df
-            except Exception as e:
-                st.error(f"Error loading example data: {e}")
-                return
-        else:
-            if st.session_state.stock_data.empty:
-                try:
-                    st.session_state.stock_data = get_stock_data(
-                        st.secrets["stock_api_key"],
-                        st.session_state.current_symbol
-                    )
-                except Exception as e:
-                    st.error("FMP API limit (250 requests per day) reached")
-                    use_example_data = st.sidebar.checkbox("Use Example Stock Data", 
-                                                           help="Use pre-loaded example data if API limit is reached")
-                    if use_example_data:
-                        try:
-                            df = pd.read_csv('data/stock_data.csv')
-                            df['date'] = pd.to_datetime(df['date'])
-                            df = df.sort_values('date', ascending=True)
-                            
-                            # Display a warning that example data is being used
-                            st.warning("Using example stock data from local CSV file.")
-                            st.session_state.stock_data = df
-                        except Exception as load_error:
-                            st.error(f"Error loading example data: {load_error}")
-                    return
+        st.session_state.stock_data = df
 
-        # sidebar 
-        handle_stock_selection()
-
-        # display stock data section
+        
+        # Display stock data section
         if not st.session_state.stock_data.empty:
             metrics = get_stock_metrics(st.session_state.stock_data)
             display_stock_metrics(metrics)
@@ -283,18 +272,18 @@ def main():
             )
             st.plotly_chart(fig, use_container_width=True)
         else:
-            st.warning("No stock data available for selected symbol.")
+            st.warning("No stock data available for the selected symbol.")
 
-        # here is the chat interface
+        # Chat interface
         st.subheader("Stock Analysis Chat")
-        st.write("Limited to the last 5 days of data.")
+        st.write("Displaying stock data for the full year 2024.")
         display_example_prompts()
         display_chat_messages()
         handle_chat_input()
-
+        """Handle stock symbol selection in sidebar and sidebar information is displayed."""
+   
     except Exception as e:
-        # logging.error(f"Application error: {str(e)}")
-        st.error("Try again tomorrow or use example data.")
+        st.error("Error: " + str(e))
 
 if __name__ == "__main__":
     main()
