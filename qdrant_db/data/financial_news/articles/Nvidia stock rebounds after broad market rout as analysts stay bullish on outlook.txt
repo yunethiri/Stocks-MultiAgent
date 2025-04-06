@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/nvidia-stock-rebounds-after-broad-market-rout-as-analysts-stay-bullish-on-outlook-133217997.html
+
+source: finance.yahoo.com
+
+title: Nvidia stock rebounds after broad market rout as analysts stay bullish on outlook
+
+summary: 
+
+publishDate: 2024-12-19T13:32:17.000Z
+
+content: Nvidia stock (NVDA) jumped as much as 2.7% early Thursday as Wall Street analysts reiterated their Buy ratings on the stock despite concerns about rising competition and the possibility that artificial intelligence chip demand could wane.
+
+Over the past few days, Wall Street analysts at Bernstein, TD Cowen, Morgan Stanley, and Truist have maintained bullish outlooks on the company.
+
+• USD (NVDA) View Quote Details
+
+“All relevant industry contacts support the dominance and superiority of NVDA's full technology stack,” Truist Securities’ William Stein wrote on Monday. He raised his price target on the stock to $204 from $169.
+
+Following the nods from Wall Street, Nvidia shares rallied as much as 4.8% Wednesday. But the stock later reversed direction, ending the day down roughly 1%, as stocks fell across the board following commentary from the Federal Reserve projecting fewer rate cuts and stickier inflation in 2025.
+
+Even with Thursday's early morning gain, Nvidia stock is still off roughly 11% from its record close of $148.88 in early November.
+
+Nvidia shares have fallen as investors worry its GPUs could lose share in the broader AI chip market given that its customers are developing their own custom chips. Google (GOOG) and Meta (META) have developed chips with Broadcom (AVGO). Microsoft (MSFT), Tesla (TSLA), and Amazon (AMZN) also make their own custom chips. Broadcom’s announcement that it’s developing chips for two more clients, who are believed to be ChatGPT-maker OpenAI and Apple (AAPL), boosted the chipmaker’s stock last week and sent Nvidia’s in the opposite direction.
+
+These custom chips, called ASICs (application-specific integrated circuits), could potentially threaten Nvidia’s GPUs, given that they are cheaper and tailored to a tech company’s specific AI needs. A Morgan Stanley report released on Dec. 15 showed that custom chips used to run cloud AI services could grow their share of the overall AI chip market from 11% in 2024 to 15% in 2030.
+
+Still, Morgan Stanley said, “history is certainly on Nvidia's side” when it comes to maintaining dominance of the AI chip market. “We think ASICs have continued to improve, but Nvidia's strong execution continues to raise the bar for its competitors."
+
+It's a point on Nvidia that Bank of America semiconductor analyst Vivek Arya reiterated Wednesday in an episode of the Opening Bid podcast (video above).
+
+Additionally, concerns loom that the Big Tech spending on AI chips that fueled Nvidia's rise could slow down. Commentary from Microsoft and Google in their most recent earnings reports indicated that their AI spending will grow at a slower pace in the future. And there are concerns that AI models are no longer improving at their previous breakneck pace, which could also put a damper on investment.
+
+Story Continues
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+

@@ -1,0 +1,30 @@
+link: https://finance.yahoo.com/news/third-point-sees-room-apple-141638561.html
+
+source: finance.yahoo.com
+
+title: Third Point sees room for Apple stock price to climb, letter says
+
+summary: 
+
+publishDate: 2024-08-23T14:16:38.000Z
+
+content: By Svea Herbst-Bayliss
+
+NEW YORK (Reuters) -Billionaire hedge fund manager Daniel Loeb sees room for Apple's (AAPL) stock price to climb, especially if the technology company successfully harnesses artificial intelligence for its iOS mobile operating system.
+
+"Despite the stock’s recent strong appreciation, we see room for significant upside ahead as the magnitude of this new AI opportunity surprises," Loeb wrote to his investors in a letter seen by Reuters on Friday. Third Point built a position in Apple in April, Loeb wrote.
+
+Loeb, whose firm oversees some $11 billion in assets, wrote that Apple was already one of the firm's top five winners during the second quarter when its TP Offshore Fund gained 1.8%. During the first half, the fund returned nearly 10%.
+
+Apple, Loeb wrote, had been "under-owned" by institutional investors who feared the company might become an "AI loser." But Third Point has a different view, noting "AI-related demand could drive a step change improvement in Apple's revenue and earnings over the next few years."
+
+Demand for newer iPhones will grow as Apple Intelligence features will not be backwards-compatible and Apple's App Store will likely be the primary distribution platform for new consumer-focused AI apps, the letter said.
+
+(Reporting by Svea Herbst-Bayliss; editing by Jonathan Oatis)
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9638453125953674
+

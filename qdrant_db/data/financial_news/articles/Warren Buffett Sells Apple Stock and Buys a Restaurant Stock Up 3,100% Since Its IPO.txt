@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/warren-buffett-sells-apple-stock-083000181.html
+
+source: finance.yahoo.com
+
+title: Warren Buffett Sells Apple Stock and Buys a Restaurant Stock Up 3,100% Since Its IPO
+
+summary: 
+
+publishDate: 2024-12-28T08:30:00.000Z
+
+content: Warren Buffett reportedly manages about 90% of Berkshire Hathaway's (NYSE: BRK.A) (NYSE: BRK.B) equity securities portfolio, while understudies Todd Combs and Ted Weschler handle the rest. The company does not disclose which investment manager makes each individual trade, but Buffett is almost certainly in charge of large positions like Apple (NASDAQ: AAPL).
+
+Despite once calling Apple the "best business" in the world, Buffett sold 100 million shares in the third quarter, cutting Berkshire's stake by 25%. And while Apple still ranked as the company's largest holding as of Sept. 30, Buffett has now sold more than 615 million shares in the last four quarters.
+
+Meanwhile, Berkshire started a very small position in Domino's Pizza (NYSE: DPZ) in the third quarter. That stock is up 3,100% since its initial public offering (IPO) in July 2004, but it has struggled more recently. Shares have fallen 21% in the last three years, despite the S&P 500 advancing 28% during that period.
+
+Here's what investors should know about Apple and Domino's.
+
+Apple: The stock Warren Buffett's Berkshire Hathaway sold in the third quarter
+
+Apple has built brand authority and pricing power through engineering expertise. Its lineup of consumer electronics products is built on proprietary software that creates a seamless user experience across devices, and consumers are willing to pay for that. The average iPhone price was 3 times higher than the average Samsung smartphone price during the third quarter.
+
+Apple has a strong presence in several consumer electronics markets, including a leadership position (as measured by sales) in smartphones. However, the company in recent years has expanded its focus beyond hardware. Adjacent services like App Store downloads, iCloud storage, and Apple Pay let the company more efficiently monetize its installed base that exceeds 2.2 billion active devices.
+
+Apple reported modest financial results in the fourth quarter of fiscal 2024, which ended in September 2024. Revenue increased 6% on double-digit sales growth in the services segment, and mid-single-digit sales growth in the Mac, iPad, and iPhone segments. Meanwhile, non-GAAP (adjusted) earnings increased 12% to $1.64 per diluted share.
+
+Apple is a solid business, but not even the best business is worth buying at any price. Apple's price-to-earnings (P/E) ratio has risen from 26 in April to 42 in December without a meaningful catalyst. Sure, it recently launched Apple intelligence, a suite of artificial intelligence capabilities for newer iPhones and MacBooks. But that has yet to trigger the upgrade cycle predicted by so many analysts.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998406171798706
+

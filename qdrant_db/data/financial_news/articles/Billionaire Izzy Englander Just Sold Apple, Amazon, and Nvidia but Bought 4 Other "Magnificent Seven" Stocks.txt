@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/billionaire-izzy-englander-just-sold-085200978.html
+
+source: finance.yahoo.com
+
+title: Billionaire Izzy Englander Just Sold Apple, Amazon, and Nvidia but Bought 4 Other "Magnificent Seven" Stocks
+
+summary: 
+
+publishDate: 2024-11-20T08:52:00.000Z
+
+content: All billionaires don't think alike. For example, Warren Buffett is buying only a few stocks for Berkshire Hathaway's portfolio but has built a massive cash stockpile for the conglomerate. Meanwhile, Millennium Management hedge fund manager Israel "Izzy" Englander continues to buy and sell stocks with gusto.
+
+Englander either added to or reduced Millennium's positions in many of its holdings in the third quarter of 2024. Some of his most notable trades involved buying and selling "Magnificent Seven" stocks.
+
+Are You Missing The Morning Scoop? Wake up with Breakfast news in your inbox every market day. Sign Up For Free »
+
+Not so magnificent?
+
+Buffett trimmed Berkshire's position in Apple (NASDAQ: AAPL) by 25% in Q3. Englander made an even more emphatic move, slashing Millennium's stake in the iPhone maker by a whopping 90.4%. However, the hedge fund didn't completely exit its position with Apple. It still owns 1.22 million shares worth around $285 million at the end of Q3.
+
+Englander hasn't explained publicly his rationale for selling most of his shares of Apple. Perhaps he decided to "buy the rumor, sell the news" with the company's launch of its new generative AI functionality. Notably, though, his hedge fund increased the number of call and put options that it owns for Apple.
+
+Millennium drastically reduced its position in Amazon (NASDAQ: AMZN) in Q3 as well. It sold 86.9% of its stake in the e-commerce and cloud services leader. This was perhaps a surprising move considering Amazon's marked improvement in profitability and free cash flow in recent quarters.
+
+Englander didn't take the axe as heavily to Millennium's stake in Nvidia (NASDAQ: NVDA). He sold 1.6 million shares of the chipmaker, reducing his fund's position by roughly 12.6%. Nvidia still ranked as his fourth-largest holding at the end of Q3, though.
+
+Why sell Nvidia? My hunch is that Englander was simply taking some profits off the table. However, he perhaps could have been concerned about the reported delays in Nvidia's shipments of new GPUs based on its powerful Blackwell architecture.
+
+Buying mode
+
+Englander loaded up on Microsoft (NASDAQ: MSFT) during Q3. He bought 1.56 million additional shares of the tech giant, boosting Millennium's stake by 51.4%. Microsoft ranked as the hedge fund's third-largest holding at the end of the quarter.
+
+He also added modestly to Millennium's position in Meta Platforms (NASDAQ: META) in Q3. The hedge fund owned 1.34 million shares at the end of the quarter, up 7.6% from three months earlier.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999839067459106
+
