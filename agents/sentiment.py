@@ -12,6 +12,7 @@ from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from langchain.output_parsers import PydanticOutputParser
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 
@@ -77,7 +78,7 @@ class SentimentAgent:
             Articles:
             {articles_data}
 
-            Identify 3-5 major events from these articles. For each event:
+            Identify major events from these articles. For each event:
             1. Provide a concise title for the event
             2. The date it occurred
             3. A brief description of the event
@@ -109,84 +110,81 @@ class SentimentAgent:
         self.article_sentiment_parser = PydanticOutputParser(pydantic_object=ArticleSentiment)
 
     def _extract_timeframe(self, query: str) -> Dict[str, Any]:
-        """Extract timeframe information from the query"""
+        """Extract timeframe from the query using LLM"""
 
-        min_date = datetime(2024, 1, 1)
-        max_date = datetime(2024, 12, 31)
-        today = min(datetime.now(), max_date)
-
-        # Default to last year (full 2024)
-        start_date = min_date
-        end_date = max_date
-        description = "full year 2024"
-
-        # Check for specific timeframes in the query
-        if "last year" in query.lower():
-            start_date = datetime(2024, 1, 1)
-            end_date = datetime(2024, 12, 31)
-            description = "last year"
-        elif "q1" in query.lower() or "Q1" in query.lower() or "first quarter" in query.lower():
-            start_date = datetime(2024, 1, 1)
-            end_date = datetime(2024, 3, 31)
-            description = "Q1 2024"
-        elif "q2" in query.lower() or "Q2" in query.lower() or "second quarter" in query.lower():
-            start_date = datetime(2024, 4, 1)
-            end_date = datetime(2024, 6, 30)
-            description = "Q2 2024"
-        elif "q3" in query.lower() or "Q3" in query.lower() or "third quarter" in query.lower():
-            start_date = datetime(2024, 7, 1)
-            end_date = datetime(2024, 9, 30)
-            description = "Q3 2024"
-        elif "q4" in query.lower() or "Q4" in query.lower() or "fourth quarter" in query.lower():
-            start_date = datetime(2024, 10, 1)
-            end_date = datetime(2024, 12, 31)
-            description = "Q4 2024"
-        elif "last month" in query.lower():
-            today = datetime(2025, 4, 8) # Setting a fixed 'today' for consistent testing
-            first_day_last_month = datetime(today.year, today.month - 1, 1)
-            last_day_last_month = datetime(today.year, today.month, 1) - timedelta(days=1)
-            if first_day_last_month.year == 2024:
-                start_date = first_day_last_month
-                end_date = last_day_last_month
-                description = last_day_last_month.strftime("%B %Y")
-            else:
-                return None # Indicate timeframe outside available data
-        elif "this month" in query.lower():
-            today = datetime(2025, 4, 8) # Setting a fixed 'today' for consistent testing
-            start_date = datetime(today.year, today.month, 1)
-            end_date = datetime(today.year, today.month + 1, 1) - timedelta(days=1)
-            if start_date.year == 2024 and end_date.year == 2024:
-                description = end_date.strftime("%B %Y")
-            else:
-                return None # Indicate timeframe outside available data
-        elif "last week" in query.lower():
-            today = datetime(2025, 4, 8) # Setting a fixed 'today' for consistent testing
-            start_date = today - timedelta(days=today.weekday() + 7)
-            end_date = start_date + timedelta(days=6)
-            if start_date.year == 2024 and end_date.year == 2024:
-                description = f"week of {start_date.strftime('%Y-%m-%d')}"
-            else:
-                return None # Indicate timeframe outside available data
-        elif "this week" in query.lower():
-            today = datetime(2025, 4, 8) # Setting a fixed 'today' for consistent testing
-            start_date = today - timedelta(days=today.weekday())
-            end_date = start_date + timedelta(days=6)
-            if start_date.year == 2024 and end_date.year == 2024:
-                description = f"week of {start_date.strftime('%Y-%m-%d')}"
-            else:
-                return None # Indicate timeframe outside available data
-        # Add more specific date range parsing if needed, ensuring they fall within 2024
-        else:
-            # If no specific valid timeframe is found, default to full year 2024
-            start_date = datetime(2024, 1, 1)
-            end_date = datetime(2024, 12, 31)
-            description = "full year 2024"
-
-        return {
-            "start_date": start_date,
-            "end_date": end_date,
-            "description": description
-        }
+        current_date = datetime.now().date()
+        
+        # Define the prompt for timeframe extraction
+        timeframe_prompt = PromptTemplate(
+            input_variables=["query", "current_date"],
+            template="""
+            You are a financial data assistant that extracts timeframe information from user queries.
+            
+            User query: {query}
+            
+            Today's date is {current_date}. Extract the timeframe mentioned in the query. The available data is ONLY for the year 2024.
+            If the query mentions a timeframe that's partially or fully outside of 2024:
+            1. If the timeframe is completely outside 2024, indicate that it's outside the available range in the description, return 'valid' field as false, and return start_date and end_date as None.
+            2. If the timeframe partially overlaps with 2024, adjust the timeframe to only include the portion within 2024, explain this adjustment in the description, and return 'valid' as true.
+            For example: If asked "data from one year ago to now" and today is March 1, 2025, then return the period within the valid timeframe which is from March 1, 2024 to December 31, 2024.
+            
+            For reference:
+            - Q1 2024: January 1, 2024 to March 31, 2024
+            - First Quarter of 2024: January 1, 2024 to March 31, 2024
+            - Q2 2024: April 1, 2024 to June 30, 2024
+            - Second Quarter of 2024: April 1, 2024 to June 30, 2024
+            - Q3 2024: July 1, 2024 to September 30, 2024
+            - Third Quarter of 2024: July 1, 2024 to September 30, 2024
+            - Q4 2024: October 1, 2024 to December 31, 2024
+            - Fourth Quarter of 2024: October 1, 2024 to December 31, 2024
+            - First Half of 2024: January 1, 2024 to June 30, 2024
+            - Second Half of 2024: July 1, 2024 to December 31, 2024
+            - Whole Year of 2024: January 1, 2024 to December 31, 2024
+            
+            Return a JSON object with these fields:
+            - valid: true if at least some portion of the timeframe is within 2024
+            - start_date: start date in YYYY-MM-DD format (if valid)
+            - end_date: end date in YYYY-MM-DD format (if valid)
+            - description: human-readable description of the timeframe, including any adjustments made to fit within available data
+            """
+        )
+        # Create and run the chain
+        timeframe_chain = LLMChain(llm=self.llm, prompt=timeframe_prompt)
+        result = timeframe_chain.run(query=query, current_date=current_date)
+        
+        try:
+            # Parse the JSON response
+            timeframe_data = json.loads(result)
+            
+            if not timeframe_data.get("valid", False):
+                return None  # Indicate timeframe outside available data
+            
+            # Convert string dates to datetime objects
+            start_date = datetime.strptime(timeframe_data["start_date"], "%Y-%m-%d")
+            end_date = datetime.strptime(timeframe_data["end_date"], "%Y-%m-%d")
+            description = timeframe_data["description"]
+            
+            # Validate that dates are within 2024
+            min_date = datetime(2024, 1, 1)
+            max_date = datetime(2024, 12, 31)
+            
+            if start_date <= min_date or end_date >= max_date:
+                return None  # Additional check for timeframe outside available data
+            
+            return {
+                "start_date": start_date,
+                "end_date": end_date,
+                "description": description
+            }
+            
+        except (json.JSONDecodeError, KeyError, ValueError) as e:
+            # If there's an error parsing the LLM response, fall back to default timeframe
+            print(f"Error parsing timeframe from LLM: {e}")
+            return {
+                "start_date": datetime(2024, 1, 1),
+                "end_date": datetime(2024, 12, 31),
+                "description": "full year 2024"
+            }
 
     def _retrieve_articles(self, start_date: datetime, end_date: datetime) -> List[Dict]:
         """Retrieve articles from Qdrant within the specified timeframe"""
@@ -216,7 +214,7 @@ class SentimentAgent:
             results, scroll_offset = self.qdrant.scroll(
                 collection_name=self.qdrant_collection_name,
                 scroll_filter=filter_query,
-                limit=100,
+                limit=None,
                 offset=scroll_offset,
                 with_payload=True
             )
