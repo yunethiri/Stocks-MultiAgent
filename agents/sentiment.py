@@ -33,6 +33,7 @@ class ArticleSentiment(BaseModel):
     sentiment_score: float = Field(description="Sentiment score of the article (-1 to 1)")
     confidence: float = Field(description="Confidence in the sentiment score (0 to 1)")
     summary: str
+    content: str
     url: Optional[str] = Field(default=None, description="URL of the article")
 
 class TimeframeSentiment(BaseModel):
@@ -83,9 +84,9 @@ class SentimentAgent:
         self.event_detection_template = PromptTemplate(
             input_variables=["articles_data"],
             template="""
-            You are an expert financial analyst. Based on the following news article summaries and their sentiment scores,
-            identify the major events that occurred during this timeframe. Focus on events that significantly impacted
-            the stock or company.
+            You are an expert financial analyst. 
+            The articles_data parameter contains a list of dictionaries (representing differet news articles) with the fields (ID, title, date, sentiment_score, summary, content).
+            Based on the following news article information, identify the major events that occurred during this timeframe. Focus on events with a significant impact on the financial market and has a clear sentiment impact, ignoring neutral events (sentiment score of around 0).
 
             Articles:
             {articles_data}
@@ -93,11 +94,12 @@ class SentimentAgent:
             Identify major events from these articles. For each event:
             1. Provide a concise title for the event
             2. The date it occurred
-            3. A brief description of the event
+            3. A brief description of the event and how it impacts the stock (based on content)
             4. The sentiment impact (positive, negative, or neutral)
-            5. Which articles mention this event (by ID)
+            5. The sentiment score of the article (if available)
+            6. Which articles mention this event (by ID)
 
-            Format your response as a JSON list of objects with keys: "title", "date", "description", "sentiment_impact", "article_ids"
+            Format your response as a JSON list of objects with keys: "title", "date", "description", "sentiment_impact", "sentiment_score", "article_ids"
             """
         )
 
@@ -243,19 +245,15 @@ class SentimentAgent:
         print(f"Retrieving articles between {start_date} and {end_date}")  # Print retrieval timeframe
 
         # Convert datetime.date objects to datetime.datetime objects at midnight (00:00:00)
-        start_datetime = datetime.combine(start_date, datetime.min.time())
-        end_datetime = datetime.combine(end_date, datetime.min.time())
-
-        # Convert datetime.datetime objects to UNIX timestamps
-        start_timestamp = int(start_datetime.timestamp())
-        end_timestamp = int(end_datetime.timestamp())
+        start_timestamp = start_date.isoformat()
+        end_timestamp = end_date.isoformat()
 
         # Construct the date filter for Qdrant using Range with UNIX timestamps
         date_filter = Filter(
             must=[
                 FieldCondition(
                     key="publish_date",
-                    range=Range(
+                    range=models.DatetimeRange(
                         gte=start_timestamp,
                         lte=end_timestamp,
                     )
@@ -280,8 +278,53 @@ class SentimentAgent:
         print(f"Found {len(articles_data)} articles within the timeframe.")  # Print number of found articles
         return articles_data
 
+    def _map_sentiment_string_to_weighted_score(self, sentiment_str: str) -> Optional[float]:
+        """Maps a sentiment string to a weighted numerical score."""
+        sentiment_lower = sentiment_str.lower()
+        if sentiment_lower == 'positive':
+            return 1.0
+        elif sentiment_lower == 'negative':
+            return -1.0
+        elif sentiment_lower == 'neutral':
+            return 0.0
+        # Add more mappings as needed for your data
+        return None
 
+    def _format_articles_for_event_detection(self, articles: List[ArticleSentiment]) -> str:
+        """Formats article data for the event detection prompt."""
+        formatted_articles = []
+        for article in articles:
+            sentiment_category = "neutral"
+            if article.sentiment_score > 0.2:
+                sentiment_category = "positive"
+            elif article.sentiment_score < -0.2:
+                sentiment_category = "negative"
+            formatted_articles.append(f"ID: {article.article_id}, Title: {article.title}, Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}, Summary: {article.summary}, Content: {article.content}")
+        return "\n".join(formatted_articles)
 
+    def _format_sentiment_data_for_trend_analysis(self, articles: List[ArticleSentiment]) -> str:
+        """Formats sentiment data for the trend analysis prompt."""
+        sentiment_data_list = [f"Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}" for article in articles]
+        return "\n".join(sentiment_data_list)
+
+    def _format_response(self, result: TimeframeSentiment) -> str:
+        """Formats the final response for the user."""
+        response = f"Sentiment analysis for {result.timeframe}:\n"
+        response += f"- Average Sentiment: {result.average_sentiment:.2f} (based on {result.article_count} articles)\n"
+        response += f"- Average Confidence: {result.average_confidence:.2f}\n"
+        response += f"- Sentiment Trend: {result.sentiment_trend}\n"
+        if result.major_events:
+            response += "\nMajor Events Identified:\n"
+            for event in result.major_events:
+                response += f"  - Title: {event['title']}\n"
+                response += f"    - Date: {event['date']}\n"
+                response += f"    - Description: {event['description']}\n"
+                response += f"    - Sentiment Impact: {event['sentiment_impact']}\n"
+                response += f"    - Articles: {event['article_ids']}\n"
+        else:
+            response += "\nNo major events identified during this timeframe.\n"
+        return response
+    
     def process_query(self, query: str) -> Dict[str, Any]:
         """Process a query about stock sentiment over a timeframe"""
         if not self.qdrant_collection_name:
@@ -322,7 +365,7 @@ class SentimentAgent:
 
         # Analyze sentiment of each article
         articles_sentiment: List[ArticleSentiment] = []
-        weighted_sentiment_sum = 0
+        sentiment_sum = 0
         total_confidence = 0
         valid_article_count = 0
 
@@ -332,6 +375,7 @@ class SentimentAgent:
             title = article["payload"].get("title", "Unknown Title")
             date_str = article["payload"].get("publish_date", "Unknown Date")
             summary = article["payload"].get("summary", "No summary available")
+            content = article["payload"].get("content", "No content available")
             url = article["payload"].get("url", None)
 
             sentiment_score = None
@@ -360,9 +404,13 @@ class SentimentAgent:
                         sentiment_score=sentiment_score,
                         confidence=confidence,
                         summary=summary,
+                        content=content,
                         url=url
                     )
                     articles_sentiment.append(article_sentiment)
+                    sentiment_sum += sentiment_score
+                    total_confidence += confidence
+                    valid_article_count += 1
                 except ValueError:
                     print(f"Warning: Could not create ArticleSentiment object for article {article['id']}")
 
@@ -370,7 +418,7 @@ class SentimentAgent:
         average_confidence = 0.0
 
         if valid_article_count > 0:
-            average_sentiment = weighted_sentiment_sum / total_confidence if total_confidence > 0 else 0.0
+            average_sentiment = sentiment_sum / total_confidence if total_confidence > 0 else 0.0
             average_confidence = total_confidence / valid_article_count
 
         result_articles = [{
@@ -380,6 +428,7 @@ class SentimentAgent:
             "sentiment_score": article.sentiment_score,
             "confidence": article.confidence,
             "summary": article.summary,
+            "content": article.content,
             "url": article.url
         } for article in articles_sentiment]
 
@@ -389,7 +438,9 @@ class SentimentAgent:
         # Detect major events
         major_events = self.event_detection_chain.run(articles_data=articles_for_event_detection)
         try:
+            print(major_events)
             major_events_list = json.loads(major_events)
+            
         except json.JSONDecodeError:
             major_events_list = [{"title": "Error parsing events", "date": None, "description": "Could not parse event data.", "sentiment_impact": "neutral", "article_ids": []}]
 
@@ -420,59 +471,12 @@ class SentimentAgent:
             "error": None
         }
 
-    def _map_sentiment_string_to_weighted_score(self, sentiment_str: str) -> Optional[float]:
-        """Maps a sentiment string to a weighted numerical score."""
-        sentiment_lower = sentiment_str.lower()
-        if sentiment_lower == 'positive':
-            return 1.0
-        elif sentiment_lower == 'negative':
-            return -1.0
-        elif sentiment_lower == 'neutral':
-            return 0.0
-        # Add more mappings as needed for your data
-        return None
-
-    def _format_articles_for_event_detection(self, articles: List[ArticleSentiment]) -> str:
-        """Formats article data for the event detection prompt."""
-        formatted_articles = []
-        for article in articles:
-            sentiment_category = "neutral"
-            if article.sentiment_score > 0.2:
-                sentiment_category = "positive"
-            elif article.sentiment_score < -0.2:
-                sentiment_category = "negative"
-            formatted_articles.append(f"ID: {article.article_id}, Title: {article.title}, Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}, Summary: {article.summary}")
-        return "\n".join(formatted_articles)
-
-    def _format_sentiment_data_for_trend_analysis(self, articles: List[ArticleSentiment]) -> str:
-        """Formats sentiment data for the trend analysis prompt."""
-        sentiment_data_list = [f"Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}" for article in articles]
-        return "\n".join(sentiment_data_list)
-
-    def _format_response(self, result: TimeframeSentiment) -> str:
-        """Formats the final response for the user."""
-        response = f"Sentiment analysis for {result.timeframe}:\n"
-        response += f"- Average Sentiment: {result.average_sentiment:.2f} (based on {result.article_count} articles)\n"
-        response += f"- Average Confidence: {result.average_confidence:.2f}\n"
-        response += f"- Sentiment Trend: {result.sentiment_trend}\n"
-        if result.major_events:
-            response += "\nMajor Events Identified:\n"
-            for event in result.major_events:
-                response += f"  - Title: {event['title']}\n"
-                response += f"    - Date: {event['date']}\n"
-                response += f"    - Description: {event['description']}\n"
-                response += f"    - Sentiment Impact: {event['sentiment_impact']}\n"
-                response += f"    - Articles: {event['article_ids']}\n"
-        else:
-            response += "\nNo major events identified during this timeframe.\n"
-        return response
-
 # Test with different timeframes
 print("\n=== Testing Different Timeframes ===")
 test_queries = [
     "How did the sentiment about Apple change in the first half of 2024?",
-    "What was the sentiment trend for Apple in February 2024?",
-    "Analyze the sentiment for Apple stock in Q2 2024"
+    "How did the sentiment about Apple change in the second half of 2024?",
+    "What was the sentiment trend for Apple in December 2024?"
 ]
 
 sentiment_agent = SentimentAgent(model_name="gpt-4o")
