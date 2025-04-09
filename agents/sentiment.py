@@ -6,24 +6,33 @@ import numpy as np
 from pydantic import BaseModel, Field
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-from langchain.chat_models import ChatOpenAI
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.chat_models import ChatOpenAI
+from langchain_community.embeddings import OpenAIEmbeddings
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from langchain.output_parsers import PydanticOutputParser
 from dotenv import load_dotenv
 import json
-
+from openai import OpenAI  # Import the OpenAI client
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from qdrant_client.models import Filter, FieldCondition, Range
+from datetime import datetime
+from numpy import zeros
 load_dotenv()
 
+# Retrieve the API key from the environment variable
+api_key = os.getenv("OPENAI_API_KEY")
+
+# Initialize the OpenAI client
+client = OpenAI(api_key=api_key)
+
 class ArticleSentiment(BaseModel):
-    """ Model for article sentiment analysis results """
     article_id: str
     title: str
     date: str
     sentiment_score: float = Field(description="Sentiment score of the article (-1 to 1)")
     confidence: float = Field(description="Confidence in the sentiment score (0 to 1)")
-    summary: str = Field(description="Brief summary of the article")
+    summary: str
     url: Optional[str] = Field(default=None, description="URL of the article")
 
 class TimeframeSentiment(BaseModel):
@@ -51,12 +60,15 @@ class SentimentAgentState(BaseModel):
     error: Optional[str] = Field(default=None, description="Error message if any")
 
 class SentimentAgent:
+
+
     """ Agent for analyzing sentiment from news articles over specific timeframes"""
 
     def __init__(self, model_name="gpt-4o", api_key=None):
         self.openai_api_key = api_key or os.getenv("OPENAI_API_KEY")
         self.llm = ChatOpenAI(temperature=0, model=model_name, api_key=self.openai_api_key)
         self.embeddings = OpenAIEmbeddings(openai_api_key=self.openai_api_key)
+
 
         # Initialize Qdrant client
         self.qdrant = QdrantClient(url="http://localhost:6333")
@@ -113,21 +125,22 @@ class SentimentAgent:
         """Extract timeframe from the query using LLM"""
 
         current_date = datetime.now().date()
-        
+        print(f"Current date for timeframe extraction: {current_date}") # Print current date
+
         # Define the prompt for timeframe extraction
         timeframe_prompt = PromptTemplate(
             input_variables=["query", "current_date"],
             template="""
             You are a financial data assistant that extracts timeframe information from user queries.
-            
+
             User query: {query}
-            
+
             Today's date is {current_date}. Extract the timeframe mentioned in the query. The available data is ONLY for the year 2024.
             If the query mentions a timeframe that's partially or fully outside of 2024:
             1. If the timeframe is completely outside 2024, indicate that it's outside the available range in the description, return 'valid' field as false, and return start_date and end_date as None.
             2. If the timeframe partially overlaps with 2024, adjust the timeframe to only include the portion within 2024, explain this adjustment in the description, and return 'valid' as true.
             For example: If asked "data from one year ago to now" and today is March 1, 2025, then return the period within the valid timeframe which is from March 1, 2024 to December 31, 2024.
-            
+
             For reference:
             - Q1 2024: January 1, 2024 to March 31, 2024
             - First Quarter of 2024: January 1, 2024 to March 31, 2024
@@ -140,95 +153,134 @@ class SentimentAgent:
             - First Half of 2024: January 1, 2024 to June 30, 2024
             - Second Half of 2024: July 1, 2024 to December 31, 2024
             - Whole Year of 2024: January 1, 2024 to December 31, 2024
-            
-            Return a JSON object with these fields:
+
+            Respond with ONLY a valid JSON object with these fields:
             - valid: true if at least some portion of the timeframe is within 2024
-            - start_date: start date in YYYY-MM-DD format (if valid)
-            - end_date: end date in YYYY-MM-DD format (if valid)
+            - start_date: start date in%Y-%m-%d format (if valid)
+            - end_date: end date in%Y-%m-%d format (if valid)
             - description: human-readable description of the timeframe, including any adjustments made to fit within available data
             """
         )
+
         # Create and run the chain
         timeframe_chain = LLMChain(llm=self.llm, prompt=timeframe_prompt)
         result = timeframe_chain.run(query=query, current_date=current_date)
-        
+        print(f"LLM response for timeframe extraction: {result}") # Print LLM response
+
         try:
+            # Attempt to clean the result if it's not proper JSON
+            cleaned_result = result.strip()
+            if not cleaned_result.startswith('{'):
+                import re
+                json_match = re.search(r'(\{.*\})', cleaned_result, re.DOTALL)
+                if json_match:
+                    cleaned_result = json_match.group(1)
+                else:
+                    print("Warning: LLM response for timeframe is not valid JSON. Using default timeframe.")
+                    return {
+                        "start_date": datetime(2024, 1, 1).date(),
+                        "end_date": datetime(2024, 12, 31).date(),
+                        "description": "full year 2024 (default)"
+                    }
+
             # Parse the JSON response
-            timeframe_data = json.loads(result)
-            
+            timeframe_data = json.loads(cleaned_result)
+            print(f"Parsed timeframe data: {timeframe_data}") # Print parsed data
+
             if not timeframe_data.get("valid", False):
+                print("Extracted timeframe is outside the valid range.")
                 return None  # Indicate timeframe outside available data
-            
+
             # Convert string dates to datetime objects
-            start_date = datetime.strptime(timeframe_data["start_date"], "%Y-%m-%d")
-            end_date = datetime.strptime(timeframe_data["end_date"], "%Y-%m-%d")
+            start_date_str = timeframe_data.get("start_date")
+            end_date_str = timeframe_data.get("end_date")
+
+            if start_date_str and end_date_str:
+                start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
+                end_date = datetime.strptime(end_date_str, "%Y-%m-%d").date()
+            else:
+                print("Warning: Start or end date missing from LLM response. Using default timeframe.")
+                return {
+                    "start_date": datetime(2024, 1, 1).date(),
+                    "end_date": datetime(2024, 12, 31).date(),
+                    "description": "full year 2024 (default)"
+                }
             description = timeframe_data["description"]
-            
+
             # Validate that dates are within 2024
-            min_date = datetime(2024, 1, 1)
-            max_date = datetime(2024, 12, 31)
-            
-            if start_date <= min_date or end_date >= max_date:
-                return None  # Additional check for timeframe outside available data
-            
+            min_date = datetime(2024, 1, 1).date()
+            max_date = datetime(2024, 12, 31).date()
+
+            if start_date < min_date:
+                start_date = min_date
+            if end_date > max_date:
+                end_date = max_date
+
+            print(f"Extracted Start Date: {start_date}, End Date: {end_date}, Description: {description}") # Print extracted dates
             return {
                 "start_date": start_date,
                 "end_date": end_date,
                 "description": description
             }
-            
+
         except (json.JSONDecodeError, KeyError, ValueError) as e:
             # If there's an error parsing the LLM response, fall back to default timeframe
             print(f"Error parsing timeframe from LLM: {e}")
+            print(f"Raw LLM response: {result}")  # Log the raw response for debugging
             return {
-                "start_date": datetime(2024, 1, 1),
-                "end_date": datetime(2024, 12, 31),
-                "description": "full year 2024"
+                "start_date": datetime(2024, 1, 1).date(),
+                "end_date": datetime(2024, 12, 31).date(),
+                "description": "full year 2024 (default)"
             }
+
+
 
     def _retrieve_articles(self, start_date: datetime, end_date: datetime) -> List[Dict]:
         """Retrieve articles from Qdrant within the specified timeframe"""
         if not self.qdrant_collection_name:
             return []
 
-        # Convert dates to string format for filtering
-        start_str = start_date.strftime("%Y-%m-%d")
-        end_str = end_date.strftime("%Y-%m-%d")
+        print(f"Retrieving articles between {start_date} and {end_date}")  # Print retrieval timeframe
 
-        # Query Qdrant for articles in the timeframe
-        filter_query = models.Filter(
+        # Convert datetime.date objects to datetime.datetime objects at midnight (00:00:00)
+        start_datetime = datetime.combine(start_date, datetime.min.time())
+        end_datetime = datetime.combine(end_date, datetime.min.time())
+
+        # Convert datetime.datetime objects to UNIX timestamps
+        start_timestamp = int(start_datetime.timestamp())
+        end_timestamp = int(end_datetime.timestamp())
+
+        # Construct the date filter for Qdrant using Range with UNIX timestamps
+        date_filter = Filter(
             must=[
-                models.FieldCondition(
+                FieldCondition(
                     key="publish_date",
-                    range=models.Range(
-                        gte=start_str,
-                        lte=end_str
+                    range=Range(
+                        gte=start_timestamp,
+                        lte=end_timestamp,
                     )
                 )
             ]
         )
 
-        all_articles = []
-        scroll_offset = None
-        while True:
-            results, scroll_offset = self.qdrant.scroll(
-                collection_name=self.qdrant_collection_name,
-                scroll_filter=filter_query,
-                limit=None,
-                offset=scroll_offset,
-                with_payload=True
-            )
-            if not results:
-                break
-            for hit in results:
-                if hit.payload:
-                    all_articles.append({
-                        "id": hit.id,
-                        "payload": hit.payload
-                    })
-            if scroll_offset is None:
-                break
-        return all_articles
+        # Create a dummy query vector with the correct dimension (1024)
+        query_vector = zeros(1024)  # Adjust the vector size to match your collection's expected dimension
+
+        # Retrieve articles directly filtered by date from Qdrant
+        found_articles = self.qdrant.search(
+            collection_name=self.qdrant_collection_name,
+            query_vector=query_vector,  # Correct vector size
+            query_filter=date_filter,
+            limit=1000,  # Adjust limit as needed
+            with_payload=True
+        )
+
+        articles_data = [{"id": hit.id, "payload": hit.payload} for hit in found_articles]
+
+        print(f"Found {len(articles_data)} articles within the timeframe.")  # Print number of found articles
+        return articles_data
+
+
 
     def process_query(self, query: str) -> Dict[str, Any]:
         """Process a query about stock sentiment over a timeframe"""
@@ -270,13 +322,34 @@ class SentimentAgent:
 
         # Analyze sentiment of each article
         articles_sentiment: List[ArticleSentiment] = []
+        weighted_sentiment_sum = 0
+        total_confidence = 0
+        valid_article_count = 0
+
         for article in articles_data:
-            sentiment_score = article["payload"].get("sentiment")
-            confidence = article["payload"].get("confidence")
+            sentiment_raw = article["payload"].get("sentiment")
+            confidence_raw = article["payload"].get("confidence")
             title = article["payload"].get("title", "Unknown Title")
             date_str = article["payload"].get("publish_date", "Unknown Date")
             summary = article["payload"].get("summary", "No summary available")
-            url = article["payload"].get("url")
+            url = article["payload"].get("url", None)
+
+            sentiment_score = None
+            if isinstance(sentiment_raw, str):
+                sentiment_score = self._map_sentiment_string_to_weighted_score(sentiment_raw)
+                if sentiment_score is None:
+                    print(f"Warning: Could not map sentiment string '{sentiment_raw}' for article {article['id']}")
+                    continue # Skip this article if sentiment string cannot be mapped
+            else:
+                print(f"Warning: Invalid sentiment format for article {article['id']}")
+                continue
+
+            confidence = None
+            if isinstance(confidence_raw, (int, float)):
+                confidence = float(confidence_raw)
+            else:
+                print(f"Warning: Invalid confidence format for article {article['id']}")
+                continue
 
             if sentiment_score is not None and confidence is not None and date_str:
                 try:
@@ -284,60 +357,60 @@ class SentimentAgent:
                         article_id=str(article["id"]),
                         title=title,
                         date=date_str,
-                        sentiment_score=float(sentiment_score),
-                        confidence=float(confidence),
+                        sentiment_score=sentiment_score,
+                        confidence=confidence,
                         summary=summary,
                         url=url
                     )
                     articles_sentiment.append(article_sentiment)
                 except ValueError:
-                    print(f"Warning: Could not parse sentiment or confidence for article {article['id']}")
+                    print(f"Warning: Could not create ArticleSentiment object for article {article['id']}")
 
-        if not articles_sentiment:
-            return {
-                "response": f"Could not analyze sentiment for any articles in the specified timeframe ({timeframe_info['description']}).",
-                "data": {
-                    "timeframe": timeframe_info["description"],
-                    "start_date": timeframe_info["start_date"].strftime("%Y-%m-%d"),
-                    "end_date": timeframe_info["end_date"].strftime("%Y-%m-%d"),
-                    "article_count": 0,
-                    "articles": []
-                },
-                "timeframe": timeframe_info["description"],
-                "error": "No articles with valid sentiment data found."
-            }
+        average_sentiment = 0.0
+        average_confidence = 0.0
 
-        # Calculate aggregated sentiment
-        avg_sentiment = sum(article.sentiment_score for article in articles_sentiment) / len(articles_sentiment)
-        avg_confidence = sum(article.confidence for article in articles_sentiment) / len(articles_sentiment)
+        if valid_article_count > 0:
+            average_sentiment = weighted_sentiment_sum / total_confidence if total_confidence > 0 else 0.0
+            average_confidence = total_confidence / valid_article_count
+
+        result_articles = [{
+            "article_id": article.article_id,
+            "title": article.title,
+            "date": article.date,
+            "sentiment_score": article.sentiment_score,
+            "confidence": article.confidence,
+            "summary": article.summary,
+            "url": article.url
+        } for article in articles_sentiment]
+
+        # Format articles for event detection
+        articles_for_event_detection = self._format_articles_for_event_detection(articles_sentiment)
 
         # Detect major events
-        major_events = self._detect_major_events(articles_sentiment)
+        major_events = self.event_detection_chain.run(articles_data=articles_for_event_detection)
+        try:
+            major_events_list = json.loads(major_events)
+        except json.JSONDecodeError:
+            major_events_list = [{"title": "Error parsing events", "date": None, "description": "Could not parse event data.", "sentiment_impact": "neutral", "article_ids": []}]
+
+        # Format sentiment data for trend analysis
+        sentiment_data_for_trend = self._format_sentiment_data_for_trend_analysis(articles_sentiment)
 
         # Analyze sentiment trend
-        sentiment_trend = self._analyze_sentiment_trend(articles_sentiment, timeframe_info["description"])
+        sentiment_trend = self.trend_analysis_chain.run(sentiment_data=sentiment_data_for_trend, timeframe=timeframe_info["description"])
 
-        # Prepare response data
         result = TimeframeSentiment(
             timeframe=timeframe_info["description"],
             start_date=timeframe_info["start_date"].strftime("%Y-%m-%d"),
             end_date=timeframe_info["end_date"].strftime("%Y-%m-%d"),
-            average_sentiment=round(avg_sentiment, 2),
-            average_confidence=round(avg_confidence, 2),
-            article_count=len(articles_sentiment),
-            major_events=major_events,
-            sentiment_trend=sentiment_trend,
-            articles=[{
-                "article_id": article.article_id,
-                "title": article.title,
-                "date": article.date,
-                "sentiment_score": article.sentiment_score,
-                "confidence": article.confidence,
-                "summary": article.summary,
-                "url": article.url  } for article in articles_sentiment]
+            average_sentiment=round(average_sentiment, 2),
+            average_confidence=round(average_confidence, 2),
+            article_count=valid_article_count,
+            major_events=major_events_list,
+            sentiment_trend=sentiment_trend.strip(),
+            articles=result_articles
         )
 
-        # Format response for the user
         response = self._format_response(result)
 
         return {
@@ -346,7 +419,54 @@ class SentimentAgent:
             "timeframe": timeframe_info["description"],
             "error": None
         }
-    
+
+    def _map_sentiment_string_to_weighted_score(self, sentiment_str: str) -> Optional[float]:
+        """Maps a sentiment string to a weighted numerical score."""
+        sentiment_lower = sentiment_str.lower()
+        if sentiment_lower == 'positive':
+            return 1.0
+        elif sentiment_lower == 'negative':
+            return -1.0
+        elif sentiment_lower == 'neutral':
+            return 0.0
+        # Add more mappings as needed for your data
+        return None
+
+    def _format_articles_for_event_detection(self, articles: List[ArticleSentiment]) -> str:
+        """Formats article data for the event detection prompt."""
+        formatted_articles = []
+        for article in articles:
+            sentiment_category = "neutral"
+            if article.sentiment_score > 0.2:
+                sentiment_category = "positive"
+            elif article.sentiment_score < -0.2:
+                sentiment_category = "negative"
+            formatted_articles.append(f"ID: {article.article_id}, Title: {article.title}, Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}, Summary: {article.summary}")
+        return "\n".join(formatted_articles)
+
+    def _format_sentiment_data_for_trend_analysis(self, articles: List[ArticleSentiment]) -> str:
+        """Formats sentiment data for the trend analysis prompt."""
+        sentiment_data_list = [f"Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}" for article in articles]
+        return "\n".join(sentiment_data_list)
+
+    def _format_response(self, result: TimeframeSentiment) -> str:
+        """Formats the final response for the user."""
+        response = f"Sentiment analysis for {result.timeframe}:\n"
+        response += f"- Average Sentiment: {result.average_sentiment:.2f} (based on {result.article_count} articles)\n"
+        response += f"- Average Confidence: {result.average_confidence:.2f}\n"
+        response += f"- Sentiment Trend: {result.sentiment_trend}\n"
+        if result.major_events:
+            response += "\nMajor Events Identified:\n"
+            for event in result.major_events:
+                response += f"  - Title: {event['title']}\n"
+                response += f"    - Date: {event['date']}\n"
+                response += f"    - Description: {event['description']}\n"
+                response += f"    - Sentiment Impact: {event['sentiment_impact']}\n"
+                response += f"    - Articles: {event['article_ids']}\n"
+        else:
+            response += "\nNo major events identified during this timeframe.\n"
+        return response
+
 # Test with different timeframes
 print("\n=== Testing Different Timeframes ===")
 test_queries = [
