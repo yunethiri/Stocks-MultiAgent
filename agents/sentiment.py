@@ -85,8 +85,8 @@ class SentimentAgent:
             input_variables=["articles_data"],
             template="""
             You are an expert financial analyst. 
-            The articles_data parameter contains a list of dictionaries (representing differet news articles) with the fields (ID, title, date, sentiment_score, summary, content).
-            Based on the following news article information, identify the major events that occurred during this timeframe. Focus on events with a significant impact on the financial market and has a clear sentiment impact, ignoring neutral events (sentiment score of around 0).
+            The articles_data parameter contains a list of dictionaries (representing differet news articles) with the fields (ID, title, date, sentiment_score, confidence_score, summary, content).
+            Based on the following news article information, identify the major events that occurred during this timeframe. Focus on events with a significant impact on the financial market (high magnitude of sentiment_score and confidence_score), ignoring neutral events (sentiment_score of around 0).
 
             Articles:
             {articles_data}
@@ -97,9 +97,10 @@ class SentimentAgent:
             3. A brief description of the event and how it impacts the stock (based on content)
             4. The sentiment impact (positive, negative, or neutral)
             5. The sentiment score of the article (if available)
-            6. Which articles mention this event (by ID)
+            6. The confidence score of the article (if available)
+            7. ID of the article which mention the event
 
-            Format your response as a JSON list of objects with keys: "title", "date", "description", "sentiment_impact", "sentiment_score", "article_ids"
+            Format your response as a JSON list of objects with keys: "title", "date", "description", "sentiment_impact", "sentiment_score", "confidence_score", "article_ids"
             """
         )
 
@@ -299,7 +300,7 @@ class SentimentAgent:
                 sentiment_category = "positive"
             elif article.sentiment_score < -0.2:
                 sentiment_category = "negative"
-            formatted_articles.append(f"ID: {article.article_id}, Title: {article.title}, Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}, Summary: {article.summary}, Content: {article.content}")
+            formatted_articles.append(f"ID: {article.article_id}, Title: {article.title}, Date: {article.date}, Sentiment Score: {article.sentiment_score:.2f}, Confidence Score: {article.confidence:.2f}, Summary: {article.summary}, Content: {article.content}")
         return "\n".join(formatted_articles)
 
     def _format_sentiment_data_for_trend_analysis(self, articles: List[ArticleSentiment]) -> str:
