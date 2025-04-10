@@ -1,0 +1,6 @@
+qdrant-client 
+cohere 
+python-dotenv
+transformers
+torch
+accelerate

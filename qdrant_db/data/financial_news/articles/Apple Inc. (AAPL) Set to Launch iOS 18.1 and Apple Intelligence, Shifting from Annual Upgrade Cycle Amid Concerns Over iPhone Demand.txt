@@ -1,0 +1,50 @@
+link: https://finance.yahoo.com/news/apple-inc-aapl-set-launch-110101056.html
+
+source: finance.yahoo.com
+
+title: Apple Inc. (AAPL) Set to Launch iOS 18.1 and Apple Intelligence, Shifting from Annual Upgrade Cycle Amid Concerns Over iPhone Demand
+
+summary: 
+
+publishDate: 2024-10-12T11:01:01.000Z
+
+content: We recently compiled a list of the 35 Trending AI Stocks on Latest News and Analyst Ratings. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other trending AI stocks.
+
+Two years after the public debut of ChatGPT, the generative AI landscape has evolved rapidly, igniting substantial investments in artificial intelligence and lifting valuations for startups and major tech companies alike. This surge in interest has primarily centered on cloud-based AI, where services like OpenAI's models operate on extensive data infrastructures. However, as these models grow in complexity, the demand for larger and more advanced data centers intensifies, leading to a race among companies to construct expansive facilities. Significant investments are projected, with estimates suggesting that major players will collectively spend around $160 billion in capital expenditures next year, primarily for acquiring powerful GPUs and related infrastructure necessary for training AI models. Top executives have even forecasted that global data center investments could double to $2 trillion within the next few years. Nevertheless, the sustainability of this spending spree raises questions about whether the revenue generated from AI applications can match the high costs of development and infrastructure.
+
+Read more about these developments by accessing 10 Best AI Data Center Stocks and 10 Buzzing AI Stocks According to Goldman Sachs.
+
+Amid these challenges, a new trend in edge AI is emerging. This concept involves running AI algorithms directly on personal devices like smartphones and computers rather than relying on centralized cloud servers. Edge AI offers numerous benefits, including real-time response capabilities without requiring a high-speed internet connection and enhanced privacy since user data remains on personal devices. Analysts project that nearly 50% of smartphones will have generative AI capabilities by 2027, a significant increase from the current 4%. However, implementing edge AI presents technical hurdles, primarily due to existing devices lacking the necessary computing power and memory to support large AI models. For instance, running OpenAI's GPT-4 model, which contains approximately 1.8 trillion parameters, is not feasible on typical smartphones today. Nevertheless, smaller, task-specific AI models are gaining traction, as they require less training data and can outperform larger, more generalized models in certain applications. These lightweight models are often open-source and designed for specific functions, making them easier to implement on consumer devices.
+
+Story continues
+
+As semiconductor companies continue to innovate by increasing processing power and memory in smartphones and PCs, the capacity for running AI models on these devices is expected to grow. Research indicates that the proportion of smartphones capable of supporting large AI models could rise significantly within the next few years. Major chip manufacturers are advancing technologies such as chipset designs, allowing them to create more powerful processors without needing to shrink the circuitry. For investors, the rise of edge AI could lead to new opportunities and growth within the consumer electronics market, as users are likely to upgrade their devices to take advantage of enhanced AI functionalities. UBS analysts project that combined sales of smartphones and PCs could exceed $700 billion by 2027. Ultimately, the success of edge AI hinges on the development of compelling applications that consumers find valuable enough to invest in.
+
+Read more about these developments by accessing 30 Most Important AI Stocks According to BlackRock and Beyond the Tech Giants: 35 Non-Tech AI Opportunities.
+
+Our Methodology
+
+For this article, we selected AI stocks by combing through news articles, stock analysis, and press releases. These stocks are also popular among hedge funds.
+
+Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 275% since May 2014, beating its benchmark by 150 percentage points (see more details here).
+
+A wide view of an Apple store, showing the range of products the company offers.
+
+Apple Inc. (NASDAQ:AAPL)
+
+Number of Hedge Fund Holders: 184
+
+Apple Inc. (NASDAQ:AAPL) is a consumer electronics firm. Latest reports, first published by news platform Bloomberg, suggest that the company plans to launch iOS 18.1 and Apple Intelligence later this month at an event that will also debut new Macs and an iPad mini, with shipments starting in early November. Per the news publication, this represents a moving away from the annual product upgrade cycle. Apple stock has been impacted by concerns around slowing demand for new iPhones as well as delays in the release of Apple Intelligence on new devices. Apple Intelligence is a suite of AI features that the company is marketing for the new devices that run on AI-optimized chipsets.
+
+Overall AAPL ranks 4th among the AI stocks that are trending right now. While we acknowledge the potential of AAPL as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns, and doing so within a shorter timeframe. If you are looking for an AI stock that is more promising than AAPL but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock.
+
+READ NEXT: $30 Trillion Opportunity: 15 Best Humanoid Robot Stocks to Buy According to Morgan Stanley and Jim Cramer Says NVIDIA ‘Has Become A Wasteland’.
+
+Disclosure: None. This article is originally published at Insider Monkey.
+
+language: en
+
+sentiment: negative
+
+confidence: 0.999572217464447
+

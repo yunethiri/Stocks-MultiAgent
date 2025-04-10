@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/jeff-bezos-betting-millions-nvidia-133700975.html
+
+source: www.yahoo.com
+
+title: Jeff Bezos is betting millions on a Nvidia rival
+
+summary: 
+
+publishDate: 2024-12-02T13:37:00.000Z
+
+content: Billionaire Jeff Bezos is throwing his weight behind a computing company that’s coming for Nvidia’s (NVDA) dominance of the artificial intelligence chip market.
+
+
+
+Bezos Expeditions, the Amazon (AMZN) founder’s private investment vehicle, was part of a $693 million funding round for Tenstorrent, the company announced Monday. He joined LG Electronics and Fidelity in the round led by South Korean firms Samsung Securities and AFW Partners.
+
+“We are excited by the breadth of investors that believe in our vision,” Keith Witek, the chief operating officer of Tenstorrent, in a statement. “If you look at this group, you see a balance of financial investors and strategic investors, as well as some notable individuals that have conviction in our plans for AI.”
+
+Advertisement Advertisement
+
+Advertisement
+
+Tenstorrent said it will use the money to “build out open-source AI software stacks, hire developers, expand its global development and design centers, and build systems and clouds for AI developers.”
+
+The company has strived to provide more accessible and affordable solutions for companies looking to develop their AI capabilities, putting itself in direct competition with fellow Santa Clara, California-based firm Nvidia. So far, it has signed about $150 million in contracts, Tenstorrent said.
+
+Currently the second-most valuable company in the world behind Apple (AAPL), Nvidia is a Wall Street powerhouse and a behemoth in the AI chip space. Last month, it reported $35.1 billion in revenues for its fiscal third quarter, with 36% of that revenue — or $12.6 billion — coming from only three unnamed customers. Those sales are primarily attributable to Nvidia’s Compute & Networking segment, according to filing.
+
+Although Nvidia will not disclose the customers, its top buyers are likely to include Google (GOOGL) parent Alphabet, Meta (META), Microsoft (MSFT), and Tesla (TSLA) — all of whom are major players in the AI boom.
+
+Advertisement Advertisement
+
+But smaller companies are struggling to build up their AI capabilities as Big Tech firms corner the market — and power-hungry AI chips remain prohibitively expensive.
+
+That’s where Tenstorrent is hoping to come in. Founder and CEO Jim Keller told Bloomberg that Tenstorrent uses open-source and commonplace technology to provide engineering solutions that put AI in reach for more firms, and skips costly and complex parts, including like high-bandwidth memory (HBM) used by Nvidia.
+
+“You can’t beat Nvidia if you use HBM, because Nvidia buys the most HBM and has a cost advantage,” Keller said. “But they’ll never be able to bring the price down the way HBM is built into their products and their sockets.”
+
+Open-source technology has become increasingly popular amid the AI boom, given its cost effectiveness. Meta founder and CEO Mark Zuckerberg said that the company’s first open-source, multimodal large language model, Llama 3.2, will be the way forward.
+
+Advertisement Advertisement
+
+“It’s sort of like the Linux of AI, and we’re seeing closed-source labs react by trying to slash their prices to compete with Llama,” he said at Meta’s annual Connect conference in September.
+
+Elon Musk’s AI startup xAI also made its chatbot, Grok-1, an open-source model.
+
+For the latest news, Facebook, Twitter and Instagram.
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9995540976524353
+

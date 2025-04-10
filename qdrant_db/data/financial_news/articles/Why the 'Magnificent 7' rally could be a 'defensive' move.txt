@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/why-the-magnificent-7-rally-could-be-a-defensive-move-204147162.html
+
+source: finance.yahoo.com
+
+title: Why the 'Magnificent 7' rally could be a 'defensive' move
+
+summary: 
+
+publishDate: 2024-12-17T20:41:47.000Z
+
+content: December’s market action has been all about a rally from several members of the "Magnificent Seven" tech stocks.
+
+Tesla (TSLA), Alphabet (GOOGL, GOOG), Amazon (AMZN), and Apple (AAPL) all hit fresh record highs on Monday. Even on a day like Tuesday, where all three major indexes were in the red, the Roundhill Magnificent Seven ETF (MAGS) hit a record high.
+
+While each individual stock has its own potential story working for it — like Tesla CEO Elon Musk's ties with Donald Trump sparking a post-election rally — market strategists believe there is also a broader theme at play: The Magnificent Seven have become a place to hide when the direction of the macro narrative becomes uncertain.
+
+"When you get concerned about other things at work in the market and the economy, the Mag Seven actually have this potential to be a 'defensive,'" Citi head of US equity strategy Scott Chronert said.
+
+• USD (MAGS) View Quote Details
+
+The large-cap bias among investors has come as markets expect the Federal Reserve to cut interest rates less than previously anticipated over the next year amid signs of sticky inflation and solid economic growth.
+
+As of Tuesday, markets were pricing in two interest rate cuts for 2025, one fewer than markets projected prior to the presidential election on Nov. 5 and a far cry from the four that Federal Reserve officials initially favored in their most recent Summary of Economic Projections release in September.
+
+Charles Schwab senior investment strategist Kevin Gordon told Yahoo Finance that when you consider the market is pricing in fewer interest rate cuts, a Magnificent Seven rally "isn't a coincidence."
+
+"If rates are going to stay a little bit more elevated for a little bit longer than the consensus expected, then companies who have a net benefit from higher rates probably do well in that scenario," Gordon said while noting that the Magnificent Seven stocks fit that description.
+
+Gordon pointed out that the Magnificent Seven, as well as other large-cap companies, fit the bill for a flight to safety amid rate uncertainty because they have significant cash on their balance sheets and strong quarterly cash flow. As Truist co-chief investment officer Keith Lerner told Yahoo Finance's Seana Smith back in April, this likely protects Big Tech from being exposed to high borrowing costs that could persist if the Fed pauses interest rate cuts.
+
+People shop at the Apple store at Fashion Valley, an upscale shopping mall, on Dec., 13, 2024, in San Diego, Calif. (Photo by Kevin Carter/Getty Images) · Kevin Carter via Getty Images
+
+Roundhill Investments CEO Dave Mazza believes they're seeing investors pile back into Roundhill's Magnificent Seven ETF because these companies are a way to play both offense and defense amid market uncertainty.
+
+Story Continues
+
+language: en
+
+sentiment: positive
+
+confidence: 0.948440670967102
+
