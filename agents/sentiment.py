@@ -439,12 +439,31 @@ class SentimentAgent:
         # Detect major events
         major_events = self.event_detection_chain.run(articles_data=articles_for_event_detection)
         try:
-            print(major_events)
-            major_events_list = json.loads(major_events)
+            # Debug info
+            #print(f"Type of major_events: {type(major_events)}")
+            #print(f"Raw major_events: {repr(major_events)}")
             
-        except json.JSONDecodeError:
+            # Handle different possible formats
+            if isinstance(major_events, list) or isinstance(major_events, dict):
+                # Already a Python object, use directly
+                major_events_list = major_events
+            elif isinstance(major_events, str):
+                # Clean the string of any potentially problematic characters
+                major_events = major_events.strip()
+                # Try to handle common LLM output issues
+                if major_events.startswith("```json") and major_events.endswith("```"):
+                    major_events = major_events[7:-3].strip()
+                # Parse JSON
+                major_events_list = json.loads(major_events)
+            else:
+                raise TypeError(f"Unexpected type: {type(major_events)}")
+                
+        except Exception as e:
+            print(f"Error type: {type(e).__name__}")
+            print(f"Error details: {str(e)}")
+            # Fallback
             major_events_list = [{"title": "Error parsing events", "date": None, "description": "Could not parse event data.", "sentiment_impact": "neutral", "article_ids": []}]
-
+        
         # Format sentiment data for trend analysis
         sentiment_data_for_trend = self._format_sentiment_data_for_trend_analysis(articles_sentiment)
 
