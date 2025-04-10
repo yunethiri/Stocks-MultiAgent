@@ -1,0 +1,30 @@
+link: https://finance.yahoo.com/news/live/stock-market-today-sp-500-surges-dow-jumps-over-450-points-as-stocks-rebound-from-worst-week-of-2024-200047504.html
+
+source: finance.yahoo.com
+
+title: Stock market today: S&P 500 surges, Dow jumps over 450 points as stocks rebound from worst week of 2024
+
+summary: 
+
+publishDate: 2024-09-09T20:00:47.000Z
+
+content: US stocks rebounded on Monday on the heels of the S&P 500's worst week since early 2023, as inflation came back into focus for investors gauging pressures that could influence the size of interest rate cuts.
+
+The S&P 500 (^GSPC) climbed nearly 1.2%, coming off a hefty weekly loss. The Dow Jones Industrial Average (^DJI) jumped more than 450 points, or 1.2%, while the tech-heavy Nasdaq Composite (^IXIC) rose more than 1%.
+
+Financials (XLF), Industrials (XLI), and Energy (XLE) stocks led the market rebound. Nvidia (NVDA), Tesla (TSLA), and Amazon (AMZN) led gains among the megacaps.
+
+The major averages regained some of the ground they lost after the August jobs report failed to settle a key question: How aggressively will the Federal Reserve lower interest rates? The neither-hot-nor-cold data left Wall Street guessing whether a cut of 25 or 50 basis points is likely at this month's policy meeting.
+
+Read more: Fed predictions for 2024: What experts say about the possibility of a rate cut
+
+Focus is now on a fresh consumer inflation print due Wednesday to provide clues to the path of rates. The reading on price pressures will be followed by a producer inflation report on Thursday, the last inflation inputs before the Fed's policy decision on Sept. 18.
+
+Meanwhile, Apple (AAPL) debuted its iPhone 16 smartphone at its annual product unveiling event in Cupertino, California. The tech giant also announced updates to its entire Apple Watch lineup, and AirPods Pro 2 which include new hearing protection features. Shares were little changed on the day.
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999607801437378
+

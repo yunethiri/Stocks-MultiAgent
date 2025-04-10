@@ -1,0 +1,26 @@
+link: https://finance.yahoo.com/video/why-apples-iphone-16-might-150000531.html
+
+source: finance.yahoo.com
+
+title: Why Apple's iPhone 16 might not be enough to drive sales
+
+summary: 
+
+publishDate: 2024-08-27T15:00:00.000Z
+
+content: Apple (AAPL) is set to host its iPhone 16 launch event on September 9, with investors eagerly awaiting the unveiling of the next generation of smartphones, Apple Watches, and AirPods. Maxim Group managing director and senior consumer internet analyst Tom Forte joins Morning Brief to discuss the potential impact of this launch on the tech giant.
+
+Forte notes a specific challenge facing Apple this year: while the company will introduce new hardware in its latest iPhone upgrade cycle, consumers will need to wait for the updates related to Apple's artificial intelligence software dubbed "Apple Intelligence."
+
+Forte explains this could potentially delay sales for the tech giant in the near term as consumers might hesitate to purchase new devices until the software is released.
+
+For more expert insight and the latest market action, click here to watch this full episode of Morning Brief.
+
+This post was written by Angel Smith
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999691247940063
+

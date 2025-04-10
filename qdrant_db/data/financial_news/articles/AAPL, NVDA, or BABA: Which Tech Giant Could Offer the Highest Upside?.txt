@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/aapl-nvda-baba-tech-giant-061442510.html
+
+source: finance.yahoo.com
+
+title: AAPL, NVDA, or BABA: Which Tech Giant Could Offer the Highest Upside?
+
+summary: 
+
+publishDate: 2024-12-16T06:14:42.000Z
+
+content: The buzz around generative artificial intelligence (AI) and expectations of falling interest rates are driving several technology stocks higher. While there are concerns about stretched valuations, Wall Street analysts continue to see further upside in many tech names. Using TipRanks’ Stock Comparison Tool, we placed Apple (AAPL), Nvidia (NVDA), and Alibaba (BABA) against each other to find the tech stock that could offer the highest upside potential from current levels, according to analysts.
+
+Pick the best stocks and maximize your portfolio:
+
+Discover top-rated stocks from highly ranked analysts with Analyst Top Stocks!
+
+Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks
+
+Apple (NASDAQ:AAPL)
+
+Apple shares have risen about 29% so far this year. The iPhone maker impressed investors with better-than-expected results for the fourth quarter of Fiscal 2024. The company’s adjusted earnings per share (EPS) increased 12% to $1.64, with sales rising 6% to $94.9 billion. Notably, revenue from iPhone, which accounted for about 49% of the overall sales, grew 5.5% to $46.2 billion.
+
+Moreover, revenue from Services, which is a higher-margin business compared to Apple’s products, grew 12% to about $25 billion. Apple expects its Services revenue growth in the December quarter to be nearly the same as its growth rate in the past year (12.9%). Further, the company expects its December overall sales to rise by “low to mid-single digit.”
+
+While there are concerns about the impact of competition on iPhone sales in key markets like China, several analysts remain confident about the company due to its growing Services business and AI initiatives like Apple Intelligence.
+
+Is AAPL a Buy, Sell, or Hold?
+
+Baird analyst William Power raised the price target for Apple stock to $260 from $240 while reiterating a Buy rating. Power noted that AAPL currently trades at 32.8x of the calendar year 2025 EPS estimate, reflecting about a 50% premium to the S&P 500’s (SPX) multiple of 22x.
+
+He added that his $260 target price is based on a 34x P/E multiple (calculated on 2025 EPS forecast), placing it towards the high end of the stock’s 10-35x historical range and a premium to other tech and consumer leaders. Power explained that the premium valuation reflects solid execution, growing contribution from Services, continued eco-system benefits, and impressive free cash flow.
+
+With 20 Buys, nine Holds, and two Sells, Wall Street has a Moderate Buy consensus rating on Apple stock. The average AAPL stock price target of $243.20 implies 2% downside risk.
+
+Story Continues
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+

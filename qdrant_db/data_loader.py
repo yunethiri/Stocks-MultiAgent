@@ -8,6 +8,8 @@ import glob
 import os
 import re
 import requests
+from transformers import pipeline
+import torch
 
 # wait for qdrant db to be ready
 qdrant_url = "http://qdrant:6333/healthz"
@@ -29,13 +31,13 @@ COHERE_API_KEY = os.getenv('COHERE_API_KEY')
 co = cohere.ClientV2(COHERE_API_KEY)
 model="embed-english-v3.0"
 VECTOR_SIZE = 1024
-chunk_size = 1024
+chunk_size = 3000
 
 # connect to qdrant
 client = QdrantClient("qdrant", port=6333)
 
 # process data
-def process_data(data_path, collection_name):
+def process_data(data_path, collection_name, check_files = False):
     # create collection if it doesn't exist
     try:
         client.get_collection(collection_name)
@@ -55,18 +57,19 @@ def process_data(data_path, collection_name):
         try:
             file_name = os.path.basename(file_path)
             
-            # check if file was already processed
-            search_results = client.scroll(
-                collection_name=collection_name,
-                scroll_filter=models.Filter(
-                    must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
-                ),
-                limit=1
-            )
-            
-            if search_results:
-                print(f"Skipping already processed file: {file_name}")
-                continue
+            # if check_files:
+            #     #check if file was already processed
+            #     search_results = client.scroll(
+            #         collection_name=collection_name,
+            #         scroll_filter=models.Filter(
+            #             must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
+            #         ),
+            #         limit=1
+            #     )
+                
+            #     if search_results:
+            #         print(f"Skipping already processed file: {file_name}")
+            #         continue
                 
             with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read()
@@ -119,7 +122,15 @@ SUMMARY_PATTERN = re.compile(r"^summary:\s*(.*)", re.MULTILINE)
 DATE_PATTERN = re.compile(r"^publishDate:\s*(.+)", re.MULTILINE)
 CONTENT_PATTERN = re.compile(r"^content:\s*(.+)", re.MULTILINE)
 
-def process_news_data(data_path, collection_name):
+# Load FinBERT for sentiment analysis
+sentiment_pipeline = pipeline("text-classification", model="ProsusAI/finbert", tokenizer="ProsusAI/finbert")
+
+# Function to get sentiment and confidence scores
+def analyze_sentiment(text):
+    result = sentiment_pipeline(text, truncation=True, max_length=512)[0]  # Ensure text fits model limit
+    return result["label"], result["score"]
+
+def process_news_data(data_path, collection_name, check_files=False):
     # create collection if it doesn't exist
     try:
         client.get_collection(collection_name)
@@ -139,18 +150,19 @@ def process_news_data(data_path, collection_name):
         try:
             file_name = os.path.basename(file_path)
             
-            # check if file was already processed
-            search_results = client.scroll(
-                collection_name=collection_name,
-                scroll_filter=models.Filter(
-                    must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
-                ),
-                limit=1
-            )
-            
-            if search_results:
-                print(f"Skipping already processed file: {file_name}")
-                continue
+            # if check_files:
+            #     # check if file was already processed
+            #     search_results = client.scroll(
+            #         collection_name=collection_name,
+            #         scroll_filter=models.Filter(
+            #             must=[models.FieldCondition(key="file_name", match=models.MatchValue(value=file_name))]
+            #         ),
+            #         limit=1
+            #     )
+                
+            #     if search_results:
+            #         print(f"Skipping already processed file: {file_name}")
+            #         continue
                 
             with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read()
@@ -179,6 +191,9 @@ def process_news_data(data_path, collection_name):
 
             points = []
             for idx, (embedding, doc) in enumerate(zip(doc_embeddings.embeddings.float_, chunks)):
+                # Get sentiment for the chunk
+                sentiment, confidence = analyze_sentiment(doc)
+
                 # Create a unique ID that includes the filename to avoid conflicts
                 unique_id = f"{file_name}_{idx}"
                 # Convert string ID to integer using hash
@@ -187,15 +202,17 @@ def process_news_data(data_path, collection_name):
                     id=numeric_id,
                     vector=embedding,
                     payload={
-                            "document": doc,
-                            "file_name": file_name,
-                            "chunk_index": idx,
-                            "title": title,
-                            "source": source,
-                            "summary": summary,
-                            "publish_date": publish_date,
-                            "url": link,
-                        }
+                        "document": doc,
+                        "file_name": file_name,
+                        "chunk_index": idx,
+                        "title": title,
+                        "source": source,
+                        "summary": summary,
+                        "publish_date": publish_date,
+                        "url": link,
+                        "sentiment": sentiment,
+                        "confidence": confidence,
+                    }
                 )
                 points.append(point)
             
@@ -218,11 +235,13 @@ def process_news_data(data_path, collection_name):
                 print(f"An error occurred: {e.message}")
 
 
+
 if __name__ == "__main__":
     print("Starting data loading process...")
-    process_data("../data/aapl_10k_forms/apple_filings_text/*.txt", "aapl_10k_forms")
-    process_data("../data/earnings_calls/earnings_calls_txt/*.txt", "earnings_calls")
-    process_data("/data/financial_news/articles/*.txt", "financial_news")
+    process_data(data_path="/data/aapl_10k_10Q_forms/apple_filings_text_10K/*.txt", collection_name="aapl_10k_10q_forms", check_files=False)
+    process_data(data_path="/data/aapl_10k_10Q_forms/apple_filings_text_10Q/*.txt", collection_name="aapl_10k_10q_forms", check_files=False)
+    process_data(data_path="/data/earnings_calls/earnings_calls_txt/*.txt", collection_name="earnings_calls", check_files=False)
+    process_news_data(data_path="/data/financial_news/articles/*.txt", collection_name="financial_news", check_files=False)
     print("Data loading complete!")
 
 

@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/broadcom-stock-soars-as-company-touts-massive-ai-opportunity-152853180.html
+
+source: finance.yahoo.com
+
+title: Broadcom stock soars as company touts 'massive' AI opportunity
+
+summary: 
+
+publishDate: 2024-12-13T15:28:53.000Z
+
+content: Broadcom stock (AVGO) soared more than 20% Friday as the chipmaker touted its “massive” opportunity in the artificial intelligence market during a quarterly earnings call the prior evening.
+
+Broadcom CEO Hock Tan said the company expects its custom AI chips will generate between $60 billion and $90 billion in revenue over the next three years from its three existing hyperscaler customers, whom the company did not name. Tan reiterated his belief that each of the three hyperscalers will deploy 1 million clusters of its custom AI chips called XPUs by 2025.
+
+• USD (AVGO) View Quote Details
+
+Broadcom also confirmed that it has added two more hyperscaler customers who are “in advanced development for their own next-generation AI XPUs,” which could generate further revenue. Media reports, citing anonymous sources, have indicated those new customers could be ChatGPT-maker OpenAI and Apple (AAPL).
+
+"We see our opportunity over the next three years in AI as massive," Tan said in the call with investors Thursday evening.
+
+Broadcom's gain Friday put it up roughly 98% for the year, pushed its share price to an all-time high of $221, and rocketed its market cap past the $1 trillion mark.
+
+Apple is reportedly working with Broadcom to develop an AI server chip, according to The Information. The move by tech giants to make their own server chips is meant to cut costs and scale back their reliance on Nvidia’s (NVDA) GPUs (graphics processing units). OpenAI is reportedly making a similar move in partnership with Broadcom, according to Reuters and Bloomberg.
+
+Broadcom makes custom chips for data centers, consumer electronics like smartphones and laptops, and electric vehicles. The company has expanded to making enterprise software with partnerships with Microsoft (MSFT) and Google (GOOG).
+
+A smartphone with a displayed Broadcom logo. REUTERS/Dado Ruvic/Illustration/File Photo · Reuters / Reuters
+
+Still, concern exists that Big Tech may not be able to sustain its spending on AI infrastructure if it cannot meaningfully monetize the new technology. OpenAI suffered roughly $5 billion in losses in 2024. And only 4% of US workers actually use AI daily, according to a recent Gallup poll cited by Bloomberg.
+
+Broadcom’s opportunity in the AI chip space is not mirrored in the other parts of its semiconductor business. Overall, in its fourth quarter, semiconductor revenue grew 12% from last year to $8.2 billion. That masked a divergence between its AI chips and non-AI chips, though. AI chip sales grew a strong 150% to $3.7 billion, while non-AI semiconductor revenue declined 23% to $4.5 billion.
+
+“The reality going forward for this company is that the AI semiconductor business will rapidly outgrow the non-AI semiconductor business,” Tan said.
+
+Story Continues
+
+language: en
+
+sentiment: positive
+
+confidence: 0.999950647354126
+

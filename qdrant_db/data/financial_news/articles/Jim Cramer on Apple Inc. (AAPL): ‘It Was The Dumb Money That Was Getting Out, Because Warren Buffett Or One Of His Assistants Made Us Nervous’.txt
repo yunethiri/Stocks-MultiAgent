@@ -1,0 +1,28 @@
+link: https://finance.yahoo.com/news/jim-cramer-apple-inc-aapl-053136089.html
+
+source: finance.yahoo.com
+
+title: Jim Cramer on Apple Inc. (AAPL): ‘It Was The Dumb Money That Was Getting Out, Because Warren Buffett Or One Of His Assistants Made Us Nervous’
+
+summary: 
+
+publishDate: 2024-12-30T05:31:36.000Z
+
+content: We recently published an article titled Jim Cramer's Bold Predictions About These 15 AI Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other AI stocks Jim Cramer talked about.
+
+As trading in 2024 heads towards a close, major stock market indexes have had a good run despite mixed performance across sectors. The flagship S&P index is up 26% year-to-date while the broader NASDAQ index has gained 33.56%. On top of this, the index of the NASDAQ's top 100 stocks is up 29.8%, which solidifies the conclusion that technology stocks have driven the stock market's 2024 returns. For further evidence, consider the Dow's performance. The stock index which tracks industries across the US economy is up 14% YTD, making it the weakest-performing index among all mentioned.
+
+However, even within technology, not all stocks have performed equally well. As an example, consider the performance of two stocks. Both of these are semiconductor companies. The first, which ranked 3rd on our list of Jim Cramer's bearish tech calls is the largest American manufacturer of memory chips. The second, which ranked 1st on the same list is Wall Street's AI darling. The two stocks have gained 7.64% and 184.60% year-to-date, so even though both of them are technology companies, their share price returns have differed primarily because of the firms' varying exposures to artificial intelligence.
+
+Yet even though AI has held up the stock market in 2024, other factors continue to influence stock performance as well. Continuing with our example of the GPU designer's shares, the stock dropped by 1.1% on the day the Federal Reserve cut interest rates but guided two cuts for 2024 instead of the earlier four. The shares fell despite the fact that the firm enjoys the widest moat possible in the AI industry. On the same day, the flagship S&P and the broader NASDAQ indexes shed 2.9% and 3.6%, respectively. Following the year-end sell-off on Friday, neither index has fully recovered to levels before the Fed's announcement.
+
+Cramer, for his part, had predicted that the markets might not find it easy to reverse all losses following the Fed's announcement. Talking on CNBC's Squawk on the Street on the day after the Fed's decision, the host shared that "rampant Bitcoin speculation, after speculation in nuclear power, after speculation in quantum computing" was baked into markets ahead of the announcement. Commenting on quantum computing in particular, Cramer mentioned one quantum computing stock and wondered whether the industry was all hype and no substance. "How is that [the firm] going to quantum? When we don’t even know what quantum is?" wondered Cramer. "It’s a nonfungible tokens, right? Cause you know what a fungible token was?” he added.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7865268588066101
+

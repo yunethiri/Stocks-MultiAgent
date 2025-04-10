@@ -1,0 +1,62 @@
+link: https://finance.yahoo.com/news/watch-apple-price-levels-stock-144835956.html
+
+source: finance.yahoo.com
+
+title: Watch These Apple Price Levels After Stock Set a New Record High
+
+summary: 
+
+publishDate: 2024-12-10T14:48:35.000Z
+
+content: Source: TradingView.com
+
+
+
+
+
+Key Takeaways
+
+Apple shares may remain on watchlists Tuesday after setting a new all-time high yesterday and registering their 21st record close of the year.
+
+The stock broke out from a five-month ascending triangle earlier this month, signaling a continuation of the iPhone maker's longer-term uptrend.
+
+The measuring principle, which calculates the depth of the ascending triangle near its widest section and adds that amount to the pattern’s top trendline, projects a price target of $278.
+
+Investors should watch key support levels on Apple's chart around $237, $218, and $197.
+
+
+
+
+
+
+
+Apple (AAPL) shares could remain on watchlists Tuesday after setting a new all-time high (ATH) yesterday and registering their 21st record close of the year.
+
+Sentiment surrounding the stock may have received a boost after Melius Research analyst Ben Reitzes told CNBC's "Squawk on the Street" in a recent interview that the iPhone maker sits well positioned to benefit from a multi-year cycle of product launches, adding that the company’s integration with OpenAI’s ChatGPT provides potential revenue opportunities through pro-version upgrades.
+
+Apple shares traded sideways for most of the third quarter as investors digested the delayed rollout of the tech giant’s highly anticipated Apple Intelligence features and its impact on device sales. However, the stock has regained its upward trajectory, rallying more than 12% from its early November low and trading 28% higher since the start of the year as of Monday’s close.
+
+Below a take a closer look at the technicals on Apple’s chart and identify key price levels that investors may be watching out for.
+
+Ascending Triangle Signals Bullish Continuation
+
+Apple shares broke out from a five-month ascending triangle earlier this month, signaling a continuation of the stock’s longer-term uptrend.
+
+The stock has continued to move higher, albeit on lackluster volume, with the price completing a bullish engulfing pattern as it set a fresh record high in Monday’s trading session.
+
+While the relative strength index (RSI) confirms bullish price momentum, the indicator also flashes overbought conditions that could lead to near-term profit taking.
+
+Let’s apply technical analysis to project where the stock’s price may be headed next if the current continuation move plays out and also identify three key support levels that could attract buying interest during retracements.
+
+Chart-Based Price Target to Watch
+
+Investors can project a potential bullish price target by using the measuring principle, a technique that analyses chart patterns to predict future moves.
+
+Story Continues
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9950882792472839
+

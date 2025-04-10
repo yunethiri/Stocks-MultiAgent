@@ -1,0 +1,20 @@
+link: https://finance.yahoo.com/research/reports/ARGUS_42153_TechnicalAnalysis_1734523425000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+
+source: finance.yahoo.com
+
+title: Apple Inc. (AAPL) Stock Forecasts
+
+summary: 
+
+publishDate: 2024-12-18T12:03:45.000Z
+
+content: Summary
+
+As we enter one of the most-positive times of the year for the stock market, from December 19, 2024, until January 2, 2025, we note that the market has not been kind to average stock as well as many sectors since the latter part of November. Some blame it on tax-loss selling, which is probable. But there are sectors and indices falling from all-time highs, or at least 2024 highs, so there can?t be any tax selling there. NYSE breadth on Tuesday was -1,611 as the streak of weak breadth continues. The 12-day NYSE advances/total issues is down to 39%, one of the weakest readings over the past two years. And, once again, the weakest indices were the NYSE, S&P 400, and S&P 600. We see some interesting Commitment of Traders (COT) data as well as some disturbing da-ta (it just depends on which market). We mentioned previously that the major index combined hedger position was quite bearish -- and when we look at two of its index components, we find that the S&P 500 and the Nasdaq 100 hedgers positions are both bearish as the smart money hedgers are at or near their most-negative futures positions. At the same time, large speculators (hedge funds, momentum junkies) are extremely bullish in their futures positions
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999949932098389
+
