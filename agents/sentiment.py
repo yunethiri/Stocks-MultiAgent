@@ -467,19 +467,19 @@ class SentimentAgent:
             response += "\nNo major events identified during this timeframe.\n"
         return response
 
-# Test with different timeframes
-print("\n=== Testing Different Timeframes ===")
-test_queries = [
-    "How did the sentiment about Apple change in the first half of 2024?",
-    "What was the sentiment trend for Apple in February 2024?",
-    "Analyze the sentiment for Apple stock in Q2 2024"
-]
+# # Test with different timeframes
+# print("\n=== Testing Different Timeframes ===")
+# test_queries = [
+#     "How did the sentiment about Apple change in the first half of 2024?",
+#     "What was the sentiment trend for Apple in February 2024?",
+#     "Analyze the sentiment for Apple stock in Q2 2024"
+# ]
 
-sentiment_agent = SentimentAgent(model_name="gpt-4o")
-for query in test_queries:
-    print(f"\n{'='*80}\nQuery: {query}\n{'='*80}")
-    result = sentiment_agent.process_query(query)
-    print(result["response"])
-    print(f"\nTimeframe: {result['timeframe']}")
-    if result["error"]:
-        print(f"Error: {result['error']}")
+# sentiment_agent = SentimentAgent(model_name="gpt-4o")
+# for query in test_queries:
+#     print(f"\n{'='*80}\nQuery: {query}\n{'='*80}")
+#     result = sentiment_agent.process_query(query)
+#     print(result["response"])
+#     print(f"\nTimeframe: {result['timeframe']}")
+#     if result["error"]:
+#         print(f"Error: {result['error']}")
