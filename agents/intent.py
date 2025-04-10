@@ -8,6 +8,9 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 from langgraph.graph import StateGraph, END
 from datetime import datetime
 import json
+from google import genai
+from google.genai import types
+import os
 
 class IntentClassification(BaseModel):
     intent: str = Field(description="The classified intent")
@@ -48,13 +51,18 @@ class IntentAgent:
         
     def _build_graph(self):
         """Build the LangGraph for intent processing (without a dedicated error node)."""
+        # Ensure we import both START and END
+        from langgraph.graph import START, END
         workflow = StateGraph(IntentAgentState)
         
-        # Add nodes for intent classification and task delegation only.
+        # Add nodes for intent classification and task delegation
         workflow.add_node("classify_intent", self._classify_intent)
         workflow.add_node("delegate_tasks", self._delegate_tasks)
         
-        # Define the graph edges.
+        # Add the entry point edge from START to "classify_intent"
+        workflow.add_edge(START, "classify_intent")
+        
+        # Define the rest of the workflow edges.
         workflow.add_edge("classify_intent", "delegate_tasks")
         workflow.add_edge("delegate_tasks", END)
         
@@ -66,6 +74,7 @@ class IntentAgent:
             prompt = ChatPromptTemplate.from_template("""
             You are an intent classifier for a stock analysis system specialized in Apple Inc. (AAPL).
             Based on the user query, classify the intent and determine which specialized agents should handle it.
+            You only have data in the year 2024. If the query falls out of this range, classify the intent to out_of_scope.
             
             Available agents:
             - sentiment: Analyzes current stock sentiment from news and social media
@@ -99,20 +108,64 @@ class IntentAgent:
             state["error"] = f"Intent classification failed: {str(e)}"
             return state
 
+    # def _perform_web_search(self, query: str) -> Dict[str, Any]:
+    #     """
+    #     Perform a web search using ChatGPT's web search tool mode.
+    #     Modify the prompt to ensure the response is in valid JSON format.
+    #     """
+    #     search_prompt = ChatPromptTemplate.from_template("""
+    #     You are now using ChatGPT's web search tool. Please perform a web search for the following query and return your findings.
+    #     Return your response as a valid JSON object in the following format exactly:
+
+    #     {{
+    #     "response": "<your web search result here>"
+    #     }}
+
+    #     If you are unable to perform a web search, return the JSON object with "No web search available" as the response.
+
+    #     Query: {query}
+    #     """)
+    #     chain = search_prompt | self.llm | JsonOutputParser()
+    #     result = chain.invoke({"query": query})
+    #     return {"response": result.get("response", f"No web search results for '{query}' were found.")}
+    
     def _perform_web_search(self, query: str) -> Dict[str, Any]:
         """
-        Perform a web search using ChatGPT's web search tool mode.
-        This simulates the behavior described in the OpenAI docs for tool mode.
-        In an actual configuration, ensure your account has access to this mode.
-        """
-        search_prompt = ChatPromptTemplate.from_template("""
-        You are now using ChatGPT's web search tool. Please perform a web search for the following query and return your findings succinctly.
+        Perform a web search using Gemini's API via the Google GenAI client.
         
-        Query: {query}
-        """)
-        chain = search_prompt | self.llm | JsonOutputParser()
-        result = chain.invoke({"query": query})
-        return {"response": result.get("response", f"No web search results for '{query}' were found.")}
+        This method uses the Gemini model ('gemini-1.5-flash') and the dynamic retrieval tool.
+        It returns a dictionary with the web search result.
+        
+        Adjust parameters and response parsing according to your needs and Gemini's documentation.
+        """
+        # Create the GenAI client using your API key.
+        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+        
+        try:
+            # Call the generate_content method with the dynamic retrieval tool for Google search.
+            response = client.models.generate_content(
+                model='gemini-1.5-flash',
+                contents=query,
+                config=types.GenerateContentConfig(
+                    tools=[
+                        types.Tool(
+                            google_search=types.GoogleSearchRetrieval(
+                                dynamic_retrieval_config=types.DynamicRetrievalConfig(
+                                    dynamic_threshold=0.6
+                                )
+                            )
+                        )
+                    ]
+                )
+            )
+            # Depending on the API's response format, you may want to extract a particular field.
+            # Here, we simply convert the entire response to a string for demonstration.
+            search_result = response  # Customize extraction based on actual response structure.
+            return {"response": str(search_result)}
+        
+        except Exception as e:
+            # Return an error message in the expected format.
+            return {"response": f"Web search error: {str(e)}"}
     
     def _delegate_tasks(self, state: IntentAgentState) -> IntentAgentState:
         """
@@ -138,6 +191,29 @@ class IntentAgent:
             agents_to_use = intent_data.agents_needed
             state["debug_info"]["agents_needed"] = agents_to_use
             state["agent_responses"] = {}  # Placeholder for additional delegation.
+            # Dispatch to each registered agent.
+            for agent_id in agents_to_use:
+                if agent_id in self.registered_agents:
+                    agent = self.registered_agents[agent_id]
+                    # Depending on your agent's implementation, you might call process() or process_query()
+                    try:
+                        # If the agent provides a process_query method (for example, a RAG agent), use that.
+                        if hasattr(agent, "process_query"):
+                            response = agent.process_query(state["query"])
+                        else:
+                            # Otherwise, use the generic process method.
+                            response = agent.process(state["query"])
+                        state["agent_responses"][agent_id] = response
+                        state["debug_info"][f"delegated_to_{agent_id}"] = f"Called {agent_id} agent successfully."
+                    except Exception as e:
+                        # If an agent call fails, log that error.
+                        state["agent_responses"][agent_id] = {"response": f"Error calling {agent_id}: {str(e)}"}
+                        state["debug_info"][f"error_{agent_id}"] = str(e)
+                else:
+                    # If an agent isn't registered, log that as well.
+                    state["agent_responses"][agent_id] = {"response": f"{agent_id} agent is not registered."}
+                    state["debug_info"][f"error_{agent_id}"] = f"{agent_id} not found in registered agents."
+                    
             return state
         except Exception as e:
             # In case of an error during delegation, fall back to web search.
