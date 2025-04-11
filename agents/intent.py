@@ -321,20 +321,20 @@ class IntentAgent:
 
 
 ##for intent agent testing
-if __name__ == '__main__':
-    from dotenv import load_dotenv
-    load_dotenv() 
+# if __name__ == '__main__':
+#     from dotenv import load_dotenv
+#     load_dotenv() 
 
-    # Create an instance of the IntentAgent.
-    agent = IntentAgent(model_name="gpt-4o")
-    test_query = "how to survive without watre for 5 days?"
-    combined_response = agent._perform_web_search(test_query)
+#     # Create an instance of the IntentAgent.
+#     agent = IntentAgent(model_name="gpt-4o")
+#     test_query = "how to survive without watre for 5 days?"
+#     combined_response = agent._perform_web_search(test_query)
     
-    print("Raw Web Search Results:")
-    print(json.dumps(combined_response["raw_results"], indent=2))
+#     print("Raw Web Search Results:")
+#     print(json.dumps(combined_response["raw_results"], indent=2))
 
-    print("\nGenerated Comprehensive Answer:")
-    print(combined_response["final_answer"])
+#     print("\nGenerated Comprehensive Answer:")
+#     print(combined_response["final_answer"])
 
 
 
