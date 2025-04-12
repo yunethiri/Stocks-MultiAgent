@@ -5,3 +5,5 @@ __pycache__/*
 myenv/
 qdrant_db/qdrant_data/*
 .venv
+.streamlit/secrets.toml
+secrets.toml
