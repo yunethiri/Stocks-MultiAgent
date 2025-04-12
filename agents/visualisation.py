@@ -56,6 +56,7 @@ class StockVisualizer:
         llm = ChatOpenAI(temperature=0, model="gpt-4")
         prompt = ChatPromptTemplate.from_template("""
         Provide a brief summary of the stock performance.
+        Do not give instructions on how to manually visualise the graph in the user head, only give a worded summary.
         Ticker: {ticker}
         Period: {start} to {end}
         Start price: {start_price:.2f}
