@@ -1,0 +1,58 @@
+link: https://finance.yahoo.com/news/apples-ai-gap-iphones-disappoints-051214788.html
+
+source: finance.yahoo.com
+
+title: Apple's AI gap in new iPhones disappoints China users as Huawei threat looms
+
+summary: 
+
+publishDate: 2024-09-10T05:12:14.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999980926513672
+
+images: ['https://s.yimg.com/ny/api/res/1.2/ucxk_hK5TAA5RfPNbITNRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MQ--/https://media.zenfs.com/en/reuters-finance.com/e588dd84cb6c5d2a91d5cb65b5dbadc9', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapples-ai-gap-iphones-disappoints-051214788.html&c14=-1', 'https://media.zenfs.com/en/reuters-finance.com/e588dd84cb6c5d2a91d5cb65b5dbadc9']
+
+content: BEIJING (Reuters) - Apple's new iPhone launch drew scorn on Tuesday for its lack of artificial intelligence features in China, a challenge for the U.S. giant as it battles growing competition from Huawei Technologies in the world's largest smartphone market.
+
+Apple unveiled its long-awaited, AI-boosted iPhone 16 on Monday, hoping the new features would drive consumers to upgrade amid a slowdown in its smartphone sales, which account for more than half of its total sales.
+
+But Apple has yet to announce an AI partner in China to power the 16s, and Apple Intelligence, the company's AI software, will be available in Chinese language only next year.
+
+The iPhone 16 launch dominated discussions on Chinese social media on Tuesday, ahead of Huawei's unveiling of a three-way foldable smartphone later in the day.
+
+On Weibo, China's X-like platform, three of the top 10 trending topics were related to the iPhone 16 launch, with AI features among a key topic of discussion.
+
+The hashtag "iPhone 16 Chinese version doesn't support AI yet" attracted 11.33 million views and over 1,500 comments on Weibo.
+
+"What's the point of buying it if you can't use AI?" wrote one Weibo user.
+
+Another commented, "Without AI as the biggest selling point, it should be half price."
+
+The iPhone 16 and 16 Plus will cost the same as models they replace. In China, Apple aggressively slashed prices earlier this year, as government restrictions on the use of foreign-branded phones and increased domestic competition weighed on its smartphone sales.
+
+Other users on Weibo compared Apple's launch with Huawei's new phone, due to be released as the Chinese firm seeks to widen its lead over Apple in its home market.
+
+"Whether iPhone 16 has AI or not doesn't affect me, because I'm going to buy Huawei's tri-fold phone," one Weibo user wrote, underscoring the growing popularity of Huawei's latest models in China that helped it replace Apple as the country's No.3 smartphone vendor in the second quarter.
+
+But some analysts predicted the absence of AI features in the iPhone 16 was unlikely to have a big impact on near term sales.
+
+"Chinese consumers are not yet driven to upgrade by AI capabilities ... However, in the long run, as domestic brands use AI as a key differentiator for their flagship products, it will negatively affect Apple," said Toby Zhu, an analyst at technology market research firm Canalys.
+
+Zhu said Apple needs to localise its offerings and swiftly establish an AI application and service ecosystem in China to remain competitive.
+
+Story continues
+
+Apple's powerful operating system remains a draw for Chinese consumers, according to Will Wong, an analyst at IDC.
+
+"The key competitive advantage of Apple is its strong customer stickiness. Thus, the replacement needs of the users of the iPhone 11, 12, or 13 series could still support the sales of Apple in the absence of AI."
+
+"It's still too early to say who will win," Wong said.
+
+Pre-orders for the new iPhone start on Friday in China through online retailers such as JD.com, with deliveries beginning on Sept. 20.
+
+(Reporting by Liam Mo and Casey Hall; Editing by Miyoung Kim and Sonali Paul)
+

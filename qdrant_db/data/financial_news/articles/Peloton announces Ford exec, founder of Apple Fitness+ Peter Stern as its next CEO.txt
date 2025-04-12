@@ -1,0 +1,34 @@
+link: https://www.cnbc.com/2024/10/31/peloton-ceo-ford-exec-peter-stern.html
+
+source: www.cnbc.com
+
+title: Peloton announces Ford exec, founder of Apple Fitness+ Peter Stern as its next CEO
+
+summary: Peloton has chosen Ford executive Peter Stern to be its next CEO after Barry McCarthy stepped down earlier this year.
+
+publishDate: 2024-10-31T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998270869255066
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Peloton on Thursday said it has appointed Peter Stern, a Ford executive and the cofounder of Apple Fitness+ to be its next CEO and president.
+
+Stern, the president of Ford Integrated Services, primarily oversees the automotive company's subscription services, such as BlueCruise, Pro Intelligence, connectivity and security. He also led the company's digital product team.
+
+Stern is slated to step down from his role at Ford and take the helm of Peloton on Jan. 1. Interim co-CEO Karen Boone will stay in the role through the end of the calendar year, while her counterpart, Chris Bruzzo will step down from the co-CEO role on Friday. Both Boone and Bruzzo will stay on Peloton's board.
+
+Stern is the third CEO to lead Peloton in its history. The news came alongside Peloton's fiscal first-quarter earnings report. Shares of the company jumped 20% in premarket trading.
+
+"Peter is a seasoned strategist with a track record of driving sustainable growth through innovation, and we have every confidence in his ability to lead Peloton during this important time. He brings meaningful expertise in scaling differentiated technology-oriented platforms and has a deep understanding of the health and wellness sector – making him uniquely suited to serve as Peloton's next CEO," Jay Hoag, the Chairperson of Peloton's board, said in a news release.
+
+"What's more, Peter embodies Peloton's core values, including operating with a bias for action, empowering teams of smart creatives and working together."
+
+The announcement comes about six months after Peloton announced that former Spotify and Netflix executive Barry McCarthy would be stepping down after about two years on the job.
+
+McCarthy had taken over from founder John Foley and had worked to bring Peloton back from the brink of extinction by dramatically cutting costs and redirecting strategy.
+

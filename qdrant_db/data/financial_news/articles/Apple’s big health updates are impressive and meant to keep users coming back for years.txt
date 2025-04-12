@@ -1,0 +1,62 @@
+link: https://finance.yahoo.com/news/apples-big-health-updates-are-impressive-and-meant-to-keep-users-coming-back-for-years-212623985.html
+
+source: finance.yahoo.com
+
+title: Apple’s big health updates are impressive and meant to keep users coming back for years
+
+summary: 
+
+publishDate: 2024-09-11T21:26:23.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://s.yimg.com/ny/api/res/1.2/xh2M123WjVaXB2.7RbL.pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/7bb04d80-bed4-11ee-b7b7-f9706ecb81fc', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197809822&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapples-big-health-updates-are-impressive-and-meant-to-keep-users-coming-back-for-years-212623985.html&c14=-1']
+
+content: Apple’s (AAPL) Apple Intelligence AI platform stole the show at the company’s “Glowtime” iPhone event on Monday. But a pair of health features the company unveiled point to Apple’s continued push into the healthcare space and may prove just as important to keeping users around as its AI efforts.
+
+The capabilities, sleep apnea detection for the Apple Watch and a hearing aid function for the AirPods Pro 2, aren’t yet ready for consumers — they still need approval from global health authorities, including the Food and Drug Administration (FDA) — but Apple expects them to be available in the coming weeks.
+
+The tech giant’s deeper moves into health tracking are just the latest in its quest to become a major player in the industry. As far back as 2019, CEO Tim Cook said Apple’s greatest contribution to mankind will be in health.
+
+So it makes sense that the company would add features to some of its most popular products, the AirPods Pro 2 and Apple Watch Series 9, 10, and Ultra 2, that address well-known health problems. Apple says that an estimated 1 billion people around the world have sleep apnea, a disorder that causes breathing disruptions while sleeping and can increase the risk of diabetes and heart disease, but the majority of those individuals don’t know they have it. In its own study, Apple said that 75% of people diagnosed with hearing loss aren’t getting the necessary support they need for it.
+
+Apple Watches are displayed during an announcement of new products at Apple headquarters Monday, Sept. 9, 2024, in Cupertino, Calif. (AP Photo/Juliana Yamada) (ASSOCIATED PRESS)
+
+Apple is quick to point out that sleep apnea detection isn’t meant to diagnose the condition, but is to be used as a guide to alert you to potential sleep problems that you can bring to your doctor to discuss further testing. The Apple Watch tracks your sleep by detecting micro-movements via its built-in accelerometer.
+
+Apple says it submitted the largest ever study on sleep apnea technology to the FDA to validate the watch’s detection capabilities. During its testing of 1,500 people, the company says its sleep apnea detection didn’t alert on a single person that didn’t at least show signs of mild sleep apnea and that it hit on about two-thirds of true sleep apnea cases.
+
+Sleep apnea detection requires users to wear their watches for at least 10 nights over a 30-day period. The more you wear it during that time, the better. Apple will display results in a new breathing disturbances tab in the Health app, showing if you’re dealing with any breathing disruptions throughout the night.
+
+If you’ve experienced enough sleep disturbances, the Health app will alert you that you’re showing signs of sleep apnea. Your breathing can change for any number of reasons from night to night, whether that’s due to a cold or drinking alcohol. Requiring users to wear their watches for 10 nights should help account for those outlier situations.
+
+Story continues
+
+I’ve got sleep apnea and sleep with a CPAP mask every night. But I spent years experiencing awful sleep problems without knowing what the problem was. It took both my former editor and my wife to convince me to go take a sleep test and find out I had an issue. Having the Apple Watch’s alerts would have saved me a lot of time wondering whether I should go to the doctor or not.
+
+Apple's AirPods Pro 2 are getting an update to help users with hearing difficulties. (Ming Yeung/Getty Images) (Ming Yeung via Getty Images)
+
+Apple’s hearing protection and aid feature for the AirPods Pro 2 is similarly impressive. The option will be available via a software update and include the ability to take a five-minute test to determine if you have a form of hearing loss.
+
+I tried a brief sample of the test: It lasted less than a minute, during which I had to tap the screen each time I heard a beep in my left ear and then my right. It was kind of like the hearing tests you took in school.
+
+I didn’t get to test the hearing aid feature itself, but Apple is positioning it as a replacement for over-the-counter hearing aids for people with mild to moderate hearing loss. Users with severe hearing problems will still need purpose-built hearing aids.
+
+Still, offering a hearing test and over-the-counter-equivalent hearing aid option to consumers could prove to be incredibly helpful to people around the world who otherwise might not realize they even have hearing problems.
+
+Apple’s features also act as another way for the company to both draw new users and keep its existing customers from leaving for competing offerings from Samsung and Google, even if Samsung already offers sleep apnea detection in its own smartwatch.
+
+The idea is for Apple to prove that its products are invaluable devices that you shouldn’t be without. And with its latest offerings, it seems to do just that. We’ll see how consumers react when Apple releases updates for sleep apnea detection and hearing protection and aids in the weeks ahead.
+
+Subscribe to the Yahoo Finance Tech newsletter. (Yahoo Finance)
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley.
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance
+

@@ -1,0 +1,22 @@
+link: https://www.cnbc.com/2024/10/18/cramer-apple-stock-can-blow-through-records-on-real-iphone-data-out-of-china.html
+
+source: www.cnbc.com
+
+title: Jim Cramer says Apple stock can 'blow through' records on real iPhone data out of China
+
+summary: New Counterpoint data is the second positive iPhone report this week after a recent slew of mixed Wall Street analysts' commentary.
+
+publishDate: 2024-10-18T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9962749481201172
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/107364367-1706188724953-gettyimages-1958956269-dji_fly_20240124_172114_0012_1706150542975_photo_4nc08a8p.jpeg?v=1729255776&w=600&h=300&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: Apple stock was on track to close at a record high Friday after positive new data about iPhone demand in China. The news Sales of the new AI-enabled iPhone 16 in China jumped 20% in the first three weeks since going on sale there, according to Counterpoint Research data released Friday. That compares to the same post-launch period in 2023. The new Pro and Pro Max were particularly strong there. Apple's iPhone 16 models and the latest high-end smartphones from Chinese rival Huawei both hit stores in China on the same day, Sept. 20. The two are fierce rivals in China — so much so their flagship stores in Shanghai are right across the street from each other. Big picture The Counterpoint data is the second positive iPhone report this week after a recent slew of mixed Wall Street analysts' commentary expressing concerns about early sales of the new device. Club stock Apple hit an all-time intraday high on Tuesday following a report from IDC signaling iPhone shipments were running above Wall Street estimates for the current quarter. If shares close about $234.82 on Friday, that would take out Apple's July record close — before the Aug. 5 market meltdown. Apple stock was more than 3% this week. Bottom line "These numbers are real numbers, and they're amazing," Jim said Friday, referring to the Counterpoint data. As a result, he predicted Apple stock will "blow through a lot of levels here." Jim still expects a robust iPhone 16 upgrade cycle but has acknowledged that it may be elongated. The software features of Apple Intelligence, the company's flavor of AI, were not released with the new operating system that usually comes shortly after iPhone launches. They are expected later this month. (Jim Cramer's Charitable Trust is long AAPL. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+The Huawei flagship store and the Apple flagship store are seen at Nanjing Road Pedestrian Street in Shanghai, China, September 2, 2024. Cfoto | Future Publishing | Getty Images
+

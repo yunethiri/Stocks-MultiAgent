@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-09-27T21:07:13.000Z
 
+language: en
+
+sentiment: positive
+
+confidence: 0.9986456036567688
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197809822&c7=https%3A%2F%2Ffinance.yahoo.com%2Fvideo%2Fapple-still-ai-winner-despite-210713797.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/3wGTHVFjBOYxA1HRkEtOZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/582253b0-7d13-11ef-bfff-fd41228acb0c']
+
 content: Apple's (AAPL) new iPhone 16 has received mixed reception. Antoine Chkaiban, New Street Research technology infrastructure analyst tells Julie Hyman and Josh Lipton on Market Domination to break down why he’s concerned about the iPhone maker in the near term despite expecting the company to be a major benefactor of artificial intelligence (AI).
 
 “We're concerned about the upcoming cycle for a number of reasons,” Chkaiban says. “There are early data points suggesting that iPhone 16 reception is poor. Users are often disappointed. They see limited innovation. He adds that Apple Intelligence being delayed until after the initial launch of the device “doesn't really help.”
@@ -25,10 +33,4 @@ He expects that Apple’s revenue will grow, but this growth will be driven by s
 For more expert insight and the latest market action, click here to watch this full episode of Market Domination.
 
 This post was written by Naomi Buchanan.
-
-language: en
-
-sentiment: positive
-
-confidence: 0.9986456036567688
 

@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/apple-completely-switch-oled-iphone-display-2025-nikkei-says-2024-09-03/
+
+source: www.reuters.com
+
+title: Apple to completely switch to OLED for iPhone display from 2025, Nikkei says
+
+summary: Apple will use organic light-emitting diode (OLED) displays for all iPhone models sold in 2025 and afterwards, moving completely away from liquid crystal displays (LCDs), Nikkei business daily said.
+
+publishDate: 2024-09-03T09:56:28.078Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998960494995117
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will use organic light-emitting diode (OLED) displays for all iPhone models sold in 2025 and afterwards, moving completely away from liquid crystal displays (LCDs), Nikkei business daily said.
+The planned move will exclude Japan's Sharp Corp <a href="https://www.reuters.com/markets/companies/6753.T" target="_blank">(6753.T)</a> and Japan Display <a href="https://www.reuters.com/markets/companies/6740.T" target="_blank">(6740.T)</a> from Apple's handset business, Nikkei said.
+Apple has started placing orders for OLED displays for the upcoming iPhone SE from China's BOE Technology <a href="https://www.reuters.com/markets/companies/6740.T" target="_blank">(6740.T)</a> and South Korea's LG Display <a href="https://www.reuters.com/markets/companies/034220.KS" target="_blank">(034220.KS)</a>, Nikkei also said, citing several components suppliers.
+

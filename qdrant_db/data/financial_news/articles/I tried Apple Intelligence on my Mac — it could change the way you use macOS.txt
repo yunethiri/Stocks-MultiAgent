@@ -1,0 +1,100 @@
+link: https://www.yahoo.com/tech/tried-apple-intelligence-mac-could-150000389.html
+
+source: www.yahoo.com
+
+title: I tried Apple Intelligence on my Mac — it could change the way you use macOS
+
+summary: 
+
+publishDate: 2024-10-12T15:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9980894923210144
+
+images: ['https://s.yimg.com/ny/api/res/1.2/QPdDuDqMkt80hMe3a8HCag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/laptopmag_536/68ed6da0d2adc8f68d6246806e8b4710', 'https://s.yimg.com/ny/api/res/1.2/V.x.DZ9zUn3ExGc.kJeYiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc1Nw--/https://media.zenfs.com/en/laptopmag_536/f9913e10a2a28dae6aec2a17a38140f8', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: I tried Apple Intelligence on my Mac — it could change the way you use macOS
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+MacOS Sequoia is shaping up to be one of the most significant updates to Apple’s desktop OS. It lets you control an iPhone from a Mac , drag windows to automatically snap into a side-by-side layout, and access a full-fledged password manager app. For most users, though, arguably macOS Sequoia’s headlining addition — Apple Intelligence — isn’t even live yet. However, over the last couple of weeks, I’ve had a chance to test it on the update’s beta release. How much are you missing out on?
+
+Apple Intelligence brings a variety of long-overdue Generative AI features across macOS, similar to the ones found on Windows 11. A writing aid, for example, will allow you to instantly proofread your text or rewrite it from scratch in a more professional tone, a more capable Siri will understand when you speak in natural language instead of preset commands, an AI will summarize your emails on demand, and more.
+
+However, as has been evident from the success of apps like ChatGPT, Generative AI capabilities can prove to be a hit or a miss, and more importantly, the models behind them can take a toll on a device’s performance. I tried Apple Intelligence on an M1 Mac Mini, the lowest hardware spec you need to run it, for a couple of weeks; Here’s what it’s like to use it and whether it will change how you use macOS.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+How to use Apple Intelligence in macOS Sequoia
+
+Since Apple Intelligence is in beta, though, it does come bearing a handful of asterisks.
+
+At the time of writing, Apple Intelligence tools were available on the macOS Sequoia 15.1 public beta, and out of the box, you may not notice their presence. For now, Apple has kept them an opt-in feature, meaning you must head into the settings and manually activate them. Even when you do that, your Mac won’t immediately become AI-smart.
+
+Once you toggle on Apple Intelligence in its dedicated new Settings page clubbed alongside Siri, you will join a waitlist, and it could take hours or days for your turn to arrive. For me, it took a couple of reboots for my Mac to begin setting up the local AI models that power Apple’s new “personal intelligence system.”
+
+Since Apple Intelligence is in beta, though, it does come bearing a handful of asterisks. For one, Apple explicitly warns the generative models’ outputs “may be inaccurate, unexpected, or offensive” and recommends verifying “important information for accuracy.”
+
+Second, you won’t find the entire collection of AI-backed Mac features Apple demoed months back at its WWDC keynote. Notable absentees include Generative Playground, an app to generate AI images, and the ability to integrate Apple Intelligence with ChatGPT. That said, there’s still plenty to experience, and it offers a promising glimpse into how we all may operate a Mac in the future.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+On Writing Tools
+
+The centerpiece of the Apple Intelligence rollout, as is the case with most tech giant’s Generative AI abilities, is a series of writing tools. They live inside the right-click menu and are available when you select a piece of text on any app. This means they work across the system and are not limited to the apps that release updates to support Apple Intelligence.
+
+Inside the “Writing Tools” dropdown, you’ll find a few options that should be familiar to those who have used Generative AI-powered services before. “Proofread” checks for any grammatical or consistency errors and rewrites the selected text with the changes, “Rewrite” attempts to redo the text in another direction, and there are even shortcuts to make it more professional, friendly, and concise.
+
+These functions are fairly straightforward and pop out the results in a small floating window, so you don’t have to switch apps to access them. They work as intended, and more often than not, I’ve found them accurate and free of hallucinations. I also found the “Copy” button underneath them handy.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+Some of these tools could use a Rewrite
+
+However, there’s little room for customization. At times, Apple’s models aren’t aggressive enough, and the updated text resembles the original. Hitting the “Rewrite” button doesn’t much help either. In such cases, on other AI apps like ChatGPT, I could enter a prompt, and request the AI to zero in on the task.
+
+Speaking of which, the lack of a prompt box isn’t ideal, as it would enable me to produce an outcome precisely to my needs. If I’m editing a marketing document, for example, I can simply ask ChatGPT to behave like a marketing exec, as opposed to a general-purpose writer. I’d also prefer it if Apple’s Writing Tools window showed me exactly what it has updated.
+
+In addition, while having writing tools in a floating window is nice, I wish I could make them stick, especially when I need them frequently on programs like Pages. The “Show Writing Tools” option brings up the functions in a better-designed menu than a dropdown but it doesn’t affect its nature. The window and the text I produced go away as soon as I click anywhere else. Hopefully, Apple will make accessing Writing Tools possible through a keyboard shortcut or a permanent sidebar.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+Summing up Writing Tools
+
+I was more intrigued by Apple Intelligence’s ability to break down and summarize the text.
+
+Instead of the rewriting abilities, I was more intrigued by Apple Intelligence’s ability to break down and summarize the text. Apart from prompting it to generate brief digests of a paragraph, for example, it can pick up and list down the key points and turn them into a list or a table. When I asked it to rewrite a laptop review’s conclusion into a tabular form, it created a column for a feature, and another for its verdict. “One of the most comfortable for typing,” for instance, was put in the “Keyboard” row.
+
+While Writing Tools works on its own in a snap, I would expect it over time to be better integrated into at least Apple’s native apps. I could, of course, select an online article’s entire text, and go through a multi-step dropdown to summarize it, but it would simply make more sense to have a quick “Summarize” button on Safari, like you do on Microsoft Edge.
+
+Some of that has already been put into action. On the Apple Mail app, there’s now a nifty “Summarize” button on top of each email that produces a mini synopsis of its content. Here too, though, there are signs of a half-baked beta. Like on AI email services such as Shortwave, there’s no redo button, and clicking the thumbs-down icon next to a summary simply lets you send your feedback to Apple, not regenerate it.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+Siri is your more human-sounding and helpful macOS guide
+
+On macOS Sequoia, Siri also knows a whole lot more about your Mac.
+
+The other, major Apple Intelligence-powered addition you’ll come across on macOS Sequoia is the new Siri. Thanks to Generative AI, it is much less robotic now, and better at understanding the way humans typically talk, leading to fewer mistakes and quicker replies. I’m also a fan of the crisp new textbox design, which supports text input in addition to voice and hovers in the corner surrounded by a colorful gradient.
+
+On macOS Sequoia, Siri also knows a whole lot more about your Mac. When I’m stuck figuring out how to perform a certain Mac function, I no longer have to head to Google; I can just double-press the command button and ask Siri. In subsequent updates, your Mac’s Siri will be more aware of your personal context and able to easily look up local files and data shared with you on compatible messaging apps.
+
+A sprinkling of AI shows a path to the future
+
+Apple has sprinkled AI in smaller quantities throughout the OS, and though it may not be groundbreaking, it will undoubtedly usher in more quality-of-life upgrades. The Email app, for example, will be smarter at pushing high-priority correspondence to the top, and the Photos app will let you find media by describing what’s in them. In the coming months, macOS will also gain a dedicated app to generate AI images and a Google Photos-like “Clean Up” tool to remove distracting objects in your photos.
+
+More importantly, Apple will soon allow you to link the ChatGPT app with your Mac’s onboard AI functions. This will eliminate some of the concerns I have at the moment, like the lack of a prompt box, and enable Apple Intelligence to tap into the broader web’s knowledge. Its success, though, depends on what kind of guardrails Apple puts in place to prevent abuse and reinforce privacy. For now, as far as writing aids are concerned, you’re better off with third-party apps like Elephas and ChatGPT.
+
+Screenshots of the Apple Intelligence tools in macOS Sequoia 15.1 public beta
+
+Beta today, better tomorrow
+
+Apple Intelligence won’t revolutionize how you operate your Mac yet, but I can see how it could refine your experience one update at a time. It’s similar to the advancements tech companies have made over the years with the help of much less glamorous machine learning technologies.
+
+Searching your Mac, for example, will be a more convenient process if you could just ask Siri to look it up for you. Similarly, reading lengthy emails to understand whether they matter to you or belong in the bin will be a thing of the past, thanks to instant summaries. But in its current form, Apple Intelligence is truly what Apple calls it: a beta, not nearly the “personal intelligent system” the Cupertino company plans to offer.
+

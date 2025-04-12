@@ -1,0 +1,36 @@
+link: https://www.reuters.com/legal/google-monopoly-ruling-could-help-apple-defense-antitrust-case-2024-08-06/
+
+source: www.reuters.com
+
+title: Google monopoly ruling could help Apple defense in antitrust case
+
+summary: Apple could be the winner after Alphabet's Google lost its fight with the U.S. antitrust enforcers earlier this week, with a ruling that supports the iPhone maker's defense in its own antitrust court battle with U.S. prosecutors, legal experts said.
+
+publishDate: 2024-08-06T16:24:40.329Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999688863754272
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> could be the winner after Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google <a href="/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/">lost its fight with the U.S. antitrust enforcers earlier this week</a>, with a ruling that supports the iPhone maker's defense in its own antitrust court battle with U.S. prosecutors, legal experts said.
+A federal judge <a href="/technology/landmark-google-ruling-warning-companies-about-preserving-evidence-2024-08-06/">mostly sided with state and federal antitrust enforcers</a> in the blockbuster case on Monday that ruled Google's search business was an illegal monopoly, but threw out a claim by several U.S. states that one of Google's ad tools was designed to give the company an advantage over Microsoft's <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> Bing.
+That piece could help Apple's defense in <a href="/legal/us-takes-apple-antitrust-lawsuit-2024-03-21/">its own anti-monopoly case</a>, experts said.
+The ruling underscored Supreme Court precedent that companies almost never have a "duty to deal" with their rivals, said Herbert Hovenkamp, who teaches antitrust at the University of Pennsylvania Carey Law School.
+"Any case, including Apple, in which a duty to deal is a major portion, is going to get a close look," he said.
+The states had claimed Google thwarted competition by failing to offer key features for rivals' ads through Search Ads 360, a tool for managing marketing campaigns across multiple search engines.
+<a href="/legal/us-judge-describes-how-google-built-defended-illegal-search-monopoly-2024-08-05/">U.S. District Judge Amit Mehta</a> agreed with Google that it was not required to spur competition by accommodating its rival.
+"Their claim requires grappling with a host of questions that the court is ill-equipped to handle," the judge said.
+That part of the ruling is good for defendants, said William Kovacic, a professor at George Washington University Law School and former commissioner of the U.S. Federal Trade Commission.
+"It also is a reminder that the case is hardly finished," he said, adding that the case and appeals could take years.
+To be sure, Apple could ultimately lose billions of dollars because of the Google case if the judge bans the search juggernaut from paying the iPhone maker and others to be the default search engine on their devices.
+Mehta noted that Google had paid $26.3 billion in 2021 alone to ensure that its search engine is the default on smartphones and browsers, and to keep its dominant market share.
+But the Google ruling could give Apple a boost in its case where the Justice Department says it hampered the development of third-party apps and devices.
+The company <a href="/legal/apple-asks-us-judge-toss-antitrust-lawsuit-2024-08-01/">last week</a> asked for the case to be dismissed, arguing that putting reasonable limitations on third-party developers' access to its technology did not amount to anti-competitive behavior, and that forcing it to share technology with competitors would chill innovation.
+The judge in Apple's case need not follow Mehta's ruling, though Apple may try to use it to persuade him.
+The Justice Department will have to show Apple's interactions with developers were more like Google's payments to device makers, Hovenkamp said.
+"In order to win, the government is going to have to point to some kind of agreement, because then the standard becomes more aggressive," he said.
+

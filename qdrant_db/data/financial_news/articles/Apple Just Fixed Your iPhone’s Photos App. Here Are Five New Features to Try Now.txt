@@ -1,0 +1,80 @@
+link: https://www.yahoo.com/tech/apple-just-fixed-iphone-photos-214303594.html
+
+source: www.yahoo.com
+
+title: Apple Just Fixed Your iPhone’s Photos App. Here Are Five New Features to Try Now
+
+summary: 
+
+publishDate: 2024-12-12T21:43:03.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999774694442749
+
+images: ['https://s.yimg.com/uu/api/res/1.2/RZGBZ.mu_UB.J2CvoZ0PDg--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-07/fbcb0240-3ed0-11ef-bfab-260b39295c2b.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/h84BociIakj9lMcPFz..pQ--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c0d2f020-02f4-11ef-97df-6e66a418393d.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/1tkyXYDdOiTVlL2.gyV7hQ--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/bc2dfbfa3dca63184cee5e5133d1e045.cf.webp']
+
+content: It makes one of your most-used apps even easier to use.
+
+iOS.12 Photos app updates
+
+When Apple rolled out iOS 18 this past fall, it significantly changed the iPhone’s Photos app — and many people didn’t like it. The update gave the app a new look and organizing features, but it also added clutter and made it more complicated to scroll through your photos.
+
+The good news is that Apple appears to have taken that feedback on the chin. Thanks to iOS 18.2 (available now), the Photos app has received a significant update again — only this time, Apple a lot of the maligned features and added some new things as well.
+
+Advertisement Advertisement
+
+Advertisement
+
+Here’s what you need to know.
+
+Videos take up the entire screen (again)
+
+Videos play full-screen by default. No screen tapping required. - Credit: Photo by Tucker Bowe for Gear Patrol
+
+One of the annoying things that iOS 18 brought to the Photos app had to do with videos — when you played a video, it had borders and didn’t take up the entire screen by default. They also had a weird zoomed-in effect. You had to tap your iPhone’s screen to get rid of the borders and play your video at full-screen.
+
+Thankfully, iOS 18.2 fixed that. When you play videos, they are now full-screen by default.
+
+Swipe navigation is back
+
+On the right iPhone, you can see the “X” in the top right that you previously needed to tap to go back in Albums. The iPhone on the left is running the newest iOS. - Credit: Photo by Tucker Bowe for Gear Patrol
+
+iOS 18.2 brings a simple quality-of-life update to using the Photos app, too. With iOS 18, you had to tap a back button (located in the top corner) to go “back” when scrolling through photos in Collections.
+
+Advertisement Advertisement
+
+Advertisement
+
+Now with iOS 18.2, you can simply swipe right to go back … just like how you would on pretty much any other app.
+
+Stop videos from auto-looping
+
+A new setting! - Credit: Photo by Tucker Bowe for Gear Patrol
+
+Another thing with videos. When you played a video in the Photos app on iOS 18, it would automatically start playing again when it ended. It auto-looped, which you may have found annoying.
+
+With iOS 18.2, videos still auto-loop by default — but you can turn it off. Simply open the Photos app, tap your profile (your face in the top-right corner) and toggle off “Loop Videos.” You can also do this through the Settings app and selecting the Photos app.
+
+More precise video scrubbing
+
+There’s a new millisecond reading when video scrubbing. - Credit: Photo by Tucker Bowe for Gear Patrol
+
+Video scrubbing — when you use the slider to reach a precise spot in a video — gets a small but useful update.
+
+Advertisement Advertisement
+
+Advertisement
+
+Specifically, iOS 18.2 delivers support for frame-by-frame video scrubbing with a timestamp with a millisecond reading (as opposed to just the second reading). This helps you be even more precise when getting to the exact spot of a video.
+
+Clear your browsing history
+
+Delete your browsing history in Recently Viewed or Recently Shared albums. - Credit: Photo by Tucker Bowe for Gear Patrol
+
+For the first time, iOS 18.2 lets you delete your browsing history when browsing the Recently Viewed and Recently Shared albums. This way, you don’t have to see the same photos again. And it’s super easy.
+
+When browsing Recently Viewed or Recently Shared albums, simply tap the More (…) button in the top-right corner and selecg “Remove All from Recently Viewed.”
+

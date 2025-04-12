@@ -1,0 +1,27 @@
+link: https://www.reuters.com/technology/apple-supplier-jabil-announces-restructuring-beats-fourth-quarter-estimates-2024-09-26/
+
+source: www.reuters.com
+
+title: Apple supplier Jabil announces restructuring, beats fourth-quarter estimates
+
+summary: Electronic components maker Jabil on Thursday beat fourth-quarter estimates and announced restructuring plans, including headcount reductions, sending its shares up as much as 10% in premarket trading.
+
+publishDate: 2024-09-26T13:07:01.890Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999996423721313
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Electronic components maker Jabil <a href="https://www.reuters.com/markets/companies/JBL.N" target="_blank">(JBL.N)</a> on Thursday beat fourth-quarter estimates and announced restructuring plans, including headcount reductions, sending its shares up as much as 10% in premarket trading.
+The St. Petersburg, Florida-based company, which counts Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> as its customer, makes electronic components such as circuit board assemblies and systems that cater to the automotive, cloud and commercial drones, trucks and bus markets.
+Jabil said it would reduce headcount in some divisions as part of its restructuring plan, but did not provide any number.
+The company expects to record about $150 million to $200 million in pre-tax restructuring and other related costs over the fiscal year 2025.
+While Jabil faced short-term demand challenges in certain end-markets, it said it was well-positioned to capitalize on the trends in industries ranging from datacenter power and cooling to electric and hybrid vehicles in the mid-to-long term.
+The company's revenue for the quarter ended Aug. 31 stood at $6.96 billion, down nearly 18% over the year earlier but above LSEG estimates of $6.58 billion.
+On an adjusted basis, Jabil earned $2.30 per share for the quarter, also ahead of analysts' average estimate of $2.20.
+The company forecast its net revenue for the fiscal 2025 at $27 billion, compared with analysts' estimate of $28.5 billion.
+

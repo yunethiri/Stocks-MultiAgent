@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-10-11T19:12:17.000Z
 
+language: en
+
+sentiment: negative
+
+confidence: 0.9866829514503479
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-launches-largest-overseas-r-191217336.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/g.LCS.XSZXqIYRBzTGMVqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2OA--/https://media.zenfs.com/en/us.finance.gurufocus/cec064147df8ea793efbf1660c688456', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: SHENZHEN, China, Oct. 11, 2024 iPhone-maker Apple (AAPL,Financial) just opened its largest research laboratory outside the U.S. at the Shenzhen Park in Hetao, according to a South China Morning Post report. The facility thats operational since Thursday, spans a whopping 20,000 square meters will be a focal area for Apples research and development hub in the Greater Bay Area, covering Guangdong, Hong Kong, and Macao.
 
 Moreover, it is expected that the new lab will significantly boost Apples research and testing capabilities for key products, such as its flagship iPhone, iPad, and Vision Pro mixed-reality headsets. Additionally, the facility aims to potentially employ upwards of 1,000 domestic and international experts, solidifying its place as Apple's most extensive R&D center outside the U.S.
@@ -17,10 +25,4 @@ Additionally, Apple's expansion comes at a point where there is heightened compe
 This article first appeared on GuruFocus.
 
 
-
-language: en
-
-sentiment: negative
-
-confidence: 0.9866829514503479
 

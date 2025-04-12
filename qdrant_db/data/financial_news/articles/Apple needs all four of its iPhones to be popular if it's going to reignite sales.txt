@@ -1,0 +1,44 @@
+link: https://www.cnbc.com/2024/11/12/apple-releases-four-phones-a-year-but-it-needs-to-make-all-of-them-popular.html
+
+source: www.cnbc.com
+
+title: Apple needs all four of its iPhones to be popular if it's going to reignite sales
+
+summary: Every year since 2020, when Apple moved to a four-model lineup, one of them has lagged in terms of sales.
+
+publishDate: 2024-11-12T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.831892728805542
+
+images: ['https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg']
+
+content: One of the first things Steve Jobs did when he returned to Apple in 1997 was simplify Apple's product lineup. At the time that meant four computers: Two laptops and two desktops, each in a pro and consumer version.
+
+"If we had four great products, that's all we need," Jobs said at a product launch in 1998.
+
+Three decades later, Apple's product lineup is much broader. The company in 2024 launched four iPads, four MacBooks, two desktop Macs, one Vision Pro headset, two Apple Watch models and three kinds of AirPods. But when it comes to iPhones, four remains the magic number.
+
+That's how many iPhones the company has released each year since 2020, and in September, it released the iPhone 16, the iPhone 16 Plus, the iPhone 16 Pro and the iPhone 16 Pro Max.
+
+Apple introduced the four-phone lineup because historically the company's iPhone sales have seen the strongest growth when it expanded the lineup. If Apple can show growth from the four new phones it releases each year without them cannibalizing one another, that gives the company its best chance to see iPhone sales grow meaningfully for the first time since 2022.
+
+The company doesn't give sales figures for its individual products, and overall iPhone sales for fiscal 2024 came in at $201.18 billion. That's relatively flat going back to 2022.
+
+Unfortunately for Jobs' company, not all of the iPhones are equally popular.
+
+Every year since 2020, one of the new iPhone models has lagged its siblings in sales. This year it's the iPhone 16 Plus, which lands in the middle of the lineup. At $899 in the U.S., it's more expensive than the baseline iPhone 16 but cheaper than the iPhone 16 Pro and Pro Max, which have better screens.
+
+DSCC, a research firm focused on the smartphone display industry with estimates derived from the panel supply chain, has picked up on this trend. The shares of the Pro and Pro Max phones have been rising on an annual basis while the Plus model declined from about 21% of total Apple screen orders in 2022 to 10% in 2023, according to DSCC's data for annual panel procurement through October. While it recovered somewhat to 16% this year, it's still the lowest volume out of the company's new iPhones, according to DSCC.
+
+"They're still really struggling with this fourth model," DSCC founder Ross Young said.
+
+Other data shows the Plus lagging, too. The iPhone 16 Plus accounted for 4% of overall iPhone sales in the U.S. in the third quarter while both the Pro and Pro Max each accounted for 6% of sales, according to survey findings by Consumer Intelligence Research Partners. The regular 16 accounted for 4%, too, although early cycle iPhone sales are heavily weighted toward early adopters and the Pro models, according to CIRP.
+
+The metric only includes a few weeks of the latest model sales in the third quarter, but the 2024 findings are in line with last year's, where the 15 Plus accounted for 3% of total sales about a month after launch.
+
+Apple's iPhone 15, iPhone 15 Pro and iPhone 15 Pro Max took the top three spots, respectively, in Counterpoint's data for the best-selling individual smartphone models around the world in the third quarter of 2024. The Plus model didn't make the top 10 list.
+

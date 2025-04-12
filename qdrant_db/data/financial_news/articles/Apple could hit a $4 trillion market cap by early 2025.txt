@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-23T13:20:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.947627604007721
+
+images: ['https://media.zenfs.com/en/quartz.com/98d02dd991d66599c63dd1320d9f93e8', 'https://s.yimg.com/ny/api/res/1.2/4qsEaFVNpIG5Pm42L8SGQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5ODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/73046c40-2452-11eb-bfff-e66740bca03b', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Photo: Michael M. Santiago (Getty Images)
 
 Apple’s (AAPL) artificial intelligence rollout could drive demand for the iPhone 16 this holiday season — and send the tech giant’s market value to a new record high.
@@ -33,10 +41,4 @@ That, combined with a strong services business and the massive potential for App
 “We believe the success of iPhone 16 with a strong holiday season ahead over the next week will be the launching pad for a renaissance of growth in Cupertino over the next 12 to 18 months,” they wrote.
 
 For the latest news, Facebook, Twitter and Instagram.
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.947627604007721
 

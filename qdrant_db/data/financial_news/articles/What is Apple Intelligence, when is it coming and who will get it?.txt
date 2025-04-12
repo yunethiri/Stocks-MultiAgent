@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/apple-intelligence-coming-164731879.html
+
+source: finance.yahoo.com
+
+title: What is Apple Intelligence, when is it coming and who will get it?
+
+summary: 
+
+publishDate: 2024-10-25T19:16:53.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999932050704956
+
+images: ['https://s.yimg.com/ny/api/res/1.2/WZOxSeS5hv6ChUy_TY.ZBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/873fde1146dd5b90ddec6d4b29f82761', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66']
+
+content: After months of speculation, Apple Intelligence took center stage at WWDC 2024 in June. The platform was announced in the wake of a torrent of generative AI news from companies like Google and Open AI, causing concern that the famously tight-lipped tech giant had missed the boat on the latest tech craze.
+
+Contrary to such speculation, however, Apple had a team in place, working on what proved to be a very Apple approach to artificial intelligence. There was still pizzazz amid the demos — Apple always loves to put on a show — but Apple Intelligence is ultimately a very pragmatic take on the category.
+
+Apple Intelligence (yes, AI for short) isn’t a standalone feature. Rather, it’s about integrating into existing offerings. While it is a branding exercise in a very real sense, the large language model (LLM) driven technology will operate behind the scenes. As far as the consumer is concerned, the technology will mostly present itself in the form of new features for existing apps.
+
+We learned more during the Apple's iPhone 16 event, which was held on September 9. During the event, Apple touted a number of AI-powered features coming to their devices, from translation on the Apple Watch Series 10, visual search on iPhones and a number of tweaks to Siri's capabilities. The first wave of Apple Intelligence is arriving at the end of October, as part of iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1. A second wave of features are available as part of iOS 18.2, iPadOS 18.2 and macOS Sequoia 15.2 developer betas.
+
+The features launched first in U.S. English. Apple has since added Australian, Canadian, New Zealand, South African, and U.K. English localizations.
+
+Support for Chinese, English (India), English (Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, and Vietnamese will arrive in 2025. Notably, users in both China and the EU may not get any access to Apple Intelligence features, owing to regulatory hurdles.
+
+What is Apple Intelligence?
+
+Image Credits:Apple
+
+Cupertino marketing executives have branded Apple Intelligence: “AI for the rest of us.” The platform is designed to leverage the things that generative AI already does well, like text and image generation, to improve upon existing features. Like other platforms including ChatGPT and Google Gemini, Apple Intelligence was trained on large information models. These systems use deep learning to form connections, whether it be text, images, video or music.
+
+The text offering, powered by LLM, presents itself as Writing Tools. The feature is available across various Apple apps, including Mail, Messages, Pages and Notifications. It can be used to provide summaries of long text, proofread and even write messages for you, using content and tone prompts.
+
+Story Continues
+

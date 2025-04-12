@@ -1,0 +1,42 @@
+link: https://www.cnbc.com/2024/11/21/cfpb-expands-oversight-of-apple-pay-other-digital-payments-services.html
+
+source: www.cnbc.com
+
+title: CFPB expands oversight of digital payments services including Apple Pay, Cash App and PayPal
+
+summary: The most popular apps covered by the rule collectively process more than 13 billion consumer payments a year, the CFPB said.
+
+publishDate: 2024-11-21T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9951286315917969
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/107341472-1701366527685-gettyimages-1813802463-CFPB_hearing_356_113023.jpeg?v=1732195364&w=1920&h=1080']
+
+content: Rohit Chopra, director of the CFPB, testifies during the Senate Banking, Housing and Urban Affairs Committee hearing titled "The Consumer Financial Protection Bureau's Semi-Annual Report to Congress," in the Dirksen Building on Nov. 30, 2023.
+
+The Consumer Financial Protection Bureau on Thursday issued a finalized version of a rule saying it will soon supervise nonbank firms that offer financial services likes payments and wallet apps.
+
+Tech giants and payments firms that handle at least 50 million transactions annually will fall under the review, which is meant to ensure the newer entrants adhere to the laws that banks and credit unions abide by, the CFPB said in a release. That would include popular services from Apple and Google , as well as payment firms like PayPal and Block .
+
+While the CFPB already had some authority over digital payment companies because of its oversight of electronic fund transfers, the new rule allows it to treat tech companies more like banks. It makes the firms subject to "proactive examinations" to ensure legal compliance, enabling it to demand records and interview employees.
+
+"Digital payments have gone from novelty to necessity and our oversight must reflect this reality," said CFPB Director Rohit Chopra. "The rule will help to protect consumer privacy, guard against fraud, and prevent illegal account closures."
+
+A year ago, the CFPB said it wanted to extend its oversight to tech and fintech companies that offer financial services but that have sidestepped more scrutiny by partnering with banks. Americans are increasingly using payment apps as de facto bank accounts, storing cash and making everyday purchases through their mobile phones.
+
+The most popular apps covered by the rule collectively process more than 13 billion consumer payments a year, and have gained "particularly strong adoption" among low- and middle-income users, the CFPB said on Thursday.
+
+"What began as a convenient alternative to cash has evolved into a critical financial tool, processing over a trillion dollars in payments between consumers and their friends, families, and businesses," the regulator said.
+
+The initial proposal would've subjected companies that process at least 5 million transactions annually to some of the same examinations that the CFPB conducts on banks and credit unions. That threshold got raised to 50 million transactions in the final rule, the agency said Thursday.
+
+Payment apps that only work at a particular retailer, like Starbucks , are excluded from the rule.
+
+The new CFPB rule is one of the rare instances where the U.S. banking industry publicly supported the regulator's actions; banks have long felt that tech firms making inroads in financial services ought to be more scrutinized.
+
+The CFPB said the rule will take effect 30 days after its publication in the Federal Register.
+

@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-08-05T21:54:01.000Z
 
+language: en
+
+sentiment: negative
+
+confidence: 0.9999911785125732
+
+images: ['https://s.yimg.com/ny/api/res/1.2/xh2M123WjVaXB2.7RbL.pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-01/7bb04d80-bed4-11ee-b7b7-f9706ecb81fc', 'https://s.yimg.com/ny/api/res/1.2/ueTFxuVDZ22wxr7JvIryzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fimage_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252FGLB%252F2017-10-19%252F2021c8a0-b4fd-11e7-9b93-f3d4e83a491a_d_howley.jpg%26compress%3D1%26progressive%3D1%26quality%3D75%26client%3Dhawkeye%26signature%3D6fc48e48fdda6452e6d2bb5e248c971f50d4e9d6&compress=1&progressive=1&quality=75&client=hawkeye&signature=c6799cfaae072737161ec6fe9337daea300ac787', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8']
+
 content: Google (GOOG, GOOGL) suffered a staggering shot to its search and advertising business on Monday as District of Columbia's Judge Amit Mehta ruled in favor of the Department of Justice in its antitrust suit against the tech giant.
 
 It may cost Apple (AAPL) big-time too.
@@ -41,10 +49,4 @@ Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @Danie
 For the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news, click here
 
 Read the latest financial and business news from Yahoo Finance
-
-language: en
-
-sentiment: negative
-
-confidence: 0.9999911785125732
 

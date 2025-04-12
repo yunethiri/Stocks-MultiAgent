@@ -1,0 +1,45 @@
+link: https://www.reuters.com/business/media-telecom/apple-set-music-tv-streaming-fight-india-after-airtel-deal-2024-09-02/
+
+source: www.reuters.com
+
+title: Apple set for music, TV streaming fight in India after Airtel deal
+
+summary: Apple's partnership with India's second-biggest telecoms firm will give the iPhone maker a sorely needed boost in a content market where it lags far behind the likes of Spotify and Walt Disney .
+
+publishDate: 2024-09-02T03:07:44.040Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999873638153076
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fa11d9715-5dd9-4c1e-8fa9-9bb4f9085c49.png?auth=553775ad0f87708678623f867b605d1faaf4636087964c40bf5f91f9387d413a&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fa11d9715-5dd9-4c1e-8fa9-9bb4f9085c49.png?auth=553775ad0f87708678623f867b605d1faaf4636087964c40bf5f91f9387d413a&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fa11d9715-5dd9-4c1e-8fa9-9bb4f9085c49.png?auth=553775ad0f87708678623f867b605d1faaf4636087964c40bf5f91f9387d413a&width=120&height=63&smart=true']
+
+content: Apple's <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> partnership with India's second-biggest telecoms firm will give the iPhone maker a sorely needed boost in a content market where it lags far behind the likes of Spotify <a href="https://www.reuters.com/markets/companies/SPOT.N" target="_blank">(SPOT.N)</a> and Walt Disney <a href="https://www.reuters.com/markets/companies/DIS.N" target="_blank">(DIS.N)</a>.
+The U.S. technology giant, working to boost revenue globally from <a href="/technology/apple-revenue-returns-growth-iphone-sales-top-expectations-2024-08-01/">services</a> including apps, payments and media, is set to offer <a href="/business/media-telecom/indias-bharti-airtel-announces-content-partnership-with-apple-2024-08-27/">free music and video streaming</a> to many of Bharti Airtel's <a href="https://www.reuters.com/markets/companies/BRTI.NS" target="_blank">(BRTI.NS)</a> 281 million customers.
+The deal is likely to greatly expand the user base for Apple TV+ and Apple Music in a country where Apple has long emphasised the manufacturing side of business to diversify its supply chain beyond China.
+Apple builds many of its iPhones in India yet its handsets make up just 6% of the country's 690 million smartphones, versus around 2% in 2019, Counterpoint Research data showed.
+"The move speaks of Apple's ambitions for India," said Nitesh Kripalani, former head of Amazon Prime Video in India. "The strategy is a time-tested method to catapult presence in markets it considers important."
+In the U.S., Apple has offered <a href="/article/technology/verizon-deepens-ties-with-apple-offers-free-apple-music-to-some-us-customers-idUSKCN1PA08H/">Apple Music for free</a> via some Verizon <a href="https://www.reuters.com/markets/companies/VZ.N" target="_blank">(VZ.N)</a> mobile data plans since 2019, and its Apple TV+ will feature in a Comcast <a href="https://www.reuters.com/markets/companies/CMCSA.O" target="_blank">(CMCSA.O)</a> <a href="/business/media-telecom/comcast-unveil-netflix-apple-tv-peacock-streaming-bundle-2024-05-14/">streaming bundle</a> from May.
+In India, Apple Music will become available to premium users of Airtel's Wynk music app, which will eventually close.
+Postpaid Airtel contracts give about 7 million subscribers access to the ad-free version of Wynk but only a small fraction use it, said a telecom industry source who declined to be named as the figures are confidential.
+Neither Apple nor Airtel responded to requests for comment outside of regular business hours.
+
+MUSIC BATTLEGROUND
+Apple Music is more tailored to the Indian market compared with the mostly English Apple TV+ with content including Bollywood and regional-language songs, though its library is smaller than Spotify's, said Counterpoint co-founder Neil Shah.
+Spotify has some 3 million paid users in India, Gaana has 1.4 million, Wynk 500,000 and Apple Music 200,000, said an Indian music industry source who declined to be identified as they were not authorised to share estimates publicly.
+Neither Spotify nor Gaana responded to requests for comment outside of regular business hours.
+Overall, only around 7.5 million people paid for audio streaming services in India last year out of about 185 million users of ad-supported and ad-free apps, showed data from industry group FICCI and consultants EY.
+Airtel will pay Apple a per-user fee "significantly" lower than the monthly $1.20 charged each for Apple TV+ and Apple Music in India, said the telecom industry source.
+In return, it will save millions of rupees in licensing as it looks to shut Wynk and use Apple Music to boost revenue and improve customer loyalty, said a second telecom source
+"Airtel realised its strength is distribution, not content creation," said the source on condition of anonymity as they were not authorised to discuss the matter.
+
+VIDEO STREAMING
+Apple is a small player in <a href="/business/media-telecom/top-streaming-platforms-content-hungry-india-2024-08-28/">Indian video streaming</a>, with Counterpoint estimating it has fewer than 1 million users. Disney+ Hotstar is the market leader with 38 million users, while estimates showed Netflix <a href="https://www.reuters.com/markets/companies/NFLX.O" target="_blank">(NFLX.O)</a> has around 10 million.
+Hinting at the market's potential, Netflix has repeatedly said it targets 100 million users, without fixing a time frame.
+Apple TV+ is known for original series such as "The Morning Show" and "Slow Horses" however rivals including Netflix and Disney feature more Hindi content with Bollywood actors and even regional-language films.
+Disney and Reliance Industries' <a href="https://www.reuters.com/markets/companies/RELI.NS" target="_blank">(RELI.NS)</a> JioCinema also stream cricket - India's most popular sport - and the two companies are <a href="/world/india/india-competition-regulator-approves-85-bln-disney-reliance-media-assets-merger-2024-08-28/">merging their Indian media assets</a> to create the nation's biggest entertainment firm.
+Airtel, which as telecoms provider lags only Reliance Jio by subscribers, plans to offer packages with several months' free access to Apple TV+, said the second telecoms source.
+Though that will get Apple TV+ into more homes, growth could be hindered as its "offering is still not optimised locally that much," said Counterpoint's Shah.
+

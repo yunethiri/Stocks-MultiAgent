@@ -1,0 +1,22 @@
+link: https://www.yahoo.com/news/apple-launches-chatgpt-siri-integration-152244823.html
+
+source: www.yahoo.com
+
+title: Apple launches ChatGPT-Siri integration with latest update
+
+summary: 
+
+publishDate: 2024-12-12T15:22:44.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9788175225257874
+
+images: ['https://s.yimg.com/uu/api/res/1.2/y.z3k8iNHVkB5f2VIAa.ZA--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-08/ef401440-5ef4-11ef-bedf-ebfe04389651.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/o6Lv1ElHS7CzHN_jUd1CAg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/749d4a70-7112-11ef-97f6-2b2c3c6547b3.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/5jN_1pUFCJVMQAsK6R1OCg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/android_police_756/abe63755ca6de20e91deadcb13855a77.cf.webp']
+
+content: 17,213 people played the daily Crossword recently. Can you solve it faster than others?
+
+17,213 people played the daily Crossword recently. Can you solve it faster than others?
+

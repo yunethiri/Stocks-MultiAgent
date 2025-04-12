@@ -1,0 +1,38 @@
+link: https://www.reuters.com/legal/government/apple-accused-by-nlrb-deterring-employees-discussing-pay-equity-2024-11-01/
+
+source: www.reuters.com
+
+title: Apple accused by NLRB of deterring employees from discussing pay equity
+
+summary: Apple has been accused by the National Labor Relations Board of trying to prevent employees from discussing pay equity and forcing an engineer who circulated a wage survey to quit, the agency said on Friday.
+
+publishDate: 2024-11-01T21:23:58.448Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.926166832447052
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=120&height=63&smart=true']
+
+content: Apple has been accused by the National Labor Relations Board of trying to prevent employees from discussing pay equity and forcing an engineer who circulated a wage survey to quit, the agency said on Friday.
+<a href="https://tmsnrt.rs/4frDw5d" target="_blank">The complaint</a> issued by the NLRB General Counsel on Thursday is the third in a month to claim that Apple has <a href="/technology/apple-accused-by-us-labor-board-imposing-illegal-workplace-rules-2024-10-01/">illegally deterred employees</a> from discussing issues such as sex bias and pay discrimination with each other and the media, including by restricting their use of social media and <a href="/technology/apple-accused-restricting-workers-slack-social-media-use-by-us-labor-board-2024-10-11/">workplace messaging app Slack</a>.
+The new complaint alleges that Apple barred workers from creating a Slack channel to discuss pay equity and from discussing a policy outlining financial incentives for reaching sales goals.
+And in 2021, the company forced the engineer, <a href="/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/">Cher Scarlett</a>, to quit after she posted an online survey where coworkers could anonymously share information about their wages, job levels, years of experience and personal demographics, according to the complaint.
+Apple in a statement provided by a spokesperson said: "We strongly disagree with these claims and will continue to share the facts at the hearing.”
+The tech giant has said in response to other recent complaints that it is committed to maintaining "a positive and inclusive workplace" and takes employees' concerns seriously.
+Laurie Burgess, Scarlett's lawyer, in an email said "we are delighted to see the NLRB issue a complaint against Apple and look forward to holding it accountable at trial for its extensive violations of workers' labor rights."
+Absent a settlement, an administrative law judge will hold an initial hearing in the case in June. The judge's ruling can be reviewed by the five-member board, whose decisions can be appealed to federal appeals courts.
+The complaint seeks to force Apple to reinstate Scarlett and make her whole for backpay and other financial harms stemming from constructive discharge. The general counsel is also seeking to require the company to conduct trainings on workers' labor rights.
+Apple is facing at least two other pending NLRB cases claiming it fired an employee at its Cupertino, California, headquarters for criticizing managers and illegally interfered with a union campaign at a retail store in Atlanta. The company has denied wrongdoing.
+The case is Apple Inc, National Labor Relations Board, No. 32-CA-282396.
+For Apple: Brian Mahoney, Harry Johnson, Kelcey Phillips and Mark Stolzenburg of Morgan Lewis & Bockius
+For Scarlet: Laurie Burgess of Burgess Law Offices
+Read more:
+<a href="/technology/apple-accused-restricting-workers-slack-social-media-use-by-us-labor-board-2024-10-11/">US labor board accuses Apple of restricting workers' Slack, social media use</a>
+<a href="/technology/apple-accused-by-us-labor-board-imposing-illegal-workplace-rules-2024-10-01/">Apple accused by US labor board of imposing illegal workplace rules</a>
+<a href="/technology/apples-alleged-restriction-workers-slack-use-sparks-labor-complaint-2021-12-07/">Apple's alleged restriction on workers' Slack use sparks labor complaint</a>
+<a href="/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/">U.S. labor agency probes two complaints from Apple workers</a>
+<a href="/world/us/apple-interrogation-nyc-worker-about-union-drive-was-illegal-us-labor-board-2024-05-07/">Apple interrogation of NYC worker about union drive was illegal, US labor board rules</a>
+

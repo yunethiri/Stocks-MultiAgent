@@ -1,0 +1,22 @@
+link: https://www.yahoo.com/tech/apples-revamped-mac-mini-and-ipad-mini-could-be-here-as-soon-as-november-1-171029304.html
+
+source: www.yahoo.com
+
+title: Apple’s revamped Mac mini and iPad mini could be here as soon as November 1
+
+summary: 
+
+publishDate: 2024-10-06T17:10:29.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999948740005493
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/IHnQPcFUUZ4BLVoWtlps4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/1a159140-6878-11ef-9bff-856a4a1cfb21', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: It seems Apple has a slew of hardware announcements in store for us this fall. In the Power On newsletter this week, Bloomberg ’s Mark Gurman reports that Apple is gearing up to announce new MacBook Pro models, the redesigned Mac mini , the M4 iMac and a new iPad mini before the end of the month, and is targeting a release date of November 1 for “at least some” of these products.
+
+According to Gurman, we’re likely to see a low- and high-end 14-inch MacBook Pro, both packing the M4 chips. There will also be a 16-inch high-end MacBook Pro. As for the Mac mini, Gurman previously reported that the upcoming M4 Mac mini may be tiny compared to its predecessors, with a build roughly the size of an Apple TV box. The size reduction may also mean it drops the USB-A ports . Following the fall releases, Gurman predicts Apple will have a bunch of other products ready for early 2025, including a 13-inch and 15-inch M4 MacBook Air, along with a refreshed iPhone SE and iPad Air in both sizes.
+

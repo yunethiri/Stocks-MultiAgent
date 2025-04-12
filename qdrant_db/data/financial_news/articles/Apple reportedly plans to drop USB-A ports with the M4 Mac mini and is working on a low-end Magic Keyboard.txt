@@ -1,0 +1,22 @@
+link: https://www.yahoo.com/news/apple-reportedly-plans-to-drop-usb-a-ports-with-the-m4-mac-mini-and-is-working-on-a-low-end-magic-keyboard-154306266.html
+
+source: www.yahoo.com
+
+title: Apple reportedly plans to drop USB-A ports with the M4 Mac mini and is working on a low-end Magic Keyboard
+
+summary: 
+
+publishDate: 2024-09-01T15:43:06.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999959468841553
+
+images: ['https://s.yimg.com/ny/api/res/1.2/IHnQPcFUUZ4BLVoWtlps4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/1a159140-6878-11ef-9bff-856a4a1cfb21', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/25VCJEDlyhvGdlO1clrMig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-09%2F04b773d0-5cbd-11ee-bbee-fb1bf060105b&compress=1&progressive=1&quality=75&client=hawkeye&signature=0cbacc2ca3cac6650f7a242f12d6f4c7d37ff457']
+
+content: Apple’s M4 Mac mini will boast a ton of ports, but not a single one of them will be USB-A, according to Bloomberg’s Mark Gurman . In the Power On newsletter, Gurman reports that Apple is ditching USB-A ports with the upcoming Mac mini. The company is working on a standard and Pro version of the computer, and while it won’t have USB-A, the Mac mini with the M4 Pro chip will have five USB-C ports, an ethernet port, HDMI and a headphone jack, according to Gurman. The new Mac mini is also expected to have an internal power supply. Gurman reports that the standard and Pro versions will begin shipping to warehouses in September and October, respectively.
+
+Apple is also reportedly working on a cheaper, pared down version of its Magic Keyboard that’s slated to launch “by the middle of next year.” The company introduced a new Magic Keyboard for iPad Pro this spring, and Gurman indicates it’s now turning its attention to the non-Pro devices. He writes that the upcoming accessory “will be a low-end version that may be designed for an entry-level iPad or the new iPad Airs.”
+

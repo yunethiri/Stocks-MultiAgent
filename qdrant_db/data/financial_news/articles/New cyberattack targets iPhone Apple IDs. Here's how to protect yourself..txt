@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/cyberattack-targets-iphone-apple-ids-191000974.html
+
+source: www.yahoo.com
+
+title: New cyberattack targets iPhone Apple IDs. Here's how to protect yourself.
+
+summary: 
+
+publishDate: 2024-07-08T19:10:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9970952272415161
+
+images: ['https://s.yimg.com/ny/api/res/1.2/z6kRvbz0PC86_.ZF1E9wdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/31ae7500-2b10-11eb-bfff-af54d62fa6aa', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: A new cyberattack is targeting iPhone users, with criminals attempting to obtain individuals' Apple IDs in a "phishing" campaign, security software company Symantec said in an alert Monday.
+
+Cyber criminals are sending text messages to iPhone users in the U.S. that appear to be from Apple, but are in fact an attempt at stealing victims' personal credentials.
+
+"Phishing actors continue to target Apple IDs due to their widespread use, which offers access to a vast pool of potential victims," Symantec said. "These credentials are highly valued, providing control over devices, access to personal and financial information, and potential revenue through unauthorized purchases."
+
+Consumers are also more likely to trust communications that appear to come from a trusted brand like Apple, warned Symantec, which is owned by Broadcom, a maker of semiconductors and infrastructure software.
+
+The malicious SMS messages appear to come from Apple and encourage recipients to click a link and sign in to their iCloud accounts. For example, a phishing text could say: "Apple important request iCloud: Visit signin[.]authen-connexion[.]info/icloud to continue using your services." Recipients are also asked to complete a CAPTCHA challenge in order to appear legitimate, before they're directed to a fake iCloud login page.
+
+Such cyberattacks are commonly referred to as "smishing" schemes in which criminals use fake text messages from purportedly reputable organizations, rather than email, to lure people into sharing personal information, such as account passwords and credit card data.
+
+How to protect yourself
+
+Be cautious about opening any text messages that appear to be sent from Apple. Always check the source of the message — if it's from a random phone number, the iPhone maker is almost certainly not the sender. iPhone users should also avoid clicking on links inviting people to access their iCloud account; instead, go to login pages directly.
+
+"If you're suspicious about an unexpected message, call, or request for personal information, such as your email address, phone number, password, security code, or money, it's safer to presume that it's a scam — contact that company directly if you need to," Apple said in a post on avoiding scams.
+
+Apple urges users to always enable multi-factor authentication for Apple ID for extra security and to make it harder to access to your account from another device. It is "designed to make sure that you're the only person who can access your account," Apple said.
+
+Apple adds that its own support representatives will never send its users a link to a website and ask them to sign in, or to provide your password, device passcode, or two-factor authentication code.
+
+"If someone claiming to be from Apple asks you for any of the above, they are a scammer engaging in a social engineering attack. Hang up the call or otherwise terminate contact with them," the company said.
+
+Other tips for avoiding smishing scams, according to government watchdogs:
+
+Set up your computer and mobile phone so that security software is updated automaticallyNever click links, reply to texts or call unknown phone numbers Never respond to unrecognized texts even if you're asked to "text STOP" to end the messagesDelete suspicious textsIf you get a text purportedly from a company or government agency, check your bill or go online to verify the contact information
+
+The key to staying safe: "Stop before you engage and avoid the urge to respond," according to the Federal Communications Commission.
+
+Havana Syndrome evidence suggests who may be responsible for mysterious brain injuries
+
+3D printing a 100-home community in Texas, and someday on the moon | 60 Minutes
+
+Sneak peek: Murder by Clown
+

@@ -1,0 +1,42 @@
+link: https://www.yahoo.com/tech/apples-latest-final-cut-pro-130550082.html
+
+source: www.yahoo.com
+
+title: Apple's latest Final Cut Pro update could spell doom for competitors
+
+summary: 
+
+publishDate: 2024-11-14T13:06:20.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7267125844955444
+
+images: ['https://s.yimg.com/uu/api/res/1.2/40Ij7D0BWq41a9w15GbQsQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mashable_articles_863/fae24fecc7fabbda85c8ffe4aebeed37.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/J_9WXVk1Y8xq5ecXoihNHg--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-08/89e29b60-2952-11ed-b36d-dc37ac698d64.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/NB0N4EGmqKQedRc85H3PZA--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/3584c4fb462f73bfbf8f345ab20666ab.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Apple yesterday announced Final Cut Pro 11 for Mac (the 'X' branding was dropped in 2020). Headline features include AI assisted tools such as Magnetic Mask and Transcribe to Captions – and they're causing a stir amongst the creative community.
+
+Designed to take "full advantage of Apple's M-series chips", the new Mac version of Final Cut Pro perhaps represents Apple's most confident embracing of AI yet. Both Magnetic Mask and Transcribe to Captions are billed as tools that are only made possible by Apple’s Neural Engine. Take a look at our guide to the best video editing software for more options.
+
+Final Cut Pro 11
+
+"In Final Cut Pro 11, editors can access two all-new AI-powered tools: Magnetic Mask and Transcribe to Captions, Apple announced. "With Magnetic Mask, editors can effortlessly isolate people and objects in a video clip without the need for a green screen or more time-consuming rotoscoping. This powerful and precise automatic analysis provides additional flexibility to customize backgrounds and environments. Editors can also combine Magnetic Mask with color correction and video effects, allowing them to precisely control and stylize each project. And with Transcribe to Captions, closed captions can be automatically generated in the timeline using an Apple-trained large language model that transcribes spoken audio."
+
+The update has excited creatives, and many are already speculating that it could spell doom for some competitors. "MotionVFX are trying to charge like $40 a month for rotoscoping and apple just drops it in for free!" one Redditor comments, while another adds, "Yep, cancelling my MotionVFX subscription."
+
+Advertisement Advertisement
+
+Indeed, the update does appear to continue Apple's longstanding tradition of "Sherlocking" small apps – that is, dropping their main features into its existing apps. But for those looking to add automatic captions to videos, it might not be time to switch to Final Cut just yet. One Redditor says Transcribe to Captions is *very* basic for now. Just basic closed captions / subtitles, not any kind of solution to replace CapCut for those social media style videos."
+
+Final Cut Pro 11
+
+Of course, the real competitors to Final Cut Pro are the likes of Adobe Premiere Pro and DaVinci Resolve. Time will tell whether Final Cut Pro 11 manages to bring the fight to their doorstep, but with its recent propose acquisition of Pixelmator, we've already speculated that Apple seems to be making major moves against Adobe right now.
+
+Final Cut Pro 11 is available today as a free update for existing users and for $299.99 for new users on the Mac App Store. New users can download a free 90-day trial of Final Cut Pro.
+

@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/apple-update-eu-browser-options-make-more-apps-deletable-2024-08-22/
+
+source: www.reuters.com
+
+title: Apple to update EU browser options, make more apps deletable
+
+summary: Apple will change how users choose browser options in the European Union, add a dedicated section for changing default apps, and make more apps deletable, the company said on Thursday.
+
+publishDate: 2024-08-22T16:14:35.849Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9972670078277588
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will change how users choose browser options in the European Union, add a dedicated section for changing default apps, and make more apps deletable, the company said on Thursday.
+The iPhone maker came under pressure from regulators to make changes after the EU's sweeping Digital Markets Act took effect on March 7, forcing it to offer mobile users the ability to select from a list of available web browsers on a "choice screen" the first time they open Safari.
+In an update later this year, Apple users will be able to select a default browser directly from the choice screen after going through a mandatory list of options.
+A randomly ordered list of 12 browsers per EU country will be shown to the user with short descriptions, and the chosen one will be automatically downloaded, Apple said. The choice screen will also be available on iPads through an update later this year.
+Apple released a previous update in response to the new rules in March, but browser companies <a href="/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/">criticized</a> the design of its choice screen, and the Commission <a href="/business/media-telecom/eu-investigate-apple-google-meta-potential-digital-markets-act-breaches-2024-03-25/">opened an investigation</a> on March 25 saying it suspected that the measures fell short of effective compliance.
+"We welcome Apple's updated choice screen, particularly as it precedes the upcoming iPhone launches," Andrew Frost Moroz, founder of Aloha browser, told Reuters.
+"For those less familiar with us, the description will highlight these benefits, and fewer taps to start browsing will enhance the user experience and benefit third-party browsers," he said.
+Apple said it has been in dialogue with the European Commission and believes the new changes will address regulators' concerns.
+The Commission said on Thursday it will monitor the effectiveness of the solutions in achieving the objective of the DMA and will decide on the next steps in the open case.
+It also plans to introduce a dedicated area for default apps where a user will be able to set defaults for messaging, phone calls, spam filters, password managers and keyboards.
+Users will also be able to delete certain Apple-made apps such as App Store, Messages, Camera, Photos and Safari. Only Settings and Phone apps would not be deletable.
+

@@ -1,0 +1,25 @@
+link: https://www.reuters.com/technology/apple-invest-up-15-bln-globalstar-satellite-coverage-expansion-2024-11-01/
+
+source: www.reuters.com
+
+title: Apple to invest up to $1.5 bln in Globalstar for satellite coverage expansion
+
+summary: Apple will invest up to $1.5 billion in Globalstar to fund the expansion of its iPhone communication services, the satellite provider said in a regulatory filing on Friday.
+
+publishDate: 2024-11-01T16:04:06.044Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9986149072647095
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will invest up to $1.5 billion in Globalstar <a href="https://www.reuters.com/markets/companies/GSAT.A" target="_blank">(GSAT.A)</a> to fund the expansion of its iPhone communication services, the satellite provider said in a regulatory filing on Friday.
+Shares of Globalstar jumped over 30%, while Apple was down around 1.4% a day after it forecast tepid <a href="/technology/apple-beats-wall-street-estimates-supported-by-iphone-sales-2024-10-31/">quarterly revenue growth</a>.
+Under the funding agreement, Apple will commit $1.1 billion in cash and also purchase 20% equity in Globalstar for $400 million. The satellite company said it will use a portion of the funds to pay down debt.
+The move is another in a line of partnerships between space firms and mobile service providers looking to provide <a href="/technology/comcast-starlink-sign-deal-provide-satellite-based-connectivity-businesses-2024-06-21/">satellite-based connectivity</a> to customers in regions with limited network access.
+Globalstar also said it will allocate 85% of its network capacity to Apple. The deal is expected to close on Tuesday.
+The iPhone maker <a href="/technology/apple-picks-globalstar-satellite-service-iphone-14-series-2022-09-07/">partnered with Globalstar in 2022</a> for a feature that would allow Apple users to send emergency messages from remote areas.
+

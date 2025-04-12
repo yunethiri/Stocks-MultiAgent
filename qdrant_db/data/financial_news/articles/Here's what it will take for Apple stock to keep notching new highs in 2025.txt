@@ -1,0 +1,22 @@
+link: https://www.cnbc.com/2024/12/23/what-it-will-take-for-apple-stock-to-sustain-its-record-highs-in-2025.html
+
+source: www.cnbc.com
+
+title: Here's what it will take for Apple stock to keep notching new highs in 2025
+
+summary: Hint: Just making more iPhones isn't enough.
+
+publishDate: 2024-12-23T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9566884636878967
+
+images: ['https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/108001062-1719945039163-gettyimages-2126120470-ZEPBOUND_PATIENT_SHORTAGES.jpeg?v=1734214590&w=600&h=300&vtcrop=y']
+
+content: Apple stock has been hitting record high after record high to close out 2024. But the company needs to prove that it's more than just the maker of the iPhone to sustain those gains in 2025. Year-to-date performance: up 32% Forward price-to-earnings multiple: 33.6 versus a five-year average of 26.5 Our rating: Hold-equivalent 2 rating Our price target: $250 a share AAPL YTD mountain Apple (AAPL) year-to-date performance '24 look back Apple shares are up 32% this year, despite a lackluster start. A slew of regulatory concerns and more smartphone competition in China, the company's second-largest market, weighed on investor sentiment. But the stock reversed course once management began disclosing more info about the company's generative artificial intelligence system, Apple Intelligence. Wall Street has been upbeat that AI-integrated iPhones could lead to a boost in device sales as users trade up to newer models. A batch of better-than-expected quarterly earnings reports also helped. Analysts are increasingly recognizing that Apple's high-margin services business , which includes recurring revenue streams from subscriptions, is key to the stock's success. '25 look ahead Apple stock has never been this expensive on a forward p/e basis, so it's hard to determine how much more rally it has left. As a result, the Club is considering a trim before the company's next quarterly earnings report in February. But this will depend on whether Apple can show us that it doesn't need to rely so heavily on hardware sales alone. Jim Cramer said Apple's services business needs to outperform, citing a potential increase in revenues from the App Store. "We figured that if the company is no longer going to be hostage to big [iPhone] launches it makes sense that the price-to-earnings multiple should expand," Jim said during the December Monthly Meeting , where he also reiterated that Apple remains one of 12 core holdings in the portfolio going into 2025. Apple also needs to show investors signs of a turnaround in China, where the company makes most of its devices. Softening iPhone demand in the region, along with President-elect Donald Trump's proposed tariff increases , pose challenges for Apple moving forward. Over time, Apple's expansion into emerging markets like India to diversify the company's supply chain will help mitigate those risks, Jim said. (Jim Cramer's Charitable Trust is long AAPL. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+Tim Cook, chief executive officer of Apple Inc., greets customers during the first day of in-store sales of Apple's latest products at Apple's Fifth Avenue store in New York, US, on Friday, Sept. 20, 2024. Victor J. Blue | Bloomberg | Getty Images
+

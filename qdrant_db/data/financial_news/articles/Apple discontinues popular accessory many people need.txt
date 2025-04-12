@@ -1,0 +1,56 @@
+link: https://www.yahoo.com/tech/apple-discontinues-popular-accessory-many-165903993.html
+
+source: www.yahoo.com
+
+title: Apple discontinues popular accessory many people need
+
+summary: 
+
+publishDate: 2024-11-18T16:59:03.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.5465512275695801
+
+images: ['https://s.yimg.com/uu/api/res/1.2/DywFd9LXWsJudctejKsjWQ--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/state_college_centre_daily_times_mcclatchy_articles_878/e964ced8d3721e0ed019987e733efea2.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/zyMFiIGjYzNR8XaxSHNfYg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/inside_edition_video_216/62ccfb46a6195d73fed600851bc5d51b.cf.webp', 'https://s.yimg.com/ny/api/res/1.2/.0lqG13KBtXbi4BOSzx4SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI5MjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-01/46c6ce20-b635-11ee-babf-0468df94f866']
+
+content: Apple appears to have quietly discontinued a popular accessory that was once essential for iPhone users -- 3.5mm Lightning to Headphone Jack Adapter.
+
+Apple appears to have quietly discontinued a popular accessory that was once essential for some iPhone users.
+
+The 3.5mm Lightning to Headphone Jack Adapter has been sold out on both the UK and US Apple websites for some time now.
+
+The 3.5mm Lightning to Headphone Jack Adapter has been sold out on both the UK and US Apple websites for some time now. Apple.com
+
+The device allowed users to connect iPhones without a headphone jack to a wide range of devices, including wired headphones, speakers, car audio systems and airplane entertainment.
+
+Advertisement Advertisement
+
+As Apple shifts away from its proprietary Lightning port in favor of USB-C, this once-common and necessary accessory may be gone for good.
+
+The adapter first launched in 2016 alongside the iPhone 7, marking Apple’s controversial decision to remove the 3.5mm headphone jack from the device.
+
+This change left many iPhone users with a dilemma: their older wired headphones or non-Apple headphones, were no longer compatible. The Lightning to 3.5mm Adapter provided a solution, allowing users to continue using their existing headphones with the new iPhones.
+
+The phase-out of the Lightning connector has been gradual, with the iPhone 15 marking the official shift to USB-C in 2023.
+
+The device allowed users to connect iPhones without a headphone jack to a wide range of devices, including wired headphones, speakers, car audio systems and airplane entertainment. CoinUp – stock.adobe.com
+
+For years, the adapter was included with every new iPhone from the iPhone 7 to the iPhone XS, released in 2018.
+
+Advertisement Advertisement
+
+By then, however, many iPhone owners had switched to wireless options like the Lightning EarPods or Bluetooth AirPods, and the adapter was no longer bundled with the device. It continued to be sold separately at Apple stores for around $9, but now it appears to be disappearing from stores altogether.
+
+As Apple shifts away from its proprietary Lightning port in favor of USB-C, this once-common and necessary accessory may be gone for good. Adeus Buhai – stock.adobe.com
+
+While the Lightning to 3.5mm Adapter is no longer available in the UK and US, it can still be found in some countries such as France, Denmark, Finland, Norway and Sweden.
+
+They are also still available for purchase on some un-Apple-affiliated sites, including Amazon.
+
+While this change has been met with frustration by some die-hard iPhone users, it is clear that Apple is fully committed to USB-C as the future of its devices.
+
+Apple has not addressed the situation or responded to The Post’s request to comment.
+

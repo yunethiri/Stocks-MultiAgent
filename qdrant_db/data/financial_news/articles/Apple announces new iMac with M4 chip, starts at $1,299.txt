@@ -1,0 +1,26 @@
+link: https://www.cnbc.com/2024/10/28/apple-imac-m4-price-release-date.html
+
+source: www.cnbc.com
+
+title: Apple announces new iMac with M4 chip, starts at $1,299
+
+summary: Apple on Monday announced an updated iMac with the company's latest M4 chip. It starts at $1,299 and is available to order ahead of its release on Nov. 8.
+
+publishDate: 2024-10-28T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999954342842102
+
+images: ['https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg']
+
+content: Apple on Monday announced an updated iMac with the company's latest M4 chip. It starts at $1,299 and is available to order ahead of its release on Nov. 8.
+
+Apple's Mac family remains a large business segment even though it's less important to the company than the iPhone. In the June quarter, Apple reported $7 billion in Mac sales, up about 2% on an annual basis.
+
+Unlike on the iPhone, where only phones released in the past two years will support Apple Intelligence, all of Apple's computers with the M1 chip and newer since 2020 can run the company's artificial intelligence. Still, Apple's marketing the new Macs with a focus on artificial intelligence to build momentum around its new offering.
+
+The M4 iMac comes in new shades including green, yellow, orange, pink and purple. It's also still available in silver. All four USB-C ports on the back also support the fastest Thunderbolt 4 standard, which means you can transfer large videos and other files faster. It supports up to two additional 6K displays. It comes with an updated Magic Mouse and Magic Keyboard with USB-C charging, too, replacing the older Lightning port.
+

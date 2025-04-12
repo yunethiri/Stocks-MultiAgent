@@ -1,0 +1,22 @@
+link: https://www.yahoo.com/news/google-rolls-pixel-9-phones-204825640.html
+
+source: www.yahoo.com
+
+title: Google rolls out Pixel 9 phones earlier than usual as AI race with Apple heats up
+
+summary: 
+
+publishDate: 2024-08-13T20:48:25.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8642230033874512
+
+images: ['https://s.yimg.com/ny/api/res/1.2/o8n1yd_igjVmT9BQ32L7Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTUyO2g9NjA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/9b2f0f90-355f-11eb-bef3-afd1c608253f', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197618800&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fgoogle-rolls-pixel-9-phones-204825640.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: TechCrunch
+
+The Made by Google 2024 event has reached an end, after a busy rumor mill preceding the event, we have the full range of announcements and reveals from Google's biggest hardware event of the year. Let's dive right into what the Google Pixel 9 lineup looks like, how Google's Gemini AI will be incorporated in the devices, and other updates for the Nest, Pixel Watch and Pixel Buds. Live demos aren't always a guarantee, but Google kicked off its event with the promise of many live demonstrations of Gemini AI's new capabilities that are launching Tuesday.
+

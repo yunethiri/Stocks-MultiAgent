@@ -1,0 +1,30 @@
+link: https://www.reuters.com/breakingviews/apple-begins-delicate-dance-with-tencent-china-2024-08-15/
+
+source: www.reuters.com
+
+title: Apple begins delicate dance with Tencent in China
+
+summary: Apple will have to tread carefully again in China. The iPhone-maker wants a share of revenue from games played on Tencent's all-in-one WeChat platform. For Apple boss Tim Cook, it's a lucrative opportunity as handset sales cool. Yet if the U.S. company pushes too hard, it may jeopardise its hard-earned appeal in the world's second-largest economy.
+
+publishDate: 2024-08-15T05:48:31.676Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999198913574219
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fdf7a5d36-0b20-49c3-bc5d-6cdb8778c21c.jpg?auth=937c3c3368d11d1bdb5290d5019e4ebf198b2ffd8e622b4fe28522e095effef4&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fdf7a5d36-0b20-49c3-bc5d-6cdb8778c21c.jpg?auth=937c3c3368d11d1bdb5290d5019e4ebf198b2ffd8e622b4fe28522e095effef4&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fdf7a5d36-0b20-49c3-bc5d-6cdb8778c21c.jpg?auth=937c3c3368d11d1bdb5290d5019e4ebf198b2ffd8e622b4fe28522e095effef4&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will have to tread carefully again in China. The iPhone-maker wants a share of revenue from games played on Tencent's <a href="https://www.reuters.com/markets/companies/0700.HK" target="_blank">(0700.HK)</a> all-in-one WeChat platform. For Apple boss Tim Cook, it's a lucrative opportunity as handset sales cool. Yet if the U.S. company pushes too hard, it may jeopardise its hard-earned appeal in the world's second-largest economy.
+Tencent Chief Strategy Officer James Mitchell on Thursday confirmed that the two companies were in discussions about revenue sharing on so-called mini-games, or titles played directly on WeChat. Many titles can be played without users having to download them from an app store. These apps-within-an-app have taken off since Tencent introduced them six years ago: over half a billion WeChat users play mini-games at least once a month, the company <a href="https://companies.caixin.com/2024-07-17/102216928.html" target="_blank">revealed</a> at a developer conference in July, and advertising revenue from mini-games now account for 15% of WeChat's total.
+The bigger windfall for the duo could be in-app transactions, or sales of digital goods and services purchased within mini-games. For normal apps, Apple would typically take a 30% cut. Mitchell confirmed that Tencent currently doesn't monetise its mini-games on Apple's operating system via in-app transactions, but also added that it would be in everyone's interest if there was a way to do so "on terms that we think are economically sustainable and that are also fair".
+A lot could be at stake. The recently released Dungeon &amp; Fighter Mobile game, for instance, as an app grossed over $500 million in sales its first month across Apple and Android platforms, according to research firm Niko Partners. If a mini-game achieved even half of that monthly spending, a 30% commission fee would equal just shy of $1 billion of annual sales.
+For Apple, the extra revenue would be welcome. Greater China sales have fallen year-on-year for four consecutive quarters and the iPhone is ceding market share to local rivals like Huawei and Xiaomi <a href="https://www.reuters.com/markets/companies/1810.HK" target="_blank">(1810.HK)</a>. Tencent would benefit too and can drive a hard bargain, not least because the Cupertino giant is also under scrutiny in Europe and elsewhere on its app store practices. Apple is on a delicate non-virtual battleground.
+Follow <a href="https://twitter.com/mak_robyn" target="_blank">@mak_robyn</a> on X
+(The author is a Reuters Breakingviews columnist. The opinions expressed are her own.)
+CONTEXT NEWS
+China's Tencent on Aug. 14 said it was in talks with Apple about sharing revenue from mini-games played on its all-in-one WeChat messaging app.
+Speaking on a call with analysts following second-quarter earnings results, the Chinese company's chief strategy officer, James Mitchell, said it would be in Tencent's and Apple's interest if there was a way to offer in-app transactions on mini-games, but "on terms that we think are economically sustainable and that are also fair".
+Separately, Apple has demanded Tencent and ByteDance close loopholes that allow app developers to circumvent Apple's typical 30% commission on in-app transactions, Bloomberg reported on Aug. 2, citing people familiar with the matter.
+

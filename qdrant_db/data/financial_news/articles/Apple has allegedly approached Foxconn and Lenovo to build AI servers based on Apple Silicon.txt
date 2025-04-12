@@ -1,0 +1,38 @@
+link: https://www.yahoo.com/tech/apple-allegedly-approached-foxconn-lenovo-114227645.html
+
+source: www.yahoo.com
+
+title: Apple has allegedly approached Foxconn and Lenovo to build AI servers based on Apple Silicon
+
+summary: 
+
+publishDate: 2024-11-07T11:42:27.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998681545257568
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/SyaPbkkSTcboQ6f.YZgYVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_hardware_319/34d213a82e54b12b28b75bcea05b5b1e', 'https://s.yimg.com/ny/api/res/1.2/au9Svf6SiJmMJPxGc8aDiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTUyMjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/853d3590-295a-11ed-924f-630b4b5a14db']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Tom's Hardware
+
+Apple plans to use its own Apple Silicon processors for its AI servers, which will be used, among other things, to power its Apple Intelligence services in the data center, reports Nikkei. The company has approached Foxconn and Lenovo to build the machines and has specifically asked them to make the servers in Taiwan. While one of Apple's reasons for assembling these machines in Taiwan is to reduce its reliance on China, another is to tap into the talent and R&D resources that Foxconn leverages for its Nvidia-based AI servers.
+
+Apple is exploring the production of AI servers in Taiwan at Foxconn's facilities to bolster its computing abilities for new generative AI features across its devices. However, Foxconn, Apple's primary manufacturing partner, also happens to be the world's largest maker of AI servers, primarily making machines based on Nvidia's GPUs, such as the H100 and H200. For now, Foxconn's capacity in Taiwan is fairly limited, as the company is gearing up to start volume production of GB200-based machines featuring the Blackwell architecture. This is reportedly one of the reasons why Apple wants to produce its AI machines in Taiwan: to leverage the experience that Foxconn has gained while working on Nvidia projects.
+
+"One of the reasons Apple wants Foxconn to make servers in Taiwan is its hope to tap into the engineering talent and R&D resources that work on Nvidia projects," a source with knowledge of the matter told Nikkei. Neither Apple nor Foxconn commented on the report.
+
+Apple's AI approach differs from that of cloud service providers like Microsoft and Amazon, as it focuses more on AI inference rather than training large-scale language models. Therefore, Apple will not need servers with sophisticated technologies like liquid cooling. Also, since Apple's AI servers are intended for internal use, the scale of production will be relatively small compared to Nvidia’s GB200 AI machines. That poses a problem, too, as companies like Foxconn and Lenovo prefer clients with large orders. Still, as Apple rolls out its Apple Intelligence service to more users, it is going to need more AI servers, so it remains a lucrative client.
+
+Apple's experience in data center server design lags behind that of Nvidia, so it is seeking support from suppliers for engineering and design services. On the other hand, Apple's servers are not as sophisticated as Nvidia's GB200 machines, so the development and validation process should be relatively quick.
+
+Developing AI server infrastructure is crucial for Apple's next-generation products, as the company tries to keep up with competitors like Amazon, Google, and Microsoft, all of which are significantly expanding their AI server investments.
+
+Due to limited capacity at Foxconn in Taiwan, Apple is also in talks with Lenovo and its subsidiary LCFC to assist with server designs. To diversify and mitigate reliance on Chinese suppliers, Apple and Lenovo are discussing additional production capabilities outside of China. Smaller suppliers like Universal Scientific Industrial are also considered to support production.
+
+Foxconn operates AI labs in Hsinchu, Taiwan, and San Jose, California, where it works closely with Nvidia to develop the next generation of servers, dubbed the GB300, the report says.
+

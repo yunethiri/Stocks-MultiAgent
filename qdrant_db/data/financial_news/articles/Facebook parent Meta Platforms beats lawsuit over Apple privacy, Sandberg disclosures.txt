@@ -1,0 +1,31 @@
+link: https://www.reuters.com/legal/facebook-parent-meta-platforms-beats-lawsuit-over-apple-privacy-sandberg-2024-09-18/
+
+source: www.reuters.com
+
+title: Facebook parent Meta Platforms beats lawsuit over Apple privacy, Sandberg disclosures
+
+summary: Meta Platforms won the dismissal of a lawsuit claiming it defrauded shareholders by concealing how changes to Apple's privacy settings would make Facebook and Instagram less desirable for advertisers.
+
+publishDate: 2024-09-18T14:12:45.048Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.532058596611023
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Meta Platforms <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> won the dismissal of a lawsuit claiming it defrauded shareholders by concealing how changes to Apple's <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> privacy settings would make Facebook and Instagram less desirable for advertisers.
+In a decision on Tuesday, U.S. District Judge Yvonne Gonzalez Rogers also rejected claims that Meta concealed former Chief Operating Officer Sheryl Sandberg's use of company resources on personal matters, including her wedding and her best-selling book "Lean In."
+The Oakland, California-based judge also turned aside claims that Meta knew its transition to Reels, which copied TikTok's short-form video format, would hurt revenue because it offered fewer ads per hour than older formats.
+Shareholders led by four Israeli insurers and pension funds challenged 17 allegedly false and misleading statements that Meta made in 2021 and 2022.
+They said Meta's stock price fell 53% in less than a year as the truth came out, wiping out well over $500 billion of the Menlo Park, California-based company's market value.
+But in her 34-page decision, Rogers said Meta's eventual admission that Apple's iOS privacy changes could pose a $10 billion "headwind" in 2022 did not demonstrate that its earlier disclosures were false.
+She also said the claims about Sandberg came "entirely from press reports" and were unproven, and found no proof that the transition to Reels hurt Meta's financial performance.
+"The court determines plaintiffs have not plausibly alleged violations of federal securities law," Rogers wrote.
+She dismissed the lawsuit with prejudice, meaning it cannot be brought again.
+Other defendants included Sandberg, Chief Executive Mark Zuckerberg, Chief Financial Officer Susan Li and her predecessor David Wehner.
+Lawyers for the plaintiffs did not immediately respond to requests for comment on Wednesday. Meta had no immediate comment.
+The case, which has a different named plaintiff, is Plumbers and Steamfitters Local 60 Pension Trust v Meta Platforms Inc et al, U.S. District Court, Northern District of California, No. 22-01470.
+

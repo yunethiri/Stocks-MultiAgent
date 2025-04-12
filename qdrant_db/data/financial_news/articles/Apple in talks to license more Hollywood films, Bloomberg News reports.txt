@@ -1,0 +1,26 @@
+link: https://www.reuters.com/technology/apple-talks-license-more-hollywood-films-bloomberg-news-reports-2024-07-18/
+
+source: www.reuters.com
+
+title: Apple in talks to license more Hollywood films, Bloomberg News reports
+
+summary: Apple is in talks to license more films from Hollywood studios to boost its streaming portfolio, Bloomberg News reported on Thursday, citing people familiar with the matter.
+
+publishDate: 2024-07-18T14:27:24.607Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999253749847412
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is in talks to license more films from Hollywood studios to boost its streaming portfolio, Bloomberg News reported on Thursday, citing people familiar with the matter.
+Streaming platforms have been looking to grow their library of offerings by spending millions on licensing for movies and live sports programming to attract users in a competitive industry.
+Apple's successful deal to license around 50 movies from Hollywood studios earlier this year has encouraged it to pursue more content, the report said.
+The iPhone maker did not immediately respond to a Reuters request for comment.
+The Apple TV+ streaming service, known for its original series like Ted Lasso, The Morning Show and Slow Horses, has so far differentiated itself in the streaming landscape with a focus on in-house content, while most rival platforms also offer users older movies and TV shows from other studios.
+The strategy has garnered Apple TV+ 72 Emmy Award nominations across various categories.
+Apple TV+, however, is among the streaming platforms with the highest number of customers cancelling a subscription, while Netflix has the lowest, according to market research firm Antenna.
+

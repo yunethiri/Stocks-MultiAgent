@@ -1,0 +1,106 @@
+link: https://www.yahoo.com/tech/apples-iphone-16-launch-event-123702592.html
+
+source: www.yahoo.com
+
+title: Apple's iPhone 16 launch event – 5 things we expect and 3 things we don't
+
+summary: 
+
+publishDate: 2024-08-27T12:37:02.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9943907856941223
+
+images: ['https://s.yimg.com/ny/api/res/1.2/uMhmst86SbNjFe7hRG9uYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/178cf62adb73dbc34f1da16249b4bef3', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/6V2Qz4wuD8hSXYFCpa90aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/95afa36d21aa437af8a4e2c9b256b2e9']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple / Future
+
+It’s official: Apple’s annual September launch event is set for Monday, September 9. The tech giant confirmed the date via email invitations bearing the tagline "It's Glowtime” (we’ve got ours), which suggests Apple Intelligence will take center stage at the Cupertino-set showcase next month.
+
+But what else do we expect to see unveiled at this year’s Apple event? The iPhone 16 series is a shoo-in, while updates to Apple’s AirPods and Watch lines look likely, too. We’re also anticipating a host of announcements related to iOS 18, iPadOS 18, watchOS 11, macOS Sequoia, and tvOS 18.
+
+Below, we’ve detailed five things we expect to see announced at the upcoming Apple event, as well as three things we almost definitely won’t see.
+
+What to expect
+
+iPhone 16 series
+
+iPhone 15 on an orange background
+
+Apple’s September events almost always play host to the launch of a new iPhone line, and we’re expecting as much from this year’s showcase. Four iPhone 16 models are slated for release next month – specifically the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max – with minor (rather than game-changing) upgrades tipped for all.
+
+The standard iPhone 16 models are rumored to inherit the Action button from the iPhone 15 Pro and iPhone 15 Pro Max, while a so-called ‘Capture’ button will reportedly come to every model in the lineup. Expect the usual cocktail of Apple chipset upgrades, too, as well as new iPhone 16 colors.
+
+Apple Intelligence
+
+WWDC
+
+As mentioned, the headline announcement of Apple’s September event will almost certainly be Apple Intelligence. The upcoming suite of AI-powered features was revealed at WWDC 2024 back in June, but we’re expecting to see it showcased on the iPhone 16 series and other compatible devices next month.
+
+You'll find a full list of confirmed Apple Intelligence features in our dedicated Apple Intelligence hub, but so far we know that the toolset will include a smarter Siri, text summarization, writing assistance, and generative image creation. Incidentally, Apple’s "It's Glowtime” tagline is likely a reference to the new ‘glow’ animation that'll appear when using Siri on Apple Intelligence-compatible iPhones.
+
+Annoyingly, we’ve heard that Apple Intelligence could be delayed until after the initial rollout of iOS 18, with Apple reportedly keen to fine-tune its AI features before making them available to the world. But even if that’s the case, we’ll surely be given a concrete release date for Apple Intelligence at next month’s Apple event.
+
+iOS 18 and other software updates
+
+iOS 18
+
+Apple Intelligence will form part of iOS 18, but there are plenty of AI-free upgrades to get excited about in Apple’s next major (and sure-to-be-released-in-September) software update, which should please existing iPhone owners.
+
+We know, for instance, that significant upgrades are coming to core iPhone apps including Messages, Mail, Photos, Maps, and Wallet, and that any iPhone newer than the iPhone XS will be compatible with iOS 18 (in other words, any iPhone with the A12 Bionic chipset or newer). For a more detailed rundown of the incoming features, check out our roundup of the five of the best iOS 18 features that'll work with your older iPhone.
+
+We’re also expecting Apple’s September event to play host to iPadOS 18, watchOS 11, macOS Sequoia, and tvOS 18-related announcements.
+
+New Apple Watches
+
+Apple Watch Series 9 with Snoopy
+
+Alongside the iPhone 16 series, we could see new Apple Watches announced next month. The Apple Watch 10 and Apple Watch Ultra 3 seem the most likely candidates, with the former model tipped to come in two sizes (1.89 inches and 2.04 inches).
+
+Other rumored Apple Watch upgrades include new processors for both models and a larger display for the Watch 10. Interestingly, a plastic Apple Watch SE has also been tipped, which could offer prospective Apple Watch buyers a cheaper route into the watchOS ecosystem.
+
+New AirPods
+
+A hand holding the Apple AirPods 3rd generation in their charging case
+
+Lastly, there’s a high chance that new AirPods could drop next month. We’re not talking about the AirPods Pro 3, since Apple’s Pro-level earbuds have so far adhered to a three-year release cycle, and we've seen nothing concrete on the hotly anticipated AirPods Max 2's arrival, either. No, rumors instead suggest the imminent reveal of new entry-level and mid-range AirPods models.
+
+As for what upgrades these new AirPods will bring, it’s safe to expect a more comfortable design and smarter listening modes, while Bloomberg’s Mark Gurman has also noted that noise cancellation powers could come to the mid-range model.
+
+What not to expect
+
+iPhone Air
+
+A render of a rumored iPhone Air model.
+
+The iPhone 16 rumor mill has been rife with talk around a potential iPhone Slim, or iPhone Air, but this super-thin iPhone model will now reportedly arrive in 2025.
+
+Bloomberg’s ever-reliable Apple tipster Mark Gurman notes that this reportedly in-development iPhone will have a much thinner chassis than any existing iPhone, while retaining most of the base-level iPhone 17’s core specs.
+
+In terms of price, the iPhone Air looks set to sit somewhere between the iPhone 17 and iPhone 17 Pro (akin to how the original MacBook Air was positioned between the MacBook and the MacBook Pro), so those disappointed by the iPhone 16 line may have an entirely new iPhone model to look forward to next year, at least.
+
+New iPads
+
+iPad Pro 2024
+
+New iPads will almost certainly be another no-show at this year’s September Apple event. Apple already debuted the long-awaited iPad Air 6 and iPad Pro (2024) at its May 7 Apple event, and we haven’t heard all that much about a successor to the iPad 10.9 (2022), so its reveal alongside the iPhone 16 line seems unlikely.
+
+We could, however, potentially see the iPad mini 7 unveiled next month – as of August 2024, Apple has allowed iPad mini stock to run low, which is usually a sign that a new model is on the way – but Apple has also been known to quietly reveal new iPads via a press release, so we’re not all that confident about seeing a successor to the iPad mini (2021) in Cupertino. Here’s hoping we’re wrong, though.
+
+New MacBooks
+
+The new MacBook Pro with M3 chip in the new Space Black colorway.
+
+M4-equipped MacBook Pro, Mac mini, and iMac models are reportedly on track for a 2024 release, but they’re likely to come in October rather than September.
+
+Reliable leaker Ross Young and Bloomberg tipster Mark Gurman believe that the MacBook Pro 2024 et al. are set to arrive ‘later’ this year, and an October launch would align with the release dates we saw for Apple’s most recent MacBook models in 2023.
+
+Of course, Apple may be bold and announce the whole shebang in September – iPhones, iPads, MacBooks; the lot – but we’re quietly confident that the upcoming showcase will be dedicated to those aforementioned hardware and software launches.
+
+You might also like
+

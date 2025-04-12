@@ -1,0 +1,58 @@
+link: https://www.yahoo.com/tech/apple-just-launched-ios-18-175135694.html
+
+source: www.yahoo.com
+
+title: Apple just launched the iOS 18.1 public beta. Here’s how it’ll change your iPhone
+
+summary: 
+
+publishDate: 2024-09-19T17:51:35.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999908208847046
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: This week is quickly shaping up to be a huge one for Apple fans. On Monday, Apple officially released iOS 18, watchOS 11, and macOS 15 to the general public. Tomorrow, regular sales begin for the new iPhone 16, iPhone 16 Pro, and Apple Watch Series 10. As if that weren’t enough, Apple is now rolling out its first public betas with Apple Intelligence features.
+
+Starting today, September 19, the public betas for iOS 18.1, iPadOS 18.1, and macOS 15.1 are available for anyone to download. The main draw to these public betas is that they all include Apple Intelligence features, which were previously locked to the developer betas for these software versions.
+
+iOS 18.1, iPadOS 18.1, and macOS 15.1 won’t officially roll out until October. Still, if you’ve been eager to try Apple Intelligence but have been weary of putting a buggy developer beta on your device, this is the moment you’ve been waiting for.
+
+Nadeem Sarwar / Digital Trends
+
+Once you download these newest public betas, what Apple Intelligence features will you be able to use? All of the following are included in this first public beta:
+
+Writing Tools
+
+Improved Siri
+
+Natural language search, Clean Up tool, and Create Memory Movies in the Photos app
+
+Priority messages, email summaries, and Smart Reply in the Mail app
+
+Message summaries and Smart Reply in the Messages app
+
+Transcription summaries in the Phone and Notes apps
+
+We tried Apple’s Writing Tools earlier this year and had mixed impressions of it. There are tools to proofread your writing and rewrite it in different tones — such as making you sound more friendly, professional, or concise. You can access Writing Tools in any app that uses a text field. On the iPhone, simply select your text to bring up the usual copy/cut/paste menu, and you’ll find a new Writing Tools button.
+
+Nadeem Sarwar / Digital Trends
+
+As for the improved Siri, these public betas include the new Siri design, the ability to type to Siri, and product knowledge of Apple gadgets. For example, if you ask Siri, “How do I take a screen recording?” you’ll get step-by-step instructions that will tell you what to do. Siri can also now understand you when you stumble over your words. For example, if you say, “Siri, set an alarm for 5:30 … no, actually set an alarm for 6:30,” the assistant should do a much better job of fulfilling those commands.
+
+What’s not included in today’s public betas is ChatGPT integration with Siri. You also won’t find Siri’s personal context features, which allow the assistant to look through your messages, calendar, etc., and answer questions/commands around them.
+
+Apple
+
+Apple’s image creation tools, including Image Playground and Genmoji, are also missing. Similarly, Priority Notifications aren’t yet available. All of these things will be available later this year or sometime next year, with no precise ETA beyond that.
+
+Apple Intelligence features are available for all iPhone 16 models, the iPhone 15 Pro, and the iPhone 15 Pro Max. iPads with an M1 chip or newer can use Apple Intelligence, while Macs with an M1 chip or later can also access Apple Intelligence.
+
+To download the public betas for iOS 18.1, iPadOS 18.1, or macOS 15.1, visit the Apple Beta Software Program website, sign in to your Apple account, and follow the instructions. Once you’ve downloaded and installed the public beta, open your Settings app, tap on Apple Intelligence & Siri, and tap the Join the Apple Intelligence Waitlist button. You should get access to Apple Intelligence features within a few hours and receive a notification once that happens.
+
+Many of us at Digital Trends (myself included) are downloading these public betas ASAP and will have much more to say about them soon. Stay tuned.
+

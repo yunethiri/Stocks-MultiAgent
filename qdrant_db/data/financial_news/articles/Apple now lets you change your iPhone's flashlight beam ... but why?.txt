@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/tech/apple-now-lets-change-iphones-113335398.html
+
+source: www.yahoo.com
+
+title: Apple now lets you change your iPhone's flashlight beam ... but why?
+
+summary: 
+
+publishDate: 2024-10-21T11:33:35.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996812343597412
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-now-lets-change-iphones-113335398.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/HuzOUElgnrXzXoMdpFvyxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc-/https://media.zenfs.com/en/dpa_international_526/4747caff73a10d28698298eb2037836c', 'https://s.yimg.com/ny/api/res/1.2/sWFJ03euRrCz1mQs8422qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMyMDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-01/fee16a90-aa52-11ee-9fef-a19483cc6d78']
+
+content: In what is possibly the weirdest niche iPhone feature (until you really need it), Apple now lets you change the width of the flashlight's beam. Franziska Gabbert/dpa
+
+Berlin (dpa) — iPhone owners are gradually noticing all sorts of things that the latest operating system update has brought to their phones.
+
+As well as improvements to Apple’s AirPods Pro headphones, the latest software changes include the ability to adjust the width of the flashlight's light beam.
+
+"What, why?," you might be asking. Well, Apple believes there are certain scenarios where you might not want a broad beam of light, but a slim one to pinpoint a certain spot.
+
+Apple says the iPhone’s flashlight beam can now be configured by holding down the Dynamic Island area when the flashlight is activated.
+
+An on-screen animation of the beam then allows you to focus the light into a narrow cone or spread it wider. As before, the brightness of the flashlight can be adjusted in four levels.
+
+Meanwhile, For any iPhone owners with AirPods Pro, iOS 18 and the latest firmware (7A294) allows you to communicate with the voice assistant Siri using head gestures. For example, if a call comes in when you’re wearing the earbuds you can nod your head to take the call or shake it to reject it.
+
+Apple says it has improved the audio quality of phone calls with AirPods Pro for the person you are talking to. And the audio latency is also said to have been reduced, something which is particularly important for gamers.
+
+You can find out which AirPods firmware version you have by going into the iPhone's Bluetooth menu while the AirPods are connected and tapping on the earbuds’ "i" symbol.
+

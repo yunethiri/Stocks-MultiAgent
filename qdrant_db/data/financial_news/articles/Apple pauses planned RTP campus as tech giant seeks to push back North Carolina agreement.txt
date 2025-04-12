@@ -1,0 +1,48 @@
+link: https://finance.yahoo.com/news/apple-pauses-planned-rtp-campus-001457356.html
+
+source: finance.yahoo.com
+
+title: Apple pauses planned RTP campus as tech giant seeks to push back North Carolina agreement
+
+summary: 
+
+publishDate: 2024-06-25T00:14:57.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9429483413696289
+
+images: ['https://s.yimg.com/ny/api/res/1.2/LrCFDzkr9V1Lx.5ZAR76hA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI2NjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7137b0e0-7b99-11eb-bf7f-6a048086a962', 'https://s.yimg.com/ny/api/res/1.2/Ja.x3ya1POuX2ySizBSUtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4OQ--/https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/d60a7a3391dcab1646bea3bfdacc486a', 'https://s.yimg.com/ny/api/res/1.2/pZSgHvzK4XkCh507ZPPz3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/3ef9c2cf35c4d89e9421946ebf92ad2c']
+
+content: Apple has paused development on its promised $552 million campus in Research Triangle Park, the company told The News & Observer on Monday, as it looks to extend its construction timeline in North Carolina.
+
+The company has informed the state Department of Commerce it seeks to suspend the project for four years, according to a source familiar with the site. In a statement Monday, Apple said it is still “looking forward to developing our new campus in the coming years” and noted it has added around 600 positions in the Raleigh area since the company announced its RTP campus in April 2021.
+
+Three years ago, Apple committed to invest at least a half-billion dollars to build a new campus on the Wake County side of RTP by the end of 2031. No construction has begun.
+
+Site plans filed last summer showed the campus would include three office buildings, three accessory buildings and a parking garage —totaling nearly 900,000 square feet on either side of N.C. 540.
+
+The company will only benefit from North Carolina’s job development investment grant — worth up to $845 million in payroll tax benefits through the year 2061 — if it reaches certain annual hiring and investment targets.
+
+While the company has more than six years to complete its campus, its hiring clock began last year with an obligation to have added a minimum of 126 local workers. This jobs target increases to 378 total positions by the end of 2024 and increases up to 2,700 jobs in 2032.
+
+For now, Apple leases office space at the MetLife campus in Cary. The California-based tech giant has also purchased a four-story, 139,000-square-foot building in Durham, near the RDU airport, according to multiple sources familiar with that site.
+
+The Triangle Business Journal first reported on Apple’s planned pause Monday.
+
+Apple said it would not expect to receive taxpayer benefits while its agreement is delayed, but it is not yet clear what actions North Carolina could take at this time to adjust the company’s incentive deal timeline.
+
+In a statement Monday, Gov. Roy Cooper expressed confidence in Apple’s future in the Triangle.
+
+“I have spoken with officials at Apple, and they emphasized their commitment to build this transformative campus here in North Carolina,” Cooper said.
+
+Enjoy Triangle tech news? Subscribe to Open Source, The News & Observer's weekly newsletter, and look for it in your inbox every Friday morning. Sign up here.
+
+Apple in NC: Five things we learned from 1,000 pages of state records
+
+Apple still plans to build an RTP campus. The company just won’t say when.
+
+Newly released records hint at timing for Apple’s RTP campus, and the traffic it’ll bring
+

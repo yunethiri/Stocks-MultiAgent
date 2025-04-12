@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/news/apple-watch-series-10-hands-on-bigger-lighter-and-thinner-than-ever-190000233.html
+
+source: www.yahoo.com
+
+title: Apple Watch Series 10 hands-on: Bigger, lighter and thinner than ever
+
+summary: 
+
+publishDate: 2024-09-09T19:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9236141443252563
+
+images: ['https://s.yimg.com/ny/api/res/1.2/2Da8dNihk0Ki16vOH4yZ5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/72bfe0a0-6edd-11ef-be96-8bd3cf845ca8', 'https://s.yimg.com/ny/api/res/1.2/WKwT5HSK7LwGxQ.fX8Y53Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/00f037c0-6edf-11ef-a4cf-2530eb8d184c', 'https://s.yimg.com/g/images/spaceball.gif']
+
+content: If you were hoping for three new Apple Watches today, you might be disappointed. However, Apple did reveal the largest Apple Watch display ever on the Series 10 wearable. The device is also thinner, delivering the bigger-but-slimmer update the company loves to give new devices. It's lighter too, so all three of the design changes should make the wearable more comfy to... wear. And of course, the new display will be a key selling point for this updated model.
+
+That display is the standout update to me. The panel is said to be 40 percent brighter when viewed at an angles, which will make it so much easier to see Watch info at a glance. I tried on the Series 10 in the demo area here at Apple Park in both the 46mm and 42mm sizes. The larger of the two isn't that much of burden for me as I'm rocking a 45mm Series 7 on the daily. Still, the OLED display is a massive upgrade over what I'm used to, and it will offer better performance over recent Apple Watches too. I also got a look at that screen update feature, which lets you see time and other info even when the display is in ambient mode.
+
+Apple Watch Series 10 (Billy Steele for Engadget)
+
+In addition to the new display, both it and the Apple Watch case have more rounded angles. Combine that with new finishes (hello, jet black!) and you've got the biggest update to Apple's wearable since the Series 4 in terms of design. There are also a host of new features we weren't able to test in the demo area, like the depth gauge and water temperature sensor, but we did get a brief look at the upcoming sleep apnea tool in Apple Health.
+
+Here, Apple Watch will monitor your sleep for breathing disturbances. Like other sleep metrics, you'll see data for the current month, path six months and previous year, so you'll be aware of any changes over time. Of course, the app will alert you if you might need to see a doctor, and it will offer all of the logged data for you to share when you do. Millions of people suffer from sleep apnea, so being able to detect the signs of the condition without time-consuming sleep testing will certainly be a welcome addition to Apple's suite of health-tracking tools with Watch Series 10.
+
+Sleep apnea on Apple Watch (Billy Steele for Engadget)
+
+The main aesthetic update to the Apple Watch Ultra 2 is a new black color option. And while there's isn't a ton to say there, I will note that it looks very nice. Plus, it provides some contrast for those people who didn't care for the lighter silver option that was available before now.
+
+Apple Watch Ultra 2 (Billy Steele for Engadget)
+
+Catch up on all the news from Apple’s iPhone 16 event!
+

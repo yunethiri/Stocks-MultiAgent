@@ -1,0 +1,33 @@
+link: https://www.reuters.com/legal/legalindustry/apple-faces-high-powered-legal-lineup-smartphone-monopoly-class-action-2024-12-20/
+
+source: www.reuters.com
+
+title: Apple faces high-powered legal lineup in smartphone monopoly class action
+
+summary: A judge in New Jersey on Friday named six law firms to represent consumers accusing Apple of illegally monopolizing the smartphone market.
+
+publishDate: 2024-12-20T18:15:45.665Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9994543194770813
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: A judge in New Jersey on Friday named six law firms to represent consumers accusing Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> of illegally monopolizing the smartphone market.
+U.S. District Judge Julien Xavier Neals <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/dwvkkyzamvm/Apple-class-counsel-order-20241219.pdf" target="_blank">appointed</a> lawyers to lead the litigation from Hagens Berman Sobol Shapiro, Girard Sharp, Seeger Weiss, Carella Byrne Cecchi Brody & Agnello, Susman Godfrey, and Hausfeld.
+The firms had <a href="/legal/litigation/law-firms-suing-apple-over-smartphone-dominance-fight-lead-roles-2024-08-09/">been competing</a> for leadership in the case, which includes millions of U.S. customers who bought iPhones directly from Apple, before reaching an agreement on the lineup.
+The lead counsel team stands to win an outsized share of legal fees stemming from any settlement of judgment against Apple.
+The consumers' claims mirror a lawsuit filed by the U.S. Justice Department in March. The lawsuits allege Apple set up roadblocks to constrain consumer choice for mobile devices and for services such as digital wallets and messaging.
+Apple has <a href="/technology/apple-urge-judge-end-us-smartphone-monopoly-case-2024-11-20/">denied any wrongdoing</a>. It did not immediately respond to a request for comment. Apple's defense team in the consumer cases includes lawyers from Kirkland & Ellis and Gibson, Dunn & Crutcher.
+The plaintiffs' firms appointed on Friday have secured billions of dollars in settlements and judgments in other lawsuits.
+Among their cases, Hagens Berman is helping <a href="/legal/legalindustry/lawyers-ncaa-athlete-pay-settlement-ask-515-mln-legal-fee-award-2024-12-18/">lead antitrust lawsuits</a> that the National Collegiate Athletic Association has tentatively settled for at least $2.8 billion. Hausfeld was among the <a href="/legal/legalindustry/boies-hausfeld-among-law-firms-reaping-667-mln-windfall-blue-cross-antitrust-2022-08-09/">firms leading</a> antitrust claims against Blue Cross Blue Shield that settled for $2.7 billion, and Susman was <a href="/legal/lawyers-win-big-7875-million-fox-defamation-case-2023-04-20/">co-lead counsel</a> for Dominion Voting Systems in a defamation action that Fox News settled for $787 million.
+Neals in October <a href="https://storage.courtlistener.com/recap/gov.uscourts.njd.550383/gov.uscourts.njd.550383.35.0_1.pdf" target="_blank">appointed</a> another group of law firms to represent consumers in the Apple litigation who bought iPhones from mobile phone carriers. Those law firms are Schneider Wallace Cottrell Konecky, Berger Montague, Lockridge Grindal Nauen and Spector Roseman & Kodroff.
+Three other firms — Korein Tillery, MoloLamken and Kellogg, Hansen, Todd, Figel & Frederick — will lead a proposed <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrqdbympe/Apple-Watch-direct-purchaser-2024.pdf" target="_blank">class action</a> on behalf of Apple Watch purchasers.
+The case is In Re: Apple Inc Smartphone Antitrust Litigation, U.S. District Court, District of New Jersey, 2:24-md-03113-JXN-LDW.
+Read more:
+<a href="/technology/apple-urge-judge-end-us-smartphone-monopoly-case-2024-11-20/">Apple urges judge to end US smartphone monopoly case</a>
+<a href="/legal/litigation/law-firms-suing-apple-over-smartphone-dominance-fight-lead-roles-2024-08-09/">Law firms suing Apple over smartphone dominance fight for lead roles</a>
+

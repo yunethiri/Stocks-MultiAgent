@@ -1,0 +1,40 @@
+link: https://www.cnbc.com/2024/09/11/apple-tax-ireland-to-decide-what-it-will-do-with-13-billion-euros.html
+
+source: www.cnbc.com
+
+title: Ireland now needs to decide what it will do with 13 billion euros in back taxes from Apple
+
+summary: The decision comes at a time when Ireland is in the unusual position of running a budget surplus of several billion euros.
+
+publishDate: 2024-09-11T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998899698257446
+
+images: ['https://image.cnbcfm.com/api/v1/image/107154042-1668771117300-SM_Twitter_Profile_1_copy_.jpg?v=1668771807&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg']
+
+content: Shoppers on Wicklow Street in Dublin, Ireland, on Thursday, March 28, 2024. Bloomberg | Bloomberg | Getty Images
+
+A landmark ruling from the European Union's top court means Ireland will receive 13 billion euros ($14.4 billion) in unpaid taxes from Apple — a windfall that Dublin had spent several years fighting to avoid. It leaves the small EU member state in a politically awkward, albeit enviable, position. Irish lawmakers will be expected to set out how best to spend the incoming cash injection ahead of a general election, which must be held no later than March next year. In a decision the European Court of Justice (ECJ) said was final, the EU's top court on Tuesday ruled that Apple must pay Ireland billions of euros in back taxes. The decision was welcomed by tax justice advocates as well as the bloc's outgoing competition chief Margrethe Vestager, who described the pronouncement as a "huge win" for European citizens. Apple said in a statement that it was disappointed with the ruling, while the Irish government described the case as "an issue that is now of historical relevance only." The Irish government said in a statement that its position had always been that it "does not give preferential tax treatment to any companies or taxpayers." A spokesperson added that it would now begin the process of transferring the assets held in an escrow fund to Ireland.
+
+European Union antitrust chief Margrethe Vestager holds a press conference after Europe's top court ruling on Apple's fight against an order by EU competition regulators to pay a record 13 billion euros in back taxes to Ireland, in Brussels, Belgium September 10, 2024. Johanna Geron | Reuters
+
+"The Irish government in particular are now in a position where they have been telling the Irish people and the international community that they don't want this 13 billion [euros] — it is not ours," Aidan Regan, associate professor of political economy at University College Dublin in Ireland, told CNBC via telephone. "They are confronted with a lot of domestic pressures politically, there's an election probably in a couple of months' time and now they potentially have a windfall of 13 billion [euros] in a context whereby there's huge infrastructural problems and a housing crisis," he continued. "So, I suspect the Irish government will be paying a lot less attention to what is happening internationally and the reputational cost to this ruling and wondering what they are going to say to the Irish electorate ahead of an election in a few weeks' time." A spokesperson for Ireland's Finance Ministry referred CNBC to the government's written statement when contacted for comment.
+
+A lucrative decision
+
+Ireland, which serves as Apple's base in the EU, has one of the lowest corporate tax rates in the 27-nation bloc. For years, Ireland consistently argued that the iPhone maker should not have to repay unpaid taxes to the country. It had contested the case amid fears it may threaten the country's ability to attract investment from companies eager to limit their tax bill on overseas earnings. However, the ECJ's ruling on Tuesday confirmed the European Commission's 2016 decision that the country granted the U.S. tech behemoth "unlawful aid which Ireland is required to recover." The decision comes at a time when Ireland is in the unusual position of running a budget surplus of several billion euros, partly due to the strength of corporate tax receipts.
+
+Taoiseach Simon Harris awaits the arrival of Prime Minister Sir Keir Starmer for a meeting at Farmleigh, the official Irish state guest house in Dublin, ahead of the Republic of Ireland v England football match in the Irish capital. Brian Lawless - Pa Images | Pa Images | Getty Images
+
+"The decision is a lucrative one for Ireland, resulting in a windfall in the country's favour, but undermines the government's long-standing position that Ireland does not give preferential tax treatment to any taxpayers, companies or otherwise," Robert Dever, tax partner at multinational law firm Pinsent Masons, told CNBC via email. "It is to be hoped that any damage to Ireland's reputation internationally will be limited having regard to the changes to Irish tax code, including to the rules in respect of corporate tax residency and the attribution of profits to branches of non-resident companies, in the last number of years," Dever said. "The process of transferring the assets in the escrow fund, established to hold the funds representing the tax liability and interest purported to be owed by Apple pending the final determination, to Ireland will now be commenced following the judgment today but will take a number of months to be finalized," he added.
+
+Tax cooperation
+
+Alex Cobham, CEO of the Tax Justice Network, which tracks corporate tax avoidance, said on Tuesday that he welcomed the ECJ's ruling on Apple's tax affairs in Ireland. "But the ruling only serves to highlight the abject failure of international tax rules to protect the right of countries to tax the economic activity located in their own jurisdictions," Cobham told CNBC via email. "This points to the urgency of the global reform process now underway through the negotiation of a UN framework convention on international tax cooperation," he added.
+
+Shoppers and staff are seen inside the Apple Store, with its sleek modern interior design and prominent Apple logo on September 10, 2024 in Chongqing, China. Cheng Xin | Getty Images
+

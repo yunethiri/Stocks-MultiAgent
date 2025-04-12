@@ -1,0 +1,40 @@
+link: https://www.cnbc.com/2024/12/11/apple-launches-its-chatgpt-integration-with-siri.html
+
+source: www.cnbc.com
+
+title: Apple launches its ChatGPT integration with Siri
+
+summary: Apple released new versions of its iPhone, iPad, and Mac software on Wednesday that include the long-awaited ChatGPT integration with Siri.
+
+publishDate: 2024-12-11T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999109506607056
+
+images: ['https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp']
+
+content: Apple released updates for its iPhone, iPad and Mac software on Wednesday that include a long-awaited ChatGPT integration with Siri.
+
+The ChatGPT integration triggers when users ask Siri complicated questions. When Siri is asked a question that Apple's software identities as better suited for ChatGPT, it asks the user permission to access the OpenAI service. Apple says that it has built in privacy protections into the feature, and that OpenAI won't store requests. The integration uses OpenAI's GPT-4o model.
+
+Apple users don't need an OpenAI account to make use of the ChatGPT integration, but users can pay for upgraded versions of ChatGPT through Apple. Users can also access ChatGPT through some text menus.
+
+The iOS 18.2 release is a critical milestone for Apple, which is relying on Apple Intelligence to lead the iPhone 16 lineup's marketing campaign. Apple Intelligence is the company's suite of artificial intelligence features. Apple first announced the ChatGPT integration back in June.
+
+Apple released the first part of Apple Intelligence in October. Those features included writing tools that can proofread or rewrite text, a new design for Siri that makes the whole phone screen glow and notification summaries.
+
+The company says it will release another update to Apple Intelligence next year that includes significant improvements to Siri, including the ability for it to take actions inside of apps.
+
+Many investors believe that as Apple Intelligence adds features, it will boost iPhone sales, drive an upgrade cycle and potentially cement Apple as a leader in consumer-oriented AI.
+
+The integration is also a major victory for OpenAI as it puts its most important product in front of millions of iPhone users. Neither Apple nor OpenAI have disclosed financial terms for the arrangement.
+
+Users need an iPhone 15, iPhone 15 Pro or any iPhone 16 model to install and use Apple Intelligence, even though the ChatGPT integration primarily uses cloud servers. Owners of iPhones can turn on software updates in the General section of the Settings app.
+
+After updating to the latest Apple software, users who have not yet activated Apple Intelligence can sign up for a waitlist inside the settings app. Users typically receive access to the software within the same day. Their phones will need to download large files, including Apple's AI models, that the service needs to operate.
+
+The Monday updates also include Apple's image generating app, called Playground, which can create images based on people or prompts, and Image Wand, a feature that allows users to remove objects or flaws from photographs.
+

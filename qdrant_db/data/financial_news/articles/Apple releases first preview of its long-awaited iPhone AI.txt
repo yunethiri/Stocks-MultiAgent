@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/07/29/apple-releases-apple-intelligence-its-long-awaited-ai-features.html
+
+source: www.cnbc.com
+
+title: Apple releases first preview of its long-awaited iPhone AI
+
+summary: Apple on Monday released the first version of Apple Intelligence.
+
+publishDate: 2024-07-29T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9971709847450256
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/107426760-1718042940012-Screenshot_2024-06-10_at_20834_PM.png?v=1718051988&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Apple on Monday released the first version of Apple Intelligence, its suite of artificial intelligence features that will improve Siri, automatically generate emails and images and sort notifications.
+
+The new software called Apple Intelligence was released in the developer beta of iOS 18.1. It's also available in similar releases for iPad and Mac. It's currently only available to registered Apple developers who pay $99 a year.
+
+In addition, users will have to register for a waitlist inside Apple's settings app after updating to gain access to the service, which involves pinging Apple servers for more complicated requests.
+
+Later this year, it will be released to the public, but the 18.1 version number suggests Apple Intelligence won't be released alongside new iPhone hardware, which is expected to be launched running iOS 18 in the fall.
+
+Apple Intelligence is an important initiative for Apple. Investors hope the tight integration of AI with Apple's operating system can spur a big wave of upgrades in the coming years, especially since the system will only work on the iPhone 15 Pro and iPhone 15 Pro Max and newer.
+
+"We expect this iPhone cycle to remain strong for longer as AI feature sets (software and possibly hardware) improve in the 2025 iPhone," Bank of America analyst Wamsi Mohan wrote in a note on Monday.
+

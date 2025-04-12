@@ -1,0 +1,34 @@
+link: https://www.cnbc.com/2024/08/26/apple-announces-iphone-event-for-sept-9.html
+
+source: www.cnbc.com
+
+title: Apple announces iPhone event for Sept. 9
+
+summary: The launch event will be streamed on Apple's website and YouTube.
+
+publishDate: 2024-08-26T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9625558853149414
+
+images: ['https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/108025485-1724688428419-Screenshot_2024-08-26_at_120617_PM.png?v=1724688945&w=1920&h=1080']
+
+content: Tim Cook, CEO of Apple, at the Allen & Company Sun Valley Conference in Sun Valley, Idaho, on July 9, 2024.
+
+Apple announced it will hold a press event at its headquarters in Cupertino, California, on Monday, Sept. 9, where the company is expected to announce new iPhones and Apple Watch models.
+
+The launch event will be streamed on Apple's website and YouTube. Apple has launched products through pre-recorded videos since 2020.
+
+Apple typically releases new iPhones and Apple Watches at its fall launches ahead of the critical holiday shopping season.
+
+This year's iPhone models, which could be called the iPhone 16, could include bigger screens on the high-end devices, a redesigned camera bump, and a new color, according to analysts and Bloomberg. Apple's wearables are expected to get a new faster chip.
+
+Apple also typically announces the release data of the newest version of the iPhone software for all users alongside the new models.
+
+This year's version is called iOS 18, and will eventually include Apple Intelligence, a collection of AI features for daily usage like summarizing messages and generating cute images. However, Apple's recent developer preview signaled that Apple Intelligence features will likely launch shortly after Apple's hardware launch.
+
+This year's invites include the tagline "It's Glowtime," a reference to Apple's new redesign of its Siri interface.
+

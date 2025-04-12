@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/apple-urge-judge-end-us-smartphone-monopoly-case-2024-11-20/
+
+source: www.reuters.com
+
+title: Apple to urge judge to end US smartphone monopoly case
+
+summary: Apple will ask a federal judge on Wednesday to dismiss the U.S. Department of Justice's case accusing the iPhone maker of unlawfully dominating the smartphone market, in the latest Big Tech antitrust showdown.
+
+publishDate: 2024-11-20T11:05:59.568Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9973613619804382
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will ask a federal judge on Wednesday to dismiss the U.S. Department of Justice's case accusing the iPhone maker of unlawfully dominating the smartphone market, in the latest Big Tech antitrust showdown.
+U.S. District Judge Julien Neals in Newark, New Jersey, is scheduled to hear arguments from lawyers for Apple, and from prosecutors who say the company locks users in and keeps competition out by limiting interoperability between the iPhone and third-party apps and devices.
+Apple has <a href="/legal/apple-says-us-antitrust-lawsuit-should-be-dismissed-2024-05-21/">moved to dismiss the case</a>, saying its limitations on developers' access to its technology were reasonable, and that forcing it to share technology with competitors would chill innovation.
+Antitrust cases against Big Tech firms are a bipartisan trend. The case against Apple began during the first presidential term of <a href="https://www.reuters.com/topic/person/donald-trump/">Donald Trump</a> and was filed during the administration of President <a href="https://www.reuters.com/topic/person/joe-biden/">Joe Biden</a>.
+In other cases, Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google was found to have an <a href="/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/">illegal monopoly in online search</a>, Meta Platforms <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> faces trial on claims that it <a href="/legal/meta-will-face-antitrust-trial-over-instagram-whatsapp-acquisitions-2024-11-13/">squelched competition by acquiring upstart rivals</a>, and Amazon.com <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> is fighting a case over its policies toward sellers and suppliers.
+But some claims like the ones at the heart of the Apple case have ultimately failed.
+A judge dismissed the Federal Trade Commission's claim against Meta over the social media platform's restrictions on third-party app developers.
+In the Google search case, the judge <a href="/legal/google-monopoly-ruling-could-help-apple-defense-antitrust-case-2024-08-06/">rejected a claim</a> that Google should have done more to accommodate advertisers on Microsoft's <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> search engine, Bing.
+Apple cited the ruling in its own case, saying it shows that withholding access to technology should not be considered anticompetitive.
+The Apple lawsuit filed in March by the DOJ and a coalition of states takes aim at restrictions and fees on app developers, and technical roadblocks to third-party devices and services - such as smart watches, digital wallets and messaging services - that would compete with its own.
+If the judge finds the claims plausible, the case will be allowed to move forward.
+

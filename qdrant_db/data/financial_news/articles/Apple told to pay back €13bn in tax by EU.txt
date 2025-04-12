@@ -1,0 +1,24 @@
+link: https://www.bbc.com/news/articles/ckgwkwxr4eqo
+
+source: www.bbc.com
+
+title: Apple told to pay back €13bn in tax by EU
+
+summary: The European Court of Justice upheld a 2016 decision that said Apple received unlawful aid from Ireland.
+
+publishDate: 2024-09-10T08:17:40.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9991639852523804
+
+images: ['https://www.bbc.com/bbcx/grey-placeholder.png', 'https://ichef.bbci.co.uk/news/1024/branded_news/5ea5/live/c30221c0-6f48-11ef-8602-63d7f82252c1.jpg', 'https://ichef.bbci.co.uk/news/480/cpsprodpb/5ea5/live/c30221c0-6f48-11ef-8602-63d7f82252c1.jpg.webp']
+
+content: Apple told to pay back €13bn in tax by EU
+
+Reuters
+
+Apple has been told to pay back €13bn (£11bn; $14bn) in unpaid taxes to Ireland by the European Court of Justice (ECJ). The EU Commission accused Ireland of giving Apple illegal tax advantages eight years ago but the Irish government has consistently argued against the need for the tax to be paid back. “The Court of Justice gives final judgment in the matter and confirms the European Commission’s 2016 decision: Ireland granted Apple unlawful aid which Ireland is required to recover,” the court said. The news comes a day after the tech giant released its new iPhone 16 range.
+

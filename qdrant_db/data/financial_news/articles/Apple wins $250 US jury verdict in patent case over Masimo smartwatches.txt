@@ -1,0 +1,48 @@
+link: https://finance.yahoo.com/news/masimo-smartwatches-infringe-apple-patents-221604479.html
+
+source: finance.yahoo.com
+
+title: Apple wins $250 US jury verdict in patent case over Masimo smartwatches
+
+summary: 
+
+publishDate: 2024-10-25T22:16:04.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8726322054862976
+
+images: ['https://media.zenfs.com/en/reuters.com/b2caeb2eb8f785e440341251b4c63ad2', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f']
+
+content: By Blake Brittain
+
+(Reuters) -Apple convinced a federal jury on Friday that early versions of health monitoring tech company Masimo's smartwatches infringe two of its design patents as part of a broader intellectual property dispute between the companies.
+
+The jury, in Delaware, agreed with Apple that previous iterations of Masimo's W1 and Freedom watches and chargers willfully violated Apple's patent rights in smartwatch designs.
+
+But the jury awarded the tech giant, which is worth about $3.5 trillion, just $250 in damages - the statutory minimum for infringement in the United States.
+
+Apple's attorneys told the court the "ultimate purpose" of its lawsuit was not money, but to win an injunction against sales of Masimo's smartwatches after an infringement ruling.
+
+On that front, jury also determined that Masimo's current watches did not infringe Apple patents covering inventions that the tech giant had accused Masimo of copying.
+
+Masimo said in a statement it appreciated the jury's verdict "in favor of Masimo and against Apple on nearly all issues," and that the decision only applied to a "discontinued module and charger."
+
+"Apple primarily sought an injunction against Masimo's current products, and the jury's verdict is a victory for Masimo on that issue," Masimo said.
+
+Apple said in a statement that it was "glad the jury's decision today will protect the innovations we advance on behalf of our customers."
+
+Irvine, California-based Masimo accused Apple of hiring away its employees and stealing its pulse oximetry technology after discussing a potential collaboration.
+
+Masimo convinced the U.S. International Trade Commission last year to block imports of Apple's Series 9 and Ultra 2 smartwatches after the commission found their technology for reading blood oxygen levels infringed Masimo's patents.
+
+Apple has appealed the decision and resumed selling the watches after removing the technology. The tech giant countersued Masimo for patent infringement in 2022, alleging Masimo copied Apple Watch features to use in its smartwatches.
+
+Apple also accused Masimo of using lawsuits at the ITC and in California to "make way for Masimo's own watch."
+
+Masimo said Apple's patent lawsuit was "retaliatory" and "an attempt to avoid the court in which the parties have been litigating their dispute."
+
+(Reporting by Blake Brittain in Washington; Editing by Leslie Adler, Rosalba O'Brien and Lincoln Feast.)
+

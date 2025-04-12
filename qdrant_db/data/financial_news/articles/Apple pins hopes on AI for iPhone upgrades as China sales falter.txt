@@ -1,0 +1,46 @@
+link: https://www.reuters.com/technology/apple-revenue-returns-growth-iphone-sales-top-expectations-2024-08-01/
+
+source: www.reuters.com
+
+title: Apple pins hopes on AI for iPhone upgrades as China sales falter
+
+summary: Apple said its third-quarter iPhone sales were better than expected and forecast more gains on Thursday as it bets on artificial intelligence to attract buyers, even as its overall China business disappointed.
+
+publishDate: 2024-08-01T20:31:06.063Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999730587005615
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> said its third-quarter iPhone sales were better than expected and forecast more gains on Thursday as it bets on <a href="https://www.reuters.com/technology/artificial-intelligence/">artificial intelligence</a> to attract buyers, even as its overall China business disappointed.
+Shares of the company rose nearly 1% in extended trading, outperforming other tech stocks that were broadly lower.
+Apple is expected to launch this fall what analysts have called the biggest software upgrade for the iPhone. It includes artificial intelligence features and comes at a time when rivals such as Samsung have been quicker to roll out similar services.
+Apple said revenue in its fiscal fourth quarter would grow at a level similar to the 4.9% increase it posted in the April-June period, which was better than analysts' estimates.
+Sales of iPhone also improved in the third quarter, falling just 0.9% compared with the 2.2% drop analysts expected.
+Chief Financial Officer Luca Maestri told Reuters in an interview that the iPhone results were better than he had expected three months ago. "The iPhone 15 family has been doing well from the very beginning and still now - we have three quarters of the year behind us. It is performing better than the previous cycle, the iPhone 14."
+Still, China - Apple's third-largest market - remained a drag as sales there declined 6.5%. While that was an improvement from the 8.1% decline in the previous quarter, it was wider than expectations for a drop of 2.4%, according to Visible Alpha.
+Maestri said China sales fell less than 3%, excluding the effects of foreign exchange and added that he feels good about Apple's performance in that country, given any softness in its economy.
+Apple has taken to <a href="/technology/apples-may-smartphone-shipments-china-up-396-yy-data-shows-2024-06-28/">discounting its iPhones</a> in China to compete with the much cheaper alternative smartphones offered by local competitors such as Huawei (HWT.UL). The company in May offered discounts of up to 2,300 yuan ($317) on selected models.
+
+AI PUSH
+Analysts expect a strong upgrade cycle for the iPhone 16 series, likely to be launched in September. The company unveiled a raft of AI products and services it calls Apple Intelligence at its developer conference in June.
+To operate Apple Intelligence requires at least an iPhone 15 Pro, which may push consumers to upgrade their devices.
+While some analysts said that some consumers might have purchased the top-end iPhone 15 devices to tap the upcoming Apple Intelligence features, CEO Tim Cook told investors on Thursday it was "too early to tell" if that was driving upgrades.
+Apple's AI features have arrived later than offerings by rivals including Samsung Electronics <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a>, which has introduced competing devices aimed at hosting AI chatbots. Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> and Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google are placing huge bets on AI as well.
+"The company's future success depends on two factors: keeping AI development costs low and ensuring that new AI-driven features compel price-sensitive consumers to upgrade their devices," said Emarketer analyst Jacob Bourne.
+Apple started ramping up research and development spending last year, and Cook has said it has spent more than $100 billion on R&D in the past five years.
+Maestri told Reuters on Thursday that the company maintains "very good gross margins" despite the sometimes burdensome costs associated with building and running AI applications.
+Apple splits its AI infrastructure costs between its own data centers and other cloud providers with whom it contracts.
+On the regulatory front, Apple faces three probes in the European Union related to the <a href="/technology/apple-says-its-complying-with-eus-digital-markets-act-amid-criticism-2024-03-18/">Digital Markets Act</a>, which requires large tech companies to ensure a level playing field for rivals and give users more choice. The bloc's antitrust regulator has accused Apple's App Store of breaching the DMA.
+In the United States, the Department of Justice in March <a href="/legal/us-takes-apple-antitrust-lawsuit-2024-03-21/">accused Apple of monopolizing the smartphone market</a> and driving up prices.
+Apple's quarterly earnings per share were $1.40, above Wall Street estimates of $1.35, according to LSEG data.
+Sales in Apple's services segment, which includes the App Store and represents Apple Music and TV products, rose 14.1% to $24.21 billion, above analyst expectations of $24.01 billion, according to LSEG data.
+Mac sales grew 2.5% to $7.01 billion, compared with estimates of $7.02 billion, according to LSEG data.
+The company's sales in the iPad segment increased by 23.7% to $7.16 billion, above analyst expectations of $6.61 billion, after Apple launched a new AI-focused iPad Pro and a larger iPad Air in May to revive demand for a product line that had languished for the past two years.
+In the company's wearables segment, which represents sales of Apple Watches and AirPods headphones, sales fell 2.3% to $8.10 billion, compared with analyst estimates of $7.79 billion, according to LSEG data.
+Apple maintained its dividend at 25 cents. In the fiscal second quarter, Apple announced a $110 billion stock buyback.
+

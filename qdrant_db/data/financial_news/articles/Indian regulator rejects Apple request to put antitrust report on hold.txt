@@ -1,0 +1,31 @@
+link: https://www.reuters.com/technology/indian-regulator-rejects-apple-request-put-antitrust-report-hold-2024-11-24/
+
+source: www.reuters.com
+
+title: Indian regulator rejects Apple request to put antitrust report on hold
+
+summary: Apple has denied wrongdoing.
+
+publishDate: 2024-11-24T15:05:26.623Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9590364098548889
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Faba9502a-6953-483f-8242-c9417473fdc4.png?auth=00611f6678aede4a496d31a9b952a00319df7a16b43b7eb431bd6f6f66cbaa1b&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Faba9502a-6953-483f-8242-c9417473fdc4.png?auth=00611f6678aede4a496d31a9b952a00319df7a16b43b7eb431bd6f6f66cbaa1b&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Faba9502a-6953-483f-8242-c9417473fdc4.png?auth=00611f6678aede4a496d31a9b952a00319df7a16b43b7eb431bd6f6f66cbaa1b&width=120&height=63&smart=true']
+
+content: India's antitrust body has turned down a request from Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> to put a hold on an investigation report which found the company <a href="/technology/india-antitrust-probe-finds-apple-abused-position-apps-market-2024-07-12/">breached</a> competition laws, allowing the case to continue, an internal order from the regulator seen by Reuters showed.
+The Competition Commission of India (CCI) in August ordered a <a href="/technology/india-orders-unusual-recall-reports-apple-antitrust-probe-2024-08-13/">recall</a> of investigation reports after Apple said the watchdog had disclosed commercial secrets to competitors in the case dating back to 2021, including Tinder-owner Match <a href="https://www.reuters.com/markets/companies/MTCH.O" target="_blank">(MTCH.O)</a>. These elements should have been redacted.
+The CCI had asked parties to return the reports and destroy any copies. The regulator then issued new reports.
+The CCI internal order showed that Apple in November alleged that the main complainant in the antitrust investigation - Indian non-profit Together We Fight Society (TWFS) - had not complied with the directives to give an assurance that the old investigation reports had been destroyed.
+Apple asked the CCI "to take action against TWFS for non-compliance with its order" and "to withhold the revised" report, the CCI order, dated Nov. 13, seen by Reuters showed.
+"Apple's request to hold the investigation report in abeyance was deemed untenable," the CCI said in the order.
+Apple did not respond to Reuters queries.
+The CCI did not respond outside regular business hours on Sunday. Calls to representatives of TWFS went unanswered.
+A CCI investigation had found that Apple exploited its dominant position in the market for app stores on its iOS operating system to the detriment of app developers, users and other payment processors.
+Apple has denied wrongdoing and said it is a small player in India where phones that use Google's Android system are dominant.
+The CCI internal order also showed that Apple has been asked to submit its audited financial statements for fiscal years 2021-22, 2022-23 and 2023-24 under regulatory guidelines aimed at determining possible monetary penalties in the case.
+The CCI's senior officials will review the investigation report and make a final ruling on the case.
+

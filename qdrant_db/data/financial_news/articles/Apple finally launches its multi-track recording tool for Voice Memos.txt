@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/apple-finally-launches-its-multi-track-recording-tool-for-voice-memos-194623218.html
+
+source: www.yahoo.com
+
+title: Apple finally launches its multi-track recording tool for Voice Memos
+
+summary: 
+
+publishDate: 2024-12-11T19:46:23.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.5726000070571899
+
+images: ['https://s.yimg.com/uu/api/res/1.2/2wbRyDHmaHy01xoUWXhNJQ--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/t3_620/47b8ef05336c05c1db69c25d999511cd.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/7q2Ac6o2rBkj6CxMbJydZw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mashable_articles_863/94b970b55a98aaae4f460af47c64a9ed.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/Dm4fzcCvzpeNIH6SbGRiLg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/07ec5852-b724-11ef-bbcb-0f51898f02ef.cf.webp']
+
+content: Apple’s Voice Memos app just got the promised layering functionality that was shown off back in September at the iPhone event. This allows people to layer another track on top of a pre-existing track, which turns the app into an extremely-limited, though still useful, recording tool. This update is part of iOS 18.2, which also brings more AI tomfoolery like a custom emoji maker.
+
+There’s one major caveat here. The Voice Memos software tweak is only available for the iPhone 16 Pro and the Pro Max. This is a bummer, given that track layering isn’t exactly rocket science, but the company says there’s a good reason to exclude other models.
+
+The software lets people add that second layer without wearing headphones, which is possible thanks to some algorithmic wizardry, the A18 Pro chip and those new “studio-quality” microphones that come with the iPhone 16 Pro and iPhone 16 Pro Max. That’s a pretty neat trick but, you know, not exactly necessary. I don’t mind wearing headphones for a minute.
+
+Advertisement Advertisement
+
+The update can also split the voice memo into its two composite tracks, for use later with legitimate recording software. That’s another neat little trick and sort of similar to what The Beatles did for their latest (and final) song. Singer Michael Bublé and country star Carly Pearce used the Voice Memos app to make a little Christmas song, as seen below.
+
+As with all things recorded with Voice Memos, the files will be synced across devices thanks to Apple iCloud. These multi-layered tracks will also be available on Mac computers to drag-and-drop into a session with Logic Pro.
+

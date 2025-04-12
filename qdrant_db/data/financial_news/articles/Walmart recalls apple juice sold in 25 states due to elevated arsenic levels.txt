@@ -1,0 +1,46 @@
+link: https://www.yahoo.com/news/walmart-recalls-apple-juice-sold-104654908.html
+
+source: www.yahoo.com
+
+title: Walmart recalls apple juice sold in 25 states due to elevated arsenic levels
+
+summary: 
+
+publishDate: 2024-08-26T10:46:54.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9984217882156372
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197618800&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fwalmart-recalls-apple-juice-sold-104654908.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://media.zenfs.com/en/wftv_cox_articles_135/da3e3e54ca5f8bd7f5a1b15fdbc7f48a']
+
+content: Walmart has recalled nearly 10,000 cases of apple juice sold in stores across the U.S. that were found to contain potentially harmful levels of inorganic arsenic.
+
+The U.S. Food and Drug Administration gave the recall a more urgent classification Friday after making its original announcement Aug. 15. The new classification said the affected product may temporarily cause adverse health consequences but is unlikely to cause serious or irreversible medical issues.
+
+READ: Lake Mary Little League wins the Little League World Series in dramatic fashion 2-1
+
+The recall applies to 9,535 cases of Great Value brand apple juice sold in 25 states, Puerto Rico and the District of Columbia. Florida-based manufacturer Refresco Beverages US Inc. voluntarily recalled the contaminated six-packs of 8-ounce (227-gram) juice bottles after discovering levels of the chemical contaminant that exceeded industry standards.
+
+A spokesperson for Refresco did not immediately respond to emails seeking comment Sunday.
+
+“The health and safety of our customers is always a top priority,” Walmart spokesperson Molly Blakeman said in a statement. “We have removed this product from our impacted stores and are working with the supplier to investigate.”
+
+READ: Red Lobster to close 23 restaurants within days — here’s where they are
+
+Very low levels of inorganic and organic arsenic are found in many food products, according to the National Institutes of Health. Testing is routine, as slightly elevated levels of either form can cause symptoms such as vomiting, abdominal pain, diarrhea, numbness and muscle cramping.
+
+Inorganic arsenic is more toxic to humans than the naturally occurring form of the mineral arsenic, and the health effects from exposure are more severe, according to the FDA. The Environmental Protection Agency has labeled inorganic arsenic a carcinogen, or a substance that causes cancer.
+
+READ: Orlando International Airport to build $1B facility, free up thousands of parking spaces
+
+Levels found in the recalled apple juice bottles are low enough that the FDA does not expect them to cause such severe health consequences.
+
+The FDA has not shared reports of possible illnesses associated with the apple juice recall.
+
+Copyright 2024 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.
+
+Click here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.
+

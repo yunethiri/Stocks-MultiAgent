@@ -1,0 +1,86 @@
+link: https://www.yahoo.com/tech/apple-ios-18-release-date-202039390.html
+
+source: www.yahoo.com
+
+title: Apple iOS 18 release date announcement: When you can download it
+
+summary: 
+
+publishDate: 2024-09-09T20:20:39.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999955892562866
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/Ao1AsJCLUTRGvWteeA_cOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mashable_articles_863/4dc626ae6f4a677f3595cc7d2a603fb6', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: Everything you need to know about the new iOS arriving with the iPhone 16 lineup.
+
+At its "It's Glowtime" event on Sept. 9, Apple unveiled the new Apple Watch Series 10, new AirPods, and, yes, the iPhone 16 series. Alongside those new iPhones, Apple is also launching its latest iPhone operating system, iOS 18.
+
+iOS 18 was announced at WWDC back in June, teasing a series of new features. These include new ways to organize your Home Screen, a new customizable Control Center, and Apple Intelligence, the headline feature.
+
+SEE ALSO: Apple Event 2024: Everything announced, including iPhone 16, Apple Watch Series 10
+
+Beta testers have been able to try out most of these features for some time now — but with a public release, you'll finally get them for yourself. Here’s what you need to know.
+
+iOS 18 release date
+
+Apple always releases new versions of iOS alongside its new iPhones — and outside of the beta testing program, you can download and install iOS 18 for yourself on Sept. 16, a few days before the new iPhones are released on Sept. 20.
+
+When you do, though, it won’t offer all of the features that Apple announced in June. Some smart home features, for example, are reserved for iOS 18.1, which doesn’t have an official release date yet, so you’ll have to wait a little to try it out. Then, there’s Apple Intelligence, which has its own release timeline.
+
+What’s new in iOS 18?
+
+iOS 18 brings with it a series of great new features. Many of these relate to customization, allowing users to personalize their devices.
+
+Apart from Apple Intelligence, perhaps the headline feature is one that ex-Android users have been asking for—a more customizable Home Screen. With iOS 18, you’ll be able to place apps wherever you want on the screen (within the grid, of course) instead of having them arranged from left to right, top to bottom, at all times. Additionally, you can set new Dark and Tinted Home Screen options, which bring different colors to your Home Screen wallpaper and apps.
+
+SEE ALSO: iPhone 16 Pro and iPhone 16 Pro Max launch at Apple 'Glowtime' event
+
+The Control Center is also becoming more customizable. In iOS 18, you can create and customize multiple pages of the Control Center and more easily place and resize your existing controls. So, you could have a whole page dedicated to smart home controls, or you could place only the controls you care about on one screen in the exact position that works for you.
+
+Plenty of Apple’s first-party apps are getting new features as well. iMessage will let you use any emoji as a Tapback reaction, and you’ll be able to format text with underlines and italics — not to mention RCS support, which brings better cross-platform messaging. The Photos app is getting an all-new single-page design, and you’ll now be able to lock apps behind Face ID — so you can better secure sensitive information. Lastly, passwords are moving out of the Settings app and into their own Passwords app.
+
+Featured Video For You
+
+Apple Event 2024 Recap
+
+Apple Intelligence
+
+Apple Intelligence is perhaps the most important "feature" of iOS 18. It is just the name that Apple calls its bundle of new AI features. Unfortunately, accessing these features isn’t quite as simple as downloading iOS 18. The very first Apple Intelligence features won’t be available until iOS 18.1, which is expected sometime towards the end of October, based on previous iOS iterations.
+
+SEE ALSO: iPhone 16 is getting Apple Intelligence — and it's free
+
+Even when iOS 18.1 is released, it won’t have all of the Apple Intelligence features that Apple announced in June. The currently available beta version of iOS 18.1 has new writing tools that can generate and summarize text, suggested replies in Messages, phone call recording and transcripts, and notification summaries for both the Messages and Mail apps. These features will almost certainly be available in iOS 18.1, unless Apple runs into a hitch and decides to pull them, which is unlikely.
+
+There are features that no one outside of Apple has tested yet, but these will likely be held until a later iOS 18 release. These features include some headliners, like Image Playground, Genmoji for generated emoji, Siri enhancements (with the ChatGPT integration), and on-screen awareness. These are some of the most significant features of Apple Intelligence, but Apple is taking things slow with AI. The company has even said that some features won't be released until 2025, though it did highlight that ChatGPT integration would be available by the end of 2024, so other Siri enhancements will likely be out by then, too.
+
+Again, though, features could be delayed if Apple wants to hold them longer.
+
+Which devices will support iOS 18?
+
+iOS 18 will be available on all of the same devices that support iOS 17, which is great news for those with a slightly older phone. However, not all of these models will get Apple Intelligence. Only the iPhone 15 Pro and iPhone 15 Pro Max (along with all iPhone 16 devices) get the new AI features.
+
+Here's a list of devices that will get iOS 18.
+
+iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
+
+iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
+
+iPhone 13, 13 Mini, 13 Pro, 13 Pro Max
+
+iPhone 12, 12 Mini, 12 Pro, 12 Pro Max
+
+iPhone 11, 11 Pro, 11 Pro Max
+
+iPhone XS, XS Max
+
+iPhone XR
+
+iPhone SE (second-generation)
+
+iPhone SE (third-generation)
+

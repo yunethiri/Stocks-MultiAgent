@@ -1,0 +1,32 @@
+link: https://www.yahoo.com/tech/apple-may-stealthily-confirmed-mac-123752112.html
+
+source: www.yahoo.com
+
+title: Apple may have stealthily confirmed the new Mac mini
+
+summary: 
+
+publishDate: 2024-09-18T12:37:52.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.987547755241394
+
+images: ['https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45', 'https://s.yimg.com/ny/api/res/1.2/SvHkVB_I9UE5sj7hapd7Hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzE-/https://media.zenfs.com/en/digital_trends_973/b20bbd8714dc9dd23ef2fc399d9e8f94', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: With the Apple iPhone event now behind us, we are still waiting for official news about new Macs. We recently reported on the slew of Macs that are most likely on the way, but Apple’s been silent on the matter — until now. A stealthy line of code in the new macOS Sequoia update reveals that a new Mac mini might be in the works, and the confirmation fits right in with previous reports.
+
+Let’s start with some context. According to Bloomberg’s Mark Gurman, Apple is readying a new Mac mini with the M4 and the M4 Pro chip. Aside from the chip upgrade, the 2024 Mac mini is said to be redesigned to be smaller than ever before, marking the first major change in the design of the mini PC in many years. It’s said to be around the same size as an Apple TV set-top box. To that end, we’ve heard that Apple might remove all of the USB-A ports on the Mac mini in an effort to make the PC even thinner.
+
+What’s coming instead of those removed USB-A ports? USB-C ports, and a whole lot of them, too. Reports pointed to the new Mac mini sporting five USB-C ports in total, and that number ties perfectly to the confirmation found in macOS Sequoia.
+
+Apple has confirmed that a new Mac mini is coming and it will come with 5 USB-C ports as reported by @markgurman pic.twitter.com/p5QBQmQkfk — Aaron (@aaronp613) September 16, 2024
+
+As noted by Aaronp613 on X (formerly Twitter), there’s a short line of code in macOS Sequoia that directly refers to the new PC, mentioning an “Apple silicon Mac mini (5 Port).” Although there’s no mention of the M4 chip, the reference to using five ports is promising. Sure, it’s not the same as an official Apple announcement, but few sources are more solid than code found in Apple’s latest operating system for the Mac.
+
+This could mean that some of the other reports will also prove to be true. Apple is said to be doing a lot in the way of both desktops and laptops, including a refresh for the entire MacBook Pro lineup. We’re expecting to see an entry-level 14-inch MacBook Pro equipped with the M4 chip, as well as two premium MacBook Pros, one 14-inch and one 16-inch, with the M4 Pro and the M4 Max. Apple is also said to be working on a new iMac.
+
+It’s all up in the air until Apple actually unveils all of these rumored products, but until then, this hidden confirmation is as good as it gets. Apple is likely to host an event in October, this time focused on the Mac and the iPad, so stay tuned — we’ll keep you posted as soon as we learn more.
+

@@ -1,0 +1,21 @@
+link: https://www.reuters.com/business/autos-transportation/stellantis-denies-report-about-picking-apples-maestri-new-ceo-2024-12-04/
+
+source: www.reuters.com
+
+title: Stellantis denies report about picking Apple's Maestri as new CEO
+
+summary: French-Italian car maker Stellantis on Wednesday denied a report in Corriere della Sera daily that it planned to name outgoing Apple finance chief Luca Maestri as its new chief executive.
+
+publishDate: 2024-12-04T08:17:26.595Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996929168701172
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: French-Italian car maker Stellantis <a href="https://www.reuters.com/markets/companies/STLAM.MI" target="_blank">(STLAM.MI)</a> on Wednesday denied a report in Corriere della Sera daily that it planned to name outgoing Apple finance chief Luca Maestri as its new chief executive.
+"It is not true," a spokesperson for Stellantis said, after Corriere reported that Stellantis Chairman John Elkann planned to name Maestri following the departure of CEO Carlos Tavares.
+

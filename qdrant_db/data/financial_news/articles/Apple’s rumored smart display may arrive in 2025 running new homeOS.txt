@@ -1,0 +1,22 @@
+link: https://www.yahoo.com/tech/apples-rumored-smart-display-may-arrive-in-2025-running-new-homeos-212401853.html
+
+source: www.yahoo.com
+
+title: Apple’s rumored smart display may arrive in 2025 running new homeOS
+
+summary: 
+
+publishDate: 2024-09-29T21:24:01.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999797344207764
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/25VCJEDlyhvGdlO1clrMig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-09%2F04b773d0-5cbd-11ee-bbee-fb1bf060105b&compress=1&progressive=1&quality=75&client=hawkeye&signature=0cbacc2ca3cac6650f7a242f12d6f4c7d37ff457']
+
+content: Apple is planning to debut a new operating system called homeOS with its long-rumored smart displays, the first of which is expected to arrive as soon as 2025, according to Bloomberg ’s Mark Gurman. Reports of a HomePod-like device with a display have been swirling for over a year, and Gurman said just this summer that Apple is working on a tabletop smart display equipped with a robotic arm that can tilt and rotate the screen for better viewing. In his latest report, Gurman says there are two versions in the works: a low-end display that will offer the basics, like FaceTime and smart home controls, and the high-end robotic variant that’ll cost upwards of $1,000.
+
+We’ll reportedly see the cheaper version first — possibly next year — followed by the high-end display. Gurman previously said the robotic smart display could be released in 2026 at the earliest. You won’t have to wait for the premium model to get a taste of Apple’s vision for home AI, though. According to Gurman, Apple Intelligence will be a key part of the experience for both devices. The new homeOS will be based on Apple TV’s tvOS, he notes.
+

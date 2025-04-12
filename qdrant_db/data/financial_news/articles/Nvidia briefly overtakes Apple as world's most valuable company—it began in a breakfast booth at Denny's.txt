@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/11/05/nvidia-briefly-overtakes-apple-as-most-valuable-us-company-origin-story.html
+
+source: www.cnbc.com
+
+title: Nvidia briefly overtakes Apple as world's most valuable company—it began in a breakfast booth at Denny's
+
+summary: Nvidia briefly surpassed Apple as the world's most valuable company by market cap on Monday. Here's the story behind the AI chipmaker's unlikely rise.
+
+publishDate: 2024-11-05T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9207988977432251
+
+images: ['https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/4aa16a5a247997e68dcd.svg']
+
+content: Chipmaker Nvidia temporarily dethroned Apple as the most valuable company in the world on Monday — another stop on the company's unlikely journey from startup to tech giant.
+
+Nvidia shares rose Monday morning, boosting its market value to $3.38 trillion by the afternoon, surpassing Apple's $3.35 trillion market cap. The news came just days after S&P Dow Jones Indices announced that Nvidia is replacing rival chipmaker Intel in the Dow Jones Industrial Average, a 30-member index that's often viewed as a key metric of the U.S. economy.
+
+By Monday evening, Apple bounced back to the top with a $3.38 trillion market value, compared to Nvidia's $3.34 trillion.
+
+Nvidia's dominant market position, driven largely by its development of powerful computer chips that can power artificial intelligence models, is lightyears from its roots as a 3D graphics company for video games. Co-founder and CEO Jensen Huang and his two friends, engineers Chris Malachowsky and Curtis Priem, started the business in 1993 while eating at a Denny's restaurant in San Jose, California, Huang told CBS' "60 Minutes." in April.
+
+DON'T MISS: The ultimate guide to negotiating a higher salary
+
+Huang was 30 years old, married and a father of two when inspiration struck him at the same restaurant where he once worked as a busboy at age 15, he said.
+
+"We came right here to this Denny's, sat right back there, and the three of us decided to start the company," said Huang.. "Frankly, I had no idea how to do it, nor did they. None of us knew how to do anything."
+

@@ -1,0 +1,26 @@
+link: https://www.reuters.com/technology/apple-seeks-defend-googles-billion-dollar-payments-search-case-2024-12-24/
+
+source: www.reuters.com
+
+title: Apple seeks to defend Google's billion-dollar payments in search case
+
+summary: Apple has asked to participate in Google's upcoming U.S. antitrust trial over online search, saying it cannot rely on Google to defend revenue-sharing agreements that send the iPhone maker billions of dollars each year for making Google the default search engine on its Safari browser.
+
+publishDate: 2024-12-24T15:20:31.681Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8819254040718079
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ffe8c4b1b-9993-48e0-872b-a2ef82f39805.png?auth=49ff94a65d656d3d7aa445b971e5ef004d3b7011466ce4bd714a73bab3552e6e&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has asked to participate in Google's upcoming U.S. antitrust trial over online search, saying it cannot rely on Google to defend revenue-sharing agreements that send the iPhone maker billions of dollars each year for making Google the default search engine on its Safari browser.
+Apple <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/zgvoalybovd/apple%20declaration.pdf" target="_blank">does not plan to build its own search engine</a> to compete with Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google, whether or not the payments continue, the company's lawyers <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/gdpzkajqlvw/Apple%20filing.pdf" target="_blank">said in court papers</a> filed in Washington on Monday. Apple received an estimated $20 billion from its agreement with Google in 2022 alone.
+Apple wants to call witnesses to testify at an April trial. Prosecutors will seek to show Google must take several measures, including <a href="/technology/google-prosecutors-propose-cure-search-monopoly-2024-11-20/">selling its Chrome web browser</a> and potentially its Android operating system, to restore competition in online search.
+"Google can no longer adequately represent Apple’s interests: Google must now defend against a broad effort to break up its business units," Apple said.
+The Department of Justice's prosecution of Google is a landmark case that could reshape how users find online information.
+Google has proposed to <a href="/legal/google-says-it-could-loosen-search-deals-us-antitrust-case-2024-12-21/">loosen its default agreements</a> with browser developers, mobile-device manufacturers and wireless carriers, but not to end its agreements to share a portion of ad revenue Google generates from search.
+A spokesperson for Google declined to comment on Tuesday.
+

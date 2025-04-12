@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/apple-set-build-server-chip-183200645.html
+
+source: www.yahoo.com
+
+title: Apple set to build a server chip to service its own AI and may have sacrificed the company's fastest ever chip to achieve this; report suggests a strategic tie-in with $850bn Broadcom
+
+summary: 
+
+publishDate: 2024-12-19T18:32:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9834327697753906
+
+images: ['https://s.yimg.com/uu/api/res/1.2/6.ElZxvUODOODYoEVLz5rw--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/6a9d58f2d9329706c518f2c74fb55ddd.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/ang69mqjo4Ah7udyTG0paw--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/t3_620/f6f8fc8af247ee1de2ceff9427742089.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/wfzzmcN06LGDNGY7IO5XoA--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ny_post_articles_869/ccfea62ba3faa20bef3b7dee11d0d7c9.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: gizmochina
+
+Apple developing "Baltra" server chip for AI, targeting 2026 production
+
+Israeli silicon team leading project; Mac chip canceled for focus
+
+Broadcom collaboration and TSMC’s N3P tech to enhance development
+
+Apple is reportedly developing its first server chip tailored specifically for artificial intelligence.
+
+A paywalled report by Wayne Ma and Qianer Liu in The Information claims the project, codenamed “Baltra,” aims to address the growing computational demands of AI-driven features and is expected to enter mass production by 2026.
+
+Advertisement Advertisement
+
+Advertisement
+
+Apple’s silicon design team in Israel, which was responsible for designing the processors that replaced Intel chips in Macs in 2020, is now leading the development of the AI processor, according to sources. To support this effort, Apple has reportedly canceled the development of a high-performance Mac chip made up of four smaller chips stitched together.
+
+Central to Apple’s efforts
+
+The report notes this decision, made over the summer, is intended to free up engineers in Israel to focus on Baltra, signaling Apple’s shift in priorities toward AI hardware.
+
+Apple is working with semiconductor giant Broadcom on this project, using the company’s advanced networking technologies needed for AI processing. While Apple usually designs its chips in-house, Broadcom’s role is expected to focus on networking solutions, marking a new direction in their partnership.
+
+To make the AI chip, The Information says Apple plans to use TSMC’s advanced N3P process, an upgrade from the technology behind its latest processors, like the M4. This move highlights Apple’s focus on enhancing performance and efficiency in its chip designs.
+
+Advertisement Advertisement
+
+Advertisement
+
+The Baltra chip is expected to drive Apple’s efforts to integrate AI more deeply into its ecosystem. By leveraging Broadcom’s networking expertise and TSMC's advanced manufacturing techniques, Apple appears determined to catch up to rivals in the AI space and establish a stronger presence in the industry.
+
+In November 2024, we reported that Apple approached its long-time manufacturing partner Foxconn to build AI servers in Taiwan. These servers, using Apple’s M-series chips, are intended to support Apple Intelligence features in iPhones, iPads, and MacBooks.
+

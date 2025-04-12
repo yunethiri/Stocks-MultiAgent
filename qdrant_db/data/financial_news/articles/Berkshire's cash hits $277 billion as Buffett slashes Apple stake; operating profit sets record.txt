@@ -1,0 +1,60 @@
+link: https://finance.yahoo.com/news/berkshires-cash-hits-277-billion-123056697.html
+
+source: finance.yahoo.com
+
+title: Berkshire's cash hits $277 billion as Buffett slashes Apple stake; operating profit sets record
+
+summary: 
+
+publishDate: 2024-08-03T12:30:56.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://s.yimg.com/ny/api/res/1.2/hgUlVQ7Zl_uBBJszx1Ckmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/cef0ca70-9e85-11ee-b7f7-594c2a46d4d0', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f']
+
+content: By Jonathan Stempel
+
+(Reuters) - Warren Buffett appears to have soured on stocks, letting cash at Berkshire Hathaway soar to nearly $277 billion and selling a large chunk of its stake in Apple, even as the conglomerate posted a record quarterly operating profit.
+
+Berkshire sold about 390 million Apple shares in the second quarter, on top of 115 million shares from January to March, as Apple's stock price rose 23%. It still owned about 400 million shares worth $84.2 billion as of June 30.
+
+The cash stake grew to $276.9 billion from $189 billion three months earlier largely because Berkshire sold a net $75.5 billion of stocks. It was the seventh straight quarter Berkshire sold more stocks than it bought.
+
+Second-quarter profit from Berkshire's dozens of businesses rose 15% to $11.6 billion, or about $8,073 per Class A share, from $10.04 billion a year earlier.
+
+Nearly half of that profit came from underwriting and investments in Berkshire's insurance businesses.
+
+Net income fell 15% to $30.34 billion from $35.91 billion a year earlier, as rising stock prices in both periods boosted the value of Berkshire's investment portfolio, including Apple.
+
+Buffett has long urged shareholders to ignore Berkshire's quarterly investment gains and losses, which often lead to outsized net profits or net losses.
+
+Berkshire often lets cash build up when it can't find whole businesses or individual stocks to buy at fair prices.
+
+Its cash may also signal concerns about the broader U.S. economy - many investors view Berkshire as a proxy for it.
+
+Government data on Friday that showed slowing job growth and the highest unemployment rate since Oct. 2021 prompted some analysts to project multiple Federal Reserve rate cuts starting in September.
+
+But Berkshire's returns from short-term Treasuries should decline once rate cuts begin.
+
+Berkshire is also using less cash to buy back its own stock, repurchasing just $345 million in the second quarter and none in the first three weeks of July.
+
+"We'd love to spend it, but we won't spend it unless we think we're doing something that has very little risk and can make us a lot of money," Buffett said at Berkshire's May 4 annual meeting, referring to Berkshire's cash.
+
+Since mid-July, Berkshire has also sold more than $3.8 billion of shares in Bank of America, its second-largest stock holding.
+
+Buffett remains a big Apple fan, reflecting the iPhone maker's strong pricing power and committed customer base.
+
+He said at the meeting that he expected Apple to remain Berkshire's largest stock investment, but selling made sense because the 21% federal tax rate on the gains would likely grow.
+
+Story continues
+
+Buffett, 93, has led Berkshire since 1965, building it into a conglomerate with dozens of businesses including Geico car insurance, the BNSF railroad, Berkshire Hathaway Energy, a namesake real estate brokerage, and Dairy Queen.
+
+Vice Chairman Greg Abel, 62, is expected to eventually succeed Buffett as Berkshire's chief executive.
+
+(Reporting by Jonathan Stempel in New York; editing by Jason Neely)
+

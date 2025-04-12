@@ -1,0 +1,38 @@
+link: https://www.cnbc.com/2024/10/23/apple-releases-new-preview-of-its-ai-including-chatgpt-integration-.html
+
+source: www.cnbc.com
+
+title: Apple releases new preview of its AI, including ChatGPT integration
+
+summary: Apple on Wednesday released a beta version of a slew of Apple Intelligence features, including its long-awaited ChatGPT integration.
+
+publishDate: 2024-10-23T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997679591178894
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT
+
+Tim Cook, chief executive officer of Apple Inc., during the Apple Worldwide Developers Conference at Apple Park campus in Cupertino, California, US, on Monday, June 10, 2024. Bloomberg | Getty
+
+Apple on Wednesday released a beta version of a slew of Apple Intelligence features, including its long-awaited ChatGPT integration. The company announced its answer to the AI boom this summer, but is slowly rolling out its features to users. Investors hope AI features will spur a wave of iPhone upgrades because the tools are only available on newer devices. Apple Intelligence has been available in previews for developers and early adopters, but the official public release will come next week as part of the official iOS 18.1 release, Apple said. This latest batch of features is included in a beta version of iOS 18.2 for software developers that was released on Wednesday. Apple developer betas typically go through a cycle of weeks before they are released to the public. The preview included with iOS 18.2 contains: New abilities to describe how the user wants Apple Intelligence to rewrite a chunk of text
+
+Genmoji, Apple's image generator for new emojis
+
+Image Playground, Apple's AI image generator
+
+Image Wand, a feature that allows users to remove objects or distractions from photos
+
+Integration with OpenAI's ChatGPT However, the long-awaited ability for Siri to take actions inside of apps isn't included in this update, but is expected soon.
+
+Answers from ChatGPT
+
+In June, Apple announced its integration with ChatGPT. Although Apple Intelligence and Siri mostly rely on Apple's chips inside its devices, the company said at the time that for more sophisticated problems or questions, users can get responses from OpenAI's chatbot instead.
+
+Apple Intelligence unveiled during Apple's WWDC2024 in Cupertino, Calif. on June 10th. 2024. Source: Apple Inc.
+

@@ -1,0 +1,24 @@
+link: https://www.reuters.com/technology/apple-back-taxes-hand-ireland-infrastructure-opportunities-pm-harris-says-2024-09-12/
+
+source: www.reuters.com
+
+title: Apple back taxes hand Ireland infrastructure opportunities, PM Harris says
+
+summary: An EU court order this week that Apple pay Ireland 13 billion euros ($14.4 billion) presents the government with opportunities to address pressing infrastructure, housebuilding and capital project needs, Prime Minister Simon Harris said on Thursday.
+
+publishDate: 2024-09-12T10:28:03.950Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9861234426498413
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: An <a href="/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/">EU court order</a> this week that Apple pay Ireland 13 billion euros ($14.4 billion) presents the government with opportunities to address pressing infrastructure, housebuilding and capital project needs, Prime Minister Simon Harris said on Thursday.
+Ireland had fought the European Union back-tax bill alongside Apple since 2016, seeking to defend its position as the location of choice for U.S. multinationals in Europe but <a href="/technology/ireland-says-ecj-apple-ruling-is-of-historical-relevance-only-2024-09-10/">accepted</a> that it can now use the cash, which has since grown to 13.8 billion euros in an escrow fund.
+Ministers have pledged to decide in the coming weeks how to invest the funds - equivalent to around half of Ireland's annual corporate tax take - and Harris' comments suggested the funds would not simply be added to a new sovereign wealth fund.
+"It cannot be spent on day-to-day (expenditure) because you only get this money once but there are options and opportunities as to what we can do with it... How we can address some of the pressing infrastructural challenges, capital challenges and housing challenges," Harris told national broadcaster RTE.
+"I've said this consistently over the summer before the Apple judgment, when it comes to things like housing, water and energy, we've real constraints in this country and we need to invest."
+

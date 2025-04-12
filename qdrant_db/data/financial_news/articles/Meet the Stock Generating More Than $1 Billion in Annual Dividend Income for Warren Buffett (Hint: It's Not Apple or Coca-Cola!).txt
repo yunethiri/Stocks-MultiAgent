@@ -1,0 +1,92 @@
+link: https://finance.yahoo.com/news/meet-stock-generating-more-1-090600611.html
+
+source: finance.yahoo.com
+
+title: Meet the Stock Generating More Than $1 Billion in Annual Dividend Income for Warren Buffett (Hint: It's Not Apple or Coca-Cola!)
+
+summary: 
+
+publishDate: 2024-07-08T09:06:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.8912743926048279
+
+images: ['https://s.yimg.com/ny/api/res/1.2/uEX9Mokb3vC0226ORrGqEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/motleyfool.com/2219d4d2ccdf5ae31ddd7982c062569d', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300249&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fmeet-stock-generating-more-1-090600611.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/LWf9Trc_0jCk50hWDWdpjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5effa463d27fcf4b72c20116c4586aee']
+
+content: For the better part of the last six decades, Berkshire Hathaway's (NYSE: BRK.A)(NYSE: BRK.B) billionaire CEO Warren Buffett has been running circles around Wall Street's major stock indexes. Even though the affably named "Oracle of Omaha" is just as fallible as any other investor, he's managed to deliver an aggregate return in Berkshire's Class A shares (BRK.A) that exceeds 4,940,000% since taking the reins in 1965.
+
+Extensive books have been written highlighting the blueprint Buffett and his team have used to pick out top-tier investments for more than a half-century. While you can read about these "ingredients" in greater detail, the bare-bones approach for Buffett has always involved focusing on brand-name businesses that offers clear-cut competitive advantages.
+
+Berkshire Hathaway CEO Warren Buffett. Image source: The Motley Fool.
+
+Dividend stocks have paved the way to big gains for Berkshire Hathaway
+
+However, there are other subtleties that have helped Berkshire Hathaway excel in the return column. One of these attributes, which tends to fly under the radar, is Warren Buffett's love for dividend stocks.
+
+Publicly traded companies that regularly dole out dividends to their shareholders are typically profitable on a recurring basis and have proven their ability to navigate challenging economic conditions. Moreover, income stocks have a lengthy track record of crushing non-payers in the return department.
+
+In 2023, the investment advisors at Hartford Funds released an extensive report, "The Power of Dividends: Past, Present, and Future," which examined the many ways dividend-paying companies have outperformed for investors. In particular, one data set, calculated in collaboration with Ned Davis Research, found that dividend stocks averaged an annual return of 9.17% over the last 50 years (1973-2023), and did so while being 6% less volatile than the benchmark S&P 500.
+
+Meanwhile, non-payers generated a more modest 4.27% annualized average return over the same span and were 18% more volatile than the S&P 500.
+
+The Oracle of Omaha understands that mature, dividend-paying businesses are just the type of companies that should increase in value over time. Not surprisingly, Berkshire Hathaway is on track to collect in the neighborhood of $6 billion in dividend income over the next 12 months.
+
+But not all dividend stocks are created equally. Among the 44-stock, $397 billion investment portfolio Buffett oversees at Berkshire Hathaway, one holding is set to generate more than $1 billion in dividend income by itself over the next year.
+
+Many of Warren Buffett's core holdings are big-time dividend stocks
+
+Another subtle but key facet of Berkshire Hathaway's ongoing success is its portfolio concentration. Despite holding stakes in 44 stocks, the lion's share of invested assets Buffett and his team oversee are put to work in just a handful of companies. Many of these core holdings are big-time dividend stocks.
+
+Story continues
+
+For example, Buffett's company has been holding shares of consumer staples titan Coca-Cola (NYSE: KO) since 1988. As you can imagine, a 36-year holding period has left Berkshire with an exceptionally low (and highly favorable) cost basis in Coca-Cola of just $3.2475 per share. Given Coca-Cola's expected forward-year payout of $1.94 per share, Buffett's company is netting a roughly 60% yield on cost, relative to its initial investment of $1.3 billion. In dollars, Berkshire is collecting $776 million annually from its position in Coke.
+
+What's made Coca-Cola such a special investment is its geographic diversity and top-tier marketing efforts. With regard to the former, it operates in all but three countries globally (North Korea, Cuba, and Russia). This means it generates predictable operating cash flow in developed/established markets, and can move the organic growth needle by pushing into emerging market regions.
+
+As for its marketing, Coca-Cola can rely on more than a century of history to connect with its mature consumers. Meanwhile, it leans on digital channels and artificial intelligence (AI) to engage with its younger audience.
+
+Tech stock Apple (NASDAQ: AAPL) is another core holding for Berkshire Hathaway that's generating a boatload of annual dividend income. Although it hasn't raised its base annual payout for 62 consecutive years like Coca-Cola, Apple did recently increase its quarterly dividend by $0.01 per share to $0.25. Apple doling out $1 per share over 12 months will net Berkshire Hathaway north of $789 million in dividend income.
+
+Innovation explains why Apple accounts for 44% ($175 billion) of Berkshire's invested assets. Apple's iPhone has pretty consistently controlled a 50% or greater share of the domestic smartphone market since 5G-capable versions initially hit retail shelves in late 2020. CEO Tim Cook is also overseeing the steady evolution of Apple to a platform's company. A focus on subscription services should provide a boost to the company's operating margin over time.
+
+Image source: Getty Images.
+
+Say hello to the only stock putting over $1 billion in annual dividend income into Berkshire's coffers
+
+While Coca-Cola and Apple are income superstars for Warren Buffett's company, it's money-center behemoth Bank of America (NYSE: BAC) that sits atop the dividend income pecking order.
+
+Following the latest round of annual bank stress tests conducted by the Federal Reserve, "BofA," as Bank of America is commonly known, announced that it would be increasing its quarterly payout from $0.24 to $0.26 per share. Although a $0.02/share payout bump might not sound like much, it can make a sizable difference for Buffett's company, which holds more than 1 billion shares of BofA stock. A $1.04 per share dividend over the next 12 months from Bank of America will translate into roughly $1.074 billion in annual dividend income for Berkshire Hathaway.
+
+The secret sauce that often allows bank stocks to dole out mammoth dividends is their cyclical ties.
+
+To state the obvious, recessions are a normal and inevitable part of the economic boom-and-bust cycle. However, recessions are historically short-lived, with only three contractions since the end of World War II lasting longer than a year. By comparison, a majority of economic expansions endure for multiple years. These non-linear cycles allow bank stocks like BofA to meaningfully expand their loan portfolios and reap the reward of interest income.
+
+Speaking of interest income, arguably no large bank has benefited more from the Federal Reserve's hawkish monetary policy than Bank of America. The steepest rate-hiking cycle in four decades is great news for the most interest-sensitive money-center bank on Wall Street. The longer the nation's central bank stands pat on interest rates, the more net-interest income Bank of America can collect.
+
+Although BofA probably isn't the first (or even 10th) name you'd think of when it comes to financial technology and digitization, the company's investments in technology have decisively paid off. Over time, a higher percentage of its consumer households are banking digitally and completing loan sales online or via mobile app. It's considerably cheaper for banks to interact with their customers online or via mobile app as opposed to in-person or over the phone. This digital push is making BofA a more efficient bank.
+
+Lastly, Bank of America has a rock-solid leader in Brian Moynihan. In the wake of the Great Recession, BofA was one of America's most-fined financial institutions. Since becoming Bank of America CEO in 2010, Moynihan has predominantly led his company with a conservative, risk-off approach that favors a robust capital-return program.
+
+When it comes to dividend income, Bank of America is in a tier of its own within the $397 billion investment portfolio overseen by Buffett at Berkshire Hathaway.
+
+Should you invest $1,000 in Bank of America right now?
+
+Before you buy stock in Bank of America, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Bank of America wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $771,034!*
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of July 2, 2024
+
+Bank of America is an advertising partner of The Ascent, a Motley Fool company. Sean Williams has positions in Bank of America. The Motley Fool has positions in and recommends Apple, Bank of America, and Berkshire Hathaway. The Motley Fool has a disclosure policy.
+
+Meet the Stock Generating More Than $1 Billion in Annual Dividend Income for Warren Buffett (Hint: It's Not Apple or Coca-Cola!) was originally published by The Motley Fool
+

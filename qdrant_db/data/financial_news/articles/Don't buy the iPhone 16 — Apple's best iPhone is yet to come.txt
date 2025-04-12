@@ -1,0 +1,76 @@
+link: https://www.yahoo.com/tech/dont-buy-iphone-16-apples-150416911.html
+
+source: www.yahoo.com
+
+title: Don't buy the iPhone 16 — Apple's best iPhone is yet to come
+
+summary: 
+
+publishDate: 2024-08-12T15:04:16.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.991960346698761
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/yNUl4r0K1Q6CCva6mQuQ_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/laptopmag_536/06127ca2bd8c7f85925a59e7082247c6', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: Don't buy the iPhone 16 — Apple's best iPhone is yet to come
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Laptop Mag
+
+With the iPhone 16 series expected to arrive in September (matching the last several generations), it might seem like the best time to invest in Apple's upcoming smartphone.
+
+However, a report from Bloomberg's Mark Gurman on Sunday suggests that the next iPhone SE is on the way and it will be far more powerful than you might expect.
+
+If you're a fan of finding the best cost-to-performance ratio, recent rumors surrounding this product make it seem like the iPhone 16 stands no chance against it.
+
+The iPhone that can defeat iPhone 16
+
+iPhone SE is a series of affordable phones that Apple began producing in 2016, solidifying itself as the cheapest option in the line-up of standard iPhone products.
+
+Since then, a second generation launched in 2020, while a third came in 2022. It's been a few years, so it's no surprise that we're set to see the next generation arrive soon.
+
+The iPhone SE 3 started at $429 when it launched in 2022. At the time, it was sandwiched between the launch of the iPhone 13 and iPhone 14, which began pricing at $799 (although the iPhone 13 did have a $699 mini model).
+
+In essence, the iPhone SE is a crowdpleaser that hits a price point so alluring that budget-conscious Apple fans cannot help but be excited. And according to Gurman, we'll see it launch in early 2025.
+
+We have no clue if it will maintain its $429 price point, but considering it's been three years, that may be unlikely. Gurman claims it could be a "hot seller" if Apple gets the price down to $500.
+
+Gurman also states that the iPhone SE will look similar to an iPhone 14, alongside a "crisper" OLED panel that stretches across the entire front of the phone.
+
+But what's most interesting about this leak is that Gurman claims the iPhone SE 4 will have Apple Intelligence. We don't know much about this upcoming budget phone, but that fact reveals more than you think.
+
+What Apple Intelligence means on iPhone SE
+
+Apple Intelligence is the company's upcoming AI initiative, implementing a handful of different features with the launches of iOS 18, iPadOS 18, and macOS Sequoia. However, the caveat of this exciting technology is that it's rather demanding.
+
+On the official Apple Intelligence page, the company only lists the iPhone 15 Pro and Pro Max as being compatible with Apple Intelligence. This means that the base iPhone 15 and iPhone 15 Plus are not powerful enough to handle Apple Intelligence (this likely has to do with its weaker processor and less RAM).
+
+But according to Gurman, the iPhone SE 4 is powerful enough to handle Apple Intelligence, which means it's more powerful than the iPhone 15 at the very least.
+
+Compared to the iPhone 13, which launched before the iPhone SE 3, both featured an A15 Bionic Chip. The iPhone 15 and iPhone 15 Plus boast an A16 Bionic Chip.
+
+Apple iPhone 15 Pro Max in Titanium
+
+Compared to the iPhone 15 Pro and iPhone 15 Pro Max's A17 Pro chip, it's clear that these higher-end models are built with a greater ability to handle Apple Intelligence.
+
+This means the iPhone SE 4 will have something more powerful than the A16 Bionic Chip, but will it go so far as to feature an A17 Pro?
+
+Considering "Pro" is in the name, this is unlikely. Instead, we imagine that the iPhone SE 4 could feature a base A17 Bionic Chip, which will likely be featured in the base models of the upcoming iPhone 16 which is planned to be released in September.
+
+AppleInsider predicts that the event will take place on September 10 and the phones will be released the following Friday, September 20.
+
+If the base iPhone 16 does have an A17 Bionic, and the iPhone SE 4 also features an A17 Bionic, Gurman's leak is in line with what happened during the iPhone 13 and iPhone SE 3, as they featured the same chip and also came out after one another.
+
+If that's the case, we also expect the A17 Bionic to feature 8GB of RAM like the A17 Pro, which has been rumored before, although it's possible it could be limited to 6GB like the A16 Bionic. However, this is unlikely considering RAM is important for AI features.
+
+If this all ends up true, the result is the powerful iPhone SE 4 outmatching the recently launched iPhone 15 and doing so at a price point a few hundred dollars less than what it originally launched with.
+
+While the iPhone 16 series will likely be great, we imagine the iPhone SE 4 will be an absolute hit with Apple fans who are less well-off and want a powerful smartphone without spending upwards of $800.
+
+More from Laptop Mag
+

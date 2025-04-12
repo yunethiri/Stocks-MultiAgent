@@ -1,0 +1,62 @@
+link: https://www.yahoo.com/tech/apple-made-key-change-iphone-060043485.html
+
+source: www.yahoo.com
+
+title: Apple made a key change with the iPhone 16, and it's made all the difference for the new phone
+
+summary: 
+
+publishDate: 2024-09-22T06:00:43.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.7765517830848694
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-made-key-change-iphone-060043485.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/g/images/spaceball.gif']
+
+content: Apple made a key change with the iPhone 16, and it's made all the difference for the new phone
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+A lot of decisions go into making any smartphone. But if you want to pin down the most important choice Apple made when assembling its iPhone 16 lineup, look no further than the benchmarks for Apple's latest handsets — particularly the entry-level iPhone 16.
+
+A quick glance at the performance section of our iPhone 16 review, shows Apple's phone racing far ahead of the competition in the Geekbench general performance benchmark. That's a reflection of the new A18 silicon Apple is using to power the standard iPhone 16, as all of the company's new phones feature some form of the A18. (The Pro models feature an A18 Pro chipset that has an extra core in its GPU.)
+
+The iPhone 16 doesn't top Snapdragon 8 Gen 3-powered Android devices in every test. Phones powered by Qualcomm's top-of-the-line chipset still enjoy a lead in graphics benchmarks, though the A18 closes that gap considerably.
+
+The larger point here is that the least expensive flagship phone Apple makes has turned out to be a formidable competitor on the performance front — and that's an argument that was a lot harder to make when Apple was using year-old silicon to power its entry-level phones. And that's why among the many decisions Apple made about which features to include in the iPhone 16, using an A18 system-on-chip has turned out to be the most important one, making the latest Apple handsets some of the best phones you can buy.
+
+Apple's switch to different chips
+
+iPhone 14
+
+Prior to 2022, you didn't have to think about which chipset came with which iPhone. When Apple released new phones, it generally used the same silicon, even if its higher-end models might have come with a little extra horsepower.
+
+That changed with the iPhone 14. While the Pro models that year benefitted from a new chipset, the standard iPhone 14 featured the same A15 Bionic Apple had used in the previous year's iPhone 13 Pro models. It wasn't exactly the same chipset found in the iPhone 13 — the iPhone 14's A15 had an extra core in its GPU — but it wasn't a new model either. The iPhone 15 followed the same pattern, re-using the A16 Bionic that came with the iPhone 14 Pro.
+
+You could argue that the move didn't exactly hurt Apple, as it likely pushed more people to buy the more expensive Pro phones. But I don't think it's a coincidence that iPhone revenue dropped in the company's 2023 fiscal year, which would have covered just about a full year of iPhone 14 sales.
+
+Using older chips also created a perception that Apple's entry-level phones were afterthoughts — which was grossly unfair to a device like the iPhone 15. That handset saw a big camera improvement, a brighter display and a longer-lasting battery. But I think some people had a hard time looking past the fact that a phone released in the fall of 2023 was running on silicon first unveiled in 2022.
+
+The standard iPhone makes a comeback
+
+Apple iPhone 16 held in the hand.
+
+The iPhone 16 shakes off that also-ran perception, with a lot of the credit going to the improvements Apple made to its new entry-level model. The Camera Control button isn't just an iPhone 16 Pro addition — Apple added to all models while bringing the Action button introduced a year ago to the rest of the iPhone lineup. That means the basic experience of using your iPhone is the same, whether you buy the $799 model or pay up for the iPhone 16 Pro Max.
+
+But I keep coming back to the A18 chipset as the great equalizer for the iPhone 16. As you can see in the table comparing benchmark results, the iPhone 16 outpaces phones like the Galaxy S24 and OnePlus 12, both of which run on the Snapdragon 8 Gen 3. So does the Galaxy Z Fold 6, and the iPhone 16 smokes that foldable on Geekbench, too. It's worth noting that for the $1,899 that the Fold costs, you could buy two iPhone 16s and still have $300 left over.
+
+The most telling number, though, comes from our Adobe Premiere Rush test. We have each phone transcode a video clip in that app, timing the results. The iPhone 16 finishes the job in 22.5 seconds, nearly 17 seconds faster than the Galaxy S24 and also an improvement on the iPhone 15's time. That's a real-world performance number that shows you'll be able to do things faster on Apple's latest phones.
+
+Apple managed to elevate the iPhone 16 while still establishing the iPhone 16 Pro and iPhone 16 Pro Max as its premium devices. It's just that the balance in features is handled better with this iteration of the iPhone lineup. The Pro phones have the superior cameras, thanks to some clever hardware upgrades, and if you capture video, you'll prefer the superior shooting specs of Apple's more expensive models.
+
+But going back to the experience of using an iPhone 16, it's essentially the same no matter which phone you end up buying. That's particularly true of the Apple Intelligence features that are coming to the phones in a software update next month (and already available as part of the iOS 18.1 public beta).
+
+In other words, when you buy a new iPhone this year, you can expect a certain level of performance, regardless of which model is in your hand. That hasn't necessarily been the case in the past, but it's certainly true this year. And a lot of the credit goes to the A18 chipset.
+
+More from Tom's Guide
+

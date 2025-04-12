@@ -1,0 +1,84 @@
+link: https://www.yahoo.com/news/apple-event-rumor-roundup-what-to-expect-at-the-iphone-16-keynote-192347591.html
+
+source: www.yahoo.com
+
+title: Apple event rumor roundup: What to expect at the iPhone 16 keynote
+
+summary: 
+
+publishDate: 2024-08-20T19:23:47.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9988553524017334
+
+images: ['https://s.yimg.com/ny/api/res/1.2/TcQCYKuJU_9Vi2dogRUGcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-04%2Fbe2dabc0-dee3-11ed-af74-cc21123945d3&compress=1&progressive=1&quality=75&client=hawkeye&signature=b1b4a88b5678acf357d4ca80e15ee9cff64e9455', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404']
+
+content: The biggest day of the tech world’s fall calendar is nearly here: Apple’s iPhone 16 event will take place sometime in September. The company typically does it on a Tuesday during the first half of the month, so September 10 is a safe bet. No matter when it happens, we'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from the event will almost definitely involve the forthcoming lineup of iPhone 16 handsets. Past as prologue, we’ll also get a new Apple Watch or two.
+
+Beyond that, rumors have been swirling about a refresh of the standard AirPod earbuds. Until Tim Cook takes the (virtual) stage, however, everything is pure speculation. With that said, let’s get into the most likely leaks and rumors ahead of the event.
+
+iPhone 16 and iPhone 16 Pro
+
+No matter what else happens, these new handsets will take center stage during the Apple iPhone 16 event. That’s good news for people ready for an upgrade. The bad (ish) news? The vast majority of leaks and rumors indicate that this will be another year of iterative improvements, so don’t expect a game-changing new hardware feature.
+
+A large iPhone. (Cherlynn Low / Engadget)
+
+There’s likely to be four new models announced at the event, which is similar to what Apple did last year. The new phones will allegedly be called the iPhone 16, 16 Plus, 16 Pro and 16 Pro Max, according to industry analyst Mark Gurman. This is the exact same naming convention as last year’s iPhone 15 reveal, so the rumors of Apple adopting an “iPhone Ultra” moniker seem to have been greatly exaggerated.
+
+Even if Apple doesn't use the Ultra naming, the Pro models might be getting slightly larger screens, which is always nice (if you like big phones, that is). The regular Pro is likely to move to 6.3 inches from 6.1 inches, while the Pro Max should hit 6.9 inches, an increase from 6.7 inches. Finally, there will likely be a new color or two, as always. Bloomberg’s Gurman suggests that Apple is ready to ditch the blue model in favor of the return of rose gold.
+
+On the hardware side of things, look for a new chipset that takes advantage of the company’s recent push toward AI, also known as Apple Intelligence. Beyond that, the upgraded A18 chip will be an iterative improvement, specs-wise. As is typical, the Pro and Pro Max will likely get a more powerful chip than the standard models. It looks like the base amount of RAM here will be 8GB, so as to handle those aforementioned AI tasks.
+
+It’s also been rumored that the standard iPhone 16 and iPhone 16 Plus will get the Action Button, a feature introduced last year for the iPhone 15 Pro and Pro Max. This multi-purpose button is a direct replacement for the mute switch, by default, but can be adjusted to control a bunch of different things. The Action Button can be used to to change ringer settings, turn on the flashlight, launch the camera and more.
+
+Apple iPhone 15 Pro with Action Button. (Cherlynn Low/Engadget)
+
+There’s also talk of another new button, this one on the right side of the phone. This will control camera features, operating like a button on a DSLR. Reporting indicates that a soft press will trigger autofocus and a harder press will take a photo. Consumers may also be able to swipe along the button to zoom in and out while shooting photos or taking videos. It’s been reported that this camera button will only come with the Pro and Pro Max, which makes sense since the high-end models typically offer a more robust camera experience.
+
+To that end, new iPhones always get a camera spec bump, but we don’t know exactly what that will look like this time. It’s been reported, however, that the iPhone 16’s camera module could be getting a design refresh. Apple might be ditching the square and going with a vertical orientation. This might only apply to the base iPhone 16 and maybe the Plus, as the Pro and Pro Max phones tend to place a much higher emphasis on photos and videos.
+
+The new operating system. (Apple)
+
+We already know what’s coming on the software side of things, thanks to the recent WWDC event. Based on previous years, iOS 18 should be available within the week following the event. The software update features a more customizable Control Center and Home Screen. It'll also finally bring RCS support to iPhones.
+
+As for Apple Intelligence, you’ll have to wait a bit. It was announced as part of iOS 18, but it’s been delayed until iOS 18.1. This isn’t a huge deal, as that OS refresh is expected in October, but does mean that early adopters of the iPhone 16 won’t be able to fool around with AI right away.
+
+Apple Watch Series 10 and Apple Watch Ultra 3
+
+Ever since 2016, iPhone events have also included a deep dive on the latest Apple Watch. This year looks to be no different. As a matter of fact, this is a big year for the Apple Watch. We are coming up on the gadget’s tenth birthday, so there are conflicting rumors as to whether the next entry will be called the Apple Watch Series 10 or the Series X.
+
+No matter what it ends up being called, Apple’s next standard smartwatch is reported to have a bigger screen that’s more in line with the Ultra. It’s expected that the company will ditch the 41mm form factor and introduce a 49mm design.
+
+Rumors have also suggested that Apple has completely redesigned the band system and added new connectors. This will likely make these straps easier to adjust, but there’s a downside. This move could make it so all of those old bands no longer work.
+
+An Apple Watch. (Cherlynn Low / Engadget)
+
+Of course, there’s going to be a new chip to power these watches, but we don’t have any specifics. It’s been suggested that these chips have been designed to accommodate Apple’s recent foray into AI, but that integration is likely to happen later on. For now, Apple Intelligence will be tethered to iPhone, iPad and Mac.
+
+There are likely to be two watches revealed at the event, which are codenamed N217 and N218. It’s possible one of these will be the Apple Watch Ultra 3, though Mark Gurman at Bloomberg says the high-end smartwatch won’t get a major redesign this time out. It’ll likely be an iterative refresh.
+
+On the software front, it looks like Apple has run into some snags while developing long-anticipated health tracking tools. Health monitoring is one of the key features of the Apple Watch, so the company has been working on new sensors to detect high blood pressure and sleep apnea. However, the tech will likely not be ready for this year’s smartwatch. Apple’s also been developing a glucose sensor for almost a decade so, who knows, maybe it’ll finally show up with the Series X.
+
+Finally, it’s highly possible that Apple announces a new version of the budget-friendly Watch SE. This was last updated in 2022, so a refresh is overdue. There has been some reporting that Apple will be swapping out the aluminum exterior with a rigid plastic shell. This should help get costs down even further. As it stands, the Apple Watch SE is $250, but Samsung’s cheapest wearable is the $200 Galaxy Watch FE. Apple may want to compete closer to that price range.
+
+AirPods 4
+
+Some earbuds. (Billy Steele/Engadget)
+
+It’s been reported that Apple’s prepping two new variants of its standard earbuds. The AirPods 4 could feature both an entry-level model and a mid-tier version, which would effectively replace AirPods 2 and AirPods 3.
+
+The big news here is that both AirPods 4 versions are likely to transition to a USB-C case to keep pace with the iPhone and the second-gen AirPods Pro. It’s been suggested that the cheaper of the two forthcoming models would lack wireless charging, but that the mid-tier version would support this technology. This is the same strategy Apple followed with previous generations, so it makes sense.
+
+Both versions should feature similar designs, though the mid-tier variant is likely to support active noise cancellation like the Pro model. Speaking of, there will likely be no refresh of Apple’s high-end Pro earbuds at this event. There's also some mystery surrounding the company’s over-ear headphones, AirPods Max. It’s been four whole years since these premium cans hit store shelves (and they're still stuck using a Lightning port for charging), so a refresh is long overdue.
+
+Surprises and software
+
+The iPhone event doesn’t typically have a “one last thing” moment, but there’s one piece of hardware that could get a surprise shout out. It’s been rumored that Apple is preparing a massive redesign of the Mac mini. Analysts have suggested that this will be the company’s smallest ever desktop computer and could be around the same size of an Apple TV streaming box.
+
+There will reportedly be two versions of the upcoming Mac Mini, one with the standard M4 chip and another with the more powerful M4 Pro chip. The base model is rumored to start shipping from suppliers this month, so it’s possible Apple will spend a few minutes on the computer at the iPhone event. However, don’t count on it. This is an event for iPhones and smartwatches and a miniaturized desktop could feel out of place. And, just like it did last fall, Apple could easily hold a Mac-specific event later this year.
+
+Beyond that, a whole bunch of software updates are about to drop. There’s iOS 18, which we’ve written about extensively, and iPadOS 18. As for smartwatches, watchOS 11 is also coming out sometime this fall. Apple already detailed all three operating systems at WWDC, but the upcoming iPhone event would be a good time to announce official release dates.
+

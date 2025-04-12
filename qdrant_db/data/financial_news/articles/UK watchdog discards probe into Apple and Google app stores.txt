@@ -1,0 +1,20 @@
+link: https://www.reuters.com/technology/uk-watchdog-discards-probe-into-apple-google-app-stores-2024-08-21/
+
+source: www.reuters.com
+
+title: UK watchdog discards probe into Apple and Google app stores
+
+summary: UK's competition watchdog on Wednesday said it will discard its probes into Apple app store and Google playstore and will now look into competition concerns under the new digital markets competition regime.
+
+publishDate: 2024-08-21T10:17:23.103Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999877214431763
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: UK's competition watchdog on Wednesday said it will discard its probes into Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> app store and Google <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> playstore and will now look into competition concerns under the new digital markets competition regime.
+

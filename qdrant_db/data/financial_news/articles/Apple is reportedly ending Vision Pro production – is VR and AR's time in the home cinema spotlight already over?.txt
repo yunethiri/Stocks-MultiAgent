@@ -1,0 +1,42 @@
+link: https://www.yahoo.com/tech/apple-reportedly-ending-vision-pro-150830305.html
+
+source: www.yahoo.com
+
+title: Apple is reportedly ending Vision Pro production – is VR and AR's time in the home cinema spotlight already over?
+
+summary: 
+
+publishDate: 2024-10-23T15:08:30.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9987910389900208
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-reportedly-ending-vision-pro-150830305.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/b9hTZDuL56I_6Wpt45G6CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/what_hi_fi_263/4c3c7d800fae31569586bc3ea89ea101', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+New reports suggest that Apple could cease production of its Vision Pro mixed reality headset by the end of the year following lacklustre sales. The virtual and augmented reality headset, which allows users to create a private 100-foot cinema screen, has reportedly been met with a lukewarm reaction and underwhelming sales figures due to its high price tag and limited content offering.
+
+Despite it launching outside of the US only earlier this year, the Vision Pro – which retails for £3499 / $3499 / AU$5999 – was billed as a revolutionary venture in Apple's product portfolio when it was announced in 2023, and it caught our interest thanks to its immersive movie watching capabilities. It was anticipated to bring a greater sense of immersion to the movie-watching experience, while also acting as a private home cinema that could be taken on the go. Its Micro-OLED displays (one for each eye) are also primed for movie watching, while Spatial Audio via AirPods should complete the immersive package when it comes to cinematic sound.
+
+Just a year on, Apple has reportedly told manufacturers to scale back production greatly, which could indicate that it has a sufficient number of units to sustain the current model for the rest of its expected lifespan. As reported by MacRumors, some manufacturers stopped producing components as early as May this year due to weak sales forecasts. Apple has also supposedly informed Luxshare, which assembles the Vision Pro headsets in China, that it could be required to "wind down production" by November of this year; for reference, the company is reportedly producing 1000 Vision Pro units per day, which is half of what it was producing during peak demand.
+
+If that doesn't spell enough trouble for the headset, further suggestions that the development of a second-generation headset is stalling also signals a troubled future for the Vision Pro. Instead, Apple is possibly looking at options to develop a cheaper headset in the meantime, suspending plans for a true replacement to the Vision Pro for at least a year. MacRumors suggests that Apple might release a small specification-bump version of the Vision Pro with an upgraded processor while retaining the current design in order to use up a backlog of manufactured parts if it does decide to update the headset.
+
+So what does this mean for VR and AR in the world of home cinema? While a new dimension of immersive movie watching was promised with this headset, it seems that hasn't come to fruition. Apple has just released its first scripted piece of content exclusively for the Vision Pro, titled Submerged, which has been met with positive reviews. This is over a year after the Vision Pro's release, however, so it feels as though it might be too little, too late. Other brands within the VR and AR space, such as Meta, appear to be gearing their headsets towards gaming and productivity rather than immersive AV experiences.
+
+We must, of course, take these reports with a pinch of salt, as these behind-the-scenes production logistics aren't always as they seem. Apple also tends to play its cards close to its chest, so we'll wait for an official word on the future of Vision Pro before we presume it deceased.
+
+MORE:
+
+Read our full Apple iPhone 16 Pro review
+
+Apple Vision Pro won't replace my TV, but I think it could be a good projector alternative
+
+Dolby Vision HDR: everything you need to know
+

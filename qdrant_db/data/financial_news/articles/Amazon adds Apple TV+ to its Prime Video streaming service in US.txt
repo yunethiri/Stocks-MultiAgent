@@ -1,0 +1,28 @@
+link: https://finance.yahoo.com/news/amazon-adds-apple-tv-prime-030427094.html
+
+source: finance.yahoo.com
+
+title: Amazon adds Apple TV+ to its Prime Video streaming service in US
+
+summary: 
+
+publishDate: 2024-10-10T03:04:27.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9962748289108276
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Famazon-adds-apple-tv-prime-030427094.html&c14=-1', 'https://media.zenfs.com/en/reuters-finance.com/2df614a0b017a2686b8c6b5f8fcc2e0a']
+
+content: (Reuters) — Amazon (AMZN) said on Wednesday that Apple TV+ will become available on Prime Video later this month in the U.S. for $9.99 per month, in a boost for the iPhone maker. Apple's streaming service has lagged behind rivals Netflix (NFLX), Disney+ (DIS), and Prime Video itself.
+
+Apple TV+, known for its original series like Ted Lasso, The Morning Show and Severance, has differentiated itself in the streaming landscape with a focus on in-house content. The strategy has helped it garner 72 Emmy Award nominations.
+
+Apple TV+, however, is among the streaming platforms with the highest number of customers cancelling a subscription, while Netflix has the lowest, according to market research firm Antenna.
+
+Amazon will add Apple TV+ as a channel on Prime Video, where other streaming services like HBO Max, Discovery+, Starz, Showtime, and Paramount+ are already available.
+
+(Reporting by Chandni Shah in Bengaluru; Editing by Sonia Cheema and Mrigank Dhaniwala)
+

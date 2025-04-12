@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/apple-iphone-16-sales-blocked-indonesia-due-local-parts-rule-2024-10-28/
+
+source: www.reuters.com
+
+title: Apple iPhone 16 sales blocked in Indonesia due to local parts rule
+
+summary: Tech giant Apple Inc will not be allowed to sell its iPhone 16 smartphones in Indonesia because they have not met the country's rules on the use of locally made components, the industry ministry said.
+
+publishDate: 2024-10-28T09:46:13.007Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999843835830688
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Tech giant Apple Inc <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will not be allowed to sell its iPhone 16 smartphones in Indonesia because they have not met the country's rules on the use of locally made components, the industry ministry said.
+Indonesia requires certain smartphones sold domestically to contain at least 40% of parts manufactured locally and the iPhone 16 has not met the requirement, ministry spokesperson Febri Hendri Antoni Arief said in a statement issued on Friday.
+"Imported iPhone 16 hardwares cannot be marketed in the country, because Apple Indonesia has not fulfilled its investment commitment to earn a local content certification," he said, adding that the phones can still be brought from abroad for personal use as long as users pay the necessary taxes.
+Apple did not immediately respond to a request for comment.
+The company's iPhone 16 phones were <a href="/technology/apple-iphone-16-event-key-announcements-so-far-2024-09-09/">first released</a> in September.
+The top two smartphone makers in the first quarter of 2024 in Indonesia were Chinese firm OPPO and South Korean firm Samsung <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a>, research firm IDC said in May.
+Indonesia has a huge, tech-savvy population, making the Southeast Asian nation a key target market for tech-related investment.
+During a <a href="/technology/apple-ceo-says-looking-into-possibility-building-manufacturing-facility-2024-04-17/">visit</a> by Apple's CEO Tim Cook to Indonesia last April, Indonesia's Industry Minister Agus Gumiwang Kartasasmita said he hoped the tech giant would increase its local content by partnering with domestic firms.
+Companies usually increase the domestic requirement through such local partnerships or by sourcing parts domestically.
+Apple has no manufacturing facilities in Indonesia, but since 2018 it has been setting up app developer academies, which including the new academy have a total cost of 1.6 trillion rupiah ($101.8 million).
+($1 = 15,720.0000 rupiah)
+

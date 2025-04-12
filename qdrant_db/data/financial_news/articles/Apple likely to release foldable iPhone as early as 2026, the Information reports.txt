@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/apple-likely-release-foldable-iphone-early-2026-information-reports-2024-07-23/
+
+source: www.reuters.com
+
+title: Apple likely to release foldable iPhone as early as 2026, the Information reports
+
+summary: Apple is likely to introduce its foldable iPhone as early as 2026, the Information reported on Tuesday, that could mark the biggest hardware design revamp for the company's most popular product.
+
+publishDate: 2024-07-23T16:53:41.081Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999872088432312
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is likely to introduce its foldable iPhone as early as 2026, the Information reported on Tuesday, that could mark the biggest hardware design revamp for the company's most popular product.
+The Cupertino, California-based company's plan to release a foldable iPhone could mimic a similar move by Samsung Electronics <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a>, which pioneered the foldable segment in 2019 in a bid to attract new customers with a major hardware design refresh.
+Apple's foldable iPhone has progressed from the ideation stage, the report said, citing two people with knowledge of the matter.
+The company has reached out to suppliers in Asia to make components for the device, the Information reported, adding that iPhone maker has created an internal code name V68 for the product.
+Foldable smartphones, powered with artificial intelligence features, are expected to trigger demand for the iPhone maker, which faces stiff competition from Honor and Huawei in China and Samsung globally.
+Samsung unveiled its <a href="/technology/artificial-intelligence/samsung-bolsters-ai-foldable-phones-health-monitoring-smartwatch-ring-2024-07-10/">latest foldable smartphones</a> earlier in July, making its priciest flagship model lighter and slimmer with new AI functions.
+Global foldable smartphone market grew 49% in the first quarter from a year earlier, marking its highest rate of increase in six quarters, according to a Counterpoint Research report from May, with Huawei taking the top spot for the first time, beating Samsung.
+Apple also plans to bring an upgrade to a camera of at least one iPhone model, that would let its users to control the size of the aperture with a mechanical system, possibly allowing users to create depth-of-field effect, the Information report added.
+The report also said that there is no guarantee that Apple would release the foldable iPhone.
+Apple did not immediately respond to a Reuters request for comment.
+

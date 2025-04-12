@@ -1,0 +1,84 @@
+link: https://www.yahoo.com/tech/bought-mac-recently-no-upgrade-140000650.html
+
+source: www.yahoo.com
+
+title: Bought a Mac Recently? No Need to Upgrade to an Apple M4 Chip
+
+summary: 
+
+publishDate: 2024-11-02T14:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999223947525024
+
+images: ['https://s.yimg.com/ny/api/res/1.2/4opUPKe1bBD_N6.d.gZQpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEzMDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-08/16386d90-5ef5-11ef-9dff-1d4c386adffa', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
+
+Apple's big week of Mac announcements has brought a new , a redesigned , and a refreshed line of . Powering them all is the new M4 chip, along with the M4 Pro and M4 Max. But if you bought a new Mac last year or this year, you may be facing a dilemma: Is it worth upgrading from the recent M3-powered Macs to the new M4 models?
+
+How Big of a Deal Is Apple M4?
+
+What does the new M4 processor bring to the table? Comparing the base M4 with the previous M3 chip, you can see several notable changes.
+
+For starters, the M4 chip has 28 billion transistors, a 12% increase from the M3's 25 billion. That change should directly translate to better performance and energy efficiency. The new chip enhances the faster performance cores with improvements to the architecture and instruction set, while also expanding the core configuration.
+
+The GPU gets a boost with extra graphics cores, and the memory support is improved with 120GBps bandwidth and the addition of LPDDR5X memory support. The Neural Engine also receives a boost, capable of 38 trillion operations per second—double the M3’s speed—ideal for advanced AI tasks in creative software.
+
+We do have a deeper dive , but here's the gist: The spec-for-spec comparison shows plenty of incremental improvements to nearly every part of the chip. But do all of those changes justify upgrading if you had your M3 Mac for less than a year?
+
+While it's difficult to make any firm claims about performance without having actually tested the new Macs yet, we can look at Apple's own reported improvements. In the press releases for the recent new iMac, Apple claims that the M4 delivers:
+
+1.7x faster performance in apps like Microsoft Excel
+
+1.5x faster browsing in Safari
+
+2x higher frame rates
+
+2.1x faster photo and video editing when applying complex filters and effects in Adobe Photoshop and Premiere Pro
+
+But, here's the catch: These improvements apply when comparing the new M4 iMac to the older , which uses the M1 chip. That's a three-generation difference. What about comparing the M4 with the recent M3's performance? Here, Apple doesn't say much, but it did share two performance comparison charts during the announcement video for the new iMac.
+
+The first compares Excel performance:
+
+Obviously, this chart is extremely light on details. It would help a lot to know what "Productivity in Excel" actually means, whether that's measuring the speed of certain actions, the performance in specific complex actions, or the handling of very large datasets. Without any of that detail, the whole claim is pretty vague.
+
+What it says clearly is that the M4 chip is "1.3x faster" than the prior M3 processor. That's another way to say that the M4 offers a 30% improvement. Impressive, but not the giant leap seen when comparing with the M1.
+
+The second comparison focuses on GPU performance:
+
+Again, the lack of context is an obvious problem when evaluating any claim. But in this case, we know that the M4 chip is bringing to bear a new 10-core GPU with amped-up ray-tracing acceleration and an improved scheduler handling the task allocation and execution.
+
+But those enhancements only net a 10% improvement over the M3's GPU. Again, nothing to sneeze at—10% performance gains year over year are actually quite impressive—but nothing like the 2x improvement over the older M1.
+
+In the end, it doesn't actually look like M4 is a huge improvement over M3. It is faster, and making the switch will result in measurable improvements—we'll see how much when we get the new Macs in to test—but even looking at Apple's claims, I don't see the improvements being compelling enough for the average user to pay more.
+
+Exception One: Apple Intelligence
+
+That said, there is one compelling reason to switch to M4, even if you upgraded to M3 already: .
+
+New features are already available on older systems and versions of macOS, but the real improvements will be derived from the M4 chip's improved neural engine and the 38 TOPS it delivers. Every other aspect of the M4 chip is offering a marginal improvement over the M3, delivering an incremental boost that's not quite enough to justify upgrading if you bought a new Mac in the last year.
+
+But the new hotness in the laptop world isn't focused on transistor counts or performance core speeds, or even GPU performance. The latest cutting-edge trend is AI.
+
+Apple's moves in the AI space are collectively labeled "Apple Intelligence:" a collection of functions and features like writing tools across several key Mac apps, photo editing tools, natural language photo and video search, and a that offers in-depth technical assistance with all sorts of Apple products.
+
+These new features are offered on any iPad or Mac with an M1 chip or better, as well as recent iPhones. What's more, these first Apple Intelligence features are just the start, with new features coming as soon as December.
+
+But even with older models getting these same tools, the M4 chip's improved neural engine will be the hands-down best processor for all things AI on Mac. If you're aching for more AI functionality on your MacBook, the M4 chips (particularly the just-announced M4 Pro and M4 Max) are the most powerful silicon available, and the chips best suited to these new smart features.
+
+And if you're really into the latest AI advancements, above and beyond Apple Intelligence, running local LLMs and other AI models will also see a dramatic improvement on the higher-end M4 Pro and M4 Max, where memory bandwidth climbs even higher. Even the compact Mac mini can be outfitted with up to 64GB of RAM.
+
+Exception Two: Stepping Up a Tier or Two
+
+All of this also assumes that you're looking at a one-to-one upgrade. Going from M3 to M4 is one thing, but going from M3 to an M4 Pro or M4 Max will be a very different discussion. The more powerful M4 variants will, naturally, offer bigger performance and speed gains, as well as the higher expense that comes with the beefier chips. If that's an upgrade you're considering, then go for it.
+
+The same goes for upgrading after more than one generation. If you're still rocking an M1 iMac or MacBook Pro, or even the M2 Mac mini or MacBook Air, then now is actually a great time to upgrade, because the newest processing hardware will give you a real boost in speed and capability.
+
+Got an M3 Mac? You Should Probably Wait for M5
+
+But in the final analysis, unless you're really jazzed about Apple Intelligence or looking to bump up from a basic CPU to something more advanced, I'm pretty comfortable telling you to hang onto the Mac you've got. If you're already using an M3 processor, the cost of upgrading isn't worth the expense, and you can easily get another year of great performance from your Apple desktop or laptop without it ever being noticeably slower than the latest model.
+

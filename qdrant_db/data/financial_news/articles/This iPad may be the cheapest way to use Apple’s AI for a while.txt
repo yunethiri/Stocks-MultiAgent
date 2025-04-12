@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/ipad-may-cheapest-way-apple-174124822.html
+
+source: www.yahoo.com
+
+title: This iPad may be the cheapest way to use Apple’s AI for a while
+
+summary: 
+
+publishDate: 2024-10-21T17:41:24.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.8526777625083923
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/6Q5PePp572vHsppknRkDvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/digital_trends_973/d8c384867feb7eec93e0358e85e33fac', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: We already know that a new iPad mini is on the way; Apple confirmed that less than a week ago. It’s going to be packed with features and powered by the A17 Pro chip, the same one used in the iPhone 15 Pro lineup. Not only is it a highly anticipated device, but it might offer be the best bang for your buck as far as Apple Intelligence is concerned.
+
+One of the biggest selling points of this iPad is its focus on Apple Intelligence, even if the service starts five days after the release of the iPad mini — on October 28. It won’t even be available at launch, but users will be able to access the features after an update. The biggest selling point, though, is the price. At just $349, this budget-friendly tablet is the most affordable iPad that can use Apple Intelligence at the moment — and probably the least expensive we’ll see for quite some time.
+
+According to Bloomberg’s Mark Gurman, the main Apple Intelligence features aren’t going to be available until sometime between December and March. At first, Intelligence will only be able to summarize notifications from various apps. That’s a useful feature, but compared to one like Image Creation or Smart Reply, it kind of loses a bit of the shine.
+
+Apple
+
+Apple Intelligence would explain why the wait for an iPad refresh has been so long. The last time the entry-level iPad was updated was October 2022, although fans expected an update long before now. Analysts suggested the next move would be to release a series of iPads using the A16 chip, but if the plan was to include Apple Intelligence on the next releases, Apple might have waited until a more powerful, smaller chip was available. Adding Apple Intelligence to an iPad mini before this might have been possible, but prohibitively costly.
+
+Either way, it’s nice to see advanced features coming to an entry-level device — especially one that’s only $349. This iPad might be small, but it packs quite a punch, and its functionality will only grow as Apple Intelligence rolls out.
+

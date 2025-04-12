@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/iphone-16-thumbnail-bug-apple-110016549.html
+
+source: www.yahoo.com
+
+title: The iPhone 16 thumbnail bug Apple isn't mentioning – AND the one EVERYONE is talking about
+
+summary: 
+
+publishDate: 2024-09-23T11:00:16.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999695897102356
+
+images: ['https://s.yimg.com/ny/api/res/1.2/XFWfnpNPjS.hGh4l4sUxbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEzODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/e6181c30-2947-11ed-b3bb-b5e647222754', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/ucDkYQBJ0dyQoh.I1zppTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/digital_camera_world_590/4cde59a290cd91954f83050c3eb265c0']
+
+content: The iPhone 16 thumbnail bug Apple isn't mentioning – AND the one EVERYONE is talking about
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+Over the weekend I've been getting the hang of my new iPhone 16 Pro Max and it's exciting new camera button, but there's been something BUGGING me. Or at least I hope it's a bug. Sometimes, when I take a pic and go to look at it, I'm presented with a tiny thumbnail rather than a glorious screen-filling image.
+
+The camera – too – seems to have been pretty poor at deciding which way up I was holding the phone!
+
+It is clear, however, from other sources, that some aren't happy. British tabloids like the Daily Mail have piled in, too, but with a characteristic failure to understand the details, getting around the issue by reporting of more aggressive remarks. Or sharing tweets like this:
+
+I going to take a slightly more rational approach (from now). The problem I've been experiencing, so far, isn't information overload. It's much more specific, but it's taken me time to pin it down, even though it's happened to me more than once and I've ended up having to quit the Camera or Photos app.
+
+It doesn't help, of course, that the Camera and Photo apps are more or less interchangeable in my mind because I want to go straight into editing images. Apple has made the new iPhone 16 photography process all about the HEIF image file, recording enough data that – assuming you're in the Apple app – you can do more with (like a kind of camera-phone RAW file).
+
+Eventually, on grabbing this rather unflattering image, I had the presence of mind to take a screen-capture of the phenomenon that was irking me.
+
+iPhone 16 Pro Max
+
+I've taken a photo – in this case a portrait – tapped straight to Photos to edit it once the thumbnail was visible, then clicked back and weirdly I'm presented with the image in a thumbnail AS IF viewed in a bigger grid, even though it is alone and tiny.
+
+This is reminiscent of a bug discussed in the Apple forums after the iOS 17 update about missing thumbnails, except I'm not expecting to see thumbnails – I'm expecting to see the image I took filling the screen.
+
+Well, OK, not filling the screen – because I expect the orientation to be corrected too. And it wasn't. Suggesting a lot of things about the image pipeline weren't happing as quickly as they should have been.
+
+Now yesterday when I took this shot I'd also taken a few video clips and been playing with the EV compensation, but I'd still expect the basics to keep up, especially given how fast the A18 Pro seems to be in general.
+
+If this is a bug more people are experiencing, then Apple are going to struggle to be considered the best camera phone, even with the massive usability boost the Camera Control button undoubtedly brings.
+
+A potential explanation is that Apple has implemented some kind of aggressive memory control on the Photos app – and this hypothesis is backed up by Callum Jones of Unlaid.
+
+I'd love to hear if this has affected anyone else?
+

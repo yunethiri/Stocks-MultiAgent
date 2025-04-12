@@ -1,0 +1,66 @@
+link: https://www.yahoo.com/tech/huawei-smartwatches-set-embarrass-apple-140043560.html
+
+source: www.yahoo.com
+
+title: Huawei’s new smartwatches are set to embarrass Apple and Samsung
+
+summary: 
+
+publishDate: 2024-09-19T14:00:43.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999974966049194
+
+images: ['https://s.yimg.com/ny/api/res/1.2/ry0cPro1D_RvgCLB6n5FzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MQ--/https://media.zenfs.com/en/digital_trends_973/d29bb3ca682730400820436c113e6a41', 'https://s.yimg.com/ny/api/res/1.2/lPoYnnkmqty8dUcPkQHvuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/digital_trends_973/b620fd05f2f7b99b3eb196a777ef1e6f', 'https://s.yimg.com/g/images/spaceball.gif']
+
+content: Huawei has announced a host of new smartwatches that are ready to combat the onslaught of Apple’s latest Series 10 and Ultra 2 smartwatch range, along with the Samsung Galaxy Watch 7 and Galaxy Watch Ultra. The Watch GT 5 consists of three individual versions, a 41mm Watch GT 5, a 46mm Watch GT 5, and the Watch GT 5 Pro, plus there’s a new Huawei Watch Ultimate edition called the Fairway Green. Finally, it has also announced the Watch D2, which incorporates an all-in-one blood pressure management system. It’s hard to argue with the variety here, so lets dig into what makes each one special.
+
+Huawei Watch GT 5
+
+A promotional image showing the Huawei Watch GT 5 Pro.
+
+The three different Watch GT 5 models all use an octagonal bezel, but emphasize it in different ways. The 41mm takes on a more elegant look and has a rounder shape in general, while the Watch GT 5 Pro really shows off the angles and sharpness of the bezel’s shape for a more defined look. The 46mm Watch GT 5 sits somewhere in between the two distinct styles.
+
+Choose the 41mm Watch GT 5 and you look at a 1.32-inch AMOLED screen with a 466 x 466 pixel resolution, while the 46mm and Watch GT 5 Pro have larger 1.43-inch screens. Each comes in different finishes and colors, with Huawei offering a full ceramic case option for the 41mm model, complete with a titanium bezel and sapphire crystal over the screen. The Pro and 46mm models come in titanium with a ceramic case back, and a choice of several bands in leather, rubber, metal, and even ceramic.
+
+A promotional image showing the Huawei Watch GT 5 Pro.
+
+Promotional images of the Huawei Watch GT 5.
+
+A promotional image of the Huawei Watch GT 5.
+
+On the back of the watch is a new TruSense heart rate monitor that Huawei says provides more accurate results than before, plus it supports its Women’s Health 4.0 monitoring complete with skin temperature and trends data. The Pro model gets an electrocardiogram (ECG) feature, plus a new golf course mode with access to 15,000 different courses complete with real-time monitoring, hole previews, wind speeds and direction, and distance to each hole. Interestingly, the Watch GT 5 series has an IP69K water and dust resistance rating, ensuring it’ll withstand condensation and steam too.
+
+Huawei Watch Ultimate Fairway Edition
+
+A promotional image of the Huawei Watch Ultimate Fairway Edition.
+
+The Huawei Watch Ultimate was originally released in mid-2023, and this is a special edition of that watch. As the name suggests, it’s targeted at golfers, putting it up against Garmin’s Approach or Marq Golfer smartwatches and the Tag Heuer Connected Caliber E4 X Malbon Golf Edition. It’s made from zirconium liquid metal, which Huawei says is even more durable than titanium, and the material has not been used on any other smartwatch. The dual-color bezel is made from ceramic.
+
+A 1.5-inch AMOLED screen sits under a sapphire crystal and displays a selection of golf-specific watch faces. The case is attached to a new green woven strap, plus there’s a simple rubber strap included in the box. The golf watch face has 18 marks around the bezel with a performance indicator on each, so you can keep track of where you improve on a course. Inside is dual-frequency GPS, an AI Caddie mode that will make recommendations based on your performance, and special course maps.
+
+A promotional image of the Huawei Watch Ultimate Fairway Edition.
+
+The Huawei Watch Ultimate is otherwise the same as the Watch GT 5 Pro, but does come with a set of enhanced trail, hiking, and expedition modes to give it slightly wider appeal among those looking for a high-end outdoor smartwatch.
+
+Huawei Watch D2
+
+A promotional image of the Huawei Watch D2.
+
+The Huawei Watch D2 is one of the most unusual smartwatches we’ve seen. It follows the first Watch D by providing cuff-based blood pressure monitoring, using a custom inflating band around your wrist. It’s unlike the algorithm-based blood pressure monitoring we’ve seem on smartwatches like the Galaxy Watch 6 Classic, and is closer to a blood pressure cuff you wear around your upper arm.
+
+The Watch D2 takes the feature a step further and provides automatic blood pressure monitoring over a 24-hour period, giving you a far clearer and more precise look at your blood pressure. The data collected can be exported and given to your health care provider, and even shared with family members in real time.
+
+A promotional image of the Huawei Watch D2.
+
+The air bag in the strap is covered in a soft, gel-like material for comfort and powered by a special Huawei-developed micro pump that’s 61% quieter than other devices, so it’s suitable for use overnight. The Watch D2’s design follows the Watch Fit 3’s design choices by looking just like the Apple Watch. It has a 1.82-inch screen, a heart rate sensor with ECG function, dual frequency GPS, and 80 workout modes. It can also make and receive calls too.
+
+Prices and availability
+
+The Huawei Watch GT 5 starts at 230 British pounds (about $305) while the Watch GT 5 Pro starts at 330 pounds (about $448). The Huawei Watch Ultimate costs considerably more at 750 pounds (about $995), while the Huawei Watch D2 costs 350 pounds (about $465). All are available starting September 19 through Huawei’s online store in the U.K. and other European regions.
+
+In addition, Huawei has also introduced a subscription option for its Huawei Health app. It’s called Heath+, but rather than hide core features behind its paywall, Huawei has chosen to dedicate it to added value for those who want it. It includes special training modes, custom fitness plans, and relaxation and calming features too. It will cost 8 euros per month, which is around $9, and a three-month free trial is included with the new smartwatches.
+

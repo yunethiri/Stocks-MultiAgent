@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/apple-issues-urgent-spyware-warning-155908962.html
+
+source: www.yahoo.com
+
+title: Apple issues urgent spyware warning for iPhone users in 98 countries — how to stay safe
+
+summary: 
+
+publishDate: 2024-07-11T15:59:08.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7604821920394897
+
+images: ['https://s.yimg.com/ny/api/res/1.2/y1fZIHYtigd27uEdVhrwFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_guide_826/ec5b6a84efd822023dbbe52f4e74c75f', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: Although iPhones have a reputation for being more secure than their Android counterparts, the popularity of Apple’s smartphones makes them a bigger target for hackers, especially when it comes to more sophisticated spyware attacks .
+
+Earlier this year, the iPhone maker sent out a spyware warning to its customers in 92 countries around the world. Now Apple is back with another similar warning but this time, it’s gone out to iPhone users in even more countries.
+
+Here’s everything you need to know about this new spyware warning along with how you can keep your own iPhone safe from hackers.
+
+Same threat, new warning
+
+A spyware alert displaying on a smartphone.
+
+As reported by TechCrunch , Apple has sent out a new warning about mercenary spyware to iPhone users in 98 countries. Indian users were among them as many of the country’s journalists have been targeted by the infamous NSO Group and its Pegasus spyware in the past.
+
+The warning says that “Apple detected that you are being targeted by a mercenary spyware attack” which is designed to remotely compromise the iPhone associated with your Apple ID . It goes on to explain that the reason a particular user is being targeted is due to “who you are or what you do.”
+
+Unlike with malware or phishing attacks , spyware is more expensive for hackers to deploy, which is why it’s normally reserved for high-value targets like journalists, politicians and activists.
+
+It’s worth noting that in the past, Apple has referred to these incidents as “state-sponsored” attacks while this time, the company is calling them “mercenary spyware attacks.” While the language may have changed, the threat remains the same.
+
+How to stay safe from spyware
+
+A padlock resting next to the Apple logo on the lid of a gold-colored Apple laptop.
+
+When it comes to protecting the best iPhones from spyware, the first and most important thing you can do is to keep your smartphone updated and running the latest software. Apple often includes security patches in both major and minor iOS releases that can help keep you, your devices and the data stored on them safe.
+
+If you are a high-value target or think that you could be, you should also consider enabling Apple’s Lockdown Mode on your iPhone. However, doing so does limit certain functions (like link previews in messages and just-in-time [JIT] JavaScript compilation in your browser) to minimize vulnerabilities which can be exploited by spyware. For those who are at serious risk though, this can be worth it as the alternative is much worse.
+
+In addition to enabling Lockdown Mode, you should also consider signing up for Google’s Advanced Protection Program which is designed to help keep you safe from phishing attempts and harmful downloads. It also comes with some limitations and extra requirements that change how you use your Google account.
+
+For most people though, a warning like this is more of a wake-up call than a serious threat. Just because iPhones are known for being very secure, it doesn’t mean that you should take unnecessary risks online. One other way that you can keep your iPhone and your Mac safe is by installing the best Mac antivirus software . While not every Mac antivirus can scan your iPhone for malware, Intego Mac Internet Security X9 and Intego Mac Premium Bundle X9 can.
+
+Spyware is highly profitable and can extract all sorts of sensitive data from a targeted device, so don’t expect this threat to disappear anytime soon.
+
+More from Tom's Guide
+

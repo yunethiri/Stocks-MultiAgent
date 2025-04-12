@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/news/woman-got-tired-her-mail-195318928.html
+
+source: www.yahoo.com
+
+title: A woman got tired of her mail getting stolen. She sent herself an Apple AirTag to help catch the thieves
+
+summary: 
+
+publishDate: 2024-08-24T19:53:18.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.993298351764679
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/yahoo-news-logo-2019.svg', 'https://s.yimg.com/ny/api/res/1.2/baDQYYT4hIieqIf5UHtyDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/cnn_articles_875/5f0cd049d111d07b2a7e62148d57a239']
+
+content: A woman got tired of her mail getting stolen. She sent herself an Apple AirTag to help catch the thieves
+
+A California woman whose mail was recently stolen used technology as bait to track down the thieves, the Santa Barbara County Sheriff’s Office says.
+
+Authorities in Los Alamos arrested two suspects on Monday with the help of an Apple AirTag locator device the woman had mailed to herself, the sheriff’s office said in a news release.
+
+Deputies responded that morning to a report of a mail theft that had just happened at the local post office. When they arrived, they learned the woman recently had mail stolen, so she decided to send herself a package with the tracking device inside, according to the release.
+
+She became a repeat mail theft victim on Monday – but this time, she was able to track the thieves thanks to the AirTag, authorities said.
+
+The devices work by sending out a Bluetooth signal that nearby devices in Apple’s Find My network can detect, according to Apple. The AirTag sends its location to a user’s iCloud, allowing them to see where it is on the Find My map.
+
+“It is important to note that the victim did not attempt to contact the suspects on her own,” the sheriff’s office said in the release.
+
+The suspected thieves were located in nearby Santa Maria, California, with the victim’s mail – including the package containing the AirTag – and other items authorities believe were stolen from more than a dozen victims, according to the sheriff’s office.
+
+Virginia Franchessca Lara, 27, and Donald Ashton Terry, 37, were arrested in connection with the crime, authorities said.
+
+Lara was booked on felonies including possession of checks with intent to commit fraud, fictitious checks, identity theft, credit card theft and conspiracy, and remains held on a $50,000 bail as of Thursday, jail records show.
+
+Terry faces felony charges including burglary, possession of checks with intent to commit fraud, credit card theft, identity theft and conspiracy and was held on a $460,000 bail, according to jail records.
+
+CNN has reached out to lawyers representing Lara and Terry for comment.
+
+In the release, the Santa Barbara County Sheriff’s Office also commended the AirTag’s owner “for her proactive solution” to track down the thieves.
+
+Authorities said they’re working on contacting other victims of theft in this case.
+
+For more CNN news and newsletters create an account at CNN.com
+

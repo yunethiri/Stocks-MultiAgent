@@ -1,0 +1,35 @@
+link: https://www.reuters.com/technology/apple-iphone-16-event-key-announcements-so-far-2024-09-09/
+
+source: www.reuters.com
+
+title: Apple iPhone 16 event: Key announcements so far
+
+summary: Apple on Monday unveiled an artificial intelligence focused-iPhone 16 lineup, a sleeker Apple Watch, AirPods 4, and said new AI features will be added to its devices next month.
+
+publishDate: 2024-09-09T18:53:41.903Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997981190681458
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Monday <a href="/technology/artificial-intelligence/apples-iphone-16-will-put-ai-features-focus-2024-09-09/">unveiled</a> an artificial intelligence focused-iPhone 16 lineup, a sleeker Apple Watch, AirPods 4, and said new AI features will be added to its devices next month.
+Here are some products tech behemoth Apple launched at the event:
+
+NEW IPHONE LINEUP
+The iPhone 16, starting at $799, comes in two sizes -- 6.1 inches and 6.7 inches. The phones are powered by the new A18 chips, which feature a 16-core neural engine designed for generative AI-linked tasks and Apple Intelligence.
+The phones also come with a customizable action button, allowing users to perform a variety of functions such as recording voice memo, identifying songs, and translating phrases.
+
+APPLE WATCH UPGRADES
+Apple unveiled its latest Watch Series 10 starting at $399, which the company claims is its thinnest and fastest charging watch ever.
+The Series 10 will be powered by Apple's new S10 chip, which includes a four-core neural engine that will allow machine learning activities and power features such as double tapping on device, Siri dictation, along with crash and fall detection.
+Apple also highlighted the health-linked features of its watch, such as sleep apnea detection. The watch will monitor a new metric during sleep called breathing disturbances and will notify users if they display signs of sleep apnea.
+
+AIRPOD MODELS
+Apple's AirPods 4, powered by a new custom H2 chip, start at $129 and come with improved audio quality and personalized spatial audio.
+Users can also interact with Siri while using the AirPods by nodding "yes" or shaking their head to say "no" in response to Siri announcements. The charging case has USB-C ports.
+The company also said that its AirPods Pro 2 can now be "transformed" into a personalized hearing aid via an upcoming software update, boosting the specific sounds in real time, like parts of speech or elements within a user's environment.
+

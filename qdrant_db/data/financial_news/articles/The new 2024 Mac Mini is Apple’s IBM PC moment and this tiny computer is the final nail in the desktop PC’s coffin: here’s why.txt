@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/tech/2024-mac-mini-apple-ibm-080100592.html
+
+source: www.yahoo.com
+
+title: The new 2024 Mac Mini is Apple’s IBM PC moment and this tiny computer is the final nail in the desktop PC’s coffin: here’s why
+
+summary: 
+
+publishDate: 2024-11-02T08:01:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9914118051528931
+
+images: ['https://s.yimg.com/ny/api/res/1.2/C6CDl3KLztk6QiEelQs5ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/71adc6cae946f059d7d9e861f2c5b728', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2F2024-mac-mini-apple-ibm-080100592.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/Mv2sRvoCfBkWBD648M1J0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techradar_949/71adc6cae946f059d7d9e861f2c5b728']
+
+content: The new 2024 Mac Mini is Apple’s IBM PC moment and this tiny computer is the final nail in the desktop PC’s coffin: here’s why
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Just over 43 years ago, the dawn of a new era started when IBM launched the first true personal computer, the 5150 which I fondly remember by its moniker, IBM PC.
+
+The recent new Mac Mini announcement came as part of a bland, plain text Apple press release a few days ago, but I believe that it is a huge milestone for the Cupertino-based company, a philosophical pinnacle that will change the perspective of Apple skeptics (like me).
+
+Without bumping its base price ($599, $499 for students), Apple shrunk the Mac Mini to the popular 5-inch x 5-inch form factor, commonly adopted by gazillions of Mini PCs.
+
+It is the smallest Apple PC ever, it is the first one without the quasi-obsolete USB Type-A port, it is the cheapest PC that supports any sort of AI (Apple Intelligence) or comes with Thunderbolt 4 connectors.
+
+It is also the most affordable (or smallest) PC I know that can drive three monitors with a combined 55,461,888 pixels (a pair of 6K monitors and one 5K display); that’s enough grunt to power six, yes six, 4K screens.
+
+Outstanding performance for the price
+
+As for the M4, it delivers the fastest processor performance in this price range; there’s no photo finish, especially for single-threaded tasks. I checked it against the Core i5-14400 (as found in the Dell Inspiron PC), the Core i7-13620H, and even the mighty Ryzen 9 7940HS, using the public test database compiled by CPU Benchmark test.
+
+The 2024 Apple Mac Mini is not perfect though, with its biggest bugbear being the puny 256GB storage the entry level model comes from; I can live with that. Like the original IBM PC, it has hit a sweet spot, a Goldilocks balance between pricing and features that finally brings to Apple the final feather to crown the Mac Mini as the perfect PC; value for money.
+
+Apple is now affordable, good value, accessible, for the masses, and friendly even. Is it time to say goodbye to the Windows PC? Perhaps but it depends on who you are. The new Mac Mini covers a lot of bases but it is the entry level model that captures my imagination; increasing the memory by 50% and doubling the storage, which costs about $20 in parts, adds another $400 to the price tag.
+
+This is where PCs have and will continue to differentiate themselves from Apple offerings by offering more choices with lower margins (and therefore keener prices). With each new generation of devices though, Apple makes life a little bit more difficult for PC vendors like Dell or HP.
+
+The Apple Mac Mini currently tops our best Mini PC list and its new iteration only cements its position there. And I may well have found my perfect Christmas gift; only need to make sure I’ve been on the nice list for Santa Claus.
+
+More from TechRadar Pro
+

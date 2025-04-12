@@ -1,0 +1,46 @@
+link: https://www.cnbc.com/2024/11/22/indonesia-wants-apple-to-sweeten-its-100-million-proposal-as-tech-giant-lobbies-for-iphone-16-sales.html
+
+source: www.cnbc.com
+
+title: Indonesia wants Apple to sweeten its $100 million proposal as tech giant lobbies for iPhone 16 sales
+
+summary: The Indonesian government expects Apple to invest more than $100 million into the country if it wants to sell its iPhone 16 in the growing market.
+
+publishDate: 2024-11-22T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.997312068939209
+
+images: ['https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://image.cnbcfm.com/api/v1/image/107377353-1708676215774-unnamed_2.jpg?v=1708676311&w=60&h=60&ffmt=webp']
+
+content: An iPhone 16 signage is seen on the window at the Fifth Avenue Apple Store on new products launch day on September 20, 2024 in New York City.
+
+The Indonesian government expects Apple to increase its proposed $100 million investment into the country, according to state media, as the iPhone maker seeks clearance from Jakarta to sell its latest phones.
+
+The American tech giant's latest smartphone model doesn't meet Indonesia's 40% domestic content requirements for smartphones and tablets and hasn't been granted clearance to be sold in the country.
+
+The purpose of the ban is to protect local industry and jobs, with officials asking Apple to increase its investments and commitments to the economy in order to gain greater access.
+
+According to a report from Indonesian state media, the country's Ministry of Industry met with representatives from Apple on Thursday regarding its proposal to invest $100 million over two years.
+
+The funds would go toward a research and development center program and professional development academy in the country, as per the report.
+
+The company also plans to produce accessory product components, specifically mesh for Apple's AirPods Max, starting in July 2025, it added.
+
+Apple didn't immediately respond to a request for comment from CNBC.
+
+While the new offer is 10 times larger than a proposal that was reported earlier, the government is still striving to sweeten the deal to get a "fair" commitment.
+
+"From the government's perspective, of course, we want this investment to be larger," industry ministry spokesperson Febri Hendri Antoni Arif told state media on Thursday.
+
+He said that a larger investment would help the development of Indonesia's manufacturing sector, adding that its domestic industry was capable of supporting production of Apple devices such as chargers and accessories.
+
+While Indonesia represents a small market for Apple, it also offers growth opportunities as it has the world's fourth-largest population, according to Le Xuan Chiew, a Canalys analyst focusing on Apple strategy research.
+
+"Its young, tech-savvy population with growing digital literacy aligns with Apple's strategy to expand [global sales]," he said, noting that it also offers potential for manufacturing and assembly that supports Apple's efforts to diversify its supply chain.
+
+Success in this market requires a long-term approach, and Apple's investment offer demonstrates a commitment to complying with local regulations and paving the way for future growth, he added.
+

@@ -1,0 +1,26 @@
+link: https://www.yahoo.com/news/the-apple-watch-ultra-2-drops-to-a-record-low-price-ahead-of-october-prime-day-133416959.html
+
+source: www.yahoo.com
+
+title: The Apple Watch Ultra 2 drops to a record-low price ahead of October Prime Day
+
+summary: 
+
+publishDate: 2024-09-23T13:34:16.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7734375596046448
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404', 'https://s.yimg.com/cv/apiv2/default/20190724/yahoo-news-logo-2019.svg']
+
+content: The Apple Watch Ultra 2 is the high-end option in the company's smartwatch lineup, meaning it costs a pretty penny. Ahead of October Prime Day, however, the Apple Watch Ultra 2 has dropped to a record-low price of $689, down from $799. The 14 percent discount is available on models with a Rugged Titanium Case for small to large wrists. This includes watches fitted with the Blue Alpine Loop, Indigo Alpine Loop, Orange Ocean Band and more.
+
+Apple released the Ultra 2 in 2022 and, despite rumors, has yet to announce a successor. Our review gave the Ultra 2 an 85 thanks to features like its long battery life. It lasts for about 36 hours, letting us easily use it for three days without a recharge. Apple also claims it can get to about 60 hours with Lower Power Mode enabled, a setting that turns off the Always On Display and features like cellular connections and heart rate notifications.
+
+We named the Ultra 2 the best Apple Watch for adventurer due to its sizable battery life, compass app, water temperature gauge and loud onboard siren in case you get in trouble. Plus, it can set waypoints and offers the Wayfinder watch face in Night mode. One of our quips about the watch, though, was that it was too easy to accidentally press the action button instead of the crown.
+
+Follow @EngadgetDeals on Twitter for the latest tech deals and buying advice in the lead up to October Prime Day 2024.
+

@@ -1,0 +1,21 @@
+link: https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/
+
+source: www.reuters.com
+
+title: Masimo smartwatches infringe Apple patents, US jury says
+
+summary: Apple convinced a federal jury on Friday that health monitoring tech company Masimo's smartwatches infringe two of its design patents.
+
+publishDate: 2024-10-25T22:16:14.961Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7814682126045227
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> convinced a federal jury on Friday that health monitoring tech company Masimo's <a href="https://www.reuters.com/markets/companies/MASI.O" target="_blank">(MASI.O)</a> smartwatches infringe two of its design patents.
+The jury, in Delaware, agreed with Apple that Masimo's W1 and Freedom watches violated Apple's patent rights in smartwatch designs, awarding the tech giant $250 in damages. Apple's attorneys told the court the "ultimate purpose" of its lawsuit was to win an injunction against sales of Masimo's smartwatches after an infringement ruling.
+

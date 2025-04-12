@@ -1,0 +1,40 @@
+link: https://www.reuters.com/legal/legalindustry/judge-faults-apple-withholding-documents-epic-games-case-2024-12-03/
+
+source: www.reuters.com
+
+title: Judge faults Apple for withholding documents in Epic Games case
+
+summary: A U.S. judge on Monday said Apple misused attorney-client confidentiality protections to avoid turning over some corporate files related to its App Store in a lawsuit brought by “Fortnite” maker Epic Games.
+
+publishDate: 2024-12-03T16:39:04.351Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9641634821891785
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: A U.S. judge on Monday said Apple misused attorney-client confidentiality protections to avoid turning over some corporate files related to its App Store in a lawsuit brought by “Fortnite” maker Epic Games.
+U.S. Magistrate Judge Thomas Hixson in San Francisco <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/gdpzkbygxvw/Epic%20v%20Apple%20discovery%20order%2020241202.pdf" target="_blank">rejected</a> Apple’s effort to withhold the documents from Epic. The game maker had accused Apple of failing to comply with a 2021 ruling in the case that required it to give developers more power to steer app users to non-Apple payment options.
+Epic has asked a judge to <a href="/legal/transactional/apple-judges-document-demands-could-delay-epic-antitrust-ruling-2024-06-05/">hold Apple in contempt</a> of that court order, which came in its lawsuit accusing Apple of antitrust violations. Apple was ordered in May to produce all of its internal documents concerning its work to comply with the judge’s order.
+Apple and Epic did not immediately respond to requests for comment. Apple has <a href="/legal/apple-denies-violating-us-court-order-epic-games-lawsuit-2024-04-13/">denied violating</a> the court’s injunction.
+Apple has produced 95,000 documents to Epic, but has held back 57,000 others, court <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1039.0.pdf" target="_blank">records show</a>.
+Apple last month told the court that “a substantial number of those documents” are protected by attorney-client privilege, which shields confidential legal communications between lawyers and their clients.
+Epic argued that the shield rule did not apply to the files. It accused Apple of withholding “tens of thousands of responsive, relevant documents on the basis of facially improper and unsubstantiated privilege claims.”
+Hixson criticized Apple in his order on Monday for stretching its privilege arguments too far.
+“Privilege does not descend like a giant fog bank over every document that is in some way connected with an effort to achieve legal compliance,” Hixson wrote.
+Hixson said it was “improper” for Apple to claim attorney-client privilege to shield some business decisions that concerned user interface design. He also said Apple must turn over a draft press briefing.
+Other technology companies have also faced criticism over broad assertions of attorney-client privilege.
+The U.S. Department of Justice in 2022 had <a href="/legal/litigation/us-judge-google-case-not-convinced-companys-conduct-will-get-sanction-2022-04-08/">accused</a> Google in an antitrust lawsuit in Washington, D.C. of "extensive and intentional" efforts to misuse attorney-client privilege to hide business documents. The DOJ said Google employees were trained to add lawyers to emails, and to ask them questions.
+Google denied that its practices violated any professional conduct rules, and a judge declined to sanction the company.
+The case is Epic Games v. Apple, U.S. District Court, Northern District of California, No. 4:20-cv-05640-YGR.
+For Epic: Yonatan Even of Cravath, Swaine & Moore
+For Apple: Mark Perry of Weil, Gotshal & Manges
+Read more:
+<a href="/legal/transactional/apple-asks-us-judge-toss-app-store-injunction-2024-09-30/">Apple asks US judge to toss App Store injunction</a>
+<a href="/technology/landmark-google-ruling-warning-companies-about-preserving-evidence-2024-08-06/">In landmark Google ruling, a warning to companies about preserving evidence</a>
+<a href="/legal/transactional/apple-app-store-consumer-class-action-set-february-2026-jury-trial-2024-07-12/">Apple app store consumer class action set for February 2026 jury trial</a>
+<a href="/legal/transactional/apple-judges-document-demands-could-delay-epic-antitrust-ruling-2024-06-05/">Apple judge's document demands could delay Epic antitrust ruling</a>
+

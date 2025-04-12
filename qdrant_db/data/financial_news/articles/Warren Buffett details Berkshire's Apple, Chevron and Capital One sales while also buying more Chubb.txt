@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/warren-buffett-details-berkshires-apple-224315002.html
+
+source: finance.yahoo.com
+
+title: Warren Buffett details Berkshire's Apple, Chevron and Capital One sales while also buying more Chubb
+
+summary: 
+
+publishDate: 2024-08-14T22:43:15.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999974966049194
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300101&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fwarren-buffett-details-berkshires-apple-224315002.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/C.i7rdtVHhX_i2bP_5dyYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/ap.org/5c9417c65776e98734e243806bf84f99', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: OMAHA, Neb. (AP) — Warren Buffett offered more details Wednesday about the stocks he has been selling lately, including confirming that he sold more than 389 million Apple shares during the second quarter.
+
+Berkshire Hathaway still owns 400 million shares of the iPhone maker, so it remains the biggest position in the conglomerate's stock portfolio, according to the company's latest filing with the Securities and Exchange Commission. The news that Buffett had unloaded a huge chunk of Apple came out in Berkshire's earnings report earlier this month, but the exact number of shares he sold wasn't clear until Wednesday.
+
+In addition to the big Apple sale, Berkshire has also been trimming its investments in Bank of America, Chevron, Capital One, Floor & Decor Holdings, T-Mobile and Louisiana Pacific recently. Berkshire also unloaded its nearly $1 billion Snowflake investment.
+
+As a result of all the selling, Berkshire's already massive cash pile has ballooned to the record level of $277 billion.
+
+But Berkshire did sink more money into the insurer Chubb and oil producer Occidental Petroleum, while revealing smaller new investments in aerospace parts maker Heico Corp. and cosmetics retailer Ulta Beauty.
+
+The quarterly filings don't spell out which moves Buffett made and which actions were taken by one of the two other investment managers at Berkshire, but Buffett typically handles all the biggest investments worth more than $1 billion.
+
+And many investors watch Buffett's actions closely because he has such a remarkably successful track record over the decades.
+
+In addition to the nearly $300 billion stock portfolio, Berkshire owns several major insurers, including Geico, one of the nation's largest railroads in BNSF, a collection of big utilities and an assortment of manufacturing and retail companies. Its holdings include well-known brands like Dairy Queen, Helzberg Diamonds and NetJets.
+

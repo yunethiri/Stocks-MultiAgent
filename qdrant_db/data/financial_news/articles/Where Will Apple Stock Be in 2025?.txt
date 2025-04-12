@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-31T14:13:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998838901519775
+
+images: ['https://media.zenfs.com/en/motleyfool.com/ed7fc7c473af719f2e501cfe600ac98e', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Shares of Apple (NASDAQ: AAPL) have delivered returns of 33% in 2024 as of this Dec. 30. They have gained momentum since the company released results for its fiscal 2024 fourth quarter (which ended Sept. 28) on Oct. 31.
 
 Many investors have turned bullish about Apple's prospects after seeing those results, which revealed upticks in sales of iPhones, iPads, and MacBooks. Additionally, the company's services business achieved double-digit percentage year-over-year growth during the quarter.
@@ -29,10 +37,4 @@ Favorable scenarios can be expected for MacBooks and iPads as well. That's becau
 Meanwhile, the tablet market has also gained impressive momentum, with shipments increasing 20% year over year in the third quarter of calendar 2024 (per IDC). Apple is the top player in tablets, with an almost 32% market share. All this puts Apple in a nice position to capitalize on what Gartner forecasts will be a 9.5% jump in device spending next year, driven by customers looking to gain access to AI features.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9998838901519775
 

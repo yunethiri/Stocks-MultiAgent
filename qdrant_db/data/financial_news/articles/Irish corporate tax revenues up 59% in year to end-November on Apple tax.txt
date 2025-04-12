@@ -1,0 +1,25 @@
+link: https://www.reuters.com/markets/europe/irish-corporate-tax-revenues-up-59-year-end-november-apple-tax-2024-12-04/
+
+source: www.reuters.com
+
+title: Irish corporate tax revenues up 59% in year to end-November on Apple tax
+
+summary: Irish corporate tax receipts were up 59% in the first 11 months of the year, lifted by a portion of a 14 billion euro Apple back-tax windfall that has boosted already healthy revenues, finance ministry data showed on Wednesday.
+
+publishDate: 2024-12-04T16:32:11.185Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999990463256836
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Irish corporate tax receipts were up 59% in the first 11 months of the year, lifted by a portion of a 14 billion euro Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> <a href="/technology/why-does-apple-have-pay-ireland-144-billion-2024-09-10/">back-tax windfall</a> that has boosted already healthy revenues, finance ministry data showed on Wednesday.
+November is by far the most important month for company returns when around a quarter of the year's corporate tax is paid. Ireland took in 13.7 billion euros in corporate tax in the month of November, an increase of 117% on last year.
+"The bulk of the increase is due to receipts arising from the Court of Justice of the European Union ruling of September 10," the ministry said, without specifying exactly how much.
+Ireland is due to draw down the Apple back taxes from an escrow account over several months following a ruling in September that its favourable tax treatment of the iPhone maker had been unlawful.
+The overall tax take in the year to the end of November was 20.8% higher than the same period last year, driven also by growth in income tax and VAT, the other two largest tax types. Most self-employed income tax returns are paid in November.
+Ireland expects to bank 8 billion euros of the Apple back taxes this year, pushing its overall tax take 20% higher year-on-year, and this year's budget surplus to 7.5% of national income.
+

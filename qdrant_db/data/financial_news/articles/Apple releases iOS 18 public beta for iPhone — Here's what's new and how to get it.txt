@@ -1,0 +1,18 @@
+link: https://www.cnbc.com/2024/07/15/apple-ios-18-public-beta-release-how-to-install.html
+
+source: www.cnbc.com
+
+title: Apple releases iOS 18 public beta for iPhone — Here's what's new and how to get it
+
+summary: The iOS 18 preview is a beta version of the software that will launch alongside new iPhones this fall.
+
+publishDate: 2024-07-15T21:57:29.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

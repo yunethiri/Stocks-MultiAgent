@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/apple-just-announced-iphone-16-182302663.html
+
+source: www.yahoo.com
+
+title: Apple just announced the iPhone 16 Pro. Here’s everything new
+
+summary: 
+
+publishDate: 2024-09-09T18:23:02.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996500015258789
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/OjnpUT_UJcdqFC7yhePi7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NjM-/https://media.zenfs.com/en/digital_trends_973/4a659f3e98164981a59f2dbad6745ced', 'https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45']
+
+content: The big Apple event of the year is finally here and, as expected, the major innovation highlights are the iPhone 16 Pro and its Max version. Once again, we are treated to the same fundamental design and familiar colors.
+
+Last year’s iPhone 15 Pro and iPhone 15 Pro Max were among the best phones released last year. How do this year’s models stack up? Are they worth upgrading to? Let’s break it all down.
+
+Buy at AppleApple claims the next-gen screen protection on the iPhone 15 Pro and its Max trim is stronger than the first-gen Ceramic Shield display protection. The most notable hardware change, however, is the new physical shutter button that also lets users customize various camera features for quick access.
+
+This button supports tap as well as slide gestures, thanks to a capacitive surface and a taptic engine underneath for vibration feedback. Aside from capturing pictures, it also pulls up a quick control slider in the camera viewfinder to adjust metrics such as exposure, zoom, and depth of field. In the coming months, Apple will update the camera app to add two-stage shutter click functionality.
+
+Apple
+
+Apple says the new iPhones have been designed from the ground up to get the best out of Apple Intelligence, the suite of generative AI features that includes everything from writing tools to a more conversational Siri with deeper app integration.
+
+The build now relies on a Grade 5 Titanium with a sandblasted texture. In addition to improving the thermal architecture, Apple also claims that the new Pro models offer the “best iPhone battery life ever.” Apple has also bumped up the screen size, putting a 6.3-inch panel on the iPhone 16 Pro and a 6.9-inch display on the Max variant. Apple has also enhanced the charging pace, taking it to 25-watt with a MagSafe wireless adapter.
+
+Powering the iPhone 16 Pro duo is the new A18 Pro processor, built atop an updated 3-nanometer processor. The company says it borrowed tech from the Apple silicon powering its Mac lineup to boost the graphics output, bringing a sizable improvement in raw performance as well as power efficiency.
+
+Apple
+
+It delivers a 17% lift in memory bandwidth, a 2x boost at hardware-accelerated ray tracing, and up to 20% improvement in sustained performance. The 6-core architecture includes two performance cores and four efficiency cores, surpassing the A17 Pro’s raw performance by around a 15% margin.
+
+The most notable software-side upgrade is Visual Intelligence, which is tiled to the Camera Control button. Think of it as Google Lens, but supercharged with the new Siri AI chops, as well as seamless offloading to ChatGPT for more complex queries. Visual Intelligence works in the same vein as GPT-4o vision capabilities, but with the added benefit of local integration with tools such as Calendar.
+
+Apple
+
+Apple has kept the 48-megapixel primary camera, but has upgraded the ultrawide camera to a 48-megapixel sensor while keeping the telephoto camera at a 12-megapixel resolution. Notably, the 5x optical zoom capability enabled by the tetra prism lenses architecture is now available on the iPhone 16 Pro and the Max version as well.
+
+In terms of camera capabilities, the the most notable one is the ability to shoot 4K videos at 120 frames per second (fps), complete with the convenience of ProRes and LOG capture directly on external storage. Notably, it can be used for both normal capture as well as slo-mo video recording.
+
+Apple claims that users can now perform professional-grade color grading on individual frames of 4K video recorded at 120 fps in Dolby Vision.
+
+Apple also is making the best of the onboard studio quality mics for vlogging professionals. Take for example Audio Mix, which apparently does the same thing with sound signals as Cinematic Mode does with focal adjustment in videos during post-edits. The new tool lets users modify audio tracks after filming, enabling them to isolate and enhance a speaker’s voice, simulate a professional studio recording environment, or separate vocal and ambient sounds for a surround sound experience. Apple is throwing wind noise reduction into the mix. Thanks to Apple Intelligence, Siri will also lend a helping hand with image and video editing.
+
+Surprisingly, the asking prices remains unchanged. The iPhone 16 Pro starts at $999, while the Max version goes up for $1,199 in the U.S. Preorders kick off on Friday, and shipments will commence on September 20, 2024.
+
+This is a developing story. Please check back for more updates as we learn more.
+

@@ -1,0 +1,78 @@
+link: https://www.yahoo.com/tech/everything-apple-announced-during-its-unofficial-mac-week-210115997.html
+
+source: www.yahoo.com
+
+title: Everything Apple announced during its unofficial Mac Week
+
+summary: 
+
+publishDate: 2024-10-30T21:01:15.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9983325600624084
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/UN.7jIoPQ7_Ms0MXn.Tu_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NjE-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7ed9ccf0-96fd-11ef-9ffb-295ec1e7eba6']
+
+content: Following the illustrious line of calendar-spanning corporate events like Lobsterfest and Shark Week, Apple tried something new this year with a celebration unofficially known as Mac Week. (Fortunately for Apple, it just so happens to coincide with its earnings call on Thursday!) The company’s three-day product rollout for desktop hardware centered around the M4 chip, built for Apple Intelligence. We recount everything Apple spit out this week, including a new iMac, Mac mini, MacBook Pro and other goodies like Apple Intelligence’s official arrival on iOS, iPadOS and macOS.
+
+iMac (M4)
+
+Standard product shot of the new iMac (Apple)
+
+The M4-powered iMac has the same design (apart from some new colors) but with more horsepower inside. Apple says the all-in-one desktop is 1.7 times faster for daily productivity and 2.1 times faster for more demanding tasks like gaming or photo editing. Like all new Macs announced this week, it loses the measly 8GB of RAM previously seen in the cheapest Macs, jumping to 16GB as the baseline. (Woo!)
+
+The new iMac still has a 24-inch 4.5K Retina display encased in an aluminum unibody design. However, it adds a new nano-texture glass screen option for reduced glare and a 12MP Center Stage camera that supports Apple’s Desk View.
+
+You can pre-order the M4 iMac now, starting at $1,299. Deliveries and in-store sales begin on November 8.
+
+Mac mini (M4, M4 Pro)
+
+Closeup of a person's hand holding the new (tiny) Mac mini (Apple)
+
+Apple’s little Mac that could lives up to its “mini” branding more than ever. The 2024 Mac mini is a mere five-inch by five-inch box, two inches tall. (That’s only slightly bigger than the Apple TV 4K!)
+
+The new Mac mini is available in M4 and M4 Pro configurations. Apple says the M4 variant is up to 1.8 times faster than the M1 model from four years ago. Its graphics are up to 2.2 times faster. It should also be much better for Apple Intelligence: It supports 38 TOPS (tera operations per second) of AI processing power. That dwarfs the 18 TOPS from the (only one-year-old) M3 chip. It, too, starts with 16GB of RAM.
+
+For the first time, the machine ditches legacy USB ports. It has two USB-C ports on the front and three Thunderbolt USB-C ports on the back (along with HDMI and Ethernet).
+
+The M4 Mac mini is available to pre-order. It starts at $599, while the souped-up M4 Pro variant starts at $1,399. It arrives on November 9.
+
+MacBook Pro (M4, M4 Pro, M4 Max)
+
+A person sitting in a lab, using the new MacBook Pro with M4 chip. (Apple)
+
+Most of Apple’s Mac sales are in the MacBook lineup, which makes sense. Not only can you use them on the go, but you can also grab a Thunderbolt cable and hook them up to the monitor of your choice to double as a desktop. So, the climax of Mac Week was the new M4-powered MacBook Pro.
+
+The only new Mac with three chip tiers, the MacBook Pro comes in M4, M4 Pro and M4 Max options. Apple says the M4 Pro is up to three times faster than the M1 Pro, and the M4 Max is up to 3.5 times faster than the M1 Max. The M4 variant is up to 1.8 times faster than the M1-powered 13-inch MacBook Pro for photo editing. That jumps to 3.4 times faster for demanding work like rendering scenes in Blender.
+
+Its Neural Engine for Apple Intelligence (and other AI) is over three times as powerful as the M1. Helping out on the AI front (and for all-around performance) is the same 16GB of RAM as a baseline.
+
+The laptop offers the same nano-texture display option as the iMac and up to 1,000 nits of brightness for SDR content. It also adopts the 12MP Center Stage camera for much better built-in video call capabilities. The device has three Thunderbolt 4 ports and an estimated 24 hours of battery life — as Apple puts it, that’s the longest ever in a Mac.
+
+The new MacBook Pro is available in familiar 14-inch and 16-inch models. The smaller model with the M4 chip starts at $1,599, the M4 Pro variant starts at $1,999, and the ultra-high-end M4 Max will set you back at least $3,199. The 16-inch MacBook Pro starts at $2,499 with the M4 Pro chip, while an M4 Max flavor is $3,499 and up.
+
+Apple Intelligence cometh
+
+Apple's Craig Federighi standing in front of a screen that reads (Apple)
+
+Apple’s first wave of on-device AI features is now in consumers’ hands, with no beta software required. This round includes writing tools like proofreading, rewiring and summaries, live call transcriptions and notification summaries.
+
+The beginnings of a more intelligent Siri also arrived with this batch, including typed queries and an improved ability to recognize stutters or self-interruptions. You also get a neat new glowing border that announces to the world, “This ain’t the shitty Siri you’re used to!” But you’ll have to wait for the next wave of Siri upgrades for a more significant overhaul, like a better understanding of personal context.
+
+Now, the bad news. Apple Intelligence is only available on a handful of recent devices in each of Apple’s major product categories. For the iPhone, that’s the iPhone 15 Pro / Pro Max and the new iPhone 16 lineup (including non-Pro models). You’ll need a model with an M-series chip on the iPad, although the new iPad mini (with an A17 Pro chip) is an exception. As for Macs, you’ll also need a model with M-series Apple silicon, which stretches back to the last four years of models.
+
+Apple Intelligence (round one) requires iOS 18.1, iPadOS 18.1 or macOS Sequoia 15.1. The X.2 variants of each OS will bring the next wave of AI features, like ChatGPT integration and Image Playground.
+
+AirPods Pro 2 hearing features
+
+Screen of an Apple hearing test (Apple)
+
+Not to be missed among the higher-profile announcements is a new series of hearing health tools for AirPods Pro 2 owners.
+
+Announced at Apple’s September iPhone launch, the hearing features include a “clinically validated” hearing test, hearing protection (like for concerts) and the ability to use the device as a hearing aid if it detects mild to moderate impairment. (If severe, it will nudge you towards a professional.)
+
+Engadget’s audio guru, Billy Steele, is the person to follow for more on these features. He’s extensively trialed them, including taking hearing tests with an Apple rep and test-driving AirPods-powered hearing protection at concerts.
+

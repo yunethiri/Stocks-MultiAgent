@@ -1,0 +1,38 @@
+link: https://www.yahoo.com/entertainment/viral-video-explains-apple-hides-060020876.html
+
+source: www.yahoo.com
+
+title: Viral video explains how Apple hides a ‘tiny middle finger’ to The Beatles in every Mac
+
+summary: 
+
+publishDate: 2024-10-14T06:00:20.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999524354934692
+
+images: ['https://s.yimg.com/cv/apiv2/entertainment/images/desktop_ent_footer_logo.png', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/g/images/spaceball.gif']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple, The Beatles, Apple Corps
+
+A video is doing the rounds across social media, showing how, why and where Apple hides a dig at The Beatles in every computer made – yes, including yours. What... why? I hear you ask.
+
+You may have heard about the decades-long legal battle between Apple and The Beatles. If not, in essence it was a typical trademark battle over the rights to the name 'Apple', which originally belonged to the holding company for The Beatles record label, Apple Corps (founded in 1968). In 1974 Apple Computers came along, using the same name (and eventually one of the best logos ever). Apple Corps didn't like that much and began a multi-stage legal battle that spanned between 1978 and 2007.
+
+The cases were settled by Apple Computers agreeing to stay out of music and Apple Corps promising the same for computers. But Apple was not so quick to let go of the dispute, and hid a cheeky reference to the drama in Apple OS. Check out the Instagram video by Alex aka Pop Culture Brain below, which explains it all.
+
+A post shared by Alex (@popculturebrain) A photo posted by on
+
+The Beatle's lawsuit Easter egg comes in the form of a sound file installed on every Mac. While Apple had promised to stay out of music (way before iTunes came along, obviously), the company was creating sound files for its computers because, of course, computers need to play sound. In 1991, one beep-like sound was created and was going to be called 'chime', but Apple's legal team deemed the name too musical and canned it.
+
+In retaliation (and frustration, I imagine), the lead engineer Jim Reekes reportedly joked about calling the sound 'Let it Beep' (get it?), but eventually settled on 'Sosumi' – so sue me, a veiled dig at the lawyers putting such a stranglehold on creativity. In 2020, the file was renamed in macOS' Big Sur update to 'Sonumi' (because it is 'new'). But the original name still lies in the system's sound library as 'sosumi.aiff'. Here it below, in both its iterations.
+
+Apple has been involved in its fair share of court battles over trademark, so it's fair to say it's gone on to give as good as it got in those early days from The Beatles. Some were more understandable than others, though. We were somewhat bemused it went after a fruit company for daring to include a pear in its logo, for example, but we could see its point with this lookalike Apple logo.
+
+Of course, the Beatles have one of the most well known logos ever – and that mark also has a very bizarre history attached. You can see some of the earliest Beatles logo sketches here.
+

@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/09/10/chinas-huawei-prices-trifold-phone-to-launch-same-day-as-apple-iphone-16.html
+
+source: www.cnbc.com
+
+title: Huawei launches $2,800 trifold phone hours after Apple debuts iPhone 16
+
+summary: The Mate XT comes in red and black, in three storage options with prices ranging from 19,999 yuan ($2,809) to 23,999 yuan ($3,371).
+
+publishDate: 2024-09-10T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999828338623047
+
+images: ['https://image.cnbcfm.com/api/v1/image/103176532-1671680015096-CHENG_profile.jpg?v=1671680065&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Richard Yu, a Huawei executive director overseeing consumer products, reveals the price for the company's trifold Mate XT smartphone on Tuesday, Sept. 10, 2024.
+
+BEIJING — Chinese smartphone company Huawei said Tuesday its trifold smartphone will start at the equivalent of more than $2,800.
+
+The phone began pre-orders on Saturday and is set to begin in-store sales on Sept. 20. That's the same day Apple's new iPhone 16 series is due to launch in stores, including in China.
+
+On Monday stateside, Apple announced its iPhone 16 Pro Max will start at $1,199, and the iPhone 16 at $799. Preorders are set to begin Friday, and in-store sales on Sept. 20.
+
+The first set of Apple Intelligence AI features will be available in a free software update next month, the company said. iPhone 16 users as well as those of the iPhone 15 Pro and Pro Max can use the new functions.
+
+Huawei's Mate XT also comes with artificial intelligence features, such as text translation and cloud-based content generation, according to Tuesday's presentation.
+

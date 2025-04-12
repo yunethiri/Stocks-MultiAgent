@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/11/22/apple-and-google-could-face-uk-competition-probe-over-app-store-rules.html
+
+source: www.cnbc.com
+
+title: Apple and Google could face a competition probe over their huge mobile ecosystems in the UK
+
+summary: The U.K. Competition and Markets Authority's independent inquiry group recommended the watchdog investigates Apple and Google's activities in mobile ecosystems.
+
+publishDate: 2024-11-22T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9954100251197815
+
+images: ['https://image.cnbcfm.com/api/v1/image/107416885-1716019370036-Ryan_Browne-3_1.jpg?v=1716019527&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg']
+
+content: LONDON — Apple and Google could face a competition investigation into their dominance of mobile web browsers and apps in the U.K.
+
+The U.K.'s Competition and Markets Authority issued a report Friday with a provisional decision from an independent inquiry group tasked by the regulator with carrying out an in-depth review of the mobile browser markets.
+
+In the report, the group recommended that the CMA investigates Apple and Google's activities in mobile ecosystems under the new Digital Markets, Competition and Consumers Act (DMCC), a new U.K. law coming into force next year which seeks to prevent anti-competitive behavior in digital markets.
+
+The DMCC is akin to the Digital Markets Act in the European Union. It gives the CMA the ability to designate firms as having "Strategic Market Status" (SMS) — which means they have a significant amount of market power in a certain digital business.
+
+Under the rules, the CMA can impose major behavioral changes on firms that have SMS status, including ending "self-preferencing" of their own services, requiring interoperability — essentially allowing one piece of software to work with another smoothly — and banning anti-competitive behavior.
+
+The CMA is required to undertake a formal investigation to give a firm SMS status.
+
+For Apple specifically, the CMA inquiry group said it was concerned the tech giant's App Store rules "restrict other competitors from being able to deliver new, innovative features that could benefit consumers" — for example, faster webpage loading on iPhone apps.
+
+It added many smaller U.K. developers said they would like to use "progressive" web apps — which allow firms to offer apps outside of an app store — but that this technology "is not able to fully take off on iOS devices."
+
+The group also said it found a revenue-sharing agreement between Google and Apple to make Google the default search engine on iPhone "significantly reduces their financial incentives to compete in mobile browsers on iOS."
+

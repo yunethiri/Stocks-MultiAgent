@@ -1,0 +1,31 @@
+link: https://www.reuters.com/technology/apple-accused-restricting-workers-slack-social-media-use-by-us-labor-board-2024-10-11/
+
+source: www.reuters.com
+
+title: Apple accused of restricting workers' Slack, social media use by US labor board
+
+summary: Apple has been accused by a U.S. labor board of interfering with workers' rights to collectively advocate for better working conditions by restricting their use of social media and workplace messaging app Slack, the National Labor Relations Board said on Friday.
+
+publishDate: 2024-10-11T17:49:03.893Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9876933693885803
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has been accused by a U.S. labor board of interfering with workers' rights to collectively advocate for better working conditions by restricting their use of social media and workplace messaging app Slack, the National Labor Relations Board said on Friday.
+The NLRB complaint, which was issued on Thursday, accuses Apple of maintaining unlawful work rules around the acceptable uses of Slack, <a href="/technology/apples-alleged-restriction-workers-slack-use-sparks-labor-complaint-2021-12-07/">illegally firing an employee</a> who advocated for workplace changes on Slack, requiring another worker to delete a social media post, and creating the impression that employees were being surveilled via social media.
+This is the second time the NLRB has hit Apple with a complaint this month. Last week the agency <a href="/technology/apple-accused-by-us-labor-board-imposing-illegal-workplace-rules-2024-10-01/">accused the company</a> of requiring employees nationwide to sign illegal confidentiality, non-disclosure, and non-compete agreements and of imposing overly broad misconduct and social media policies.
+Apple did not immediately respond to a request for comment. In response to last week's complaint, the company denied wrongdoing and said it respects its employees' rights to discuss wages, hours and working conditions.
+An administrative judge will hold an initial hearing in the case in February if Apple does not settle. The judge's decision can be reviewed by the five-member labor board, whose rulings can be appealed in federal court.
+The new case stems from a complaint filed with the NLRB nearly three years ago by Janneke Parrish, who says Apple fired her in 2021 for playing a lead role in employee activism.
+Parrish used Slack and public social media outlets to advocate for permanent remote work, distribute a pay equity survey, detail alleged sex and race discrimination at Apple and post open letters critical of the company, according to the new complaint.
+Slack, which allows workers to create group conversations, was rolled out several years ago at Apple and became increasingly popular as a discussion forum during the COVID-19 pandemic.
+The NLRB complaint says Apple has a policy barring workers from creating new Slack channels without permission from managers. Posts about workplace concerns must be directed to a manager or a "People Support" group, according to the complaint.
+Laurie Burgess, Parrish's lawyer, said in an email on Friday that Apple had engaged in "extensive violations" of workers' rights.
+"We look forward to holding Apple accountable at trial for implementing facially unlawful rules and terminating employees for engaging in the core protected activity of calling out gender discrimination and other civil rights violations that permeated the workplace," Burgess said.
+The complaint seeks an order requiring Apple to rescind its allegedly unlawful policies and reimburse Parrish for lost income and other financial impacts of her firing.
+

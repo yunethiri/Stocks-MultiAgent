@@ -1,0 +1,37 @@
+link: https://www.reuters.com/technology/apple-set-biggest-revenue-jump-two-years-iphone-demand-china-2024-10-29/
+
+source: www.reuters.com
+
+title: Apple set for biggest revenue jump in two years on iPhone demand in China
+
+summary: Apple is expected to report its biggest quarterly revenue jump in two years on Thursday, with iPhone demand faring better than recent years toward the end of the company's annual release cycle, especially in China.
+
+publishDate: 2024-10-29T10:11:47.798Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999998807907104
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F5b6f19e9-9c72-4833-bac9-599adfc19e72.png?auth=9e3f4b041c8cb309578c4cd9ca80b2a17a3ea6ad4d5670ac4dcda6fce9bfc47c&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F5b6f19e9-9c72-4833-bac9-599adfc19e72.png?auth=9e3f4b041c8cb309578c4cd9ca80b2a17a3ea6ad4d5670ac4dcda6fce9bfc47c&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F5b6f19e9-9c72-4833-bac9-599adfc19e72.png?auth=9e3f4b041c8cb309578c4cd9ca80b2a17a3ea6ad4d5670ac4dcda6fce9bfc47c&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is expected to report its biggest quarterly revenue jump in two years on Thursday, with iPhone demand faring better than recent years toward the end of the company's annual release cycle, especially in China.
+The results will provide investors the first hints of demand for the latest iPhone 16 series, which was released a few days before the end of the company's fiscal fourth quarter.
+But the focus will be on executive commentary for its fiscal first quarter amid fears that releasing its Apple Intelligence features at a slow pace could dampen a much-awaited AI-led "super-cycle" for Apple's biggest seller.
+The company is playing catch-up in AI as Android smartphone rivals such as Samsung Electronics <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a> and software rivals such as Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> aggressively roll out applications aimed at tapping the generative AI boom.
+"The strength of the iPhone 16 cycle is the most important question heading into both the December quarter and FY25," Bernstein analyst Toni Sacconaghi said.
+"Investors should expect Apple to be upbeat about iPhone 16 and Apple Intelligence, but it may or may not necessarily reflect the ultimate success of the cycle."
+The company on Monday started a limited rollout of the features to U.S. customers in English, weeks after the iPhone 16 went on sale.
+For now, Apple Intelligence will remain unavailable in key markets including Europe and China, where the tech giant is under pressure from a resurgent Huawei, as well as other domestic players such as Vivo, Xiaomi and Honor.
+That has raised worries that customers may push device purchases from the all-important holiday season to next year, delaying a potential boost to sales from AI.
+In the September quarter, Apple is expected to report a 3.8% increase in iPhone sales, according to analysts' estimates compiled by LSEG. That would snap two quarters of decline.
+Its overall revenue is expected to rise 5.7% in the July-September period, which makes up its fiscal fourth quarter, LSEG data showed.
+Revenue from Greater China is expected to rise 6.6%. Some iPhone models, including a version of the iPhone 16 Plus, had discounts of 10% on online retail platform Pinduoduo ahead of the model's official release, according to local reports.
+That as well as the iPhone 16 series helped Apple finish with the second-largest share of the Chinese market in the three months to September, according to IDC data.
+Sales of iPad are set to rise 10.1% to $7.09 billion after a 23.7% jump in the prior three months, powered by launches of more powerful versions of the tablet.
+The services business - which includes its App Store and usually outpaces growth in Apple's devices - is expected to see a 13.3% rise in sales, a tad slower than the prior quarter.
+The business faces rising hurdles after European Union antitrust regulators charged Apple with breaching the bloc's tech rules in June.
+Apple's lucrative deal with Alphabet that makes Google the default search engine in iOS is also facing scrutiny in the U.S.
+Its fourth-quarter results will also include a one-time income-tax charge of about $10 billion after Europe's top court ruled against Apple in September in its court battle over its tax affairs in Ireland.
+

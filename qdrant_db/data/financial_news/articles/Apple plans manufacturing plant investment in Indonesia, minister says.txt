@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/apple-plans-manufacturing-plant-investment-indonesia-minister-says-2024-12-05/
+
+source: www.reuters.com
+
+title: Apple plans manufacturing plant investment in Indonesia, minister says
+
+summary: Tech giant Apple plans to invest in a manufacturing plant in Indonesia that produces components for smartphones and other products, Indonesia's investment minister said on Thursday.
+
+publishDate: 2024-12-05T09:57:06.302Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999914169311523
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Tech giant Apple plans to invest in a manufacturing plant in Indonesia that produces components for smartphones and other products, Indonesia's investment minister said on Thursday.
+Rosan Roeslani told reporters that Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> and Indonesia are still ironing out details of the planned investment.
+The minister had said earlier this week that Indonesia was <a href="/technology/indonesia-expects-1-bln-investment-commitment-apple-a-week-minister-says-2024-12-03/">expecting a $1 billion investment</a> from the tech company.
+

@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-10-12T11:01:01.000Z
 
+language: en
+
+sentiment: negative
+
+confidence: 0.999572217464447
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-inc-aapl-set-launch-110101056.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f']
+
 content: We recently compiled a list of the 35 Trending AI Stocks on Latest News and Analyst Ratings. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other trending AI stocks.
 
 Two years after the public debut of ChatGPT, the generative AI landscape has evolved rapidly, igniting substantial investments in artificial intelligence and lifting valuations for startups and major tech companies alike. This surge in interest has primarily centered on cloud-based AI, where services like OpenAI's models operate on extensive data infrastructures. However, as these models grow in complexity, the demand for larger and more advanced data centers intensifies, leading to a race among companies to construct expansive facilities. Significant investments are projected, with estimates suggesting that major players will collectively spend around $160 billion in capital expenditures next year, primarily for acquiring powerful GPUs and related infrastructure necessary for training AI models. Top executives have even forecasted that global data center investments could double to $2 trillion within the next few years. Nevertheless, the sustainability of this spending spree raises questions about whether the revenue generated from AI applications can match the high costs of development and infrastructure.
@@ -41,10 +49,4 @@ Overall AAPL ranks 4th among the AI stocks that are trending right now. While we
 READ NEXT: $30 Trillion Opportunity: 15 Best Humanoid Robot Stocks to Buy According to Morgan Stanley and Jim Cramer Says NVIDIA ‘Has Become A Wasteland’.
 
 Disclosure: None. This article is originally published at Insider Monkey.
-
-language: en
-
-sentiment: negative
-
-confidence: 0.999572217464447
 

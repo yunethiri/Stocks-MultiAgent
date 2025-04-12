@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/apple-security-feature-reboots-iphones-171331711.html
+
+source: finance.yahoo.com
+
+title: New Apple security feature reboots iPhones after 3 days, researchers confirm
+
+summary: 
+
+publishDate: 2024-11-14T17:13:31.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996376037597656
+
+images: ['https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/Fu03QeJ.LP4wDE19kkc7QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/3584c4fb462f73bfbf8f345ab20666ab']
+
+content: Apple’s new iPhone software comes with a novel security feature that reboots the phone if it’s not unlocked for 72 hours, according to security researchers.
+
+Last week, 404 Media reported that law enforcement officers and forensic experts were concerned that some iPhones were rebooting themselves under mysterious circumstances, which made it harder for them to get access to the devices and extract data. Citing security researchers, 404 Media later reported that iOS 18 had a new “inactivity reboot” feature that forced the devices to restart.
+
+Now we know exactly how long it takes for this feature to kick in.
+
+On Wednesday, Jiska Classen, a researcher at the Hasso Plattner Institute and one of the first security experts to spot this new feature, published a video demonstrating the "inactivity reboot" feature. The video shows that an iPhone left alone without being unlocked reboots itself after 72 hours.
+
+Magnet Forensics, a company that provides digital forensic products including the iPhone and Android data extraction tool Graykey, also confirmed that the timer for the feature is 72 hours.
+
+“Inactivity reboot" effectively puts iPhones in a more secure state by locking the user's encryption keys in the iPhone's secure enclave chip.
+
+“Even if thieves leave your iPhone powered on for a long time, they won't be able to unlock it with cheaper, outdated forensic tooling,” Classen wrote on X. “While inactivity reboot makes it more challenging for law enforcement to get data from devices of criminals, this won't lock them out completely. Three days is still plenty of time when coordinating steps with professional analysts.”
+
+Contact Us
+
+Do you work for a mobile forensics company or law enforcement? We'd love to hear from you. From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or email. You also can contact TechCrunch via SecureDrop.
+
+iPhones have two different states that can affect the ability of law enforcement, forensic experts, or hackers, to unlock them by brute-forcing the user's passcode, or extracting data by exploiting security flaws in the iPhone software. These two states are “Before First Unlock,” or BFU, and “After First Unlock,” or AFU.
+
+Story Continues
+

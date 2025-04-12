@@ -1,0 +1,46 @@
+link: https://finance.yahoo.com/news/meet-magnificent-vanguard-etf-37-092900394.html
+
+source: finance.yahoo.com
+
+title: Meet the Magnificent Vanguard ETF With 37.6% of Its Portfolio Invested in Nvidia, Apple, and Microsoft
+
+summary: 
+
+publishDate: 2024-12-25T09:29:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999716281890869
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/motleyfool.com/d65268a9cfd851c1a0ae310ccc2ec317', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0']
+
+content: This chart features all eight American technology stocks with valuations of $1 trillion or more, and their respective returns in 2024 so far. Their average return for the year works out to around 67%. By comparison, the S&P 500 is up by just 26%. Here's why that's important.
+
+NVDA data by YCharts
+
+Those eight tech giants have a combined weighting of 35.9% in the S&P 500, meaning investors who don't own them are almost certainly underperforming the index. Since themes like artificial intelligence (AI) will likely continue driving strong returns across the tech space, the very same scenario could play out in 2025.
+
+Buying an exchange-traded fund (ETF) with a high level of exposure to those trillion-dollar market leaders might be a simpler option for investors compared to buying them individually. The Vanguard Mega Cap Growth ETF (NYSEMKT: MGK) offers exactly that -- more than one-third of the entire value of its portfolio is tied up in just three of the names in the chart.
+
+Here's why it could be a great buy for investors of all experience levels.
+
+Image source: Getty Images.
+
+Jam-packed full of leaders in tech and AI
+
+The Vanguard Mega Cap Growth ETF only holds 71 stocks, and 60% of its portfolio (by value) is invested in the technology sector. That isn't a surprise, considering its top three positions alone -- Apple, Nvidia, and Microsoft -- account for 37.6% of its portfolio, and each of them is in the tech sector. Those three companies are among the leaders in different segments of the AI race.
+
+Apple could become the largest distributor of AI to consumers via its Apple Intelligence software, while Nvidia is the leading supplier of data center chips for AI development. Microsoft, on the other hand, delivers AI services in the cloud, and it also built an AI assistant called Copilot that's driving productivity for enterprises.
+
+But they aren't the only influential names in this fast-growing industry. You might recognize some other popular AI stocks among the top 10 holdings in the Vanguard ETF:
+
+Stock Vanguard ETF Portfolio Weighting 1. Apple 13.21% 2. Nvidia 12.28% 3. Microsoft 12.12% 4. Amazon 7.16% 5. Meta Platforms 4.69% 6. Tesla 4.00% 7. Eli Lilly 2.88% 8. Alphabet Class A 2.61% 9. Visa 2.27% 10. Alphabet Class C 2.13%
+
+Data source: Vanguard. Portfolio weightings are accurate as of Nov. 30, 2024, and are subject to change.
+
+Amazon is the world's largest e-commerce company. It uses AI in its fulfillment centers to drive efficiency, and it even developed an AI shopping assistant called Rufus to help customers with product queries. The company is also home to the largest cloud computing platform in the world called Amazon Web Services, which is trying to become a leading provider of AI data center infrastructure, large language models (LLMs), and AI software.
+
+Story Continues
+

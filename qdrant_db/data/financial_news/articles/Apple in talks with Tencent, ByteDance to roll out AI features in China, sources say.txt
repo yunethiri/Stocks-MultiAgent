@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-19T04:39:38.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999773502349854
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/mar6Qn8rKzre7LINm9Hr3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/71b66dc0-bdeb-11ef-ad7f-de219e357938', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f']
+
 content: By Liam Mo and Brenda Goh
 
 BEIJING (Reuters) -Apple (AAPL) is in talks with Tencent and TikTok owner ByteDance about integrating their artificial intelligence models into iPhones sold in China, according to three sources familiar with the matter.
@@ -41,10 +49,4 @@ Huawei, which returned to the high-end market in August with a phone using a Chi
 Apple briefly fell out of China's top five smartphone vendors in the second quarter before recovering in the third quarter. The U.S. company's smartphone sales in China still slipped 0.3% during the third quarter from a year earlier, while Huawei's sales surged 42%, according to research firm IDC.
 
 (Reporting by Liam Mo in Beijing and Brenda Goh in Shanghai; Editing by Miyoung Kim, Jamie Freed and Emelia Sithole-Matarise)
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999773502349854
 

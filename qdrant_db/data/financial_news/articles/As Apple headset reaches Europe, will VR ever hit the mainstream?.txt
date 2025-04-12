@@ -1,0 +1,18 @@
+link: https://www.bbc.com/news/articles/c51yl7q8z42o
+
+source: www.bbc.com
+
+title: As Apple headset reaches Europe, will VR ever hit the mainstream?
+
+summary: As Apple's Vision Pro headset launches in the UK, can it finally kickstart the virtual reality market?
+
+publishDate: 2024-07-13T02:02:24.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

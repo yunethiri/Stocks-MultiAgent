@@ -1,0 +1,38 @@
+link: https://www.reuters.com/technology/apple-beats-wall-street-estimates-supported-by-iphone-sales-2024-10-31/
+
+source: www.reuters.com
+
+title: Apple beats Wall Street estimates, supported by iPhone sales
+
+summary: Apple beat Wall Street sales and profit expectations on Thursday for its fiscal fourth quarter, bolstered by strong early sales of iPhone 16, a set of phones designed for new AI features that was released near the end of the quarter.
+
+publishDate: 2024-10-31T20:30:43.814Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> beat Wall Street sales and profit expectations on Thursday for its fiscal fourth quarter, bolstered by strong early sales of iPhone 16, a set of phones designed for new AI features that was released near the end of the quarter.
+Apple said sales were $94.93 billion, ahead of Wall Street targets of $94.58 billion, according to LSEG. Earnings of $1.64 per share, excluding a massive one-time <a href="/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/">tax charge</a> in the European Union, topped analyst expectations of $1.60 per share.
+Sales of its iPhone, the company's main product, were up 5.5% to $46.22 billion, compared with analyst estimates of $45.47 billion. Other product lines missed expectations, and shares were down about 1% in extended trading.
+Apple's fourth quarter ended Sept. 28, meaning it reflects only a few days of sales of its iPhone 16 series that went on sale Sept. 20. Apple Chief Executive Tim Cook told Reuters that iPhone 16 sales grew faster than iPhone 15 sales did a year earlier, with both phones on sale for the same number of days in the fourth quarter.
+He also said Apple customers are downloading a new version of its iPhone operating system with what it calls Apple Intelligence features at twice the rate they had the year before.
+"We've had great feedback from customers and developers already," Cook said. "We're off to a good start."
+Investors will be listening closely to a 5 p.m. ET (2100 GMT) conference call where Apple executives will outline expectations for the fiscal first quarter, which encompasses holiday sales in the U.S., Europe and several other markets.
+The rollout of Apple's artificial-intelligence strategy, which it <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">revealed this year</a>, hinges on how well its new phones sell.
+Rather than introduce AI in a standalone app or service, Apple has sprinkled Apple Intelligence throughout its most recent operating systems as new features, such as the ability to help re-write an email in a more professional tone. Those features will mostly be available on iPhone 16 models, which feature more powerful computing chips, although the pro versions of the iPhone 15 both work with Apple Intelligence.
+While some of those Apple Intelligence features arrived this week, others have been delayed, which has led some Wall Street analysts to wonder whether consumers will be <a href="/technology/artificial-intelligence/apples-ai-gap-new-iphones-disappoints-china-users-huawei-threat-looms-2024-09-10/">slower to upgrade</a> their devices this year while flagship software features trickle out.
+The early iPhone 16 results on Thursday could allay some of those concerns. IPhone sales helped steady Apple's fourth-quarter sales in China, which were down less than 1% to $15.03 billion overall. Analysts were expecting China sales of $15.78 billion on average, according to data from Visible Alpha.
+
+SPENDING RISES
+Apple's rivals Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> and Meta <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> both said this week they expect <a href="/technology/artificial-intelligence/meta-microsoft-lift-ai-spending-worrying-wall-street-ahead-amazon-results-2024-10-31/">continued increases in spending</a> to support their AI strategies. Apple said payments for property and equipment - a measure of its capital expenditures - were up $2.91 billion from the previous quarter to $9.45 billion.
+Apple's lower spending comes in part because it uses third-party data centers for some AI work. Some aspects of Apple Intelligence do rely on Apple's own data centers, but the company is using its own in-house chips to power those features.
+"There would be some (financial) benefit to us by using our own silicon, obviously, but that's not the reason we're doing it. We're doing it because we can provide the same standard of privacy and security that we can provide on device," Cook said.
+Sales in Apple's services business, which includes iCloud storage and Apple Music, were $24.97 billion, compared with analyst expectations of $25.28 billion, according to LSEG. Mac and iPad sales were $7.74 billion and $6.95 billion, respectively, compared to estimates of $7.82 billion and $7.09 billion, according to LSEG data.
+Sales in Apple's home and wearables business, which includes its Apple Watch and AirPods devices, fell to $9.04 billion, compared with estimates of $9.2 billion, according to LSEG.
+Earnings per share were 97 cents including the charge related to a one-time multi-billion-euro European tax payment.
+

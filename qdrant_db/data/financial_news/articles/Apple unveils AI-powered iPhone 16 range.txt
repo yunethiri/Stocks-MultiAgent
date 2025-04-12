@@ -1,0 +1,70 @@
+link: https://finance.yahoo.com/news/apple-unveils-ai-powered-iphone-193141946.html
+
+source: finance.yahoo.com
+
+title: Apple unveils AI-powered iPhone 16 range
+
+summary: 
+
+publishDate: 2024-09-09T19:31:41.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9995864033699036
+
+images: ['https://s.yimg.com/ny/api/res/1.2/59JBD0Lptn8kC58BvlVnWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/5b459fb0-8bf5-11eb-afdf-e12ef998abfb', 'https://s.yimg.com/ny/api/res/1.2/dft5dOu8_FF4YyzchKVOdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/snappa.ukfinance/bbb6c68d889e433932f29ed9ab073885', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-unveils-ai-powered-iphone-193141946.html&c14=-1']
+
+content: Apple has unveiled the new iPhone 16 range – the company’s first devices powered by its new artificial intelligence tools it claims will have a “profound impact” on users.
+
+The four new smartphones will go on sale on September 20 and come with Apple Intelligence built in, a set of tools which use generative AI to help users with every day administrative tasks as well as offer text and image editing capabilities – following similar tools already launched by rivals Google and Samsung on their flagship phones.
+
+The design changes to the handsets themselves are incremental, but Apple has added a new Camera Control button to the phones, from which users will be able to instantly launch the camera app, take photos and videos or select different capturing tools and options.
+
+The button can also be used to access another new AI-powered tool, called Visual Intelligence, which enables users to carry out image-based searches on places or objects by capturing an photo of them.
+
+Speaking at the event to unveil the new devices, Apple chief executive Tim Cook said these were the first iPhones to be designed “from the ground up for Apple Intelligence” and that the new “personal intelligence system” would have a “profound impact” for users.
+
+“The innovation and invention these products deliver will continue to deepen the meaningful impact they have on all of our lives,” Mr Cook said.
+
+“I’m proud of our teams and what they’ve accomplished and I can’t wait for you to experience these amazing products.”
+
+The AI-powered tools use “personal context” to provide help, Apple said, for example offering edits to writing or notes made in almost any app, or being able to quickly find a specific photo or moment within a video based on a typed description.
+
+The tools can also be used to find specific emails, flight details and other personal information instantly, as well as offer email summaries and prioritise certain notifications and enable users to create their own emoji or new image.
+
+Apple Intelligence can help users rewrite any notes or emails in a range of styles. (Apple)
+
+The tech giant confirmed the new devices would go on sale on September 20, with Apple Intelligence tools rolling out in a software update later.
+
+Ben Wood, smartphone expert and chief analyst at CCS Insight, said although Apple had not entirely shaken the perception that its phone launches were becoming more low-key, its new AI tools were still eye-catching.
+
+Story continues
+
+“There is a growing feeling that smartphone updates have become a bit boring. Apple is not immune to this trend and is betting on software and AI to breathe new life into its most important product to reignite consumer interest and drive upgrade purchases,” he said.
+
+“As expected, Apple Intelligence features will roll out progressively over the next few months and years. However, at present, a notable exclusion is the EU, where Apple is in a stand-off over compliance with the Digital Markets Act.
+
+“We will be watching closely to see how European consumers react to missing out on the new Apple Intelligence features and whether it affects demand for the iPhone 16.
+
+“We note with interest that Apple Intelligence will be available in the UK — which, since Brexit, falls outside the EU. Historically Apple has treated the region with a consistent approach since the UK’s departure from the trade bloc so this is a notable change.
+
+“Many of the features being offered by Apple Intelligence, such as summarising emails and editing photos, are similar to those previously showcased by Google and Samsung.
+
+“However, as it has done in the past, Apple put a heavy focus on privacy as a differentiator — this aligns well with CCS Insight’s research, which indicates that despite the enthusiasm for AI, about 43% of UK consumers surveyed expressed concerns about privacy and data security.”
+
+Fellow smartphone expert Ernest Doku, from Uswitch.com, agreed that the AI tools were the main notable change in an otherwise incremental iPhone update.
+
+“Last year’s iPhone launch left some a little disappointed by Apple’s strategy of ‘evolution not revolution’, and many feel that Android devices have pulled ahead in the last 12 months,” he said.
+
+“Apple’s latest launch may not have entirely changed this perception, but there are still some innovative features worth calling out on its new flagship smartphone. Although the new camera updates and Camera Control button are impressive, the biggest development is the new handsets’ Apple Intelligence compatibility.
+
+“This unique delivery of deep AI integration into every aspect of the phone ensures Apple’s refresh can keep pace with key features touted at recent releases of Google’s Pixel and Samsung’s Galaxy devices alike.
+
+“An exciting development is Apple’s focus on personal data security when it comes to using generative AI, with nothing shared with Apple while using Apple Intelligence. This could set its AI technology apart, as consumers continue to prioritise their digital privacy.”
+
+Elsewhere, the technology giant unveiled the redesigned and update Apple Watch Series 10, which will include the ability to detect sleep apnea for the first time.
+
+In addition, a software update to the firm’s existing AirPods Pro 2 will enable wearers to use them as a clinical-grade hearing aid.
+

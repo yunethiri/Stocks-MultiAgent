@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/apple-finally-chance-fix-most-101626962.html
+
+source: www.yahoo.com
+
+title: Apple finally has a chance to fix its most infamous design fail
+
+summary: 
+
+publishDate: 2024-10-22T10:16:26.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.91773921251297
+
+images: ['https://s.yimg.com/ny/api/res/1.2/AqMpv4LJr1py0CqH3iYVGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI1ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/d5f949c0-2945-11ed-bbe5-b1d13b1bdbb1', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Ah, the Magic Mouse 2. Apple isn't a company known for design fails, but we've seen a couple of clangers over the years. From last year's swiftly discontinued FineWoven accessories to the infamous MacBook butterfly keyboard debacle, Cupertino's finest doesn't always get it absolutely right. But nothing has drawn more vocal ire among users than the design of the Magic Mouse 2.
+
+For the uninitiated, Apple's current Magic Mouse features a Lightning Port on the bottom, which means the moment it runs out of juice, it's impossible to use. Cue screams of frustration from creatives mid-way through projects. But if a new report is to be believed, Apple could be working on a new iteration of the mouse.
+
+New code spotted by MacRumors within iOS 18.1 references a new Magic Mouse, Magic Keyboard and Magic Trackpad. But before we get excited, it's important to note that Apple may simply be planning to add USB-C to the existing devices. Since the company was essentially strong-armed into adopting the tech by EU law, it's been steadily replacing Lightning with USB-C, and the keyboard and mouse are among the last holdouts.
+
+But with so many complaints about the mouse for so many years, wouldn't this be a perfect moment to tweak the design so that the port is accessible during use? We can but dream. But then again, as one X user has hilariously imagined (above), Apple could make the thing even worse.
+

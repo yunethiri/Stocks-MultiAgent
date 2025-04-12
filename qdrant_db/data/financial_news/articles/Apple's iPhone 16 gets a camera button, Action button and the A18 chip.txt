@@ -1,0 +1,60 @@
+link: https://www.yahoo.com/news/apples-iphone-16-gets-a-camera-button-action-button-and-the-a18-chip-174756253.html
+
+source: www.yahoo.com
+
+title: Apple's iPhone 16 gets a camera button, Action button and the A18 chip
+
+summary: 
+
+publishDate: 2024-09-09T17:47:56.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999514818191528
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/mikdiuqxaDOBhjMyQOK7pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0d52e630-6ed9-11ef-aff0-e590d5a046b9']
+
+content: There are arguably only three sure things in life: death, taxes and a new bunch of iPhones every September. Like clockwork, Apple has revealed this year's iPhone lineup, which is anchored by the iPhone 16 and its larger sibling, the iPhone 16 Plus. Apple has made some alterations to the external design, but the company’s main focus this year is on Apple Intelligence, with the new phones designed from the ground up to support that.
+
+There are a few notable changes to the exteriors of both devices this year. First, the rear camera array is arranged vertically on the iPhone 16 and 16 Plus with a pill-shaped bump. These lenses will now support spatial video recording — in other words, the 3D footage that you can view using a Vision Pro headset. You'll be able to take spatial photos too. There's also support for 4K video capture at 60 frames per second with Dolby Vision.
+
+Spatial photo seen through Apple Vision Pro (Apple)
+
+Apple is doing something else interesting with the camera array in the iPhone 16. One camera seems to combine a 48MP main lens with a 2x telephoto lens in what's called a "Fusion camera." The other is a 12MP Ultra Wide camera. This now has an f/2.2 aperture, which is an improvement on the previous f/2.4 aperture. As such, that means that Apple will offer a macro mode for the base iPhone models for the first time, so folks who don't opt for an iPhone 16 Pro or Pro Max should be able to take better close-up photos.
+
+Second, the Action button that debuted on last year's Pro models has arrived on the lower-end models. This button, which replaces the mute switch, is customizable. You might set it up to activate the flashlight or a Voice Memos recording. It can trigger Shortcuts and, starting in iOS 18, you can use it to adjust a Control Center setting. You can set up the Action button to have different functions at different times of day.
+
+iPhone 16 Camera Control (Apple)
+
+Third, there's another new Camera Control button that's dedicated to capturing photos and videos, so you won't have to tap your display, press one of the volume buttons or use a remote trigger to take a snap or a recording. Clicking the button opens the Camera app. The touch-sensitive button works in a similar fashion to the capture button on a DSLR camera — lightly press to focus on a subject, then fully press to take a photo. You can hold it down to start recording a video.
+
+You'll be able to adjust camera settings (such as the zoom) by sliding your finger back and forth on the touch-sensitive button. This could well be a game-changer for iPhone-focused photographers.
+
+The Camera Control button also works with a new Google Lens-style visual intelligence feature that's coming to the iPhone 16 later this year. For instance, you an point your phone at a new restaurant, click the Camera Control and find out details about the menu and opening hours.
+
+Apple Visual Intelligence (Apple)
+
+The other key upgrades are on the interior. Apple says there's a new thermal system made from 100 percent recycled aluminum to replace the copper one from previous devices. That should help reduce overheating and improve temperature regulation – Apple says you’ll get 30 percent higher sustained performance while gaming. In addition, there’s support for hardware-accelerated ray-tracing, which is said to deliver five times higher frame rates than with software-accelerated ray-tracing.
+
+Some games that were previously only supported on the iPhone 15 Pro (at least in terms of phones) will be available on iPhone 16. Those include Assassin's Creed Mirage and several Resident Evil titles.
+
+Apple Intelligence will be powered by the all-new A18 chipset. It has a CPU that's up to 30 percent faster than the one found in the iPhone 15, and a GPU that's up to 40 percent faster. There's an upgraded neural engine that is said to be up to two times faster for machine learning. As expected, Apple Intelligence features will start rolling out in the US in English in October, before expanding to some other countries in December and other languages in 2025.
+
+As part of the Apple Intelligence shift, a new Siri experience is coming into play. This isn't a huge surprise as it was part of the iOS 18 preview when we got our first look at WWDC in June. Not only does Apple claim that Siri will have deeper understanding of language and users' personal context, the voice assistant will have a new glowing interface. That's what the iPhone event's "It's Glowtime" tagline is based on. However, it may be several more months before Apple fully rolls out all of Siri's upgrades.
+
+The iPhone 16 is built with aerospace-grade aluminum and is available in some new colors, including ultramarine, teal and pink to go with white and black. It’s built for greater durability too. Apple says it’s water- and dust-resistant, and has a new glass-ceramic screen that’s said to be 50 percent tougher than the one of the iPhone 15 and twice as strong as "any other smartphone." Much like the Apple Watch lineup, the screen can be as dark as 1 nit or as bright as 2,000 nits. The screen sizes remain the same at 6.1 inches for the iPhone 16 and 6.7 inches for the iPhone 16 Plus.
+
+Apple claims there's a bigger battery in the iPhone 16 as well, which is always welcome to hear. The company claims it will work in concert with the A18 and the power efficiency features of iOS 18 to deliver longer battery life. Apple says the iPhone 16 will deliver up to 22 hours of local video playback, 18 hours of streaming video and 80 hours of audio playback on a single charge.
+
+Emergency SOS live video (Apple)
+
+On the safety front, you'll be able to share live videos if you need to use the Emergency SOS function. Messages via satellite and other messaging features are coming to the US and Canada, while Emergency SOS and Find My via satellite are available in 18 countries, including the US.
+
+Elsewhere, Apple is bringing Wi-Fi 7 to the base models for the first time this year. That's a nice upgrade — as long as you have a compatible router, of course. That should help future-proof the iPhone 16 and 16 Plus to a degree as well.
+
+Pre-orders for the iPhone 16 and 16 Plus open on Friday, and they will be available on September 20. Pricing starts at $799 for the iPhone 16 and $899 for the iPhone 16 Plus, each of which have 128GB of storage at the base level. They'll also be available with 256GB or 512GB of storage.
+
+Catch up on all the news from Apple’s iPhone 16 event right here!
+

@@ -1,0 +1,52 @@
+link: https://finance.yahoo.com/news/apple-may-turn-china-indian-113547412.html
+
+source: finance.yahoo.com
+
+title: Apple may need to turn to China after Indian Tata plant fire, sources say
+
+summary: 
+
+publishDate: 2024-10-01T11:35:47.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9991235136985779
+
+images: ['https://s.yimg.com/ny/api/res/1.2/fvjaLRMDWpj6uc6smqdB0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY1OA--/https://media.zenfs.com/en/reuters.com/ea44ad4aaefd0a034b3a93fc4660f3ef', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/reuters.com/ea44ad4aaefd0a034b3a93fc4660f3ef']
+
+content: By Munsif Vengattil
+
+BENGALURU (Reuters) - Extensive damage from a fire at Tata Group's Apple iPhone component plant in southern India could hamper production ahead of a festive season sales surge, an industry watcher and a source said, forcing the U.S. firm's suppliers to arrange critical parts from China or elsewhere.
+
+The weekend blaze has caused an indefinite production halt at Tata's Hosur plant in Tamil Nadu, the only Indian supplier of iPhone back panels and some other parts for both contract manufacturer Foxconn in the country and its own iPhone assembly at another plant.
+
+Hong Kong-based Counterpoint Research told Reuters it estimates local sales of 1.5 million units of iPhone 14 and 15 models during the Indian festive season which runs from late October to early November, with Apple struggling to fulfil as much as 15% of that demand due to the fire.
+
+"There will be a 10-15% impact on production of older iPhone models from India. Apple could offset that impact by importing more components, and by re-routing more export inventory towards India," said Neil Shah, a co-founder of Counterpoint, which has for years tracked Apple's global shipments.
+
+Apart from local sales, Tata, one of India's biggest conglomerates, also exported iPhones to the Netherlands and United States as well as some parts to China, worth more than $250 million overall, in the year to Aug. 31, commercially available customs data shows.
+
+Tata declined to comment.
+
+Apple suppliers typically carry a three- to four-week stock of back panels, Counterpoint said. An industry source with direct knowledge of the matter estimated, however, that Apple was likely to have stock for eight weeks, and therefore would not see an immediate impact.
+
+However, they added that if the production suspension continues, the U.S. company could set up another assembly line in China or add shifts there to secure parts for India's iPhone manufacturers.
+
+Supply chain disruptions more generally have cast a shadow over Prime Minister Narendra Modi's drive to attract foreign investors to "Make in India", especially in the electronics sector.
+
+Apple has been diversifying beyond China but last year separate fire incidents in India caused suppliers Foxlink and Pegatron to briefly halt operations, with authorities finding much of the fire safety equipment at Foxlink's facility was not functional. Contractors Wistron and Foxconn have also been hit by labour unrest in recent years.
+
+"These are temporary setbacks," said Prabhu Ram, vice president at Cybermedia Research. "Continued efforts to improve safety and operational standards are crucial for strengthening India's position as an emerging global electronics manufacturing hub."
+
+Story continues
+
+Tata is among Apple's newest suppliers in India, which analysts estimate will contribute 20-25% of total global iPhone shipments this year, up from 12-14% last year.
+
+The fire-hit plant employed 20,000 workers. Another unit in the same Tata complex was due to start making complete iPhones later this year and it is unclear if the incident will cause this to be delayed.
+
+Tata has another iPhone plant near Bengaluru, which it acquired from Wistron last year, and a second one in Tamil Nadu near Chennai, which it is set to acquire from Pegatron.
+
+(Reporting by Munsif Vengattil in Bengaluru; Editing by Aditya Kalra, Kirsten Donovan)
+

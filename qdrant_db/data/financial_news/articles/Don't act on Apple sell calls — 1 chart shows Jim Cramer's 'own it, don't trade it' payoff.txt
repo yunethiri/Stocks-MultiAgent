@@ -1,0 +1,22 @@
+link: https://www.cnbc.com/2024/10/25/dont-act-on-apple-sell-calls-jim-cramers-own-it-dont-trade-it-payoff.html
+
+source: www.cnbc.com
+
+title: Don't act on Apple sell calls — 1 chart shows Jim Cramer's 'own it, don't trade it' payoff
+
+summary: KeyBanc downgraded the stock to underweight from sector weight as analysts project slower growth in iPhone sales.
+
+publishDate: 2024-10-25T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999209642410278
+
+images: ['https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=600&h=300&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/107349409-1702996949448-gettyimages-1863786495-_53a9075.jpeg?v=1702996986&w=600&h=300&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/108009217-1721411741419-gettyimages-2162695071-292016final.jpeg?v=1729882663&w=600&h=300&vtcrop=y']
+
+content: Here we go again on Apple. Following weeks of mixed commentary about iPhone 16 demand and ahead of Thursday's earnings, KeyBanc Capital Markets downgraded Apple stock to an underweight sell from a sector weight hold rating. The analysts, who cited concerns about sales of the new AI-enabled device, set a $200-per-share price target. That implies more than 13% downside from current levels, which are just off Monday's record-high close of $236.48. Jim Cramer scoffed at the call — warning Friday that investors who follow these sell recommendations will likely "miss the next giant move" in Apple stock. "[Analysts] always want to be right for the next 8 points or 10 points," not the next 100 points, he added "We want to be right for the [next] 100." That's why Jim has found success sticking to his "own it, don't trade it" Apple mantra. Looking at how Apple has traded around major sell-equivalent calls over the past five years, the idea of jumping in and out of this stock is a perilous game. Starting with Atlantic Equities in January 2020 through KeyBanc's downgrade late Thursday, the long-term trajectory of Apple shares has been higher. Sure, there are bumps along the way. But if you are exiting Apple stock knowing you want to get back in at some point, you have to be right twice: on the timing of the sale and then on the timing of the repurchase. It's nearly impossible and why Jim doesn't play that game. The sell call issued by Barclays back in January, for example, was a decent one in hindsight — considering shares continued to decline well into 2024 on a slew of cautious Wall Street commentary . Apple shares eventually hit a 52-week low of $164 in mid-April. The window to catch that bottom or anything near it was open ever so briefly before the stock was off to the races again. Missing that April low even by a few weeks would have had you buying back in right where you sold it. Bottom line The safest and most profitable bet is to just stay long on Apple. If you believe that shares can keep going higher over the long haul, as the Club does, then follow Jim's "own it, don't trade it" strategy. It's served Jim and the Club well over the many years of running his Charitable Trust portfolio. To be sure, "own it, don't trade it" does not mean to never take profits or trim the position if it grows to be too large of a weighting your diversified holdings. (Jim Cramer's Charitable Trust is long AAPL. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+An attendee holds two iPhone 16s as Apple holds an event at the Steve Jobs Theater on its campus in Cupertino, California, on Sept. 9, 2024. Manuel Orbegozo | Reuters
+

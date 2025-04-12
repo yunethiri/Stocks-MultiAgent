@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/apple-not-giving-iphone-16-140000368.html
+
+source: www.yahoo.com
+
+title: Apple not giving the iPhone 16 this one crucial feature is another example of its worst habit
+
+summary: 
+
+publishDate: 2024-10-19T14:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999996423721313
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/b4oKNSkAvodRZUXj6lx3Bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/206078e67fd3dc0465f82150b4b8cd6f']
+
+content: Apple not giving the iPhone 16 this one crucial feature is another example of its worst habit
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+After five joyous years as an Android user, curiosity got the best of me – I’ve been using an iPhone 15 for the last week or so to re-immerse myself in iOS and offer stronger contributions to our iPhone coverage.
+
+Overall, I’ve been impressed by last year’s base-model iPhone. A lot has certainly changed since I parted with my iPhone 5S in 2019, and in the ten years between the launch of the iPhone 5S and iPhone 15, Apple has improved the iPhone in nearly every way, from the screen size (4 inches to 6.1 inches) to the battery life (a couple of hours to nearly all day) and connectivity (USB-C!).
+
+Regrettably, there remains one thing that Apple did not improve in the decade of development between my previous and present iPhone, and it’s not been fixed with the new iPhone 16 and iPhone 16 Plus either.
+
+In the world of Android, 120Hz is the new normal for flagship and high-end phone displays, while budget options are commonly equipped with 120Hz or 90Hz displays. These days, 60Hz displays are the preserve of tablets and the cheapest budget phones. The iPhone 16 and iPhone 16 Plus are, by modern standards, complete oddballs.
+
+iPhone 13 Pro
+
+The 60Hz debacle has been a focus of debate here at TechRadar for years now; "Please, Apple – don't do this to the iPhone 15" wrote Managing Editor for Mobile Computing Roland Moore-Colyer in the run-up to the phone's launch back in 2023, and Phones Editor Axel Metz found that 120Hz changed his entire outlook on iPhones when he switched to the iPhone 15 Pro.
+
+Apple is more than capable of producing high refresh rate phone displays, as the ProMotion displays on the iPhone 16 Pro and iPhone 16 Pro Max demonstrate. In my experience, the smaller the screen, the more the benefit of a higher refresh rate is felt, as your eye has less space to work with to accommodate jagged motion.
+
+To me, this is simply the most egregious example of Apple’s famously blunt product stratification strategy.
+
+There is simply no user benefit to fitting iPhones with 60Hz displays, and the Samsung Galaxy S24 shows us that a company can deliver a flagship phone with a 120Hz display for $799, the same price as the iPhone 16. This partially counters arguments centered on component price or manufacturing costs.
+
+So, why does Apple continue to sell iPhones with slow refresh rate panels? To me, this is simply the most egregious example of Apple’s famously blunt product stratification strategy, a considered choice to drive customers towards the more expensive iPhone 16 Pro and iPhone 16 Pro Max.
+
+It’s a shame, too – I’ve been otherwise impressed by the iPhone 15, and our iPhone 16 review found that Apple’s latest flagship brings the base model closer than ever to its Pro counterpart. Understandably, the standard and Pro iPhones need to be separated somehow, but here, Apple continues to enforce distance by limiting the low-end model rather than enhancing its premium offering.
+
+This is a regrettably common Apple tactic. The exact same issue applies to the iPad Air and iPad Pro, and the cheapest MacBook Pro is still sold with a puny 8GB of RAM – decisions that drive people towards more expensive options.
+
+I’m far from an Apple hater – I’m a longtime iPad user and converted from Windows to Mac last year – but this kind of behavior is my pick for Apple’s worst bad habit. Apple has made its name by thinking differently, but when it comes to refresh rates, I’m afraid everyone else is right.
+
+You might also like
+

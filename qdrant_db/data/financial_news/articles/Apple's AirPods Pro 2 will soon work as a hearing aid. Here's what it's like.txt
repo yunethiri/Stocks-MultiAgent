@@ -1,0 +1,50 @@
+link: https://www.cnbc.com/2024/10/21/apple-hearing-health-review-hearing-aid.html
+
+source: www.cnbc.com
+
+title: Apple's AirPods Pro 2 will soon work as a hearing aid. Here's what it's like
+
+summary: CNBC tested the new hearing health features coming to AirPods Pro 2.
+
+publishDate: 2024-10-21T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9994370341300964
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/107301966-1694962980698-AirPods__shot_with_iPhone_14_Pro.jpg?v=1698256132&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Apple CEO Tim Cook delivers remarks before the start of an Apple event at the Apple headquarters in Cupertino, California, on Sept. 9, 2024.
+
+If you already own the headphones, the hearing health features are worth exploring. They take just a few minutes to set up, and they're easy to use from the comfort of your home. The AirPods Pro 2 are also a cost-effective option for those looking for assistive hearing technology. Other over-the-counter hearing aids can cost thousands of dollars without insurance, for instance.
+
+More than 1.5 billion people are living with hearing loss, according to the World Health Organization. Tapping into this market could help Apple juice sales for the $249 AirPods Pro 2, which the company first launched two years ago.
+
+Apple unveiled the features during an event in September, and they will be publicly available through a free software update next week. Users can take a clinically validated hearing test with the AirPods Pro 2, and the buds will serve as an over-the-counter hearing aid if applicable. The headphones will also be equipped with new hearing protection capabilities, such as loud sound reduction, that are switched on by default.
+
+I tested the new hearing health features coming to Apple 's AirPods Pro 2 headphones, and they saved me a long-overdue trip to the audiologist.
+
+I have a pair of third-generation AirPods that I use every day, but this was my first time trying the AirPods Pro 2. I took them straight out of the box, flipped open the lid to the charging case and paired them with an iPhone. After that, I popped them in my ears and prepared to take Apple's hearing test.
+
+During its event in September, Apple said 80% of adults in the U.S. have not had their hearing checked in the past five years. That's certainly true in my case. The last time I remember getting my hearing tested was in elementary school.
+
+Admittedly, I haven't gone out of my way to protect my hearing, so I wasn't sure what my results would look like. I felt a little nervous beforehand.
+
+To access the test, you can go into the Health app or into the earbuds' settings menu. I pulled it up, and it prompted me with a few basic questions about my age, my health and whether I'd been exposed to a loud environment in the past 24 hours.
+
+You need to be in a very quiet space to take the test. Apple runs a background noise test to ensure your environment is suitable, and then it assesses the fit of your headphones within your ears. The AirPods Pro 2 come with medium-sized flexible ear tips attached, but there are extra small, small and large tip sizes included in the box. Apple sells a set of ear tips on its website for about $13 if you've misplaced yours.
+
+I took the test in my apartment, and I didn't need to adjust the fit of the headphones. I read the test's instructions and then it was time to get started.
+
+The hearing test plays a series of tones at different volumes and frequencies, and you tap the screen each time you hear a sound. It started with my left ear and moved to my right, and it took a little more than five minutes.
+
+The hearing test was easy. There are some long pauses between tones, so I felt like I second-guessed myself occasionally. And Apple isn't kidding about finding a quiet space to take this test. Some of the tones were so soft that I practically had to hold my breath to hear them. My test also automatically paused a few times as traffic passed by outside, so I'd recommend finding a room that's as close to silent as possible.
+
+You can take the test as many times as you want, and you'll get your results as soon as you're done. A copy is stored in the Health app, and you can share it with your doctor.
+
+I learned that I have little to no hearing loss in both ears, though there are some frequencies that might be harder for me to pick up on. It's nice to have that peace of mind.
+
+Using your headphones as a hearing aid
+

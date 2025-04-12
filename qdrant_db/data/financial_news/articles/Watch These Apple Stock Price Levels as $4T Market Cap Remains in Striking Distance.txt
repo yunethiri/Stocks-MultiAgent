@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-30T17:04:45.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999668598175049
+
+images: ['https://s.yimg.com/ny/api/res/1.2/U_NhiHTVEFC_KPA6bCVw.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d087c240-2cdc-11ef-a7fa-1e26e21a0640', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/62swpvi0wqksL2bz7dAf1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NzU-/https://media.zenfs.com/en/investopedia_245/1dbfffe935d92b0b16c39f909843b14f']
+
 content: Source: TradingView.com
 
 
@@ -53,10 +61,4 @@ Key Support Levels to Watch
 The first level to eye sits around $237. This location on the chart could attract buying interest near the 50-day moving average and the ascending triangle’s top trendline, an area that may flip from prior resistance into future support.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999668598175049
 

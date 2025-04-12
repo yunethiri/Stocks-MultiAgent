@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/apple-changes-eu-app-store-policy-after-commission-probe-2024-08-08/
+
+source: www.reuters.com
+
+title: Apple changes EU app store policy after Commission probe
+
+summary: Apple on Thursday changed its policy in the European Union to allow developers to communicate with their customers outside its App Store after the commission charged the iPhone maker in June for breaching the bloc's tech rules.
+
+publishDate: 2024-08-08T16:04:57.616Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999396562576294
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fcaf76daf-1e6c-4a6d-b7e2-80d6c71710ff.png?auth=2f37ba1fdbf943f53a8e14031c5319af3bb54ac0e806d38c74170ca46556fb58&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Thursday changed its policy in the European Union to allow developers to communicate with their customers outside its App Store after the commission charged the iPhone maker in June for breaching the bloc's tech rules.
+The Commission had <a href="/technology/apples-app-store-rules-breach-eu-tech-rules-eu-regulators-say-2024-06-24/">said</a> that under most of the business terms, Apple allows steering only through "link-outs", meaning that app developers can include a link in their app that redirects the customer to a web page where the customer can conclude a contract.
+Apple said developers will now be able to communicate and promote offers that are available anywhere, not just on their own website, from within their app.
+However, Apple will introduce two new fees - an initial 5% acquisition fee for new users and a 10% store services fee for any sales made by app users on any platform within the 12 months of the app installation.
+Currently, Apple charges three types of fees: a core technology fee for the less than 1% of apps, a reduced commission for all digital goods and services sold through the App Store, and an optional fee for the payments and commerce services.
+The two new fees will replace the reduced commission for all digital goods and services sold through the App Store.
+Spotify <a href="https://www.reuters.com/markets/companies/SPOT.N" target="_blank">(SPOT.N)</a>, which has been at loggerheads with Apple over in-app links, said it was assessing Apple's proposal.
+"At first glance, by demanding as much as a 25% fee for basic communication with users, Apple once again blatantly disregards the fundamental requirements of the Digital Markets Act," a Spotify spokesperson said.
+The Commission had earlier criticised the fees charged by Apple for facilitating via the App Store the initial acquisition of a new customer by developers, saying they went beyond what was strictly necessary for such remuneration.
+"We will assess Apple's eventual changes to the compliance measures, also taking into account any feedback from the market, notably developers," a Commission official said.
+The charge against Apple is the first by the Commission under its landmark Digital Markets Act which seeks to rein in the power of Big Tech and DMA violations could result in a fine of as much as 10% of a company's global annual turnover.
+

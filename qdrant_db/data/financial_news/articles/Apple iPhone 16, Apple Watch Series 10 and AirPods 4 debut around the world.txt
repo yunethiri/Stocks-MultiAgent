@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/09/20/apple-iphone-16-apple-watch-series-10-and-airpods-4-released.html
+
+source: www.cnbc.com
+
+title: Apple iPhone 16, Apple Watch Series 10 and AirPods 4 debut around the world
+
+summary: Apple greeted customers at its stores around the world on Friday, for the debuts of the iPhone 16, Apple Watch Series 10 and AirPods 4.
+
+publishDate: 2024-09-20T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9781484603881836
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/108037056-17268354451726835443-36335024061-1080pnbcnews.jpg?v=1726835445&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT
+
+watch now
+
+Apple on Friday greeted customers at its stores around the world for the debuts of the iPhone 16, Apple Watch Series 10 and AirPods 4. The new products were announced at an event earlier this month and have been available for pre-order since Sept. 13. The company lit up the glass cube at its Fifth Avenue Apple Store in New York City, in a nod to the enhanced Siri, which will light up the borders of the new iPhone's screen when that feature rolls out next month. Apple's latest iPhones mark the company's latest move into artificial intelligence, with new Apple Intelligence features that will begin to launch in October. The new features will allow customers to rewrite text, remove objects from photos and speak with an improved Siri. The software advancements will only be available on iPhone 16 and last year's iPhone 15 Pro devices.
+
+A view of Apple's new iPhone 16 at an Apple Store on the Regent Street in London, United Kingdom on September 20, 2024. Rasid Necati Aslim | Anadolu | Getty Images
+
+But Apple shares slid on Monday after analyst reports suggested that demand for the latest iPhones was lower than expected. TF Securities Analyst Ming-Chi Kuo said in a note on Monday that first-weekend sales were down about 12% year-over-year from the iPhone 15 last year. Barclays, JPMorgan and Bank of America also noted shipping times could translate to lighter demand for the more expensive iPhone Pro models compared to last year. On Friday, UBS analysts suggested investors shouldn't overreact to what appears to be lighter sales because that data is also collected by analyzing the wait times for new iPhone models and that those were longer last year due in part to supply chain disruptions. "Ahead of the iPhone 16 announcement, our analysis suggested that a lack of a killer app and arguably somewhat half-baked introduction of Apple Intelligence would dampen demand," the UBS analysts wrote. "While we still argue the collection of iPhone/iOS attributes are more evolutionary than revolutionary, we caution that investors not overreact to data that suggests somewhat initial tepid demand." The UBS analysts said supply chain disruptions last year "slightly distorted/extended last year's data," which led to longer wait times for customers for Pro models. Last year, UBS wrote, customers had a 41-day wait time for some iPhone 15 Pro Max preorders compared to a 26-day wait time for the iPhone 16 Pro Max this year. "Nevertheless, data across all models and regions roughly a week post launch support our view that a super-cycle is not imminent as US and China data on the margin is disappointing relative to last year," they wrote.
+
+Devices of the new Apple Watch Series 10 model are on display after the presentation at Apple headquarters. Andrej Sokolow | Picture Alliance | Getty Images
+

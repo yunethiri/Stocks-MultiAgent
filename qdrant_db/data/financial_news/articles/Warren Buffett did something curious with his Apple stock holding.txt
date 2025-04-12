@@ -1,0 +1,54 @@
+link: https://www.cnbc.com/2024/08/15/warren-buffett-did-something-curious-with-his-apple-stock-holding.html
+
+source: www.cnbc.com
+
+title: Warren Buffett did something curious with his Apple stock holding
+
+summary: The identical 400 million share count in Apple and Buffett's oldest and longest position Coca-Cola prompted some to believe he is done selling the tech stock.
+
+publishDate: 2024-08-15T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999281108379364
+
+images: ['https://image.cnbcfm.com/api/v1/image/107133546-1673385901966-IMG_0124_2.jpg?v=1673385916&w=60&h=60&ffmt=webp', 'https://image.cnbcfm.com/api/v1/image/107410588-1714842908986-Buffet-BAM-050424-4.jpg?v=1714843057&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: Warren Buffett speaks during the Berkshire Hathaway Annual Shareholders Meeting in Omaha, Nebraska on May 4, 2024.
+
+"If Buffett likes round numbers, he may not be planning to sell any additional shares of Apple," said David Kass, a finance professor at the University of Maryland's Robert H. Smith School of Business. "Just as Coca-Cola is a 'permanent' holding for Buffett, so may be Apple."
+
+It's prompted some to believe that the 'Oracle of Omaha' is done selling down his stake in the iPhone maker.
+
+Many Buffett followers made the curious observation after a regulatory "13-F" filing Wednesday night revealed Berkshire Hathaway 's equity holdings at the end of the second quarter. It showed an identical 400 million share count in Apple and Coca-Cola, Buffett's oldest and longest stock position.
+
+A coincidence or master plan? Warren Buffett now owns the exact same number of shares of Apple as he does Coca-Cola after slashing the tech holding by half.
+
+The 93-year-old legendary investor first bought 14,172,500 shares of Coca-Cola in 1988 and increased his stake over the next few years to 100 million shares by 1994. So the investor has kept his Coca-Cola stake steady at essentially the same round-number share count for 30 years.
+
+Due to two rounds of 2-for-1 stock splits in 2006 and 2012, Berkshire's Coca-Cola holding became 400 million shares.
+
+Buffett said he discovered the iconic soft drink when he was only 6 years old. In 1936, Buffett started buying Cokes six at a time for 25 cents each from his family grocery store to sell around the neighborhood for five cents more. Buffett said it was then he realized the "extraordinary consumer attractiveness and commercial possibilities of the product."
+
+Slashing Apple stake
+
+Investing in tech high-flyers such as Apple appears to defy Buffett's long-held value investing principles, but the famed investor has treated it as a consumer products company like Coca-Cola rather than a technology investment.
+
+Buffett has touted the loyal customer base of the iPhone, saying people would give up their cars before they give up their smartphones. He even called Apple the second-most important business after Berkshire's cluster of insurers.
+
+So it was shocking to some when it was revealed that Berkshire dumped more than 49% of its stake in the iPhone maker in the second quarter.
+
+Many suspected that it was part of portfolio management or a bigger overall market view, and not a judgement on the future prospects of Apple. The sale brought down Apple's weighting in Berkshire's portfolio to about 30% from almost 50% at the end of last year.
+
+And with it settled at this round number, it appears to be in a spot that Buffett favors for his most cherished and longest-held equities.
+
+Still, some said it could just be a pure coincidence.
+
+"I don't think Buffett thinks that way," said Bill Stone, chief investment officer at Glenview Trust Company and a Berkshire shareholder.
+
+But at Berkshire's annual meeting in May, Buffett did compare the two and reference the holding period for both was unlimited.
+
+"We own Coca-Cola, which is a wonderful business," Buffett said. "And we own Apple, which is an even better business, and we will own, unless something really extraordinary happens, we will own Apple and American Express and Coca-Cola."
+

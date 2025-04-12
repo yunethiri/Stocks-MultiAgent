@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-13T09:00:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999920129776001
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/QPAdpk4spam_.S0tCbkM_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/bc2dfbfa3dca63184cee5e5133d1e045']
+
 content: Apple (NASDAQ: AAPL) and Tesla (NASDAQ: TSLA) are two of the largest and most popular stocks among retail and institutional investors. But a few billionaire-led hedge funds sold Apple and bought Tesla during the third quarter. Here are the details.
 
 Israel Englander of Millennium Management sold 11.5 million shares of Apple, reducing his stake by 90%. Apple had been one of his 10 largest holdings, but it no longer ranks in the top 50. Meanwhile, Englander bought 225,760 shares of Tesla, increasing his position by 51%.
@@ -29,10 +37,4 @@ Additionally, Apple's services business is driven in large part by Alphabet. App
 Finally, some analysts have framed the introduction of Apple Intelligence -- a suite of artificial intelligence features for its devices -- as the catalyst for an iPhone upgrade cycle of epic proportions. However, those expectations not only seem overbaked, but also have been priced into the stock several times over.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999920129776001
 

@@ -1,0 +1,27 @@
+link: https://www.reuters.com/technology/apple-targets-sept-10-debut-new-iphones-airpods-watches-bloomberg-news-reports-2024-08-23/
+
+source: www.reuters.com
+
+title: Apple targets Sept. 10 debut for new iPhones, AirPods and watches, Bloomberg News reports
+
+summary: Apple is planning its biggest product launch event of the year on Sept. 10, during which it will unveil the latest iPhones, watches and AirPods, Bloomberg News reported on Friday, citing people familiar with the situation.
+
+publishDate: 2024-08-23T19:08:52.836Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999990463256836
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is planning its biggest product launch event of the year on Sept. 10, during which it will unveil the latest iPhones, watches and AirPods, Bloomberg News reported on Friday, citing people familiar with the situation.
+The company is making preparations for that date, even though the timing has not yet been announced, following which the phones will go on sale on Sept. 20, in line with Apple's typical approach in recent years, the report said.
+Apple did not immediately respond to a Reuters request for comment.
+Analysts see a strong upgrade cycle for the iPhone 16 series and Apple is expected to launch what they call the biggest software upgrade for the iPhone. It includes artificial intelligence features and comes at a time when rivals such as Samsung have been quicker to roll out similar services.
+The new launches come as Apple <a href="/technology/apple-revenue-returns-growth-iphone-sales-top-expectations-2024-08-01/">forecasts</a> more gains, betting on AI to attract buyers even as its overall China business disappointed in the third quarter.
+Sales in Apple's third-largest market China declined 6.5%, wider than expectations of a drop of 2.4%, according to Visible Alpha.
+During its annual developer conference in June, Apple unveiled a long-awaited AI strategy, <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">integrating</a> its new "Apple Intelligence" technology across its suite of apps, including Siri and bringing OpenAI's chatbot ChatGPT to its devices.
+Apple still remains overly reliant on sales of the iPhone and some analysts said any boost from the new AI features was unlikely to materialize in the short term.
+

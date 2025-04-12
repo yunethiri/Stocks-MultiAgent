@@ -1,0 +1,76 @@
+link: https://www.yahoo.com/tech/forget-macbook-pros-heres-why-110000613.html
+
+source: www.yahoo.com
+
+title: Forget MacBook Pros — here's why the Mac mini is my new favorite Apple product
+
+summary: 
+
+publishDate: 2024-11-02T11:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9884209632873535
+
+images: ['https://s.yimg.com/ny/api/res/1.2/t14xen0N2k2BljxCYiFcvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/laptopmag_536/7c82d8a6a38850bcfbf3931ac64c9143', 'https://s.yimg.com/ny/api/res/1.2/bI3UjUWDhVafwTrDbZIT_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/b58087f0-2952-11ed-bd77-c4838d5619e0', 'https://s.yimg.com/ny/api/res/1.2/4WUEkDYXyWovhg7t7ZxI4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxMA--/https://media.zenfs.com/en/laptopmag_536/5314fb7d5708f716377e5ac837b1f3c8']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Apple makes many iconic products, but the MacBook probably takes the cake when it comes to traditional computers.
+
+And this year, the MacBook Pro took the accomplishments even further: thanks to a new M4 chip, the MacBook may actually take back the crown for the best battery life of any laptop money can buy right now, eclipsing even Dell's XPS 13.
+
+But for all the fanfare about the new MacBook Pros, it wasn't Apple's perennially high-achieving laptop that really caught my attention. Sometimes it's not the biggest product that makes a splash — it's the mini ones.
+
+Small, but mighty
+
+Apple mac mini power button
+
+If you didn't get the hint, I'm talking about the Mac mini.
+
+Apple's Mac mini might not always be the star of Apple's show, but it made a major leap this year. Like the rest of Apple's lineup, the Mac mini got an M4 upgrade, which is significant given that the last iteration used the M2 — aka two generations behind the current chips.
+
+While that upgrade means many things, the short of it is that the Mac mini will be much more capable when it comes to running compute-intensive creative apps and much better at handling any task involving AI thanks to its Neural Engine upgrade. According to Apple, the M4 Pro variant of the Mac mini has a neural engine that's three times faster than the M1.
+
+What's wild isn't just that the Mac mini is faster; it's that it's much faster than its predecessor while also being much, much smaller. The M4 Mac mini is just 5 x 5 inches, which is small even without context, but it looks so much smaller when compared to the last iteration.
+
+In fact, the M4 Mac mini is small enough that I might even call it a portable desktop. Sure, it's not quite pocketable, but tossing this thing into a backpack seems like it should be no problem.
+
+If it feels like I'm gushing, I am, but that's not even the best part.
+
+Apple goes affordable
+
+If you asked most people to describe Apple products in one word, "affordable" would very rarely, if ever, top the list.
+
+While $600 might not be outright "affordable," when you consider how much Apple is providing for that amount of money—and compare the M4 Mac mini against similarly priced PCs—that price tag starts to feel like a steal.
+
+Even when compared to Apple's own product lineup, the M4 Mac mini feels like an unbeatable value. A 15-inch M3 MacBook, for example, costs a minimum of $1,299.
+
+We'll have to wait and see just how the Mac mini performs, but as noted by Laptop Mag editor Rami Tabari, the prospects look good:
+
+"On the Sid Meier's Civilization VI: Gathering Storm benchmark, the M1 Mac mini scored 31.5 frames per second, which is just playable. The M4 Mac mini could score 69.3 fps, which surpasses the 60-fps golden standard in gaming. Again, that surpasses the M3 MacBook Pro (51 fps) and the M3 Pro MacBook Pro (53.7 fps)."
+
+And even more exciting than the M4 Mac mini is what it could say about the future of Apple's lineup.
+
+Same luxury, more value
+
+For some tech companies, a value-oriented gadget might not seem like a big deal, but we're talking about Apple — a company whose name is basically synonymous with "premium" in the dollar amount sense.
+
+Of course, this isn't the first time Apple has positioned the Mac mini as a budget-friendly option — this year's version is only $100 more expensive than the previous generation — but it does show Apple's interest in and commitment to more accessible gadgets.
+
+Whether that ethos will translate to other gadgets remains to be seen, but with rumors of an upcoming iPhone SE, Apple might broaden its scope to capture more budget-focused audiences.
+
+And even if Apple doesn't do that, the Mac mini still stands as an exceptionally enticing deal upgrade in Apple's product lineup. Think about it: In a sea of iterative updates, the M4 Mac Mini does everything you could want in an upgrade.
+
+A Mac Mini in front of an iMac display with a black background
+
+It's much more compact while vastly increasing performance and only raises the previous retail price by $100. A big part of how substantive the upgrade feels has almost nothing to do with tech or engineering.
+
+Unlike other products like the iPhone, the Mac mini hasn't been upgraded in two years, which obviously gives more room for growth and extra time to make substantive advancements.
+
+With a little more patience, could we see the same kind of exciting upgrade with the iPhone? Maybe, just maybe. Here's to hoping the Mac mini sets the tone for Apple products.
+

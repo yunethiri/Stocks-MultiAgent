@@ -1,0 +1,66 @@
+link: https://www.cnbc.com/2024/08/01/apple-aapl-earnings-report-q3-2024.html
+
+source: www.cnbc.com
+
+title: Apple set to report fiscal third-quarter earnings after the bell
+
+summary: This year, the "main event" won't be Apple's earnings, it's what Apple says about the September quarter.
+
+publishDate: 2024-08-01T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999593496322632
+
+images: ['https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Apple CEO Tim Cook attends the annual developer conference event at the company's headquarters in Cupertino, California, U.S., June 10, 2024.
+
+Apple's third quarter, which ends in June, is traditionally the company's slowest quarter of the year by sales.
+
+This year, the "main event" won't be Apple's earnings, wrote Barclays analyst Tim Long, it's what the company says about the September quarter, which is nearly one-third over.
+
+Here's what Wall Street expects from Apple, according to LSEG consensus estimates:
+
+Earnings per share : $1.35
+
+: $1.35 Revenue : $84.53 billion
+
+: $84.53 billion Q4 revenue guidance: $93.39 billion
+
+Here are estimates for Apple's major product lines, according to StreetAccount:
+
+iPhone revenue : $38.64 billion
+
+: $38.64 billion Mac revenue : $7.04 billion
+
+: $7.04 billion iPad revenue : $6.61 billion
+
+: $6.61 billion Wearables, Home and Accessories revenue : $7.83 billion
+
+: $7.83 billion Services revenue: $24.05 billion
+
+While Apple doesn't provide official guidance, it gives investors a number of data points that speak to how the September quarter is shaping up. The company typically releases new iPhones in September, but those revenues usually fall primarily in the December quarter.
+
+"After an almost two-year period with little to no upward estimate revisions, we finally see a better outlook coming for the September quarter," Long wrote in a note last month.
+
+Investors will be keen to hear how Apple CEO Tim Cook talks about Apple Intelligence, its long-awaited artificial intelligence play that uses the company's own chips in servers and devices, instead of expensive Nvidia -based cloud computers.
+
+Apple revealed Apple Intelligence in June, and the first preview version of some features was released earlier this week. It isn't likely to be material to Apple's bottom line yet, but could boost "late cycle" demand for high-end iPhone 15 models that can run the service, Long wrote.
+
+Some analysts are looking at Apple's capital expenditures, which have been skyrocketing at rivals as they assemble massive server farms for AI. But Apple's strategy to use its own chips in servers appears to be a lower-cost approach.
+
+"Edge AI is in very early stages, has lower capex needs, and offers faster monetization potential through consumer hardware upgrades, which we think makes Apple stock particularly attractive," Raymond James analyst Srini Pajjuri wrote in a note in July.
+
+JPMorgan analyst Samik Chatterjee expects Apple to reassure investors that the coming iPhone replacement cycle will include better-than-expected revenue, thanks to AI. He raised his price target on the stock to $265 last month and has an overweight rating.
+
+"The revenue upside, in turn drives our expectations for EPS upside, which is likely to lead to consensus revisions for full-year earnings, and partly ease investor concerns around a premium valuation multiple," Chatterjee wrote.
+
+Apple previously told investors to expect modest overall growth in the fiscal third quarter, with a stronger "double-digit" increase in sales in its iPad division, partially due to the release of new iPad models in May. The company also said to expect roughly 14% growth in its profitable Services division, which covers products ranging from iCloud subscriptions to hardware warranties.
+
+Apple's China performance will be under scrutiny, wrote Bank of America Securities analyst Wamsi Mohan, after sales fell 8% on an annual basis in the second quarter in the face of increased competition from native companies like Huawei.
+
+"Although aggressive promotion during 618 shopping holiday helped improve iPhones sales," market estimates from IDC show Apple's sales declined while the Android market grew in China, wrote Citi analyst Atif Malik in a July note.
+

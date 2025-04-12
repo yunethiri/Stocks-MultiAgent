@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/apples-5g-modem-could-change-094300136.html
+
+source: www.yahoo.com
+
+title: Apple's new 5G modem could change the iPhone forever - and the Mac too
+
+summary: 
+
+publishDate: 2024-12-09T09:43:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.994816243648529
+
+images: ['https://s.yimg.com/uu/api/res/1.2/ExNj6qz8qg8aMtVUW5G20w--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/0188ab3a1260711099dd3c043230bb80.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/zRQg_5mGGr2J3gWds4kFhw--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2020-12/31cda7c0-367f-11eb-aadf-828e242f0e04.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/vf1oJzQFvoQ5vJxn1zCXXg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_258/a8399ea24f3ab8375ffd4959f95cd573.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick summary
+
+Apple is preparing three generations of 5G modem with the first arriving in the 2025 iPhone SE 4.
+
+The third generation may be coming to Macs and possibly Vision Pro too.
+
+Some news pretends to be boring when it's far from it, and the stories around Apple's 5G modem definitely fall into that category. What sounds pretty dull – that Apple plans to swap a Qualcomm component for an Apple one – is likely to have a huge impact on the design of the iPhone, iPad and Mac too.
+
+Advertisement Advertisement
+
+Advertisement
+
+According to Bloomberg, Apple has a three-stage plan. Step one is to put an Apple modem into the iPhone SE 4 next year. Step two is to put a new modem in a radically redesigned iPhone 17. And, step three is to put the modem into iPads, Macs and possibly Vision Pro too.
+
+That's going to have significant effects on the design of iPhones and iPads. But, it's the prospect of mobile Macs and a 5G Vision Pro that I think is particularly exciting.
+
+Apple's modem plans are surprisingly exciting
+
+According to Bloomberg, the first generation of the modem isn't particularly exciting; if anything, it's pretty basic compared to the 5G Qualcomm chips Apple currently uses. But, it's likely to use less power and to deliver more efficient network connectivity as well as improved support for satellite network features.
+
+The second generation is expected to arrive in the iPhone 18 and high-end iPads and deliver a significant speed boost over the first generation. And in 2027, the third generation, currently codenamed Prometheus, is intended to outdo Qualcomm in performance, in satellite connectivity and in AI.
+
+Advertisement Advertisement
+
+Advertisement
+
+The first and most obvious change the new modem will deliver is the iPhone 17 Air, aka the iPhone Slim, which will take advantage of its more compact dimensions to deliver the thinnest iPhone yet. However, Apple is also reportedly considering using it in MacBooks and Vision Pro, although the use in augmented reality headsets is said to be "years away".
+
+A 5G Mac is on many laptop owners' wishlists, including mine. I've been using an iPad Pro with Magic Keyboard for a few years now and it's pretty much the ideal mobile device – always-on internet is a genuine game changer when you're travelling or commuting. But of course, it's not a Mac, so it doesn't run a lot of key apps that would be deal-breakers for other people.
+
+A mobile-friendly Mac is hardly a new idea for Apple. I've been reporting on Apple patents for mobile-connecting Macs for decades now, but it looks like this time around it's heading for the production line, possibly in just two or three years' time.
+

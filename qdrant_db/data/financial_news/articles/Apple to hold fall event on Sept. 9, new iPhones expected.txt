@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/apple-hold-fall-event-sept-162004508.html
+
+source: finance.yahoo.com
+
+title: Apple to hold fall event on Sept. 9, new iPhones expected
+
+summary: 
+
+publishDate: 2024-08-26T16:20:04.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999791383743286
+
+images: ['https://media.zenfs.com/en/reuters.com/3d588f5bb0d5cb5efba3b1853c3e044f', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-hold-fall-event-sept-162004508.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f']
+
+content: (Reuters) -Apple will host its fall event on Sept. 9 at its headquarters in Cupertino, California, according to an invite on Monday, where it will likely unveil a series of new iPhones and updates to other devices and apps.
+
+The upcoming launches are crucial for Apple as it looks to reverse a global sales slowdown, particularly in China, and lay out its artificial intelligence (AI) roadmap.
+
+At its developers conference in June, Apple announced a slew of AI features under the umbrella "Apple Intelligence", including a revamped Siri and an integration with ChatGPT.
+
+However, these features will be available only on the latest Apple devices and will be rolled out gradually starting later this year.
+
+Apple faces increasing pressure from competitors such as Samsung and Alphabet's Google, who have recently announced AI functionality alongside their new Galaxy and Pixel smartphones, respectively.
+
+While Apple's event invite teases "It's Glowtime," no further details have been provided. The company typically announces new iPhones and watches at the fall event, its biggest product showcase every year.
+
+In recent years, iPhone sales have slowed due to a lack of significant upgrades in newer models and competition from Android-based smartphone brands offering high-end specifications at lower prices.
+
+Apple has said its third-quarter sales were better than expected on the back of iPhone 15, its latest series, which is set to receive the new AI features. Overall sales in China dropped more than expected at 6.5%, pressured by Chinese smartphone brands, chiefly Huawei.
+
+(Reporting by Yuvraj Malik and Akash Sriram in Bengaluru; Editing by Krishna Chandra Eluri and Tasim Zahid)
+

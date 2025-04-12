@@ -1,0 +1,38 @@
+link: https://www.yahoo.com/tech/apple-deletes-icloud-backups-old-165139293.html
+
+source: www.yahoo.com
+
+title: Apple Deletes iCloud Backups for Old iPhones and iPads
+
+summary: 
+
+publishDate: 2024-12-20T16:51:39.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996629953384399
+
+images: ['https://s.yimg.com/uu/api/res/1.2/4y_0RAI2iYIiAcV8DSNnoQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/183c77b0-beec-11ef-b3fc-83b165bfad74.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/m3tqA1Jeq99rD.Z2UWqTIA--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/ac1de134887122235544b7adf2cf2bb8.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/iwz1HaYnOKv7Bpe2.cKgDQ--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-08/6529b120-295a-11ed-bfff-e055fc68b7bd.cf.webp']
+
+content: You can no longer use the iCloud Backup feature on older iPhones and iPads running iOS 8 or earlier. Instead, backing up your device to iCloud now requires iOS 9 or later.
+
+Apple announced this change ahead of time and implemented it on Wednesday, December 18, 2024. As a result, backups created on devices running iOS 8 and earlier are no longer available because Apple deleted them as part of this change. Don’t worry; any app data, settings, and files you’ve manually uploaded to iCloud remain intact.
+
+Old devices running iOS 8, such as iPhone 4S, iPad 2, and the fifth-generation iPod touch and earlier, still work as usual, but they can no longer back up to and restore from iCloud unless updated to iOS 9 or later. If your device doesn’t meet the hardware requirements for iOS 9, you can still manually back it up to a Mac using the Finder or a Windows PC using iTunes or the Apple Devices app.
+
+Advertisement Advertisement
+
+Advertisement
+
+“On December 18, 2024, device backups will require iOS 9 or later,” reads Apple’s email informing iPhone and iPad owners about the upcoming change. “Apps and data stored on your devices will not be affected, and you will still be able to manually back up devices to a Mac or Windows PC.”
+
+With the change now in effect, you can no longerr create new backups for iPhones and iPads powered by iOS 5 through iOS 8, and any existing backups of these devices are no longer available. If your device supports iOS 9, you can install the update by going to Settings > General > Software Update and following the instructions. You can also install the latest software for your device using the Finder on your Mac or the iTunes or Apple Devices apps on Windows.
+
+It’s worth pointing out that iCloud automatically deletes unused device backups. “If you turn off iCloud Backup for a device, any backups stored in iCloud are kept for 180 days before being deleted,” according to the iPhone User Manual. Apple clarified it removed support for iCloud Backup on older devices “to more closely align with our published minimum software requirements” for iCloud (a support page on Apple’s website details the minimum iCloud system requirements by feature).
+
+This comes down to CloudKit, Apple’s software framework that acts as a backend as a service. Apps can use CloudKit to store data in iCloud and keep everything synced across devices and on the web. Apple has now stopped using the older iCloud Backup system because it was less secure and reliable, and transitioned the feature to CloudKit.
+
+Source: MacRumors
+

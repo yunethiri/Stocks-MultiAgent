@@ -1,0 +1,23 @@
+link: https://www.reuters.com/technology/apple-supplier-corning-offers-waive-exclusive-deals-eu-antitrust-probe-2024-11-25/
+
+source: www.reuters.com
+
+title: Apple supplier Corning offers to waive exclusive deals in EU antitrust probe
+
+summary: The European Commission on Monday said U.S. maker of break resisting glass Corning had offered to waive all exclusive deals with mobile phone manufactures to address concerns over possible anticompetitive behaviour.
+
+publishDate: 2024-11-25T10:48:22.713Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9991539716720581
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: The European Commission on Monday said U.S. maker of break resisting glass Corning <a href="https://www.reuters.com/markets/companies/GLW.N" target="_blank">(GLW.N)</a> had offered to waive all exclusive deals with mobile phone manufactures to address concerns over possible anticompetitive behaviour.
+The EU earlier this month said it started an <a href="/business/media-telecom/corning-investigated-by-eu-antitrust-regulators-over-exclusive-supply-deals-with-2024-11-06/">antitrust investigation</a> over exclusive supply deals between Corning and mobile phone makers like Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> and raw glass processing companies that may exclude rival glass producers from large segments of the market.
+Corning sells a break resistant glass used as a cover for mobile phones, tablets and smart watches under the Gorilla Glass brand.
+As part of its proposed concessions, the company also pledged to drop purchase requirements made to companies and to stop offering price advantages conditional on such requirements.
+

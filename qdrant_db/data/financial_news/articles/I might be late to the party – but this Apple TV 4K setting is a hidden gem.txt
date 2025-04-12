@@ -1,0 +1,42 @@
+link: https://www.yahoo.com/tech/apples-tvos-18-doesnt-big-123817012.html
+
+source: www.yahoo.com
+
+title: I might be late to the party – but this Apple TV 4K setting is a hidden gem
+
+summary: 
+
+publishDate: 2024-09-23T12:38:17.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9799429774284363
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapples-tvos-18-doesnt-big-123817012.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/pybHhWa__UvI1v_9Y_ZaVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/what_hi_fi_263/8e5170c4d1d39a12c8a7d811d184e1de']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Apple's latest iteration of tvOS isn't anything to write home about if I'm being totally honest. There's more here than tvOS 17, which seemed to be focused more on using your Apple TV 4K for FaceTime calls rather than watching movies, but it's still fairly slim pickings for those who crave substantial new picture and sound features.
+
+The main new features of note are a dialogue-enhancing sound mode, a system that shows you information on actors and music when you pause an Apple Original show, and new screensaver customisation. So, not any Earth-shattering AV upgrades to be seen then. That might not be the end of the world though, as the Apple TV 4K is still the best media streamer on the market, so I wasn't expecting any sort of revolutionary performance upgrade in the latest OS update.
+
+However, while I was trawling through the settings of my streamer to identify any new features that took my fancy, I stumbled across a setting I wish I had known about sooner. Remapping the TV button to bring up the home screen instead of the Apple TV app is something I've wanted for quite some time – in fact I'm confused why it's not the default setting – but it turns out I've just not been looking hard enough.
+
+I don't want to question the quality or functionality of the Apple TV app, as it's a useful tool that collates my content and houses an underrated collection of Apple Original content that supports Dolby Vision and Atmos. However, the fact it didn't have a dedicated button to reach the home menu on the Apple TV remote was always a peculiar choice in my mind; thankfully that's been rectified now. Before this, you'd need to either double-click the TV button and scroll back to the home screen via the app switcher, or press and hold the button to reach the home menu.
+
+Will this change your life? Probably not. But it will save you a few precious seconds when swapping between streaming services, and in my experience, the press-and-hold gesture was somewhat temperamental. It's made navigating my Apple TV 4K easier, and the frequency with which I accidentally open the Apple TV app is already greatly reduced.
+
+If you want to remap your TV button, simply navigate to the settings app, scroll down to "Remotes and Devices" and then select "TV Button" to toggle between opening the Apple TV app and opening the home menu.
+
+MORE:
+
+Read our full Apple TV 4K (2022) review
+
+Check out the best media streamers
+
+The Apple TV 4K is comfortably the best streamer, but only if you change this setting
+

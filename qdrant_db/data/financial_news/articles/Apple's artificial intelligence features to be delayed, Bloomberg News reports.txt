@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/apples-artificial-intelligence-features-delayed-185715335.html
+
+source: finance.yahoo.com
+
+title: Apple's artificial intelligence features to be delayed, Bloomberg News reports
+
+summary: 
+
+publishDate: 2024-07-28T18:57:15.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999949932098389
+
+images: ['https://s.yimg.com/ny/api/res/1.2/LT4AmsQy9aT.k1Sj_Udi9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/reuters-finance.com/72478e17a36c7d340103b3d269c77eb1', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapples-artificial-intelligence-features-delayed-185715335.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: (Reuters) -Apple's upcoming artificial intelligence features will arrive later than anticipated and will miss the initial launch of upcoming iPhone and iPad software overhauls, Bloomberg News reported on Sunday.
+
+The iPhone maker is planning to begin rolling out Apple Intelligence to customers as part of software updates coming by October, the report added, citing people familiar with the matter. AI features will arrive a few weeks after the initial iOS 18 and iPadOS 18 releases planned for September, Bloomberg said.
+
+Apple is planning to make Apple Intelligence available to software developers for the first time for early testing as soon as this week via iOS 18.1 and iPadOS 18.1 betas, the report added.
+
+Apple did not immediately respond to a request for comment outside regular business hours.
+
+In June, Apple underscored its AI push with a slew of new features and software enhancements for its iPhone and other devices to bolster sagging sales.
+
+Apple Intelligence, which uses AI to conjure text, images and other content on command, would be available on iPhone 15 Pro, iPhone 15 Pro Max, and iPad and Mac with its M1 chip and later versions. iPhone Mirroring on MacOS Sequoia allows the phone's screen to be viewed and interacted with on Mac computers.
+
+The report comes after Apple in late June delayed launching three new artificial intelligence features because landmark European Union tech rules require it to ensure that rival products and services can function with its device.
+
+(Reporting by Gursimran Kaur in BengaluruEditing by Chris Reese)
+

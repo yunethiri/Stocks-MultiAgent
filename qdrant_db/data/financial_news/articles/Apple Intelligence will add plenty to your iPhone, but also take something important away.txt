@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/apple-intelligence-add-plenty-iphone-120000874.html
+
+source: www.yahoo.com
+
+title: Apple Intelligence will add plenty to your iPhone, but also take something important away
+
+summary: 
+
+publishDate: 2024-09-25T12:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9885575771331787
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/Ifiy8Q7kNB4KO48ZFKtZYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/t3_620/4dad1f8b547088093825f2f05beba444', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-intelligence-add-plenty-iphone-120000874.html&c14=-1']
+
+content: Apple Intelligence will add plenty to your iPhone, but also take something important away
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick Summary
+
+Apple Intelligence will require 4GB of storage space on your iPhone when it launches from next month.
+
+That is something to consider when you purchase your iPhone 16, especially if you're looking at the 128GB model.
+
+We can't wait for Apple Intelligence to finally arrive and try out the new features we've learned about over the last few months. However, we've also recently learned that it'll come with a fairly hefty caveat.
+
+Apple has confirmed that Apple Intelligence and its suite of tools will take up a large chunk of iPhone storage space – around 4GB, in fact. And that's on top of the not inconsiderable amount already used by iOS and system data.
+
+That's largely fine for owners of 256GB handsets and above, but if you've recently bought a 128GB iPhone 16, you might want to consider keeping other apps and services to a minimum.
+
+"Apple Intelligence is available on iPhone 15 Pro, iPhone 15 Pro Max, all iPhone 16 models, and iPad and Mac models with M1 and later. iPhone devices need 4GB of storage," said Apple in a document published as part of the iOS 18.1 beta (via 9to5Mac).
+
+Interestingly, the document doesn't go into details about storage requirements on other devices, such as the compatible iPads and Macs.
+
+Apple is planning a staggered rollout of Apple Intelligence, with some features potentially not hitting different regions until spring 2025.
+
+It will start in the US next month (October) with the public release of iOS 18.1. The UK and some other English-speaking countries will get it "by December" as part of the following iPhone update – iOS 18.2.
+
+That includes Canada, New Zealand and South Africa.
+
+Bloomberg's Mark Gurman suggests that some of the most eagerly-anticipated features won't arrive until next March, though. He claims that the new Siri, for example, might not be available until the iOS 18.4 update is available.
+
+Non-English speaking variants of Apple Intelligence may take even longer still, with Apple so far just saying that Chinese, French, Japanese and Spanish versions are "coming next year".
+
+We'll report if we hear anything further on the rollout.
+

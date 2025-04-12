@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/apple-teases-new-macs-in-a-week-of-announcements-that-starts-monday-165121897.html
+
+source: www.yahoo.com
+
+title: Apple teases new Macs in a 'week of announcements' that starts Monday
+
+summary: 
+
+publishDate: 2024-10-24T16:51:21.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999998807907104
+
+images: ['https://s.yimg.com/ny/api/res/1.2/KAmpaC2kDwlaab0GSBqF_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/22e56d00-a0e5-11ee-9d5f-464f2df9bf13', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/VFhlb_an5FoGZ1kN49modQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02Mjk-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/a49378d0-9228-11ef-b79d-14ffef97a80c']
+
+content: Apple Intelligence will also go live on the same day.
+
+Apple is planning a "week of announcements" starting next Monday, October 28, that's all but guaranteed to include the reveal of new Macs. The company's senior vice president of worldwide marketing, Greg Joswiak said to "Mac (😉) your calendars!" in a post on X, letting the cat out of the bag.
+
+"We have an exciting week of announcements ahead, starting on Monday morning," Joswiak wrote. "Stay tuned…"
+
+Mac (😉) your calendars! We have an exciting week of announcements ahead, starting on Monday morning. Stay tuned… pic.twitter.com/YnoCYkZq6c — Greg Joswiak (@gregjoz) October 24, 2024
+
+It was widely expected that Apple would reveal desktop Macs and MacBooks that run on M4 chipsets next week, a year after the company unveiled its first M3-powered laptops. The M4 debuted in an iPad Pro earlier this year, but Apple has yet to refresh its Macs with the chipset. It had long been rumored that Apple would release M4-powered iMacs, 14-inch and 16-inch MacBook Pros and a redesigned Mac mini by early 2025, and now it appears to be doing so ahead of the peak holiday shopping season.
+
+New hardware isn't the only thing Apple has lined up for next week. On Monday, the company will release iPhone, iPad and Mac software updates that will give the masses their first taste of Apple Intelligence features. Meanwhile, Apple just released its latest iPad Mini.
+

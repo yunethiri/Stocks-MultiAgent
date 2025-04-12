@@ -1,0 +1,18 @@
+link: https://www.cnbc.com/2024/07/12/apple-expands-vision-pro-to-more-countries-outside-the-us.html
+
+source: www.cnbc.com
+
+title: Apple expands Vision Pro to more countries outside the U.S.
+
+summary: The Vision Pro will hit stores in Australia, Canada, France, Germany and the U.K. on Friday, following the headset's debut in Asian markets.
+
+publishDate: 2024-07-12T08:52:39.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

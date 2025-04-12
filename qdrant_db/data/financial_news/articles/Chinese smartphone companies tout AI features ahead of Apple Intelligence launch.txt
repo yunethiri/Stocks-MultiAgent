@@ -1,0 +1,42 @@
+link: https://www.cnbc.com/2024/10/23/chinese-smartphones-tout-ai-ahead-of-apple-intelligence-launch.html
+
+source: www.cnbc.com
+
+title: Chinese smartphone companies tout AI features ahead of Apple Intelligence launch
+
+summary: Chinese smartphone companies are rolling out artificial intelligence features for local users, adding pressure on Apple.
+
+publishDate: 2024-10-23T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9644997119903564
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://image.cnbcfm.com/api/v1/image/103176532-1671680015096-CHENG_profile.jpg?v=1671680065&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg']
+
+content: Chinese smartphone company Honor on Wednesday revealed new AI features. Pictured here is CEO George Zhao speaking in Shanghai on June 26, 2024.
+
+The new HarmonyOS uses in-house AI to allow users to translate text, take notes and edit photos, according to the company. U.S. sanctions cut Huawei off from Google, prompting the Chinese company to launch its own operating system, HarmonyOS, in 2019. The newly released OS is reportedly a fully self-developed system and is not based on Android open source software.
+
+Telecommunications giant Huawei on Tuesday launched an upgrade to its HarmonyOS system that eliminated reliance on the Google-created Android operating system.
+
+Honor, a spinoff from Huawei that focuses on higher-end devices, revealed Wednesday the latest version of its Android-based Magic operating system would focus on AI as an assistant.
+
+A company demo showed how even with a vague voice command — such as "I'm tired, order something" — the phone was able to automatically order coffee without requiring the user to touch the device. It used AI to mimic actions on a touchscreen. Human intervention was only needed to complete the payment.
+
+The AI assistant could also identify documents and send them to contacts, or make calls via social media app WeChat, all without requiring the user to touch the phone.
+
+For devices in China, Honor works with Baidu and other Chinese companies for some AI functions, while developing others on its own. Honor works with Google for devices sold overseas.
+
+The new AI features are slated for release on Honor's forthcoming Magic 7 smartphone, due for launch on Oct. 30. Honor plans to roll out AI capabilities to all its devices by the first few months of next year.
+
+The Magic 7 will use Qualcomm 's newly announced Snapdragon Elite 8 chip for phones. Honor on Monday had teased its new AI features at the chipmaker's annual event.
+
+Chinese home appliance and smartphone company Xiaomi will also launch a new phone this month that uses Qualcomm's Snapdragon Elite 8 chip. Xiaomi has been less vocal about its AI features for smartphones.
+
+The AI features have climbed to a new level, Toby Zhu, senior analyst, Canalys, said in a phone interview Wednesday after Honor's event. He said the new features have greater potential to convince consumers to switch to another device.
+
+"Apple faces challenges in China but from our data it won't face a significant decline," he said in Mandarin, translated by CNBC.
+

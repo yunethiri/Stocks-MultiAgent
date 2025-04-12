@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/
+
+source: www.reuters.com
+
+title: Amazon's cloud service shows new AI servers, says Apple will use its chips
+
+summary: Amazon.com's cloud unit on Tuesday showed new data center servers packed with its own AI chips that will challenge Nvidia , with Apple coming aboard as a customer to use them.
+
+publishDate: 2024-12-03T16:56:52.859Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999871253967285
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff5c74c90-21b5-4c40-b6e3-a240e19e78f5.png?auth=d3615055683eaa6fe86e37b138d285804295452e73ed02e76d8e1ef343d7e1d6&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff5c74c90-21b5-4c40-b6e3-a240e19e78f5.png?auth=d3615055683eaa6fe86e37b138d285804295452e73ed02e76d8e1ef343d7e1d6&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff5c74c90-21b5-4c40-b6e3-a240e19e78f5.png?auth=d3615055683eaa6fe86e37b138d285804295452e73ed02e76d8e1ef343d7e1d6&width=120&height=63&smart=true']
+
+content: Amazon.com's <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> cloud unit on Tuesday showed new data center servers packed with its own AI chips that will challenge Nvidia <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a>, with Apple coming aboard as a customer to use them.
+The new servers, based on 64 of Amazon Web Services' Trainium2 chips, will be strung together in a massive supercomputer with hundreds of thousands of chips, with the help AI startup Anthropic, which will be the first to use it. Apple executive Benoit Dupin also said that Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is using Trainium2 chips.
+AWS Chief Executive Matt Garman also said that Trainium3, the company's next generation of AI chip, will debut next year.
+

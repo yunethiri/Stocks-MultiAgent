@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/apple-says-mac-users-targeted-234553613.html
+
+source: finance.yahoo.com
+
+title: Apple says Mac users targeted in zero-day cyberattacks
+
+summary: 
+
+publishDate: 2024-11-19T23:45:53.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999010562896729
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Ur8kf9L.Pr05XJovvTMJEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/e504438b734664968fe891f67e3485f9', 'https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Apple released security updates on Tuesday that it says are "recommended for all users," after fixing a pair of security bugs used in active cyberattacks targeting Mac users.
+
+In a security advisory on its website, Apple said it was aware of two vulnerabilities that "may have been actively exploited on Intel-based Mac systems." The bugs are considered "zero day" vulnerabilities because they were unknown to Apple at the time they were exploited.
+
+To fix the bugs, Apple released a software update for macOS Sequoia, bumping the software version to 15.1.1, as well as releasing iOS 18.1.1 that has fixes for iPhones and iPads. Users running the older iOS 17 software also get updates.
+
+It's not yet known who is behind the attacks targeting Mac users, or how many Mac users have been targeted — or if any were successfully compromised. The vulnerabilities were reported by security researchers at Google's Threat Analysis Group, which investigates government-backed hacking and cyberattacks, suggesting that a government actor may be involved in the attacks. Government-backed cyberattacks sometimes involve the use of commercial phone spyware.
+
+As for the bugs themselves, Apple said the vulnerabilities relate to WebKit and JavaScriptCore, the web engines that power the Safari browser and for running web content. WebKit is a frequent target of malicious hackers, who target the engine for vulnerabilities as a way to break into the device's wider software and tap into the user’s private data.
+
+The security advisory says the bugs can be exploited by tricking vulnerable Apple devices into processing maliciously crafted web content, such as a website or email, to trigger arbitrary code execution, which can allow the planting of malware on a target's device.
+
+Users should update their iPhones, iPads, and Macs as soon as possible.
+
+Apple did not comment when contacted by TechCrunch on Tuesday.
+

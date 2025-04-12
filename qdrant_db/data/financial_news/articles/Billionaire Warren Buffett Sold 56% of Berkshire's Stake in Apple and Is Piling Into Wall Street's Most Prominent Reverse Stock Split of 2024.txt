@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-10-23T09:06:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999942779541016
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/icqA3PQHr8zC8OUMLgVdRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/35fad7b494013dbd84c5c7a6d39807a1', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0']
+
 content: There's arguably not a billionaire money manager that garners more attention on Wall Street than Berkshire Hathaway's (NYSE: BRK.A)(NYSE: BRK.B) chief, Warren Buffett. The accurately dubbed "Oracle of Omaha" has led his company's Class A shares (BRK.A) to a mouthwatering aggregate return of more than 5,600,000% since he became CEO almost six decades ago.
 
 Riding Buffett's coattails has been a surefire long-term investment strategy. Mirroring his trades is made simple thanks to required Form 13F filings with the Securities and Exchange Commission (SEC).
@@ -29,10 +37,4 @@ Benign profit-taking may very well be the catalyst that enticed Buffett to ring 
 To add to this point, Berkshire's chief has continued to praise Apple's business, even as he sizably pared down his company's No. 1 position. He appreciates Apple's strong branding and the loyalty of its customer base.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999942779541016
 

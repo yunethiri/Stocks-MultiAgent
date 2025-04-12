@@ -1,0 +1,32 @@
+link: https://www.yahoo.com/tech/black-friday-apple-deals-drop-the-series-10-smartwatch-down-to-a-record-low-price-180028128.html
+
+source: www.yahoo.com
+
+title: Black Friday Apple deals drop the Series 10 smartwatch down to a record-low price
+
+summary: 
+
+publishDate: 2024-11-14T18:00:28.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9998383522033691
+
+images: ['https://s.yimg.com/uu/api/res/1.2/O6UHZy3IQLt1qEWmSnXSqQ--~B/Zmk9ZmlsbDtoPTUwNDtweW9mZj0wO3E9OTU7dz04OTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/b0220710-a75a-11ef-bbdd-985714a07f46', 'https://s.yimg.com/uu/api/res/1.2/AOh4FZ1oAlLtIOOKQlwEEA--~B/Zmk9ZmlsbDtoPTUwNDtweW9mZj0wO3E9OTU7dz04OTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/f48d1970-af35-11ef-bef7-4afb351bde79', 'https://s.yimg.com/uu/api/res/1.2/SnhhRbVgL3QhPVaaY5xvPA--~B/Zmk9ZmlsbDtoPTUwNDtweW9mZj0wO3E9OTU7dz04OTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/ebfd3640-ae7d-11ef-afbf-82477694530d']
+
+content: Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products .
+
+You don't have to look too hard to find Black Friday deals on Apple devices. For one thing, the Apple Watch Series 10 has dropped to a new all-time-low price on Amazon. The wearable can be yours for $329. That's $70 off, or a discount of 18 percent. That price is for the smaller 42mm model without LTE functionality. However, the 46mm variant is also $70 off at $359.
+
+The Apple Watch Series 10 is our pick for the best smartwatch overall, but it's probably best to look at other options if you're an Android user. After all, you'll need a compatible iPhone to set up the wearable and get the most out of it. For Apple users who are after something a little simpler than the flagship model, the Apple Watch SE has also dropped to a record low price ($149) for Black Friday.
+
+We gave the Apple Watch Series 10 a score of 90 in our review. Apple redesigned the smartwatch to offer a larger screen and thinner frame, both of which were plus points in our book. The wide-angle OLED panel offers better viewing angles. The wearable has in-depth fitness and health tracking too, with new functions including sleep apnea detection.
+
+Advertisement Advertisement
+
+We found that there was a slight increase in battery life thanks to efficiency improvements, but some alternative smartwatches run for much longer on a single charge. Overall, this is a somewhat iterative update compared with the Series 9 and 8, but if you're upgrading from an older Apple Watch (or buying one for the first time), you may find the features, performance and charging speed to be impressive.
+
+Check out all of the latest Black Friday and Cyber Monday deals here.
+

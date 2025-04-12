@@ -1,0 +1,38 @@
+link: https://finance.yahoo.com/news/apple-plans-three-modem-rollout-175207839.html
+
+source: finance.yahoo.com
+
+title: Apple plans three-year modem rollout to compete with Qualcomm, Bloomberg News reports
+
+summary: 
+
+publishDate: 2024-12-06T17:52:07.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999973773956299
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/reuters-finance.com/f91d3347a2f53e6ea928785a4c411fbb', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f']
+
+content: (Reuters) - Apple is preparing to launch its long-awaited series of cellular modem chips next year, which will replace components from longtime partner Qualcomm, Bloomberg News reported on Friday.
+
+The iPhone maker is looking to ultimately overtake Qualcomm's technology by 2027, the report said, citing people familiar with the matter.
+
+Qualcomm, a leading designer of modem chips that connect phones to mobile data networks, has warned investors that Apple will eventually stop using its chips.
+
+The chip designer has a deal to keep selling chips to Apple until at least 2026 and investors are keen to see if Qualcomm's push into laptops and AI-powered data centers can accelerate quickly enough to compensate for potential drops in revenue from Apple.
+
+Apple's new component is set to feature in the iPhone SE, the company's entry-level smartphone, which is scheduled for its first update since 2022 next year, the Bloomberg News report said, adding that it will be followed by further generations of increasingly advanced chips.
+
+Qualcomm did not immediately respond to Reuters' request for comment, while Apple declined to comment.
+
+The iPhone maker has been working on its own modem technology and spent $1 billion to buy Intel's modem unit in 2019.
+
+In early 2019, Reuters reported that Apple moved its modem engineering efforts into the same chip design unit that makes the custom processors for its devices, signaling a doubling down on the pursuit of self-designed modem chip.
+
+Last year, Apple signed a multi-billion-dollar deal with chipmaker Broadcom to develop 5G radio frequency components. Such a deal could hurt companies such as Skyworks Solutions and Qorvo, both of which are Apple suppliers.
+
+(Reporting by Harshita Mary Varghese in Bengaluru and Stephen Nellis in San Francisco; Editing by Alan Barona)
+

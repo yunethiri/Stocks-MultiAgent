@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-09-30T15:12:48.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999667406082153
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300001&c7=https%3A%2F%2Ffinance.yahoo.com%2Fvideo%2Fapple-pulls-openai-funding-round-151248687.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Apple (AAPL) recently pulled out of talks to participate in the next round of funding for OpenAI as it seeks to raise $6.5 billion, according to The Wall Street Journal. Nvidia (NVDA) and Microsoft (MSFT) are reportedly expected to participate in the funding round, with the latter expected to invest $1 billion. This comes after Microsoft (MSFT) invested $13 billion in OpenAI.
 
 Catalysts Hosts Seana Smith and Madison Mills report more on the story and discuss some of the other players involved in funding OpenAI.
@@ -15,10 +23,4 @@ Catalysts Hosts Seana Smith and Madison Mills report more on the story and discu
 For more expert insight and the latest market action, click here to watch this full episode of Catalysts.
 
 This post was written by Melanie Riehl
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999667406082153
 

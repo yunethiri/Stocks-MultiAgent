@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/apple-16-inch-macbook-pro-140000225.html
+
+source: finance.yahoo.com
+
+title: Apple 16-inch MacBook Pro (M4 Pro) review: A powerful desktop replacement
+
+summary: 
+
+publishDate: 2024-11-07T15:05:51.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999994039535522
+
+images: ['https://s.yimg.com/ny/api/res/1.2/5_it2xfE3Bda8rl11cG2yQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/dbf78ac2ec9fc93d751cec47a2849f24', 'https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: On Monday, Bloomberg reported on Apple’s plans to fully overhaul its laptop line. That’s exactly the kind of rumor you don’t want to drop in the week between the announcement and launch of a new MacBook Pro. A deeper dive reveals that the planned revamp is coming at some point in 2026.
+
+It’s still very much a rumor/early report, meaning that it might not happen in that timeframe — if, indeed, it happens at all. A lot can change in 1.5 years, especially in this world of consumer electronics. But not all that much has changed since Apple’s premium laptop was released this time last year.
+
+In fact, MacBook Pro releases are now more or less like clockwork. It’s an annual ritual built around the arrival of a new chipset, not unlike the iPhone release schedule. There’s no guarantee that Apple will continue the current release cadence for the M-series of chips, but it seems to be working well for the company so far.
+
+Apple has its work cut out for itself, if it plans to deliver an iPhone and MacBook that are “the thinnest and lightest in their categories across the whole tech industry,” as the report states. The M-series delivered a much-needed shot in the arm to the line, making the last few generations of MacBook not only the most powerful, but the all-around best the company has delivered.
+
+Efficiencies delivered via Apple Silicon are at the heart of the new Mac Mini overall, allowing the company to significantly shrink down the desktop’s size. The question isn’t whether the M series will result in a literal thinning of the line; that much seems obvious. What is less clear, however, is whether sacrifices will be required.
+
+For one thing, the Pro line’s processing power have thus far required Apple to include a fan — something now absent from the Air. For another, battery life is now a hallmark feature. I’m old enough to remember when liveblogging an event required me to haul an external battery around. These days, I don’t even have to think about plugging my MacBook Air in on a cross-country flight — which is great, because Delta’s seat-back power outlets are and have always been a disaster.
+
+Apple rates the new Pros at 24 hours on a charge. If Apple wants to sacrifice a literal full day of battery life at the altar of making the laptop thinner, they’re going to have to pry it from my cold, dead hands.
+
+The question of whether to buy now or wait for the next upgrade will forever loom over major consumer electronics purchases; that’s just the nature of the annual release cycle. That said, an early rumor about a major upgrade arriving at some point in 2026 shouldn’t move the needle much for those wondering whether to pull the trigger today. This time next year may be a different story.
+
+Story Continues
+

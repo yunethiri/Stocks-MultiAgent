@@ -1,0 +1,28 @@
+link: https://finance.yahoo.com/news/loop-capital-adjusts-apple-price-190600556.html
+
+source: finance.yahoo.com
+
+title: Loop Capital Adjusts Apple Price Target as iOS 18.1 Sees Rapid Adoption
+
+summary: 
+
+publishDate: 2024-11-04T19:06:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9864158630371094
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/1dRsDDve1tZ_3JJlVc0SRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/656a72d0-2a99-11eb-abff-c3a42df53bdf', 'https://media.zenfs.com/en/us.finance.gurufocus/d20a3b67b283824e6c758361da423604']
+
+content: Apple's (NASDAQ:AAPL) most recent iOS 18.1 update for iPhones has been adopted twice as fast as compared to its predecessor iOS 17.1, underscoring robust demand in Apple Intelligence capabilities, Loop Capital said Monday. Starting last week, the new version, which aims to improve on-device intelligence, features better writing tools and an upgraded Siri.
+
+"Apple Intelligence, debuting with iOS 18.1, brings innovative features that seem to be resonating strongly with users," noted Loop analyst Ananda Baruah in a note. "We expect these features to impact iPhone demand as users explore the latest functionalities, since adoption already double that of iOS 17.1."
+
+Based on a 32x multiple of Apple's estimated $8.57 EPS for fiscal year 2026, Loop Capital changed its price target for the tech behemoth from $300 to $275 even though it maintained a Buy recommendation for Apple. Operating out of Apple's data centers, which solely rely on Apple hardware, Apple Intelligence, Baruah observed, runs through a mix of on-device processing and private cloud computing, removing the need for third-party GPUs. Apple's shares were trading down 0.84% Monday morning, in line with conflicting market responses to the company's changing tech approach.
+
+This article first appeared on GuruFocus.
+
+
+

@@ -1,0 +1,21 @@
+link: https://www.reuters.com/legal/us-lawmakers-tell-apple-google-be-ready-remove-tiktok-app-stores-jan-19-2024-12-13/
+
+source: www.reuters.com
+
+title: US lawmakers tell Apple, Google to be ready to remove TikTok from app stores on Jan. 19
+
+summary: The chair and top Democrat on a U.S. House of Representatives committee on China on Friday told the CEOs of Google-parent Alphabet and Apple they must be ready to remove TikTok from their U.S. app stores on Jan. 19.
+
+publishDate: 2024-12-13T16:37:40.890Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999942779541016
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: The chair and top Democrat on a U.S. House of Representatives committee on China on Friday told the CEOs of Google-parent Alphabet <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> and Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> they must be ready to remove TikTok from their U.S. app stores on Jan. 19.
+Last week, a U.S. federal appeals court upheld a law requiring Chinese-based ByteDance to divest TikTok in the United States or face a ban. Representative John Moolenaar, a Republican, and Representative Raja Krishnamoorthi separately urged TikTok CEO Shou Zi Chew to sell the short video app used by 170 million Americans. "Congress has acted decisively to defend the national security of the United States and protect TikTok’s American users from the Chinese Communist Party. We urge TikTok to immediately execute a qualified divestiture, the lawmakers wrote.
+

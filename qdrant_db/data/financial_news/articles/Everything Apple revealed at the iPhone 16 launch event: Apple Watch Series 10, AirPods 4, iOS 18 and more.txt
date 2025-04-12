@@ -1,0 +1,92 @@
+link: https://www.yahoo.com/news/everything-apple-revealed-at-the-iphone-16-launch-event-apple-watch-series-10-airpods-4-ios-18-and-more-170346723.html
+
+source: www.yahoo.com
+
+title: Everything Apple revealed at the iPhone 16 launch event: Apple Watch Series 10, AirPods 4, iOS 18 and more
+
+summary: 
+
+publishDate: 2024-09-09T17:03:46.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999891519546509
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/os/creatr-uploaded-images/2023-09/72819a70-4d9b-11ee-97ef-bc308af496e0', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: If you didn't catch the event in real time, here are all of the details about Apple's newest phones, smartwatches and earbuds.
+
+September is here and, like clockwork, so are new iPhones. Apple unveiled its latest iPhone models at an event in Cupertino today, and as expected, the iPhone 16 handsets are largely iterative of last year's models. While the smartphones, standard and Pro versions, took center stage, Apple also showed off the new Apple Watch Series 10, two new pairs of AirPods and hearing aid features coming to the second-generation AirPods Pro. The company also went into detail on its latest mobile chipsets that power the new iPhones, and reminded folks what they can expect when iOS 18 launches later this month with Apple Intelligence. If you weren't able to catch the announcements live, Engadget has you covered; here's everything announced at Apple's iPhone 16 event.
+
+iPhone 16 and iPhone 16 Plus
+
+iPhone 16 (Apple)
+
+Apple unveiled the new iPhone 16 and iPhone 16 Plus at the event, which feature a water- and dust-resistant design and new colors including ultramarine, teal and pink. The iPhone 16 has a 6.1-inch display, while the iPhone 16 Plus has a 6.7-inch display. Both of those can achieve up to 2,000 nits of brightness, and can go all the way down to 1 nit in the dark. The Action button has found its way to this series of iPhones as well, and it's just as customizable as the one we saw on last year's Pro-model iPhones.
+
+There's also a new easy-access camera control "button" of sorts, which allows you to quickly control the camera with a slide of your finger. This tool can also tap into Visual Intelligence, an AI-powered feature coming in iOS 18 that can tell you more about anything you point your camera at. It appears similar to Google Lens, and can do things like add live event dates to your calendar after you point your camera at a flyer you see on the street. The camera array on the standard iPhone 16 models includes a 48-megapixel main Fusion camera, a 12MP telephoto lens and a new ultrawide camera with autofocus. This array will also be able to capture Spatial Photos that can be viewed on Apple's Vision Pro.
+
+Both standard iPhone 16 models run on the new A18 chip, which has a 16-core neural engine optimized for generative models. The internals feature a 6-core CPU and a 5-core GPU, both of which will be crucial for powering all of the new Apple Intelligence features coming to iOS 18.
+
+According to Apple, both the iPhone 16 and 16 Plus have larger batteries than their predecessors, and when combined with the efficiencies added from the A18 chipset and iOS 18 improvements, should make for a much longer-lasting battery lives overall (although Apple did not provide an exact estimate). Both the iPhone 16 and 16 Plus are available for pre-order today starting at $799 and $899, respectively, and will be widely available on September 20.
+
+iPhone 16 and 16 Plus $799+ at Apple
+
+iPhone 16 Pro and iPhone 16 Pro Max
+
+iPhone 16 Pro (Apple)
+
+The Pro series of iPhones includes the iPhone 16 Pro and Pro Max this year, which have 6.3-inch and 6.9-inch ProMotion, always-on displays, respectively. Both are made with Grade 5 Titanium, which Apple claims to be even lighter than stainless steel. These handsets will be available in four new colors: black, white, natural and desert, the latter of which resembles a dusty gold color.
+
+According to the company, the iPhone 16 Pro and 16 Pro Max are built from the ground up for Apple Intelligence, being able to take full advantage of all the new features coming in iOS 18. These handsets run on the new A18 Pro chipset, which takes advantage of 3nm transistors and is even faster and more efficient than the standard A18 chip found in the regular iPhone 16 lineup.
+
+The rear camera array on both models includes a 48MP Fusion camera, 48MP ultrawide shooter and a 12MP telephoto lens. The main camera's improvements allow for 4K, 120fps video and slow-motion recording. Both phones also have the new camera control button that provides easier access to the camera and all of its tools, both for capture and editing. There are also four studio-quality microphones built in to both smartphones for improved audio capture, and they allow for Spatial Audio recording, too.
+
+Both the iPhone 16 Pro series and the standard iPhone 16 handsets supports Qi2 wireless charging, and Apple will come out with new MagSafe charging cases that account for the new camera control button. The iPhone 16 Pro and 16 Pro Max will be available for pre-order on Friday, September 13, starting at $999 and $1,199, respectively. They'll be widely available on September 20.
+
+iPhone 16 Pro and 16 Pro Max $999+ at Apple
+
+AirPods 4
+
+AirPods 4 (Apple)
+
+AirPods 4 launched today during the iPhone 16 event, as rumors suggested. These have a redesigned bud shape that's suppose to fit more ear shapes and be more comfortable overall. They have the H2 chip inside, which will provide improved audio quality and enable features like Personalized Spatial Audio. The charging case has a USB-C port, and it's the smallest AirPods charging case to date.
+
+In addition to the regular AirPods 4, there will be a second model that includes support for active noise cancellation and Transparency mode. Conversation Awareness will also automatically lower your media volume level when the buds detect you talking to someone. The standard AirPods 4 cost $129 and the AirPods 4 with ANC cost $179; both are available for pre-order today and will be widely available on September 20.
+
+AirPods 4 $129+ at Apple
+
+AirPods Max new colors
+
+Apple didn’t reinvent the wheel with the updated AirPods Max. Instead, they’ll be available in a few new colors (midnight, blue, purple, orange and starlight) and support USB-C charging. The new colors can be pre-ordered today for $549 and will be widely available on September 20.
+
+AirPods Max $549 at Apple
+
+AirPods Pro new hearing aid features
+
+Apple announced new features coming to the second-gen AirPods Pro that are designed to help prevent (and increase awareness around) hearing loss. A feature called "Hearing Protection" will be turned on by default, and users will be able to take a clinically-validated hearing test to see if they already have some hearing loss. On top of that, AirPods Pro will have a clinical-grade hearing aid feature built-in as well, which will work with a hearing profile created after a user takes the hearing test.
+
+Apple Watch Series 10
+
+Apple Watch Series 10 (Apple)
+
+Apple introduced the Apple Watch Series 10 today, the natural successor to last year’s Series 9. It has the biggest display and thinnest design ever on an Apple Watch, and the wide-angle OLED display is even a bit larger than that on the Apple Watch Ultra. The case has more rounded corners and a wider aspect ratio, both of which, combined with the larger screen, should provide more space to interact with graphics and text on the Watch. Apple claims the screen is 40 percent brighter when looked at from an angle, and it'll show a second hand ticking away even when your wrist is down.
+
+The Apple Watch Series 10 is powered by the new S10 SiP chip, which Apple claims is built for performance, power efficiency and intelligence (i.e. Apple Intelligence). One example of Apple Intelligence at work on the Series 10 is the new Photos watch face, which will curate the best photos from your library and serve them up to you automatically.
+
+When it comes to fitness features, Apple announced that the latest version of watchOS will allow the Series 10 to detect signs of sleep apnea, provided you're wearing your Series 10 to sleep regularly. Apple claims it's awaiting FDA clearance, and it expects the sleep apnea detection feature to launch in more than 150 countries. Elsewhere in the activity sphere, the Series 10 will have scuba tracking features and it will support the new Tides app in watchOS 11.
+
+Another new feature is the ability to play audio directly from the Watch's speaker, which could be helpful if you don't have AirPods or another pair of Bluetooth earbuds handy. The Apple Watch Series 10 be available in a new polished, jet-black aluminum finish and new polished titanium finishes. It's available for pre-order today and will be widely available on September 20.
+
+Apple Watch Series 10 $399 at Apple
+
+Apple Watch Ultra 2 new finish
+
+While there have been a bunch of swirling rumors about the next iteration of the Apple Watch Ultra, the company did not reveal the third generation sportswatch today. Instead, Apple revealed a new finish for the Apple Watch Ultra 2: satin black. There are also new Hermes finishes, and a new Milanese band to accompany the new satin black finish.
+
+Apple Watch Ultra 2 $799 at Apple
+
+Catch up on all the news from Apple’s iPhone 16 event!
+

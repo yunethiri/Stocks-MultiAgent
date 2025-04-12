@@ -1,0 +1,26 @@
+link: https://www.reuters.com/business/healthcare-pharmaceuticals/hearing-aid-makers-slip-after-apple-rolls-out-hearing-aid-features-analysts-2024-09-10/
+
+source: www.reuters.com
+
+title: Hearing aid makers slip after Apple rolls out hearing aid features, analysts shrug off threat
+
+summary: Shares in European hearing aid makers slipped in early trading on Tuesday after Apple rolled out hearing aid features.
+
+publishDate: 2024-09-10T09:14:49.770Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9993828535079956
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Shares in European hearing aid makers slipped in early trading on Tuesday after Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> rolled out hearing aid features.
+Apple <a href="/technology/apple-iphone-16-event-key-announcements-so-far-2024-09-09/">said</a> its AirPods Pro 2 could now be "transformed" into a personalized hearing aid via an upcoming software update that would boost specific sounds in real time, including parts of speech or elements within a user's environment.
+Shares in Italy's Amplifon <a href="https://www.reuters.com/markets/companies/AMPF.MI" target="_blank">(AMPF.MI)</a> dropped as much as 7.2% earlier in the session and were down 5.7% by 0845 GMT. Other hearing aid makers, Sonova <a href="https://www.reuters.com/markets/companies/SOON.S" target="_blank">(SOON.S)</a>, Demant <a href="https://www.reuters.com/markets/companies/DEMANT.CO" target="_blank">(DEMANT.CO)</a> and GN Store Nord <a href="https://www.reuters.com/markets/companies/GN.CO" target="_blank">(GN.CO)</a>, fell between 2% and 4%.
+However, Jefferies analysts said in a note that Apple's move was not a concern for hearing aid players as over-the-counter (OTC) devices target a different population.
+OTC hearing aids do not compete against prescription-based devices on either technological or service levels, despite their attractive price points, Jefferies added.
+"The level of fitting does not suffice the need for those, that have severe hearing aid problems and as such, OTC devices are mostly used for those with mild hearing aid problems," analysts from Vontobel wrote in a note.
+Still, analysts said the news could be a positive development for the hearing aid industry, as it also raises awareness of the hearing deterioration problems.
+

@@ -1,0 +1,35 @@
+link: https://www.reuters.com/legal/litigation/law-firms-suing-apple-over-smartphone-dominance-fight-lead-roles-2024-08-09/
+
+source: www.reuters.com
+
+title: Law firms suing Apple over smartphone dominance fight for lead roles
+
+summary: Two competing groups of law firms are pressing a judge to appoint them as leaders of potentially lucrative consumer class actions accusing Apple of monopolizing the smartphone market.
+
+publishDate: 2024-08-09T16:12:03.447Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9944031238555908
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Two competing groups of law firms are pressing a judge to appoint them as leaders of potentially lucrative consumer class actions accusing Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> of monopolizing the smartphone market.
+The opposing coalitions of plaintiffs lawyers on Thursday made their pitches to U.S. District Judge Julien Neals in New Jersey, who is presiding over private antitrust cases that were <a href="/legal/apple-antitrust-suit-mirrors-strategy-that-beat-microsoft-tech-industry-has-2024-03-22/">filed against Apple</a> after the U.S. Justice Department and a coalition of states sued the iPhone maker in March.
+The firms seeking to represent consumers who bought iPhones from Apple include Hagens Berman Sobol Shapiro, Girard Sharp, Seeger Weiss and Carella, Byrne, Cecchi, Brody & Agnello on one side, with Hausfeld and Susman Godfrey on the other.
+At stake is the chance to win an outsized share of legal fees stemming from any settlement of judgment in the consolidated case, which could be worth billions of dollars if it succeeds. The firms all have a track record of securing large antitrust recoveries.
+The civil cases mirror the Justice Department’s complaint, which accused Apple of violating antitrust law by using contractual restrictions to force developers to play by its rules. The lawsuits allege Apple has set up roadblocks diminishing consumer choice for third-party services.
+Cupertino, California-based Apple has denied the government’s claims and <a href="/legal/apple-asks-us-judge-toss-antitrust-lawsuit-2024-08-01/">asked the court</a> to throw them out. Apple has not responded yet in the consumer cases. Apple and its defense lawyers at Kirkland & Ellis did not immediately respond to requests for comment.
+Lawyers at the plaintiffs firms vying to lead the cases did not immediately respond to requests for comment.
+In <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/akveorjlovr/Hagens%20Berman%20et%20al%20Apple%20leadership-doc.pdf" target="_blank">their pitch</a>, Hagens Berman's Steven Berman and his team said their rivals' coalition "would place the fate of this groundbreaking case in the hands" of just two law firms. They called that proposal “unrealistic” given the complexity, size and stakes of the case.
+Hausfeld and Susman Godfrey in their <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/zgponeydkvd/Hausfeld-Susman-Godfrey-Apple.pdf" target="_blank">counter proposal</a> said the interests of the class in a single-defendant case would not “be served by the inefficiencies that come from a sprawling, multi-firm, multi-layered leadership structure.” The two firms touted their "efficient, lean leadership structure."
+A third set of firms, facing no opposition, have asked to represent “indirect” purchasers such as consumers who bought an iPhone from a mobile phone carrier. Those <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrqdbampe/Berger-Montague-et-al-Apple-2024.pdf" target="_blank">law firms include</a> Schneider Wallace Cottrell Konecky and Berger Montague.
+A coalition of several other firms, including Korein Tillery, MoloLamken and Kellogg, Hansen, Todd, Figel & Frederick, asked to lead a class of only <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/byvrqdbympe/Apple-Watch-direct-purchaser-2024.pdf" target="_blank">Apple Watch purchasers</a>.
+In Re: Apple Inc Smartphone Antitrust Litigation, U.S. District Court, District of New Jersey, 2:24-md-03113-JXN-LDW.
+Read more:
+<a href="/legal/google-monopoly-ruling-could-help-apple-defense-antitrust-case-2024-08-06/">Google monopoly ruling could help Apple defense in antitrust case</a>
+<a href="/legal/apple-asks-us-judge-toss-antitrust-lawsuit-2024-08-01/">Apple asks US judge to toss antitrust lawsuit</a>
+<a href="/legal/transactional/apple-app-store-consumer-class-action-set-february-2026-jury-trial-2024-07-12/">Apple app store consumer class action set for February 2026 jury trial</a>
+

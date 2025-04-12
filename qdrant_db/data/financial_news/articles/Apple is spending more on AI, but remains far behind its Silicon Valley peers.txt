@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/08/01/apple-spending-more-on-ai-but-remains-behind-its-silicon-valley-peers.html
+
+source: www.cnbc.com
+
+title: Apple is spending more on AI, but remains far behind its Silicon Valley peers
+
+summary: Investors are focused on how much mega-cap tech companies are spending on their AI buildouts. Apple is in a category of its own.
+
+publishDate: 2024-08-01T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999510645866394
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/108015306-17225484241722548421-35628000758-1080pnbcnews.jpg?v=1722548423&w=750&h=422&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp']
+
+content: The topic of greatest interest to analysts on Apple's quarterly earnings call on Thursday was a product that's not even available to the general public yet.
+
+Apple Intelligence, the company's forthcoming artificial intelligence system, could spur a fresh cycle of iPhone upgrades and hardware sales. But CEO Tim Cook and CFO Luca Maestri spent a good part of the Q&A portion of the analyst call dodging questions about the pace of Apple's rollout, whether the company is already seeing a sales boost from the service, and Apple's deal with OpenAI to integrate ChatGPT into its software.
+
+One question Cook was willing to partially address was about the company's spending on AI servers. It's an issue that's come up throughout tech earnings season, as investors try to gauge where companies are in their AI infrastructure buildouts and how much more is coming.
+
+Cook acknowledged on the call that costs are on the rise. He gave similar comments to CNBC.
+
+"Embedded in our results this quarter is an increase year over year in the amount we're spending for AI and Apple Intelligence," Cook told CNBC's Steve Kovach on Thursday.
+
+Apple reported $2.15 billion in payments for property, plant and equipment in the June quarter, up 8% quarter-over-quarter and about 3% from a year earlier. Some of those capital investments aren't for AI, but for other Apple operations.
+
+The rise in Apple's capital expenditure is tiny compared to its mega-cap peers, such as Microsoft, Google , and Meta . Those companies are spending huge sums to build and equip AI-focused data centers with Nvidia chips.
+
+For example, in the June quarter, Microsoft reported $13.87 billion in capital expenditures, according to FactSet, which is a 55% year-over-year increase. Alphabet's expenses jumped 91% to $13.19 billion, while Meta's capital expenditures rose 31% to spent $8.3 billion during the quarter.
+
+Meta CEO Mark Zuckerberg has explained this spending surge in game theory terms. He said the risk of missing out on the generative AI boom is larger than the downside of spending too much on graphics processors and servers. Zuckerberg also wants to ensure that Apple won't fully control the next major technology shift, if it turns out to be AI.
+

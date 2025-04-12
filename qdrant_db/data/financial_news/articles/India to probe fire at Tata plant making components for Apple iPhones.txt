@@ -1,0 +1,28 @@
+link: https://www.reuters.com/world/india/india-probe-fire-tata-plant-making-components-apple-iphones-2024-09-29/
+
+source: www.reuters.com
+
+title: India to probe fire at Tata plant making components for Apple iPhones
+
+summary: Indian authorities are set to begin a forensic investigation into the cause of a fire that broke out on Saturday at a Tata Electronics factory that makes components for Apple iPhones, a Tamil Nadu state official said on Sunday.
+
+publishDate: 2024-09-29T08:41:08.457Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9998949766159058
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F4eb2f177-1cdd-4bd7-9487-0611a8b049f8.png?auth=50bb3eb2d1dd00de7f123bb65627db5d8590a981da5c122bd278a73c8d83378e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F4eb2f177-1cdd-4bd7-9487-0611a8b049f8.png?auth=50bb3eb2d1dd00de7f123bb65627db5d8590a981da5c122bd278a73c8d83378e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F4eb2f177-1cdd-4bd7-9487-0611a8b049f8.png?auth=50bb3eb2d1dd00de7f123bb65627db5d8590a981da5c122bd278a73c8d83378e&width=120&height=63&smart=true']
+
+content: Indian authorities are set to begin a forensic investigation into the cause of <a href="/world/india/fire-disrupts-operations-tata-electronics-iphone-plant-india-sources-say-2024-09-28/">a fire that broke out on Saturday</a> at a Tata Electronics factory that makes components for Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> iPhones, a Tamil Nadu state official said on Sunday.
+The factory, for which Sunday was a weekly holiday, is unlikely to receive state permission to resume production by Monday, said two people with direct knowledge of the matter.
+Neither Tata Electronics nor Apple responded to requests for comment outside of regular business hours. Tata Electronics previously said it was investigating the cause and would take steps to safeguard employees and other stakeholders.
+The <a href="/world/india/past-disruptions-apple-facilities-in-india-2024-09-28/">incident is the latest</a> in recent years to affect Apple suppliers in India, where the U.S. firm is diversifying its supply chain beyond China and which it sees as a growth market.
+The fire at the plant in the city of Hosur began in an area used to store chemicals, a fire official told Reuters.
+It has been "completely put out" and fumes have stopped, said district administrative official K.M. Sarayu.
+Two workers who were hospitalised are likely to be discharged on Sunday, she said.
+"We can now go in to investigate," Sarayu said, adding that a forensic team from state capital Chennai has been dispatched.
+It was not clear if the fire affected surrounding buildings, one of which is set to start assembling iPhones by year-end.
+

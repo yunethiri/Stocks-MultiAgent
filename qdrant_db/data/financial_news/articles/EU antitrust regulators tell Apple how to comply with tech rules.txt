@@ -1,0 +1,23 @@
+link: https://www.reuters.com/technology/eu-antitrust-regulators-tell-apple-how-comply-with-tech-rules-2024-09-19/
+
+source: www.reuters.com
+
+title: EU antitrust regulators tell Apple how to comply with tech rules
+
+summary: EU antitrust regulators on Thursday launched proceedings to ensure that Apple complies with landmark rules requiring it to open up its closed ecosystem to rivals.
+
+publishDate: 2024-09-19T09:56:14.282Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9994879961013794
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: EU antitrust regulators on Thursday launched proceedings to ensure that Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> complies with landmark rules requiring it to open up its closed ecosystem to rivals.
+Under the so-called specification proceedings, the European Commission will spell out what Apple has to do to abide by the Digital Markets Act.
+"The first proceeding focuses on several iOS connectivity features and functionalities, predominantly used for and by connected devices," the EU competition enforcer said.
+"The second proceeding focuses on the process Apple has set up to address interoperability requests submitted by developers and third parties for iOS and IPadOS," it said.
+

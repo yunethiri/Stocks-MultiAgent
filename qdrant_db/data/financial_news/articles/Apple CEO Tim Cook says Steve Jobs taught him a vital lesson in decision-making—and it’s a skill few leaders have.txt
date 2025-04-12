@@ -1,0 +1,32 @@
+link: https://finance.yahoo.com/news/apple-ceo-tim-cook-says-143121525.html
+
+source: finance.yahoo.com
+
+title: Apple CEO Tim Cook says Steve Jobs taught him a vital lesson in decision-making—and it’s a skill few leaders have
+
+summary: 
+
+publishDate: 2024-10-29T14:31:21.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9974000453948975
+
+images: ['https://s.yimg.com/ny/api/res/1.2/qVJtcoIYhvXeAovlYDXByA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/fortune_175/684a7ff6eeff830fc2909081926de883', 'https://s.yimg.com/uu/api/res/1.2/4Pziuh853XJgJyv.5ddmrQ--~B/Zmk9c3RyaW07aD0xMjY7cT04MDt3PTE2ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/b3807e20e9c37388b354001b6a99c3de.cf.webp', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: When Apple founder Steve Jobs recruited current CEO Tim Cook in 1998, the company was on the verge of bankruptcy. At the time, Cook was vice president of corporate materials at Compaq Computer Corporation, had worked at Intelligent Electronics, and had a 12-year-stint at IBM immediately after college. Despite protestations from those close to him about moving to Apple, Cook felt the move was necessary. "I thought I had the chance of a lifetime," he recently told the Wall Street Journal. "I didn't want to pass that up." The risk paid off, he said, and it helped him develop a unique leadership style and ascend to the corner office under Jobs’ tutelage.
+
+Among the key management skills he learned from Jobs was the importance of not being married to past beliefs, a competency that Cook says few leaders possess. Jobs welcomed debates, relished being challenged, and valued those who were willing to admit they were wrong when new evidence emerged.
+
+“You could always change [Jobs’] mind if you had the best idea,” Cook said. “We changed each other’s minds. That's the reason it worked so well.” Often, Jobs played devil's advocate and took a stance he didn’t believe in in order to spark a spirited discussion. He felt this was the best way to learn, Cook said at a Recode conference in 2022.
+
+One of the most extensive and long-lasting debates between Jobs and Cook was over how the first iPhone should be sold in the early 2000s. Jobs wanted a revenue share model, in which Apple would have received part of the monthly revenue of a phone carrier, while Cook preferred a subsidy model where carriers paid a portion of the iPhone cost up front, which the carrier would make back through subscription sales Business Insider reports. The company started with Jobs’ model but inevitably switched to Cook’s once he became CEO in 2011, after which iPhone sales skyrocketed. Apple now sells seven iPhones per second, according to the Journal.
+
+Jobs was a mentor to Cook, and although mainly behind the scenes earlier in his Apple career, Cook played a critical role in turning the tech giant around thanks to his logistics, supply chain, and operations prowess. When Jobs briefly stepped away from the CEO role in 2004 due to health issues, Cook stepped in as interim CEO. When Jobs returned in 2005, Cook was promoted to chief operating officer. He was named interim CEO again in 2009 and permanent CEO in 2011 when Jobs officially stepped down from the corner office some weeks before he died from pancreatic cancer.
+
+Cook said in a 2019 Stanford University commencement speech that he felt ill-prepared to lead the company after Jobs’ death. “I learned the real visceral difference between preparation and readiness. It was the loneliest I ever felt in my life by an order of magnitude,” he admitted. Though he hadn’t yet come to terms with the fact that Jobs would no longer be an available sounding board, Cook said he had to perform at his peak for the sake of the company’s longevity.
+
+Story Continues
+

@@ -1,0 +1,22 @@
+link: https://www.reuters.com/markets/commodities/apple-says-it-has-told-suppliers-stop-buying-minerals-congo-2024-12-17/
+
+source: www.reuters.com
+
+title: Apple says it has told suppliers to stop buying minerals from Congo
+
+summary: Apple on Tuesday said it strongly disputes allegations that it uses conflict minerals in its products and told suppliers earlier this year to stop purchasing those minerals from the Democratic Republic of Congo and Rwanda.
+
+publishDate: 2024-12-17T21:38:56.724Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7619720101356506
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Tuesday said it strongly disputes allegations that it uses conflict minerals in its products and told suppliers earlier this year to stop purchasing those minerals from the Democratic Republic of Congo and Rwanda.
+In a statement to Reuters, Apple said it told its suppliers their smelters and refiners must stop buying tin, tantalum, tungsten and gold from the two countries as conflict in the region has escalated.
+Apple's statement came in response to a criminal complaint filed earlier in the day against the company in France and Belgium, where the <a href="/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/">Congolese government alleged Apple uses conflict minerals</a> laundered through international supply chains.
+

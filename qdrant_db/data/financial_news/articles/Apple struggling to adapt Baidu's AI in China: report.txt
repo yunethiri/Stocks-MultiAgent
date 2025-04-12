@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/video/apple-struggling-adapt-baidus-ai-020003200.html
+
+source: finance.yahoo.com
+
+title: Apple struggling to adapt Baidu's AI in China: report
+
+summary: 
+
+publishDate: 2024-12-05T02:00:03.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999948740005493
+
+images: ['https://s.yimg.com/uu/api/res/1.2/gwOfH4Nyuvh6ZVORhdKiRQ--~B/Zmk9c3RyaW07aD04MTtxPTgwO3c9MTk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-11/78f1ede0-b255-11ef-976e-596cad290b50', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://s.yimg.com/uu/api/res/1.2/K.jPKQgQIPzwrPvPd3wkCA--~B/Zmk9c3RyaW07aD04MTtxPTgwO3c9MTk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b2ced760-b0f9-11ef-bbfe-f19383718cf5']
+
+content: STORY: Apple appears to be facing trouble with AI in China.
+
+Tech publication The Information says it’s struggling to adapt Baidu’s artificial intelligence models for its phones.
+
+The report says there are problems with the model’s understanding of prompts, and its accuracy in responding to common scenarios.
+
+Elsewhere in the world, Apple uses tech from ChatGPT-maker OpenAI.
+
+But AI systems from U.S. firms are unavailable in China, leaving the market to local companies.
+
+Neither firm commented on the report.
+
+But if confirmed it would be bad news for Apple in a very tough market.
+
+Recent figures showed its phone sales slipping 0.3% in China in the third quarter - while local rival Huawei posted a 42% surge.
+
+And AI is a key battleground.
+
+Apple’s launch of its latest iPhone 16 in September drew scorn in China for lacking the new technology.
+
+The Information says the tech giant’s privacy policies also block collection of data from iPhone users who make AI-related queries - data that Baidu wants to save and analyze.
+
+The report says the Chinese firm’s latest model - Ernie 4.0 - is the basis for the iPhone services.
+

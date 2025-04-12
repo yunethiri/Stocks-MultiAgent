@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/tech/apple-finally-explained-mac-minis-190000140.html
+
+source: www.yahoo.com
+
+title: Apple finally explained the Mac Mini's weird power button — but the answer won't satisfy you
+
+summary: 
+
+publishDate: 2024-11-11T19:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996659755706787
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-finally-explained-mac-minis-190000140.html&c14=-1']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple, edited with Canva
+
+The M4 Mac mini's new scaled-down design was supposed to be the highlight of its launch during Apple's M4 Mac week, but one design flaw has been stealing the show.
+
+The Mac mini has its power button on the bottom, leading some users to come up with creative work arounds — like 3D printing power button extenders.
+
+It's a little thing (literally), but the placement of the power button on the redesigned Mac mini is all Mac fans have been talking about since it was announced. Apple finally responded in an interview last week, but their take on the power button controversy might not be what users want to hear.
+
+"You pretty much never use the power button on your Mac"
+
+M4 Mac mini
+
+Apple executives John Ternus, VP of Hardware Engineering, and Greg "Joz" Joswiak, VP of Worldwide Marketing, finally broke Apple's silence on the Mac mini power button controversy in an interview posted to Bilibili, a Chinese video-sharing platform, on November 7. The interview is in Chinese, but English transcripts reveal Apple's take on the power button.
+
+When asked about it, one of the Apple executives commented, "The most important thing is, you pretty much never use the power button on your Mac."
+
+Ternus and Joswiak also emphasized that the M4 Mac mini's ultra-compact design forced Apple to put the power button on the bottom. This may also be an attempt to steer the narrative around the M4 Mac mini back to its snack-sized redesign, but is it a fair way of shaking off users' complaints about the design?
+
+That depends on how you see the Mac mini. It's designed to be a desktop PC and people who use it that way might agree with Ternus and Joswiak's point about rarely needing to use the power button. After all, it's easier to simply shut down your Mac through the shutdown menu in macOS, rather than use the physical button.
+
+However, this simplified take ignores the unique position of the new Mac mini. It's so small that users can easily unplug it and travel with it like a laptop. Of course, you need to plug it into a monitor at the office or school to use it away from home, but it's still worth considering given how small the new Mac mini is. People who bring their Mac mini on the go with them are much more likely to use the physical power button since they will need to turn their Mac on and off much more often.
+
+Ultimately, the placement of the Mac mini's power button is not a deal breaker, much like the inconvenient placement of the charging port on the Magic Mouse. However, it's disappointing to see design oversights like this from a brand that prides itself on great design.
+
+Personally, I would have preferred a power button on the top or side disguised with the same metallic finish as the rest of the Mac mini's chassis. Even so, it's still impressive just how small the new mini is. It came close to design perfection this time, so maybe Apple will relocate that pesky power button next time around.
+
+More from Laptop Mag
+

@@ -1,0 +1,52 @@
+link: https://www.cnbc.com/2024/08/08/apple-could-charge-20-for-some-apple-intelligence-features-analysts.html
+
+source: www.cnbc.com
+
+title: Apple could charge up to $20 for some Apple Intelligence AI features, analysts say
+
+summary: Apple plans to rollout Apple Intelligence, its forthcoming AI system, across some of its devices later this year.
+
+publishDate: 2024-08-08T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997463822364807
+
+images: ['https://image.cnbcfm.com/api/v1/image/108013900-1722374829008-gettyimages-2163954275-JAQUESILVA_30072024-5095.jpeg?v=1722374884&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: When Apple announced its AI system in June, the company promised a bolstered Siri voice assistant, as well as features including the ability to automatically generate emails and images. While these features will roll out slowly, with regions such as China and Europe initially not receiving access , Apple could charge a subscription for the more advanced apps, analysts said.
+
+The Cupertino giant plans to rollout Apple Intelligence , its forthcoming AI system, across some of its devices later this year.
+
+Apple could charge its users up to $20 for its advanced artificial intelligence features, analysts told CNBC, as the company looks to boost the growth of its lucrative services business.
+
+Neil Shah, partner at Counterpoint Research, said investment in AI is expensive and Apple will want to pass that cost onto its users.
+
+"Software and services makes it more lucrative for Apple to pass it on with the Apple One subscription model," Shah told CNBC in an interview last week.
+
+Apple One costs $19.95 a month and gives users access to various Apple services including Apple Music.
+
+Shah said Apple could charge between $10 and $20 for Apple Intelligence, potentially as part of Apple One, for more premium AI features.
+
+Apple's services division brought in $24.2 billion in the June quarter, making it unique as many other hardware firms have not managed to monetize software.
+
+"Apple is one of the few connected devices companies that has successfully monetized the value-added services it offers," Ben Wood, chief of research at CCS Insight, told CNBC this week.
+
+"As a result, it has set a precedent with its users that they have to pay for more premium services. On this basis, it can't be ruled out that Apple may choose to charge for more advanced features within its Apple Intelligence offering."
+
+Wood added that Apple Intelligence could give the U.S. giant an option to launched a bundled subscription service with various services under a single price.
+
+"But equally Apple will be reluctant to dilute revenue from individual products subscriptions," he said.
+
+It is not unusual for technology firms to charge for their AI offerings. OpenAI, for example has a subscription fee for more advanced ChatGPT features and Microsoft charges for its AI Copilot tool.
+
+Apple's biggest rival Samsung, which has already begun rolling out its artificial intelligence services known as Galaxy AI, is still considering various revenue models for its software, its mobile boss told CNBC last month.
+
+For Apple, AI gives the company a chance to further lock in its already loyal customer base, according to Shah, because Apple Intelligence will learn from a user's behavior and become more personalized.
+
+"The beauty of AI is as you use [it] more and more, it learns about you, and you get locked into the model itself because you can't bring your own model from Apple to Android," Shah said.
+
+"That is where you start using more and more, you get used to it more and that is where Apple monetization hits."
+

@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-08T13:30:19.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.8189651966094971
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/8Cx2roN070wIEoiA2W8iHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F41fcc720-f5a8-11ee-bbe2-e9cb8cdc4c82&compress=1&progressive=1&quality=75&client=hawkeye&signature=3e3930835cf0e3365df3a70c112b3755056f7bf7', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8']
+
 content: This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:
 
 The chart of the day
@@ -45,10 +53,4 @@ AT&T's long-term debt now stands at $126 billion, down from more than $128 billi
 "I can say that we are back in growth mode," Stankey told me on Yahoo Finance's Market Domination. "I think we're early innings in our success story, so I don't think it's mission accomplished."
 
 Stankey added he's bullish on the Trump administration providing tailwinds to his business, especially if tax cuts are extended.
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.8189651966094971
 

@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/enable-apple-intelligence-iphone-173240202.html
+
+source: finance.yahoo.com
+
+title: How to enable Apple Intelligence on your iPhone
+
+summary: 
+
+publishDate: 2024-10-28T15:22:07.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9707847237586975
+
+images: ['https://s.yimg.com/ny/api/res/1.2/u41ADj892bejMSj2kfp6Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/e5403d4969791c01adfd392875493bab', 'https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Apple has finally releasing some of the Apple Intelligence features it announced at its Worldwide Developers Conference in June.
+
+After releasing Apple Intelligence features in developer beta and then public beta over the last few months, the company has released these features through iOS 18.1 to all users. While the initial beta version had restrictions on the region where Apple Intelligence was available, you can use the new AI features from anywhere — apart from EU and China — by setting the language as U.S. English.
+
+Here is how you can start using Apple Intelligence features:
+
+Open the Settings app.
+
+Go to the Apple Intelligence & Siri menu.
+
+Tap on the toggle to enable Apple Intelligence.
+
+It will take a while for your iPhone to download the models related to Apple Intelligence and prepare your system for these features. You will get a notification when your iPhone is ready to use Apple Intelligence features.
+
+At the moment, Apple Intelligence is only compatible with iPhone 15 Pro, iPhone 15 Pro Max, and iPads and Macs that run on M1 chips.
+
+Available features
+

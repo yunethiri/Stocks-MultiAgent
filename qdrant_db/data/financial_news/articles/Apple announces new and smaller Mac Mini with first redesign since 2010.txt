@@ -1,0 +1,28 @@
+link: https://www.cnbc.com/2024/10/29/apple-mac-mini-2024-price-release-specs.html
+
+source: www.cnbc.com
+
+title: Apple announces new and smaller Mac Mini with first redesign since 2010
+
+summary: Apple is framing the new Mac Minis, like all of its new products announced this year, as built for Apple Intelligence.
+
+publishDate: 2024-10-29T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9590060114860535
+
+images: ['https://image.cnbcfm.com/api/v1/image/108053812-1730144790267-Apple-Mac-mini-hero.png?v=1730144884&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Apple announced on Tuesday new Mac Mini models, featuring the first major redesign since 2010 that makes the desktop computer significantly smaller.
+
+Aside from a redesign that shrunk the case and reduced the computer's volume in half, the main upgrade on these new computers is that they include Apple's latest chip, either the M4, or a more powerful version called the M4 Pro.
+
+The Mac Mini is Apple's least-expensive Mac, starting at $599, and does not include a display, which is sold separately. When the product line was first introduced in 2008, it was marketed as a computer for people switching from Microsoft Windows who could simply plug their existing keyboard, mouse and monitor into their new silver box.
+
+The Mac Mini is not one of Apple's highest-volume computers in terms of sales, but it is an important slot in Apple's lineup, especially for people who make apps for iPhones and other Apple platforms. Many iPhone developers like to run a Mac Mini as a personal development server for coordinating uploads and code.
+
+One improvement in the new design is that all of the ports are USB-C ports, the same more modern offering found on Apple's laptops. There are three USB-C ports on the rear and two on the front, a new addition that will make it easier to plug or unplug accessories while the computer rests on a desk.
+

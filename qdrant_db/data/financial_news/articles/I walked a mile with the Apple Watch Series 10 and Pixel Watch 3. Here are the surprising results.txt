@@ -1,0 +1,90 @@
+link: https://www.yahoo.com/tech/walked-mile-apple-watch-series-123014958.html
+
+source: www.yahoo.com
+
+title: I walked a mile with the Apple Watch Series 10 and Pixel Watch 3. Here are the surprising results
+
+summary: 
+
+publishDate: 2024-12-04T12:30:14.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.8719699382781982
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nzXFNOfVGgsPB2eNANNBzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/c5856750-8974-11ee-abde-d6658e24e4eb', 'https://s.yimg.com/uu/api/res/1.2/oadK05IB4dVh3zKl6OyUOg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/toms_guide_826/d69dff36984b841500d63e1915072f8d.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/5I8zEebxwHJOZJ9ni7_0Iw--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/f11f67db5ab8ceed27ae2659f558198e.cf.webp']
+
+content: The Apple Watch Series 10 is one of my favorite wearables, as it offers the biggest display AND the thinnest build in an Apple Watch to date. Battery life aside, which is much worse than both the Apple Watch Ultra 2 and the Google Pixel Watch 3, it’s the best Apple Watch I’ve ever used.
+
+The Apple Watch comes with a host of features for tracking your fitness, including automatic detection of many different types of workouts, but the tracking of vital signs isn’t the most accurate. The Pixel Watch 3 solves this problem with the best heart rate tracking I’ve tried on a smartwatch, but it doesn’t have as many workout options as the Apple Watch, and automatic detection is inferior as well.
+
+Both smartwatches only work with one mobile platform, but if you’re platform-agnostic and want something to track your fitness, which one should you buy? I took to the streets of Dubai on a recent vacation to answer this question. Here’s how they compared on a recent one-mile walk.
+
+Both failed to detect the first walk
+
+Andy Boxall / Digital Trends
+
+My original plan had been to walk to the mall and back (0.8 miles total, according to Google Maps), but this plan fell apart when neither watch detected the walk after 0.2 miles. That’s half the distance one-way, and while I’ve had this concern with the Pixel Watch 3 before, the lack of detection on the Apple Watch was a genuine surprise.
+
+Advertisement Advertisement
+
+Advertisement
+
+Once I got to the mall. I manually activated the walk profile on both devices. It’s worth noting here that the Pixel Watch 3 has a single walking workout option, while the Apple Watch Series 10 has both indoor and outdoor walk options. I picked the indoor option as I was indoors, but this means it wasn’t trying to map my GPS route, whereas the Pixel Watch 3 was.
+
+A few laps of the mall brought me to 0.6 miles on my pedometer, with the Apple Watch Series 10 tracking lower at 0.49 miles and the Pixel Watch 3 much higher at 0.74 miles.
+
+Exploring the walk test data
+
+Joe Maring / Digital Trends
+
+The delta in the tracking of distance continued throughout. I’ve noticed before that the Pixel Watch 3 often tracks a longer distance, while the Apple Watch is usually slightly under. Each smartwatch uses algorithms and sensors to determine what movement to count and ignore, and each company still has some adjustments to make to be truly accurate.
+
+Apple Watch Series 10 Google Pixel Watch 3 Duration 26:40 26:35 Distance 0.94 miles 1.15 miles Active calories 98.9 calories 245 calories Cardio Load / Workout Effort 4 4 Avg Heart rate 94 bpm N/A
+
+At the end of the test, my total distance walked was 1.02 miles. The Pixel Watch 3 clocked in at 1.16 miles, while the Apple Watch Series 10 was at 0.95 miles. The Apple Watch Series 10 was technically more accurate, while I believe the Pixel Watch overcompensated for small movements.
+
+Advertisement Advertisement
+
+Beyond just distance, there was a disparity in the presumed calories burned. The Pixel Watch 3 says I burned 245 calories, while the Apple Watch Series 10 tracked this at just under 100 calories. Apple has a lot more historical data on me than Google does — both over several years and in recent weeks — and based on how I felt during the walk, the Apple Watch Series 10 feels more accurate in terms of data.
+
+Diving into the heart rate data
+
+Andy Boxall / Digital Trends
+
+As I mentioned, I love the Pixel Watch 3 for its heart rate tracking. Throughout multiple tests over the past few months, it’s been more accurate than most wearables I’ve tested, and I’m more inclined to believe its heart rate stats over those of the competition. However, the Fitbit app makes it difficult to locate raw heart rate data after the workout, so the information below is anecdotally based on observing the Pixel Watch 3 during the walk.
+
+According to the Pixel Watch, my heart rate fluctuated between 90 beats per minute (bpm) and 105, while the Apple Watch Series 10 mostly tracked it at 101 bpm. In the final results, the Pixel Watch 3 doesn’t display average heart rate data, and instead focuses on a cardio load factor of 4, while the Apple Watch Series 10 displayed an estimated workout effort score of 4 and an average heart rate of 94 bpm.
+
+It’s worth noting the key differences between the two regarding heart rate tracking: the Pixel Watch 3 is designed to measure your heart rate once per second throughout the day, even at rest. Comparatively, the Apple Watch only updates every five minutes except in workout mode.
+
+Advertisement Advertisement
+
+While the Pixel Watch 3 is more accurate at continuous heart rate monitoring than the Apple Watch, neither compares to wearing a dedicated heart rate monitor from Polar or a more fitness-focused device from companies like Garmin.
+
+Key takeaways from the full experience
+
+Joe Maring / Digital Trends
+
+Beyond just heart rate, this test revealed a few other things. If you like to mix indoor and outdoor workouts, the Pixel Watch 3 is far better with its single profile, as starting an indoor walk on the Apple Watch Series 10 and then going outdoors doesn’t enable GPS tracking. That said, Apple displays the data in a more friendly and straightforward way than Google/Fitbit does.
+
+The Fitbit app also takes much longer than the Apple Watch Series 10 to track and update your data, and if you’re new to Fitbit, the app’s layout is quite confusing. In particular, to access workout data, you need to go to the Today tab, then Exercise Days, and tap on each workout. It’s only a few taps, but I find far less intuitive than it should be, and it’s confusing to the point that even I had to double-check how to access the summary report. It’s also frustrating that you can’t access this data from the watch, but need to use the phone itself.
+
+I also wish the Fitbit app would provide access to more granular data. Cardio Load and Target Load are excellent ways to help average customers become more fit every day, but the lack of granular heart data makes it less useful for those who want this additional info.
+
+Which smartwatch is better for tracking workouts?
+
+Christine Romero-Chan / Digital Trends
+
+I was quite surprised by the lack of automatic workout detection on both devices. Each claims to automatically track your workouts, but neither activated the mode as I set off on my initial walk to the mall. While I expected this from the Pixel Watch 3, the Apple Watch Series 10 not prompting to track the workout was more surprising, given that Apple usually prompts fairly quickly.
+
+Advertisement Advertisement
+
+Both wearables track a great amount of data, but there’s a noticeable difference in how it’s displayed afterward. The Fitbit app makes it difficult to access raw, data but is far more friendly for average users, while Apple Health lays out data in a user-friendly way that allows you to access as much or as little data as you like.
+
+The on-device experience is pretty similar between the two. Still, while I’m impressed with the Pixel Watch 3’s heart rate accuracy and cardio load feature, the lack of granular details means I’m more inclined to keep using the Apple Watch Series 10 to track all my workouts.
+
+Buy at Amazon Buy at Amazon
+

@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/08/27/cramer-talks-apple-cfo-shake-up.html
+
+source: www.cnbc.com
+
+title: Cramer talks Apple's management shake-up: 'This is the most seamless possible transition'
+
+summary: CNBC's Jim Cramer on Tuesday opined on Apple's CFO shake-up, saying the CFO transition will be smooth and it boosts his favorable attitude toward the stock.
+
+publishDate: 2024-08-27T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.6406322717666626
+
+images: ['https://image.cnbcfm.com/api/v1/image/107339578-1701119635506-MAD_MONEY_CNBC_COM_SHOW_HEADER_560x96_v03.png?v=1701119670&w=560&h=96&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/108026313-17248015333ED3-MM-F-BLOCK-SHORT-082724.jpg?v=1724801532&w=750&h=422&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/108026312-17248013653ED3-MM-F-BLOCK-082724.jpg?v=1724801364&w=750&h=422&vtcrop=y']
+
+content: CNBC's Jim Cramer on Tuesday opined on Apple 's recent management shake-up, saying the chief financial officer transition will be smooth and it boosts his favorable attitude toward the stock.
+
+"It's still one more reason why Apple's worth so much money. It's what other companies wish they could do," he said. "You can't sleep well at night if you have a portfolio of tech stocks, but Apple's made it as easy as possible this time."
+
+The iPhone maker announced Monday it would replace CFO Luca Maestri with Kevan Parekh, who has worked at the company for more than a decade. He is set to continue at Apple after the transition, leading the corporate services team, the company said.
+
+Cramer praised Maestri's work, saying he has added value for shareholders, helped the company expand into emerging markets and successfully bought back stock. Apple shares are up more than 800% since Maestri became CFO in 2014, and the company's annual sales have more than doubled since then.
+
+But According to Cramer, "this is the most seamless possible transition that I can recall." Parekh is known by many analysts, Cramer added, and has solid experience from his time as Apple's vice president of financial planning and analysis. Apple CEO Tim Cook in a statement said Parekh has been an "indispensable" member of the company's financial leadership team, and that he "understands the company inside and out." Before Apple, Parekh worked at Thomson Reuters and General Motors.
+
+Apple made its announcement Monday after the market close, and its stock initially dipped in extended trading, but it rallied during Tuesday's session, finishing up 0.37%.
+
+"I can't think of a thing Apple does wrong when it comes to running the business day to day, and I know that Luca played a big role in that," Cramer said. "The highest compliment I can pay? I bet Kevan Parekh will do exactly the same."
+

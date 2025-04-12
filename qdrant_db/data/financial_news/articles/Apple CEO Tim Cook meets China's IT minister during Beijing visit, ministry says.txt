@@ -1,0 +1,26 @@
+link: https://www.reuters.com/technology/apple-ceo-tim-cook-met-chinas-minister-industry-it-beijing-2024-10-23/
+
+source: www.reuters.com
+
+title: Apple CEO Tim Cook meets China's IT minister during Beijing visit, ministry says
+
+summary: Apple CEO Tim Cook met on Wednesday with China's Minister for Industry and Information Technology Jin Zhuanglong during a visit to Beijing this week, the ministry said in a statement.
+
+publishDate: 2024-10-23T02:08:19.534Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999872446060181
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fb3e1bc37-4753-4ed1-a903-30236dd938b4.png?auth=a5560ace9117b28501a70fc9dd84e0b894ad69bccf542a9ee0ff395f1f619b1e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fb3e1bc37-4753-4ed1-a903-30236dd938b4.png?auth=a5560ace9117b28501a70fc9dd84e0b894ad69bccf542a9ee0ff395f1f619b1e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fb3e1bc37-4753-4ed1-a903-30236dd938b4.png?auth=a5560ace9117b28501a70fc9dd84e0b894ad69bccf542a9ee0ff395f1f619b1e&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> CEO Tim Cook met on Wednesday with China's Minister for Industry and Information Technology Jin Zhuanglong during a visit to Beijing this week, the ministry said in a statement.
+During the meeting, Jin told Cook that he hoped Apple would continue to deepen its presence in China, increase investment in innovation, grow with Chinese companies and share the dividends of high-quality development, the statement showed.
+Apple did not immediately respond to an emailed request for comment.
+The trip is Cook's second to China this year. His posts on the X-like Weibo social media platform showed he visited an organic farm and toured ancient neighbourhoods with artists including local photographer Chen Man.
+China is the world's biggest smartphone market where, in recent quarters, the iPhone maker has been losing market share to domestic rivals.
+Apple began China sales of its <a href="/technology/huaweis-2800-tri-fold-phone-hits-stores-amid-supply-concerns-2024-09-20/">latest smartphones</a> on Sept. 20, the same day local champion Huawei (HWT.UL) launched a rival handset. The new iPhones got off to a strong start with sales rising 20% in the first three weeks of launch compared with the year-earlier model, showed data from researcher Counterpoint.
+However, overall iPhone sales in China fell 2% on year during the three-week period due to declining sales of older models and increased competition with Huawei's Mate and Pura series, Counterpoint said.
+

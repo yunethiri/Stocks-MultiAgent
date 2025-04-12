@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/major-apple-supplier-foxconn-expected-report-strong-q3-results-ai-boom-2024-11-13/
+
+source: www.reuters.com
+
+title: Major Apple supplier Foxconn expected to report strong Q3 results on AI boom
+
+summary: Taiwan's Foxconn , the world's largest contract electronics maker, is expected to report on Thursday that third-quarter profit rose 7% year-on-year on robust demand for artificial intelligence servers.
+
+publishDate: 2024-11-13T23:04:53.434Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999998807907104
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Taiwan's Foxconn <a href="https://www.reuters.com/markets/companies/2317.TW" target="_blank">(2317.TW)</a>, the world's largest contract electronics maker, is expected to report on Thursday that third-quarter profit rose 7% year-on-year on robust demand for artificial intelligence servers.
+Last month, the company said <a href="/technology/foxconn-third-quarter-revenue-jumps-20-yryr-2024-10-05/">third-quarter revenue</a> jumped 20% from a year earlier, beating expectations to post its highest-ever revenue for that quarter on strong sales of AI servers.
+Net profit for July-September for Apple's <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> top iPhone assembler likely came in at T$46.3 billion ($1.43 billion), according to an LSEG consensus estimate of 14 analysts.
+That would represent a 7.4% increase from the same period a year ago. It would also mark a fifth consecutive quarter of profit growth.
+Foxconn said last month it was building in Mexico the world's largest manufacturing facility for <a href="/technology/foxconn-says-it-is-building-worlds-largest-manufacturing-facility-for-nvidias-2024-10-08/">bundling Nvidia's</a> <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> GB200 superchips, a key component of the U.S. firm's next-generation Blackwell family computing platform.
+Underscoring Foxconn's rosy prospects, October sales hit a record high for the month and the company, formally called Hon Hai Precision Industry, has said it expects fourth-quarter revenue to grow year-on-year.
+It does not provide numerical guidance.
+Foxconn holds its earnings call at 3.00 p.m. in Taipei (0700GMT) on Thursday, where it will also update its outlook for the rest of the year.
+Foxconn's shares have surged more than 100% so far in 2024, far outperforming the broader market's <a href="https://www.reuters.com/markets/quote/.TWII" target="_blank">(.TWII)</a> 28% gain, thanks to its confident outlook on AI.
+($1 = 32.4140 Taiwan dollars)
+

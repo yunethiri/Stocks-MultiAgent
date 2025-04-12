@@ -1,0 +1,31 @@
+link: https://www.reuters.com/world/india/india-budget-india-cuts-import-tax-smartphones-boost-apple-2024-07-23/
+
+source: www.reuters.com
+
+title: India cuts import tax on smartphones in boost for Apple
+
+summary: India announced it will cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple , which still imports its high-end smartphones into the country despite increasing local production.
+
+publishDate: 2024-07-23T08:42:18.667Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9462283849716187
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: India announced it will cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a>, which still imports its high-end smartphones into the country despite increasing local production.
+Presenting the annual budget for 2024/25 in parliament on Tuesday, India's finance minister Nirmala Sitharaman said import tax on mobile phones, printed circuit board assembly (PCBA) and mobile chargers is in the "interest of consumers."
+Almost 10-12% of the Apple iPhones are imported each year into India and a 5% reduction in tax on the devices will result in a $35-50 million annual benefit to Apple, said Neil Shah, a co-founder at Hong Kong-based Counterpoint Research.
+Although Apple has boosted its local production in India through contract manufacturers such as Foxconn <a href="https://www.reuters.com/markets/companies/2317.TW" target="_blank">(2317.TW)</a> and India's Tata Group, it still imports some of its high-end Pro and Pro Max iPhone models into the country.
+Apple "will directly benefit ... they (also) have some models for which PCBAs are still being imported," said Shah.
+The move will also "alleviate import duties for new players entering the market. It's a gamechanger for them," he added.
+Other manufacturers such as Samsung <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a> would also benefit, but to a lesser degree as the majority of their smartphones are locally made, said a source with direct knowledge of the matter.
+Apple and Samsung did not immediately respond to a request for comment.
+Apple has a 6% share of India's smartphone market, according to Counterpoint.
+India's deputy IT ministry in January <a href="/technology/india-it-ministry-fears-losing-out-china-vietnam-smartphone-exports-race-2024-02-13/">privately</a> argued for a reduction on import taxes on mobile phones, saying the country risks losing out to China and Vietnam in the race to become a major smartphone export hub and must "act fast" to lure global companies with lower tariffs, Reuters has reported.
+Prime Minister Narendra Modi has in recent years promoted India as a smartphone manufacturing hub and the nation's $24-billion local production scheme covers mobile phones, prompting companies such as Apple, Xiaomi, Samsung and Vivo to expand local operations.
+China's Xiaomi has also in the past <a href="/technology/xiaomi-says-indias-scrutiny-chinese-firms-unnerves-suppliers-2024-02-11/">asked</a> for tariff reductions on sub-components used in batteries, USB cables and phone covers.
+

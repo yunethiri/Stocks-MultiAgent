@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-09T10:32:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999837875366211
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/mrLyuzW72VylvVLhATlJSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/398dc3ceb7a8980d8e192c204546cb44']
+
 content: It's been another wonderful year for Apple (NASDAQ: AAPL) investors. In 2024, shares have produced a total return of 27% (as of Dec. 4). That kind of gain certainly draws the attention of investors looking at where to park their capital as they set their sights on 2025.
 
 The hope for Apple bulls is that there's another strong showing on the horizon. Where will this "Magnificent Seven" stock be in one year?
@@ -33,10 +41,4 @@ There's no denying that Apple has been a moneymaking machine this century, compo
 It doesn't help investors that Apple currently trades at a steep valuation. the stock sells at a price-to-earnings (P/E) ratio of 40. The valuation has rarely been higher in the past 15 years. And the current P/E multiple represents a 100% premium to the average since December 2009. Things are expensive, particularly in light of Apple's soft growth prospects.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999837875366211
 

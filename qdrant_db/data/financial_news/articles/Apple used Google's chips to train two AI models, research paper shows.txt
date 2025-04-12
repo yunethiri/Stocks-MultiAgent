@@ -1,0 +1,52 @@
+link: https://finance.yahoo.com/news/apple-says-uses-no-nvidia-220349455.html
+
+source: finance.yahoo.com
+
+title: Apple used Google's chips to train two AI models, research paper shows
+
+summary: 
+
+publishDate: 2024-07-29T22:03:49.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999978542327881
+
+images: ['https://media.zenfs.com/en/reuters.com/85e105640d6a54c6388f2f487c98e78d', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-says-uses-no-nvidia-220349455.html&c14=-1']
+
+content: By Max A. Cherney
+
+SAN FRANCISCO (Reuters) -Apple relied on chips designed by Google rather than industry leader Nvidia to build two key components of its artificial intelligence software infrastructure for its forthcoming suite of AI tools and features, an Apple research paper published on Monday showed.
+
+Apple's decision to rely on Google's cloud infrastructure is notable because Nvidia produces the most sought-after AI processors.
+
+Including the chips made by Google, Amazon.com and other cloud computing companies, Nvidia commands roughly 80% of the market.
+
+In the research paper, Apple did not explicitly say that it used no Nvidia chips, but its description of the hardware and software infrastructure of its AI tools and features lacked any mention of Nvidia hardware.
+
+Apple did not comment on Monday.
+
+The iPhone maker said that to train its AI models, it used two flavors of Google's tensor processing unit (TPU) that are organized in large clusters of chips.
+
+To build the AI model that will operate on iPhones and other devices, Apple used 2,048 of the TPUv5p chips. For its server AI model, Apple deployed 8,192 TPUv4 processors.
+
+Nvidia does not design TPUs but rather focuses its efforts on so-called graphics processing units (GPUs) that are widely used for AI efforts.
+
+Unlike Nvidia, which sells its chips and systems as standalone products, Google sells access to TPUs through its Google Cloud Platform. Customers interested in buying access must build software through Google's cloud platform in order to use the chips.
+
+Apple is rolling out portions Apple Intelligence to its beta users this week.
+
+Reuters reported the use of the TPU chips in June, but Apple did not disclose the full extent of its reliance on Google hardware until Monday's research paper.
+
+Google did not return a request for comment, while Nvidia declined to comment.
+
+Apple's engineers said in the paper it would be possible to make even larger, more sophisticated models with Google's chips, than the two models it discussed in the paper.
+
+Apple unveiled a slew of new AI features at its June developer conference, including integrating OpenAI's ChatGPT technology into its software.
+
+The Cupertino, California-based company's stock ticked down 0.1% to $218.24 in regular trading on Monday.
+
+(Reporting by Max A. Cherney in San Francisco; Editing by Matthew Lewis and Varun H K)
+

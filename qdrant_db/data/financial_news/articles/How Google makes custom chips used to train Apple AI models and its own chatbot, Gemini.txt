@@ -1,0 +1,42 @@
+link: https://www.cnbc.com/2024/08/23/how-google-makes-custom-cloud-chips-that-power-apple-ai-and-gemini.html
+
+source: www.cnbc.com
+
+title: How Google makes custom chips used to train Apple AI models and its own chatbot, Gemini
+
+summary: Google makes custom AI chips called TPUs, and Apple uses them to train its AI models. CNBC got an exclusive look inside the lab where Google makes its chips.
+
+publishDate: 2024-08-23T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999889135360718
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg']
+
+content: Inside a sprawling lab at Google headquarters in Mountain View, California, hundreds of server racks hum across several aisles, performing tasks far less ubiquitous than running the world's dominant search engine or executing workloads for Google Cloud's millions of customers. Instead, they're running tests on Google's own microchips, called Tensor Processing Units, or TPUs. Originally trained for internal workloads, Google's TPUs have been available to cloud customers since 2018. In July, Apple revealed it uses TPUs to train AI models underpinning Apple Intelligence. Google also relies on TPUs to train and run its Gemini chatbot. "The world sort of has this fundamental belief that all AI, large language models, are being trained on Nvidia , and of course Nvidia has the lion's share of training volume. But Google took its own path here," said Futurum Group CEO Daniel Newman. He's been covering Google's custom cloud chips since they launched in 2015. Google was the first cloud provider to make custom AI chips. Three years later, Amazon Web Services announced its first cloud AI chip, Inferentia. Microsoft 's first custom AI chip, Maia, wasn't announced until the end of 2023. But being first in AI chips hasn't translated to a top spot in the overall rat race of generative AI. Google's faced criticism for botched product releases, and Gemini came out more than a year after OpenAI's ChatGPT. Google Cloud, however, has gained momentum due in part to AI offerings. Google parent company Alphabet reported cloud revenue rose 29% in the most recent quarter, surpassing $10 billion in quarterly revenues for the first time. "The AI cloud era has completely reordered the way companies are seen, and this silicon differentiation, the TPU itself, may be one of the biggest reasons that Google went from the third cloud to being seen truly on parity, and in some eyes, maybe even ahead of the other two clouds for its AI prowess," Newman said.
+
+'A simple but powerful thought experiment'
+
+In July, CNBC got the first on-camera tour of Google's chip lab and sat down with the head of custom cloud chips, Amin Vahdat. He was already at Google when it first toyed with the idea of making chips in 2014.
+
+Amin Vahdat, VP of Machine Learning, Systems and Cloud AI at Google, holds up TPU Version 4 at Google headquarters in Mountain View, California, on July 23, 2024. Marc Ganley
+
+"It all started with a simple but powerful thought experiment," Vahdat said. "A number of leads at the company asked the question: What would happen if Google users wanted to interact with Google via voice for just 30 seconds a day? And how much compute power would we need to support our users?" The group determined Google would need to double the number of computers in its data centers. So they looked for a better solution. "We realized that we could build custom hardware, not general purpose hardware, but custom hardware — Tensor Processing Units in this case — to support that much, much more efficiently. In fact, a factor of 100 more efficiently than it would have been otherwise," Vahdat said. Google data centers still rely on general-purpose central processing units, or CPUs, and Nvidia's graphics processing units, or GPUs. Google's TPUs are a different type of chip called an application-specific integrated circuit, or ASIC, which are custom-built for specific purposes. The TPU is focused on AI. Google makes another ASIC focused on video called a Video Coding Unit. Google also makes custom chips for its devices, similar to Apple's custom silicon strategy. The Tensor G4 powers Google's new AI-enabled Pixel 9, and its new A1 chip powers Pixel Buds Pro 2. The TPU, however, is what set Google apart. It was the first of its kind when it launched in 2015. Google TPUs still dominate among custom cloud AI accelerators, with 58% of the market share, according to The Futurum Group. Google coined the term based on the algebraic term "tensor," referring to the large-scale matrix multiplications that happen rapidly for advanced AI applications. With the second TPU release in 2018, Google expanded the focus from inference to training and made them available for its cloud customers to run workloads, alongside market-leading chips such as Nvidia's GPUs. "If you're using GPUs, they're more programmable, they're more flexible. But they've been in tight supply," said Stacy Rasgon, senior analyst covering semiconductors at Bernstein Research. The AI boom has sent Nvidia's stock through the roof, catapulting the chipmaker to a $3 trillion market cap in June, surpassing Alphabet and jockeying with Apple and Microsoft for position as the world's most valuable public company. "Being candid, these specialty AI accelerators aren't nearly as flexible or as powerful as Nvidia's platform, and that is what the market is also waiting to see: Can anyone play in that space?" Newman said. Now that we know Apple's using Google's TPUs to train its AI models, the real test will come as those full AI features roll out on iPhones and Macs next year.
+
+Broadcom and TSMC
+
+It's no small feat to develop alternatives to Nvidia's AI engines. Google's sixth generation TPU, called Trillium, is set to come out later this year.
+
+Google showed CNBC the sixth version of its TPU, Trillium, in Mountain View, California, on July 23, 2024. Trillium is set to come out later in 2024. Marc Ganley
+
+"It's expensive. You need a lot of scale," Rasgon said. "And so it's not something that everybody can do. But these hyperscalers, they've got the scale and the money and the resources to go down that path." The process is so complex and costly that even the hyperscalers can't do it alone. Since the first TPU, Google's partnered with Broadcom , a chip developer that also helps Meta design its AI chips. Broadcom says it's spent more than $3 billion to make these partnerships happen. "AI chips — they're very complex. There's lots of things on there. So Google brings the compute," Rasgon said. "Broadcom does all the peripheral stuff. They do the I/O and the SerDes, all of the different pieces that go around that compute. They also do the packaging." Then the final design is sent off for manufacturing at a fabrication plant, or fab — primarily those owned by the world's largest chipmaker, Taiwan Semiconductor Manufacturing Company , which makes 92% of the world's most advanced semiconductors. When asked if Google has any safeguards in place should the worst happen in the geopolitical sphere between China and Taiwan, Vahdat said, "It's certainly something that we prepare for and we think about as well, but we're hopeful that actually it's not something that we're going to have to trigger." Protecting against those risks is the primary reason the White House is handing out $52 billion in CHIPS Act funding to companies building fabs in the U.S. — with the biggest portions going to Intel, TSMC, and Samsung to date.
+
+Processors and power
+
+Risks aside, Google just made another big chip move, announcing its first general-purpose CPU, Axion, will be available by the end of the year.
+
+Google showed CNBC its new Axion CPU, Marc Ganley
+

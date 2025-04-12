@@ -1,0 +1,46 @@
+link: https://www.cnbc.com/2024/12/05/mls-commissioner-don-garber-apple-messi-soccer.html
+
+source: www.cnbc.com
+
+title: MLS Commissioner Don Garber talks Apple subscribers, Messi and growth of soccer
+
+summary: MLS Commissioner Don Garber said Apple subscriptions are exceeding expectations.
+
+publishDate: 2024-12-05T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9990566372871399
+
+images: ['https://image.cnbcfm.com/api/v1/image/105053467-SHERMAN_A_8x10.jpg?v=1520541396&w=60&h=60&ffmt=webp', 'https://image.cnbcfm.com/api/v1/image/107276576-1690318139295-gettyimages-1068937992-SportsCenter.jpeg?v=1733247696&w=600&h=300&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: Major League Soccer Commissioner Don Garber said the state of soccer in the U.S. is strong and Apple subscriptions are exceeding expectations as the league prepares for the MLS Cup on Saturday.
+
+Appearing on the CNBC Sport videocast with Alex Sherman, Garber, who just signed a new contract with MLS through 2027, said more than 12 million fans attended games this year. And that enthusiasm translated to watching games outside the stadium, too.
+
+"We have more subscribers than we and Apple thought we would have. We have more people watching our games," Garber said.
+
+Apple has not released any subscriber numbers, leading some to speculate that the numbers might not be very strong.
+
+"At some point there'll be more transparency," Garber said.
+
+Yet the soccer commissioner said he's exceedingly happy with the relationship, noting that Apple gives MLS the platform to make every single game a national game. They've also streamlined start times, meaning matches now begin at two different times instead of 60 different times to make it easier for fans to tune in.
+
+"We have the ability to have technology and data and multi-stream experiences, things we wouldn't have been able to do with linear, perhaps even with other streaming services," Garber said. "So when you can partner with a company like Apple, you have opportunity to solve issues and lean into a better future."
+
+Meanwhile, Garber is preparing for the 2024 MLS Cup to kick off in Los Angeles on Saturday. But MLS' crown jewel Lionel Messi will not be playing.
+
+Instead, the LA Galaxy will try to reclaim their place as MLS's most successful club, having already won a record five MLS Cups. They will play the New York Red Bulls, who are seeking their first-ever MLS Cup and had a dramatic turnaround after finishing last season 26th out of 29 clubs.
+
+"That shows the commitment to, you know, a competition parity that any team could win on any given time," Garber said.
+
+Garber acknowledged that Messi's impact on the game has been unprecedented.
+
+"You could see that pink InterMiami jersey everywhere around the world. It's the No. 1 jersey that Adidas has," he said.
+
+But he isn't worried about life after Messi as he points to the exciting pipeline of younger players.
+
+"I think there'll be another Messi at some point," Garber said. "And we've constantly evolved from having big name players that could could really make a difference and break through this very, very busy market."
+

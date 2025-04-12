@@ -1,0 +1,42 @@
+link: https://finance.yahoo.com/news/meet-unstoppable-stock-could-join-083300727.html
+
+source: finance.yahoo.com
+
+title: Meet the Unstoppable Stock That Could Join Apple, Nvidia, and Microsoft in the $3 Trillion Club Next Year
+
+summary: 
+
+publishDate: 2024-11-01T08:33:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9706003665924072
+
+images: ['https://s.yimg.com/ny/api/res/1.2/FiPBOmo.IpfOHSD5S0WSWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/c03468363a280fa9df817946bfde525a', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0']
+
+content: American stock exchanges currently host seven different companies with a valuation of $1 trillion or more, but only three of them have graduated into the $3 trillion club:
+
+Apple: $3.5 trillion Nvidia: $3.4 trillion Microsoft: $3.2 trillion
+
+Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL) is the world's fourth-largest company with a market capitalization of $2.1 trillion. It's the parent company of Google, YouTube, and Waymo, and the conglomerate is quickly becoming a leader in the artificial intelligence (AI) race.
+
+Start Your Mornings Smarter! Wake up with Breakfast news in your inbox every market day. Sign Up For Free »
+
+Alphabet stock is significantly cheaper than most of its big-tech peers by one traditional valuation metric, and here's why it could join the $3 trillion club in 2025.
+
+Image source: Alphabet.
+
+AI is transforming Alphabet's core business
+
+At the beginning of 2023, Microsoft shocked the technology industry when it agreed to invest $10 billion in ChatGPT creator OpenAI. Microsoft quickly integrated OpenAI's models into its flagship products, including its Bing search engine, which was a direct attempt to erode the dominance of Google Search.
+
+Despite some initial fear among Alphabet's shareholders, Google Search still has a global market share of 90% in the internet search industry today. Nevertheless, the conglomerate was determined to become a serious competitor in the AI race, and its latest Gemini family of AI models are among the industry's best. Seven of Alphabet's products now have 2 billion monthly users, and Gemini is integrated into all of them to transform the customer experience.
+
+Google Search is one of those products. Alphabet introduced AI Overviews earlier this year, which are AI-generated responses that appear at the top of the regular search results. They include text, images, and links to third-party sources to give users rapid answers to their questions, which makes the traditional internet search experience more competitive with the flood of new AI chatbots hitting the market. Alphabet CEO Sundar Pichai says Overviews are now rolling out to over 100 countries, and they will reach more than 1 billion users every month.
+
+Google Workspace customers can also integrate Gemini into Docs, Sheets, Gmail, and more for an additional monthly subscription fee. Gemini's ability to generate and summarize text, and instantly answer questions on a range of topics can help users significantly improve their productivity. Alphabet said Workspace delivered strong growth in the third quarter of 2024 (ended Sept. 30), driven by higher revenue per user -- which can be attributed (at least partially) to customers adding Gemini to their existing plans.
+
+Story Continues
+

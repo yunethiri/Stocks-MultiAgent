@@ -1,0 +1,112 @@
+link: https://www.yahoo.com/tech/apple-intelligence-whats-new-in-ios-182-223004890.html
+
+source: www.yahoo.com
+
+title: Apple Intelligence: What's new in iOS 18.2
+
+summary: 
+
+publishDate: 2024-12-09T22:30:04.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998915195465088
+
+images: ['https://s.yimg.com/uu/api/res/1.2/J7PaTRfA16jh36M3tHKR.g--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-05/0cee3550-d205-11ec-bf1f-9b47cb9d42c7.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/R116f7oTxjBkJkE21PjJ_g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/1a756840-b70b-11ef-9d1b-1aff8d1c9b77.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/DxPmDT9rEtpZ2pqNGgQCiA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mashable_articles_863/27915c55100c375338322e3d74a6b7e7.cf.webp']
+
+content: Apple Intelligence was the big news at the company's Worldwide Developers Conference back in June. Apple made good on a modest first wave of features in October. But iOS 18.2 — along with sibling OS upgrades for Mac and iPad — will bring a meatier set of Apple Intelligence features to Apple's suite of devices, including Genmoji, Image Playground and ChatGPT integration.
+
+To check out Apple's new AI, you must have an eligible device and run the current iOS 18.1, iPadOS 18.1 or MacOS 15.1. (On the iPhone side, that's basically the current iPhone 16 models plus last year's iPhone 15 Pro and Pro Max.) You'll also need to join the waitlist in the Settings app, but Apple Support says it usually only takes a few hours to gain access. Once approved, you'll receive a notification saying it's ready to activate on your device.
+
+Here's what Apple Intelligence features you'll soon have access to this month and beyond. For now, you can test out Writing Tools, check out the new additions to the Photos app, see summarized notifications and more.
+
+Which Apple Intelligence features are coming soon?
+
+More Apple intelligence features are expected to become available in December with the release of iOS 18.2, but you can try them now if you're running the developer beta. Here's what Apple has said is coming.
+
+Advertisement Advertisement
+
+Genmoji: You'll be able to create custom emojis called Genmoji by using photos of friends and family or by typing a description of what you want.
+
+Image Playground: This tool will let you quickly create fun images, like turning yourself into a cartoon character, and let you come up with a new image based on the description you give.
+
+ChatGPT integration: Perhaps the most well-known AI tool will be built-in to Writing Tools and Siri to help out with requests. For instance, if you ask Siri about a certain document, ChatGPT can help. But Apple is, as usual, prioritizing privacy considerations: You'll always be asked before your information is shared and you'll control when it's used.
+
+Priority Notifications: When you receive multiple notifications each day, they'll be prioritized by what’s most important. For instance, if you have a dinner reservation that evening or an important meeting to attend, those notifications will be shown at the top of your notifications so you don't forget.
+
+Advertisement Advertisement
+
+Visual intelligence (iPhone 16 series only): Using the new Camera Control button on the iPhone 16 lineup, you'll be able to learn about and interact with objects and places right in front of you. For instance, you can use it to translate a sign from one language to another or find out more about a restaurant you've never been to by opening the Camera app, then pressing and holding the Camera Control button.
+
+In 2025, we'll see a more robust Siri integration. For starters, it's getting onscreen awareness to "take action with things on your screen." So if a friend texts you their new email address or when their birthday is, you can ask Siri to add it to their contact card.
+
+Priority notifications are coming soon to iPhones compatible with Apple Intelligence. (Apple)
+
+What is Apple Intelligence?
+
+Apple Intelligence is essentially Apple's very own generative AI system built-in to eligible devices to help with tasks like writing, communicating and expressing yourself. Apple says that while it draws on your personal context, it doesn't allow anyone else – Apple employees included – to access your personal data.
+
+Note that Apple will integrate ChatGPT into its system to help with Siri and Writing Tools (more below), but you must give permission to use it on a case-by-case basis.
+
+Which Apple Intelligence features are available now?
+
+Apple Intelligence provides access to a variety of new features you can use on your iPhone, iPad or Mac if they're one of the eligible devices.
+
+Advertisement Advertisement
+
+New Photos app additions: While a new Photos app is available for everyone who upgraded to iOS 18, iPhones compatible with Apple Intelligence (and running iOS 18.1 or newer) also get a new Clean Up tool that lets you remove background objects from your pictures with just a tap. For instance, you can remove strangers from your family photo at the beach or that piece of laundry you forgot to put away. And if you have thousands of photos and videos saved, you can now find what you're looking for by describing it — show all photos featuring a blue house with a red door, for example.
+
+Writing Tools: You can use this in most apps to help proofread your text, as well as craft different versions of what you've written until you find the right words. For example, if you need to write a cover letter or send an email to your boss, you can use Writing Tools to help you communicate what you need to say. This tool will also summarize an entire lecture for you, or any text you select. More features will be added in future updates.
+
+Summarized notifications: If you receive dozens of notifications each day, you'll now see a summary of the messages to make it easier to read through them.
+
+Siri improvements: Apple has given Siri an AI makeover to make conversations with the smart assistant more natural, but more. And for your convenience, you'll be able to switch back and forth between giving commands by voice or by typing to Siri. The bot also comes with "richer language-understanding capabilities," which is helpful if you tend to jump from thought to thought while talking.
+
+Advertisement Advertisement
+
+Siri improvements: Apple is pledging to make Siri more dynamic and useful with a series of upgrades coming in 2025. In the meantime, you can now switch back and forth between giving commands by voice or by typing. The assistant is also now said to offer "richer language-understanding capabilities," which is helpful if you tend to jump from thought to thought while talking. And it now features a new interface, which shows a glowing edge on your screen when activated.
+
+Which devices are compatible with Apple Intelligence?
+
+Compatibility with Apple Intelligence is largely limited to very recent iPhones, as well as Macs and iPads with Apple's M-series Apple Silicon chips. Here's the full list of devices that will work with Apple Intelligence.
+
+iPhone 16
+
+iPhone 16 Plus
+
+iPhone 16 Pro
+
+iPhone 16 Pro Max
+
+iPhone 15 Pro
+
+iPhone 15 Pro Max
+
+iPad Pro: M1 and later
+
+iPad Air: M1 and later
+
+iPad Mini: A17 Pro
+
+MacBook Air: M1 and later
+
+MacBook Pro: M1 and later
+
+iMac: M1 and later
+
+Mac mini: M1 and later
+
+Mac Studio: M1 Max and later
+
+Mac Pro: M2 Ultra
+
+What regions and languages support Apple Intelligence?
+
+To use Apple Intelligence on an eligible device, make sure Siri's language is set to US English – this should work for most regions around the world. In December, English language support for Australia, Canada, Ireland, New Zealand, South Africa and the UK will be available.
+
+For European Union (EU) Apple device users, Apple Intelligence should now be available on their eligible macOS devices. They'll gain access on their iPhones and iPads in April.
+
+In 2025, Apple expects to have support for additional languages like Chinese, English (India and Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, Vietnamese and more.
+

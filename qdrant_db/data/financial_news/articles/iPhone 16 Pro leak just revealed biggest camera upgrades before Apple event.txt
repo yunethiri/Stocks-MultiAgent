@@ -1,0 +1,40 @@
+link: https://www.yahoo.com/tech/iphone-16-pro-leak-just-123507350.html
+
+source: www.yahoo.com
+
+title: iPhone 16 Pro leak just revealed biggest camera upgrades before Apple event
+
+summary: 
+
+publishDate: 2024-09-07T12:35:07.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9973633885383606
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/c7zi4g7eCKY7mDymk.rG3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_guide_826/ad2930c0fe78a196433755a871cb2c75', 'https://s.yimg.com/ny/api/res/1.2/gwqT8TbiS1YKBG2OuNgWSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/ad2930c0fe78a196433755a871cb2c75']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+Apple’s upcoming Glowtime event is just days away, and while plenty has already been revealed about the iPhone 16 Pro, it seems there’s still time for one or two new surprises to emerge. “Reliable sources” speaking to 9to5Mac have revealed some camera tricks the Pro-model handsets will ship with when it debuts on Monday.
+
+The most exciting of these is the ability to shoot 4K video at 120 frames per second (FPS). While certain high-end Android phones have been able to do this for some time, it’s new to the iPhone, where even the iPhone 15 Pro Max tops out at 60FPS when taking 4K video. You’ll be able to up to this visually lossless ProRes 4K at 120FPS, but only if you’re connected to external storage.
+
+The site reports it has also seen evidence that Apple has tested 8K video filming on the iPhone 16 Pro models, which seems plausible given the ultrawide lenses are reportedly being bumped to 48MP (confirmed again here by 9to5Mac’s sources), and the A18 Pro chip seems ready for the resolution too.
+
+That said, the article says it’s currently “unclear” whether Apple will enable 8K recording on production devices, given the zoom lens would still be capped at 4K. Instead, it suggests, Apple may save 8K for the iPhone 17 family.
+
+There are other improvements mooted, however. There will apparently be the ability to pause and resume video recordings in the camera app, the removal of wind noise from videos, new Photographic Styles with enhanced machine learning to preserve skin tones, Vision Pro compatible 3D Spatial Photos and support for the JPEG-XL format. While it’s not explicitly stated, it seems likely that at least some of these will be supported by the regular iPhone 16 too, given a few appear to be software rather than hardware-based tweaks.
+
+The report also provides more insights into how the long-rumored Capture Button will work. The site’s sources say that it’s a touch-sensitive button that can perform different actions depending on whether you press or slide it.
+
+Known internally as the “Camera Button” (though likely to be something more marketable on release), a simple press will open up the camera app or a third-party app of your choice. Once inside, a hard press will take a photo or start shooting video, while a soft press will trigger auto-focus. If you slide your finger across the button, the camera will adjust either zoom or exposure.
+
+We don’t have long to wait to see what else the new handsets have in store, with Apple’s Glowtime event scheduled to kick off in just a few days, on Monday 9th September. While the iPhone 16 will undoubtedly be the star of the show, we’re also expecting to see the Apple Watch 10, AirPods 4 and perhaps even the iPad mini 7.
+
+While we’ll cover all the news as it breaks, you can also tune in to see it unfold in real-time — here’s how to watch the Apple Glowtime event.
+

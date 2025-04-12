@@ -1,0 +1,74 @@
+link: https://finance.yahoo.com/news/prediction-2-stocks-thatll-worth-075900357.html
+
+source: finance.yahoo.com
+
+title: Prediction: 2 Stocks That'll Be Worth More Than Apple 10 Years From Now
+
+summary: 
+
+publishDate: 2024-08-24T07:59:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9989122152328491
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300249&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fprediction-2-stocks-thatll-worth-075900357.html&c14=-1', 'https://media.zenfs.com/en/motleyfool.com/38065f492de1872da210cd93083fbb3e', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: In the world of finance, 10 years is the blink of an eye. Want proof? Take a close look at the table below:
+
+Company 2014 Market Cap (in billions) 2024 Market Cap (in billions) IBM $182 $178 Nvidia $10 $2,965
+
+In August 2014, IBM's market cap was roughly 18 times larger than Nvidia's (NASDAQ: NVDA). But oh, how the tables have turned. Today, Nvidia boasts a market cap of about $3 trillion -- roughly 17 times larger than IBM.
+
+So, looking ahead to the next 10 years, what are the companies that could surpass Apple's enormous market cap? Here are two that could pull it off.
+
+Image source: Getty Images.
+
+Microsoft
+
+If a company is going to surpass Apple over the next decade, it will need a gigantic market cap. Even assuming Apple's market cap holds steady, that would mean a company would need to reach a market cap of $3.4 trillion to catch Apple.
+
+That's a very tall order, and there are only so many companies that could do it. Microsoft (NASDAQ: MSFT) is one of them.
+
+For starters, Microsoft already has a market cap of $3.1 trillion as of this writing. As recently as June, Microsoft did have a market cap larger than Apple. What's more, Microsoft holds a few competitive advantages that should, over time, help the company's market cap ease past Apple.
+
+First, Microsoft has a more diversified business. The company has its hands in cloud computing, gaming, advertising, hardware, software, social networking, and artificial intelligence (AI). In short, Microsoft has many pathways to success. Apple, on the other hand, has traditionally benefited from its excellent hardware innovation. And while Apple services and AI could boost the company's revenue, flagging iPhone sales could present a real challenge to Apple over the next decade.
+
+In my book, that means an advantage for Microsoft.
+
+Nvidia
+
+I have reservations about Nvidia right now. Its sky-high valuation makes it vulnerable to a nasty correction if the company's sales show any signs of slowing. That said, this article is about what could happen over the next 10 years. And in that case, I think Nvidia is well positioned to surpass Apple.
+
+That's because Nvidia's core business -- making the graphics processing units (GPUs) that will power cutting-edge AI systems for the next decade -- is on a long-term growth trajectory that Apple simply can't match.
+
+Sales of Apple's signature product -- the iPhone -- grew every year between 2007 and 2015, but they've been flat since then.
+
+Image source: Statista.
+
+Nvidia, on the other hand, is still growing. Over the last two years, the company has tripled its revenue as GPUs have sold like hotcakes. That growth isn't likely to slow in the next few years. Most analysts expect Nvidia's sales to double again to around $160 billion by 2026.
+
+Story continues
+
+Sure, there are likely to be some bumps in the road as the competitors take some market share from Nvidia in the red-hot AI chips market. But even if Nvidia's sales growth slows, it could easily close the $500 billion market cap difference between it and Apple over the next decade.
+
+Should you invest $1,000 in Microsoft right now?
+
+Before you buy stock in Microsoft, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Microsoft wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $758,227!*
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of August 22, 2024
+
+Jake Lerch has positions in International Business Machines and Nvidia. The Motley Fool has positions in and recommends Apple, Microsoft, and Nvidia. The Motley Fool recommends International Business Machines and recommends the following options: long January 2026 $395 calls on Microsoft and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.
+
+Prediction: 2 Stocks That'll Be Worth More Than Apple 10 Years From Now was originally published by The Motley Fool
+

@@ -1,0 +1,34 @@
+link: https://www.reuters.com/legal/arm-qualcomm-lawyers-grill-ex-apple-exec-chip-design-battle-2024-12-17/
+
+source: www.reuters.com
+
+title: Arm, Qualcomm lawyers grill ex-Apple exec in chip design battle
+
+summary: Attorneys for Arm , and Qualcomm grilled a former Apple executive on Tuesday about a key question for the future of the chip industry: Who owns the intellectual property built on top of Arm's computing architecture?
+
+publishDate: 2024-12-17T21:32:29.489Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9991218447685242
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Attorneys for Arm <a href="https://www.reuters.com/markets/companies/O9Ty.F" target="_blank">(O9Ty.F)</a>, and Qualcomm <a href="https://www.reuters.com/markets/companies/QCOM.O" target="_blank">(QCOM.O)</a> grilled a former Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> executive on Tuesday about a key question for the future of the chip industry: Who owns the intellectual property built on top of Arm's computing architecture?
+At stake in a trial in U.S. federal court in Delaware this week is the fate of Qualcomm's push into the laptop business, where it is helping partners such as Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> try to regain ground that Windows computers lost to Apple after the iPhone maker introduced its own custom chips.
+Arm's flagship product is a computing architecture that competes against Intel's architecture and is ubiquitous in smartphones and increasingly used in laptops and data centers. Competing computing architectures are the reason that, until relatively recently, most smartphone apps did not work on most laptops.
+Massive companies like Apple design their own computing cores based on Arm's architecture, but Arm also offers its own off-the-shelf core designs that are used by smaller firms such as MediaTek <a href="https://www.reuters.com/markets/companies/2454.TW" target="_blank">(2454.TW)</a>. Where Arm's ownership of the core designs based on its architecture begins and ends is at the heart of the dispute between Arm and Qualcomm.
+The companies disagree over whether Nuvia, a firm Qualcomm paid <a href="/business/qualcomm-eyes-challenge-apple-intel-with-14-billion-deal-chip-startup-2021-01-13/">$1.4 billion for in 2021</a>, had the right to transfer its computing core designs to Qualcomm after the sale.
+In U.S. federal court in Delaware on Tuesday, attorneys for both sides pressed Gerard Williams, a former Apple engineer who founded Nuvia in 2019, over whether Nuvia's cores were ultimately derivatives of Arm's technology or whether Arm's technology played only a trivial role in Nuvia's work.
+Arm's attorney pressed Williams to acknowledge that the licensing contract at the heart of the dispute covered Arm technology and "derivatives" and "modifications" made from it.
+Williams repeatedly said he did not believe the contract meant that all of Nuvia's work was a derivative or modification of Arm's technology, but acknowledged that was what the words on the page appeared to say.
+Daralyn Durie, the Arm attorney, pointedly asked Williams to agree that "maybe you wouldn’t say that, but that’s what the contract says."
+“I wouldn’t say that," Williams responded, "but I’m not a legal expert.”
+Durie immediately said she was finished with her questioning.
+The exchange with Durie followed questioning by Qualcomm's attorney, who guided Williams to describe how little Arm technology was in Qualcomm chips that power phones, laptops and cars.
+Williams said his team of developers started with Arm architecture and was asked to estimate the amount of Arm's technology in Nuvia's final designs. "One percent or less," Williams responded.
+Analysts have told Reuters that Qualcomm pays Arm about $300 million per year, and evidence introduced at trial on Monday showed Arm executives believed they were missing out on $50 million per year in additional revenue because of Qualcomm's acquisition of Nuvia.
+A jury verdict could come as soon as this week in the trial, and Qualcomm CEO Cristiano Amon also might take the witness stand.
+

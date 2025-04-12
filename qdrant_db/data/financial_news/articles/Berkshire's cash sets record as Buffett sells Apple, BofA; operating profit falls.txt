@@ -1,0 +1,24 @@
+link: https://www.reuters.com/markets/us/berkshires-cash-sets-record-buffett-sells-apple-bofa-operating-profit-falls-2024-11-02/
+
+source: www.reuters.com
+
+title: Berkshire's cash sets record as Buffett sells Apple, BofA; operating profit falls
+
+summary: Warren Buffett and Berkshire Hathaway extended their retreat from stocks in the third quarter, selling more Apple shares and boosting cash to a record $325.2 billion, while the company's operating profit declined.
+
+publishDate: 2024-11-02T12:36:52.799Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999978542327881
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Warren Buffett and Berkshire Hathaway <a href="https://www.reuters.com/markets/companies/BRKa.N" target="_blank">(BRKa.N)</a> extended their retreat from stocks in the third quarter, selling more Apple shares <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> and boosting cash to a record $325.2 billion, while the company's operating profit declined.
+In its quarterly report on Saturday, Berkshire said it sold about 100 million Apple shares, on top of several billion dollars of Bank of America <a href="https://www.reuters.com/markets/companies/BAC.N" target="_blank">(BAC.N)</a> shares.
+Berkshire repurchased none of its own stock in the quarter, suggesting that Buffett doesn't view even his own company's shares as a bargain.
+Operating profit from Berkshire's dozens of businesses such as the BNSF railroad and Geico car insurance fell 6% to $10.09 billion, or about $7,019 per Class A share, from $10.76 billion a year earlier.
+Net income totaled $26.25 billion, or $18,272 per Class A share, compared with a loss of $12.77 billion, or $8,824 per share, a year earlier when falling stock prices reduced the value of Berkshire's investments.
+

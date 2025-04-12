@@ -1,0 +1,86 @@
+link: https://www.yahoo.com/tech/bought-apples-ecosystem-instantly-regretted-221900255.html
+
+source: www.yahoo.com
+
+title: I bought into Apple's ecosystem… and instantly regretted it
+
+summary: 
+
+publishDate: 2024-12-29T22:19:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998972415924072
+
+images: ['https://s.yimg.com/uu/api/res/1.2/zf9LKuobpvepktcSawZecg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.reutersnews.com/b7c90e5b771cd230ec36285c41282782.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/vl_.KfPpliNZNMnp8yNMTg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/2e0df16ae8acff32c77a305143bab3ea.cf.webp', 'https://s.yimg.com/ny/api/res/1.2/HD7YqoI7jicQ_oHjrtZ4rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/digital_camera_world_590/77117ddd01da8e7f8a58d9965b50a19e']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Staying in rural New Zealand is lovely... but when my MacBook locked me out, I was 1,500 miles from the nearest Apple Store. | Credit: Future
+
+Until recently, it was all so clear. I vowed never to spend my money on anything made by Apple. Why? Two reasons.
+
+The first was that I believed Apple kit to be overpriced. Not because they aren't excellent computers, phones or tablets. I've spent many years reviewing them as a journalist, so I know they're good. But essentially because I believe you're paying a signifcant markup for something that's as much a fashion item as a Gucci handbag or a Hermès T-shirt. And that just isn't me.
+
+Advertisement Advertisement
+
+Advertisement
+
+The second, equally powerful dissuader was that I didn't want to buy into Apple's ecosystem. The moment any of my friends had bought an Apple device, it seemed like they'd joined some sort of cult, with all their in-crowd talk of "Airdrop me this" and "iMessage me that". Plus everything they did seemed to require extra spend, compared with Windows or Android. They couldn't even use a USB phone charger!
+
+So I continued on avoiding Apple, happy in my smug bubble. But every now and again, something would threaten to burst it.
+
+Why I was tempted
+
+Closeup on Dell laptop
+
+There were those lengthy and unwanted Windows updates, which shut down my machine for hours, and usually screwed everything up. There were apps, such as Microsoft Teams, that would refuse point blank to work, despite me using Microsoft's own software to run them. There was the tendency of Windows Media Player to either delete or duplicate songs. At times like this, I'd think about Apple devices and how, as the cliche goes, they "just work".
+
+All, this came to a head when my Dell Latitude laptop died, and a salesman in Harvey Norman told me had a 2020 MacBook Air going for a song. Admittedly, this model is now discontinued, but it does feature the much-famed M1 chip: the first of a new era of Apple-made processors that has revolutionised its computing capabilities.
+
+Advertisement Advertisement
+
+Advertisement
+
+It was an offer I couldn't refuse. The low price nullified my first objection, and the issue of the ecosystem… well, I was sure I could learn to live with it.
+
+So I took my shiny new MacBook home, opened it up, and felt I'd made the right decision. It felt fast, smooth, responsive. I loved the screen, and the audio was fantastic. Plus it was super-light. Fabulous.
+
+But then, two days later, my freelancing world came crashing down around me.
+
+How it all went wrong
+
+I typed what I firmly believed to be my password into the opening screen, but it wouldn't accept it. I did it so many times, it locked me out for a few minutes, then 10 minutes, then 20... Panic started to bubble up within me.
+
+Advertisement Advertisement
+
+Advertisement
+
+I used the "recover password" option, and Apple said it was sending me a verification email, but none arrived. The same thing happened with the text it said it was sending my phone. I tried other email addresses and phone numbers, and none of them worked either. I tried booting into Recovery Mode but typing the Command + R shortcut got no response. Whatever happened to "just works"?
+
+I clicked through the Apple help and support pages and got a message saying my only options were (a) to visit an Apple Store, (b) borrow someone else's Apple device or (c) embark on some complex verification over the phone that would take "up to several days".
+
+The problem was, I was on my travels and staying in a tiny town in the middle of nowhere, New Zealand. I didn't know anyone there, and it was the sort of place where knocking on strangers' door and asking to borrow their iPhone might not go down too well. Plus the nearest Apple Store was 1,529 miles away in Brisbane, Australia. Yes, there are no Apple Stores in New Zealand.
+
+Abstract graphic pattern surrounding Apple logo and the words
+
+As a freelancer, I'm certainly not in a financial position to just take "several days" off work. Plus if missed my deadlines, my editors wouldn't be at all happy.
+
+Advertisement Advertisement
+
+Advertisement
+
+It's not like I've never been locked out of a computer or web service before. But normally, recovery is a pretty straightforward process. Yet when I called up Apple's helpline, the (admittedly very helpful and kind) guy on the other end of the phone kept saying things like "this shouldn't happen…" and "hmmm… that should have worked", which only increased my panic.
+
+All of which made me think about how Apple has made their devices so secure that even the FBI can't break into them. Indeed, nor could Apple itself when the Feds have asked them to help. Which is great to know if someone has stolen your device; but not so great when you're locked out yourself. Why, I screamed at myself inwardly, did I ever choose Apple?
+
+Back for good?
+
+Thankfully, after about two and half hours on the phone with support staff, I managed to get back into my laptop. My brain was so scrambled by this point, I couldn't even tell you what fixed it. All I can tell you is the people I spoke to went above and beyond to fix my problem, and never stopped being polite, friendly and positive. Top marks.
+
+And two weeks later, I've had no issues to date. On balance, I love my MacBook Air and am still glad I bought it. And if you can afford one of the best MacBooks released in the last few years, I'd say go for it.
+
+Just be aware that Apple's security procedures are very tight and, in my experience, more of a hindrance than a help. So even if it goes everything you've been taught, make a physical note of the password you set up with, put it in a safe place, and be very, very careful about typing it in.
+

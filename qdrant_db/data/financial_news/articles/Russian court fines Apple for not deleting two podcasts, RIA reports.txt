@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/russian-court-fines-apple-not-deleting-two-podcasts-ria-reports-2024-11-05/
+
+source: www.reuters.com
+
+title: Russian court fines Apple for not deleting two podcasts, RIA reports
+
+summary: A Moscow court on Tuesday fined U.S. technology giant Apple 3.6 million roubles ($36,889) for refusing to remove two podcasts that contained "information aimed at destabilising the political situation in Russia", the RIA news agency reported.
+
+publishDate: 2024-11-05T14:34:25.353Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9675698280334473
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: A Moscow court on Tuesday fined U.S. technology giant Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> 3.6 million roubles ($36,889) for refusing to remove two podcasts that contained "information aimed at destabilising the political situation in Russia", the RIA news agency reported.
+Russia has fined several foreign companies for not removing content in the past few years in what critics say is a campaign by the Kremlin to restrict the influence of Western technology companies, especially since Moscow sent its armed forces into Ukraine in February 2022.
+($1 = 97.5955 roubles)
+

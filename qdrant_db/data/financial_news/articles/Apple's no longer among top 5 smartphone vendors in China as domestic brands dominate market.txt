@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/07/26/apple-loses-top-5-spot-in-china-smartphone-market-as-domestic-brands-dominate-.html
+
+source: www.cnbc.com
+
+title: Apple's no longer among top 5 smartphone vendors in China as domestic brands dominate market
+
+summary: Apple's smartphone market share in China declined 2% in the second quarter as it faces intensifying rivalry from rivals like Huawei, a Canalys report showed.
+
+publishDate: 2024-07-26T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9978814721107483
+
+images: ['https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/108011436-17218568811721856877-35503235887-1080pnbcnews.jpg?v=1721856880&w=750&h=422&vtcrop=y']
+
+content: Customers are shopping for the iPhone 15 at the flagship store of Apple Smart Products on Nanjing Road Pedestrian Street in Shanghai, China, on May 24, 2024.
+
+Apple was edged out of the top five smartphone vendors' list in China in the second quarter, as competition from domestic brands such as Huawei intensifies, according to a Canalys report.
+
+Apple's market share in China shrank to 14% in the second quarter, the report released Thursday showed, from 15% in the first quarter and 16% in the same period a year ago.
+
+The iPhone maker, which was the third-largest smartphone vendor in the second quarter last year, dropped to the sixth spot with about 9.7 million in shipments, according to CNBC calculations.
+
+"It is the first quarter in history that domestic vendors dominate all the top five positions," said Lucas Zhong, research analyst at Canalys.
+
+Apple's shipments have been declining since the first quarter when they dropped 25% year on year to 10 million units.
+
+"Chinese vendors' strategies for high-end products and their deep collaboration with local supply chains are starting to pay off in hardware and software features. Honor's latest Magic V3, which leverages GenAI, has significantly enhanced the user experience of foldable devices," Zhong added.
+
+On the other hand, Apple is facing a "bottleneck" in the Chinese market as it aims to "stabilize retail prices and protect margins of channel partners," he said.
+
+Localization of Apple Intelligence services in China will be an important move in the next 12 months, Canalys said, as Chinese brands are aggressively incorporating generative AI into their products.
+

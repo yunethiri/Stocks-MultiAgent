@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/tech/huawei-may-borrow-page-apple-180119135.html
+
+source: www.yahoo.com
+
+title: Huawei may borrow a page out of Apple and Intel's CPU playbook — next-gen Kirin CPU may use similar packaging as Apple M-series chips and Intel Lunar Lake
+
+summary: 
+
+publishDate: 2024-08-03T18:01:19.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999990463256836
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fhuawei-may-borrow-page-apple-180119135.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Shutterstock
+
+Huawei's next-generation Kirin chip will reportedly use a unified memory architecture (UMA), much like the Apple M-series silicon and Intel Core Ultra Series CPUs. It means that Huawei will bake in the RAM on the next-generation Kirin processors and make it available to the GPU and CPU. Weibo user Fixed Focus Digital (machine translated from Chinese), who also predicted that the Kirin CPU with Taishan V130 cores could match Apple M3 performance, said, "This is a chip specially planned for AI terminal products, and the memory bandwidth is double that of previous PC chips."
+
+Huawei used to be one of the leading smartphone manufacturers in the world until the U.S. government slapped it with bans and sanctions because of its relationship with Beijing. The company was slowly building up its silicon at that time. Still, because it no longer had access to Qualcomm's and Intel's latest chips or the advanced chip production facilities at TSMC, Huawei was forced to focus on hardware research to build its processors.
+
+Since then, the company has produced chips fully inside China, like the Kirin 9000S built using 7nm technology at SMIC. However, this means that its chips significantly lag behind the processors that used more advanced nodes from TSMC and other non-sanctioned fabs. Even its Ascend 910B AI processors suffer from bad yields, with 80% of chips made having defects.
+
+Nevertheless, Fixed Focus Digital says in another Weibo post (machine translated from Chinese), "The local large model and inference speed of AI is determined by memory bandwidth, and the use of UMA unified memory-DRAM on an IC substrate will have stronger synergistic performance than the chips currently used in Windows."
+
+It could mean that Huawei is building a chip designed to compete against Qualcomm's Snapdragon X processor, which has 45 TOPs NPU. But even if the company successfully produces a chip that can rival Apple and Qualcomm SoCs in performance, we're still unsure if it can use Microsoft's AI features, especially the Copilot+ PC branding.
+
+That's because American lawmakers are not just trying to block advanced hardware from entering China; they also want to cut off the East Asian power from the American AI code.
+
+Despite all the leaks, there is only one way we can know if Huawei's chip could face off with Apple's best — by running it on public benchmarks and comparing the results. But even though Huawei's new chips made outside of America's restrictions are much slower than their peers, it's still a wonder that the company could produce chips. Only time will tell if China will ever achieve performance parity with the U.S., but it seems that Huawei is taking the proper steps to catch up with AMD, Apple, Intel, and Qualcomm.
+

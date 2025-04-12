@@ -1,0 +1,58 @@
+link: https://finance.yahoo.com/news/apple-iphone-16-hasn-t-144022137.html
+
+source: finance.yahoo.com
+
+title: The iPhone 16 isn’t selling as well as Apple may have hoped
+
+summary: 
+
+publishDate: 2024-09-30T22:15:08.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.6885953545570374
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-iphone-16-hasn-t-144022137.html&c14=-1', 'https://media.zenfs.com/en/cnn_business_articles_218/63087de108580a6a1a1a92d41dcf1871', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Apple (AAPL) had been counting on new artificial intelligence features to make the iPhone 16 a major hit. But pre–sale estimates point to a more muted early response than Apple had hoped.
+
+Apple needed the iPhone 16 to be a big seller after years of sluggish iPhone sales. Long gone are the years when loyal Apple fans would line up to trade in their device on a near-annual basis, and the company hasn’t given consumers a big reason to upgrade since adding 5G connectivity with the iPhone 12. It’s been hoping that a suite of new software features that weave AI throughout would be a hit.
+
+But despite several splashy launch events, it’s not clear if Apple has successfully made the case to consumers just yet.
+
+Apple sold just an estimated 37 million units in the first weekend of iPhone 16 pre-sales, down more than 12% compared to the same period last year, according to a blog post from Ming-Chi Kuo, an Apple analyst with TF International Securities. In particular, demand for the higher priced iPhone 16 Pro devices were down sharply year-over-year compared with the iPhone 15 launch.
+
+One week after pre-sales began, Wedbush analyst Dan Ives pegged pre-sales only slightly higher than Kuo’s estimate at roughly 40 million units. CFRA Research technology analyst Angelo Zino also said the first weekend of preorder sales data pointed to a year-over-year decline.
+
+Perhaps more than the number of devices customers bought during presale season, Apple may need to worry about which phones in the iPhone 16 lineup consumers are opting for, given that the upgrades to the standard devices make them comparable in many ways to the Pro models. Analysts say there appears to have been greater demand for the lower priced iPhone 16 and iPhone 16 Plus devices than the Pro and Pro Max, which could affect the average selling price and overall iPhone sales revenue.
+
+In the first weekend of presales, Apple sold 9.8 million iPhone 16 Pros and 17.1 million iPhone 16 Pro Max devices, down 27% and 16% year-over-year, respectively, according to Kuo. By comparison, sales of the standard iPhone 16 and the Plus were up slightly compared to the iPhone 15.
+
+The issue, Zino said, is that the base iPhone models might simply be too good.
+
+“Given that this is largely a software upgrade cycle, my concern is that there were a greater mix of sales in the lower price iPhone 16 than the higher price devices,” Zino said. “When you look at the standard devices, they got a really great upgrade in terms of their cameras and internal processors.”
+
+Kuo also reported shorter delivery lead times for the iPhone 16 Pro models — 1-2 weeks for the iPhone 16 Pro during first weekend pre-sales — compared to the iPhone 15, which saw customers waiting 3-4 weeks for their devices. He pointed to the fact that the iPhone maker’s highly touted AI “Apple Intelligence” features aren’t even available on the devices yet (they’re set to begin rolling out in beta next month along with iOS 18.1), as well as the company’s ongoing struggle with increased competition in China.
+
+Story continues
+
+“You need to wait for word of mouth to trickle through the consumer base over the next couple of quarters,” before consumers will see the value of the new technology, Zino said.
+
+The pre-sale response may indicate that the promise of integrated AI features alone is not enough to spring Apple from its iPhone rut. There’s only so much that Apple can physically do to improve the iPhone’s camera or adjust its screen size, and software updates that many consumers already feel iffy about are likely a harder sell. And for all but the most devoted Apple fans, analysts say that most customers probably don’t yet deeply understand why the AI features would be worth an upgrade.
+
+To be sure, it is still early days for the iPhone 16, and more have been sold since the devices became available on shelves on September 20.
+
+What’s more, the measurements that analysts use to estimate presales don’t necessarily tell the whole story. Many consider lead time, the delay between when consumers order their devices and when they will be delivered, to be a key indicator of demand. The logic goes: the more people who order iPhones, the longer the wait will be.
+
+Lead times are shorter for the iPhone 16 than they were last year, but that may actually be a positive sign that Apple has improved its supply chain, allowing it to produce more phones, more quickly, according to Canalys Analyst Lex Chiew. CFRA’s Zino added that Apple may have also boosted supply ahead of the launch, given the pressure it faced to drive a large upgrade cycle with the iPhone 16.
+
+Another positive signal: T-Mobile CEO Mike Sievert told CNBC after the first week of presales that the carrier had sold more iPhone 16s than it had with the iPhone 15 last year.
+
+Apple won’t share any details on iPhone sales numbers until it reports earnings next month, and even then, the data will only include seven days of presales and 10 days of regular sales. But most analysts still expect the iPhone 16 to prove a winner in the coming months despite a possible slow start, especially heading into the all-important final three months of the year.
+
+“It’s all about a monster holiday quarter and the supercycle begins for iPhone 16 in our view,” Ives told CNN in an email.
+
+For more CNN news and newsletters create an account at CNN.com
+

@@ -1,0 +1,72 @@
+link: https://www.yahoo.com/tech/apple-intelligences-wildest-features-theyre-140000148.html
+
+source: www.yahoo.com
+
+title: How to use Apple Intelligence's wildest features before they're released with iOS 18.2
+
+summary: 
+
+publishDate: 2024-10-27T14:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9907160997390747
+
+images: ['https://media.zenfs.com/en/laptopmag_536/b997fa8ffdff134c5ad47f861a04f466', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/bI3UjUWDhVafwTrDbZIT_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/b58087f0-2952-11ed-bd77-c4838d5619e0']
+
+content: How to use Apple Intelligence's wildest features before they're released with iOS 18.2
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple / Laptop Mag
+
+After months of being teased with Apple Intelligence features, iOS 18.1 will finally be released on October 28. It includes a few neat tools like Clean Up in the Photos app and a slightly enhanced Siri. However, if you're itching to get even more Apple Intelligence features, you can.
+
+On Wednesday, Apple launched the iOS 18.2 developer beta 1, which is packed with some of the AI-powered features we've been most excited about. Here's a brief look at Apple Intelligence features currently available via the iOS 18.2 dev beta.
+
+Apple Intelligence features in iOS 18.2 beta 1
+
+It looks like iOS 18.2 is packed with fun image generation features, easily making it the most exciting update for those with an iPhone 16 series or a Pro-model iPhone 15.
+
+First up, there's Image Playground. According to Apple, this dedicated app will allow you "create fun images in seconds, choosing from three styles: Animation, Illustration, or Sketch." It'll also be available as a tool within other apps, like Messages.
+
+With iOS 18.2, users can play around with creating personalized Genmojis via simple text prompts. You can add these neat emojis in Messages, or use them as stickers or as a reaction in a Tapback.
+
+In the Notes app, Apple will also be adding the Image Wand feature to the Apple Pencil's tool palette. According to Apple, "Rough sketches can be turned into delightful images, and users can even select empty space to create an image using context from the surrounding area."
+
+photo feature apple intelligence
+
+While image generation is perhaps more exciting, the most notable update attached to iOS 18.2 is ChatGPT integration. This'll make Siri much smarter and able to respond faster and better to complex questions and tasks. iOS 18.2 also integrates ChatGPT with Writing Tools, which will allow for a new 'Compose' option that uses generative AI to create text for you.
+
+iOS 18.2 also introduces Visual Intelligence. Similar to how Google Lens works, Visual Intelligence will allow users to identify and learn more about whatever they're taking a photo of, even asking ChatGPT for specific questions related to what's in the photo.
+
+Finally, Apple is expanding support for Apple Intelligence to more regions via iOS 18.2. These AI-powered features will be available in English in Australia, Canada, New Zealand, South Africa, and the United Kingdom.
+
+How to download the iOS 18.2 developer beta 1
+
+It's possible to download the iOS 18.1 developer beta 3 as a non-developer and grab new Apple Intelligence features as long as you've registered with Apple's developer website and you have one of the following phones:
+
+iPhone 15 Pro
+
+iPhone 15 Pro Max
+
+iPhone 16
+
+iPhone 16 Plus
+
+iPhone 16 Pro
+
+iPhone 16 Pro Max
+
+However, doing so isn't recommended if you're an end user and your iPhone is your only phone. If you meet the requirements mentioned above, here's how to download the iOS 18.2 beta 1:
+
+1. Launch your iPhone's Settings app.
+
+2. Head to General, and then Software.
+
+3. Select Software Update > Beta Updates. If you spot the iOS 18.2 beta 1, download and install it.
+
+Otherwise, you'll only have to wait until Monday to download the public release of iOS 18.1, which comes with some Apple Intelligence features, like Clean Up in Photos, AI summaries within many apps, and an enhanced version of Siri.
+

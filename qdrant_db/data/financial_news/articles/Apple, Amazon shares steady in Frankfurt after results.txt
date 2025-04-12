@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/apple-amazon-shares-steady-frankfurt-after-results-2024-11-01/
+
+source: www.reuters.com
+
+title: Apple, Amazon shares steady in Frankfurt after results
+
+summary: Frankfurt-listed shares of "Magnificent 7" stocks Apple and Amazon were broadly steady on Friday, in light volumes after both companies reported quarterly earnings after-market on Thursday.
+
+publishDate: 2024-11-01T07:19:51.102Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9997988343238831
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Frankfurt-listed shares of "Magnificent 7" stocks Apple and Amazon were broadly steady on Friday, in light volumes after both companies reported quarterly earnings after-market on Thursday.
+Apple's Frankfurt listing was down just 0.1% after the company reported offered a <a href="/technology/apple-beats-wall-street-estimates-supported-by-iphone-sales-2024-10-31/">modest growth outlook</a>, even as early iPhone 16 sales grew faster than iPhone 15 sales. Apple shares were mostly in after-hours trading on Thursday.
+Shares in Amazon listed in Frankfurt were up 1.3% after posting third-quarter <a href="/technology/amazoncom-beats-estimates-quarterly-revenue-2024-10-31/">profit and sales above Wall Street estimates.</a> Amazon shares rose by around 6% after the bell on Thursday.
+

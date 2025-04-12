@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-26T15:42:21.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9786989688873291
+
+images: ['https://s.yimg.com/ny/api/res/1.2/5G5G8WFjjhtV1dus6hxNhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/fac61620-778b-11ef-9fff-b9b1b2108597', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8', 'https://s.yimg.com/ny/api/res/1.2/4wJKpYVJFN2GTURC48Hlcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/50bf8b80-bca9-11ef-bada-38725b6ea9b9']
+
 content: Apple (AAPL) stock hit an all-time intraday high Thursday after a nod of confidence in its continued upswing from Wall Street.
 
 Wedbush analyst Dan Ives raised his price target on Apple shares to a new Street high of $325, anticipating “a golden era of growth” for the Tim Cook-helmed tech giant in 2025.
@@ -27,10 +35,4 @@ People shop at the Apple store at Fashion Valley in San Diego, California. (Phot
 Shares began to climb in early November to new highs as Apple unveiled its new MacBook Pro lineup and, in mid December, added ChatGPT and other Apple Intelligence AI features for the iPhone, iPad and macOS. Apple has outperformed several of its so-called Magnificent Seven peers over the past month. While Apple shares have gained more than 11% during that time frame, Meta (META) rose 6.7%, Microsoft (MSFT) climbed 4.4%, Nvidia (NVDA) popped 1%.
 
 Still, macroeconomic uncertainty could create headwinds for Apple. Trump’s tariffs on China could impact prices for Apple products assembled in the country, with the worst case scenario adding $256 of cost per iPhone. The US Federal Reserve’s projection that it would lower interest rates less than expected in 2025 also caused fears of persistent higher rates and sticky inflation, dampening consumer confidence heading into the new year.
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9786989688873291
 

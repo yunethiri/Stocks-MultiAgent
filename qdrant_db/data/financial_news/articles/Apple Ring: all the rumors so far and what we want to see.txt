@@ -1,0 +1,94 @@
+link: https://www.yahoo.com/tech/apple-ring-rumors-far-want-080000426.html
+
+source: www.yahoo.com
+
+title: Apple Ring: all the rumors so far and what we want to see
+
+summary: 
+
+publishDate: 2024-09-28T08:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9975850582122803
+
+images: ['https://s.yimg.com/ny/api/res/1.2/pGIB6Iqmh3Oao9S0miw0bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/1ece7d781d9359b48f3098270ff1888d', 'https://s.yimg.com/ny/api/res/1.2/3QW6WJX.YEk1SQjjO5y.JA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/808678540911852432853b82344f3162', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: Apple Ring: all the rumors so far and what we want to see
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+The Galaxy Ring could soon get a new competitor. | Credit: Samsung
+
+The smart ring category is hot right now, but is Apple set to leap into the fray with its own effort?
+
+In recent months we've seen the launch of the Samsung Galaxy Ring and the RingConn Smart Ring, while the long-term leader of the best smart rings race is the Oura Ring (now up to its third generation). Rumors that Apple might be tempted to join the party have been swirling for several years now, and it seems that there's at least something on the drawing board at Apple around this form factor.
+
+Here, we've pulled together everything we know and think we know about the so-called Apple Ring: the leaks and rumors that have emerged, the predicted price, the possible release date and more. We've also added some of the features and specs we want to see from the Apple Ring.
+
+Apple Ring: cut to the chase
+
+What is it? A rumored smart ring, made by Apple
+
+When could it release? TBC, but not before 2025
+
+How much could it cost? Expect $399 / £399 / AU$750 or above
+
+Apple Ring: price and release date predictions
+
+Oura Ring 3 on a finger
+
+We don't have too many clues about how much the Apple Ring could cost, but we can look at some of the other options on the market. The Samsung Galaxy Ring can be yours for $399 / £399 and up (with Australia prices to be confirmed), while the Oura Ring 3 is available for $299 / £299 and up (and isn't currently available in Australia).
+
+That gives you some idea of the price points we're talking about. Apple will want to stay competitive, but (as the best iPhones show) isn't afraid to whack a price premium on its products. If we had to make a guess, we'd say the Apple Ring will be a little more expensive than its Samsung and Oura rivals.
+
+It's also worth bearing in mind that the best Oura Ring features need a monthly subscription ($5.99 / £5.99 per month). Apple already has its Fitness Plus program you can sign up to if you have an Apple Watch ($9.99 / £9.99 / AU$14.99 per month), so it's entirely possible that this would also be an optional extra for its smart ring.
+
+When it comes to a release date, 2024 and even 2025 seem unlikely, given the cadence of the leaks and rumors we've seen so far; it doesn't appear that a launch is imminent. We didn't see an Apple Ring alongside the Apple Watch 10 at the September 2024 It's Glowtime event, but there's an outside chance it might accompany the Apple Watch 11 in September 2025, assuming that device turns up as expected.
+
+Apple Ring: leaks and rumors
+
+Someone holding the Ringconn smart ring against a concrete background.
+
+The Apple Ring rumors stretch back a long way, to at least 2020. A patent Apple filed that year showed a smart ring being used to control other devices – with the idea being that you could maybe change channels on your Apple TV with a tap on your ring. Of course, patents aren't always guarantees of future products, but they show what companies are thinking about and exploring.
+
+Fast forward to 2023, and Apple was once again filing smart ring patents that positioned its possible device as some kind of controller for other gadgets. It seems that any Apple Ring that shows up won't just be focused on health and fitness – it will also give you new ways to control functions on your other Apple devices.
+
+It would seem Apple isn't limiting itself to wearables around your fingers, either. Yet another 2023 patent revealed plans for some kind of Apple Anklet you could wear around your ankle or around your neck. The success of the Apple Watch clearly has Apple thinking about how to get you tracking more fitness metrics.
+
+Meanwhile, an industry report out of South Korea early in 2024 suggested an Apple smart ring was on the way, to take on Samsung and Oura. However, as nothing has emerged in the months since, either the sources of the report got it wrong or Apple changed its mind about its future product launch schedule.
+
+We've seen one further sign that an Apple Ring might be on the way: an Apple survey sent to Apple Watch owners, asking how many of them currently wear a smart ring alongside their smartwatch. It might be a bit of a stretch to use this as evidence of an Apple Ring, but it's not nothing.
+
+And that's it for Apple Ring rumors – no hint of prices, specs, design, or anything specific like that. The lack of particulars in the rumors imply a launch might still be some way off in the future, though there's been enough noise at this point to suggest it's at least being considered.
+
+Apple Ring: what we want to see
+
+Apple Watch Series 10
+
+In the event that an Apple Ring is indeed on the way, what will it be like – and how could it beat existing models? If any Apple engineers are reading this, here's what we want to see from an Apple smart ring.
+
+1. Stellar battery life
+
+This shows up in every wishlist for every device, of course, but decent battery life is a must – especially as the standard Apple Watch can't go more than a day or two without a recharge. In fact, that could be a key selling point for the Apple Ring: keep tracking your steps and other activities while your Apple Watch is on charge.
+
+2. Top-tier sleep tracking
+
+Speaking of Apple Watch recharging, many users charge theirs overnight. This means the smartwatch often can't be used for sleep tracking, and we're hoping this means the Apple Ring will be very good at it. Besides, the smaller size and lighter weight of a smart ring makes it more suitable for tracking the tosses and turns of your sleep anyway.
+
+3. Lots of software features without subscription
+
+We've already mentioned Apple Fitness Plus, but we'd hope many of the features of an Apple Ring would be available without a subscription – as they are with Apple Watch. And for those who wanted extra functionality such as fitness videos, customizations around workout plans, in-session metrics and more, there could be an extra subscription option.
+
+4. A superior design
+
+There really are only so many ways you can design a smart ring, but we're hoping Apple brings the same aesthetic tastefulness to the Apple Ring as it's shown with the iPhone, iPad, and Apple Watch. We're thinking a super-slim and super-light form factor, a choice of different colors, and a smart ring that's one of the most comfortable on the market.
+
+5. Seamless Apple ecosystem integration
+
+Apple usually manages this perfectly, with iPhones, iPads, Macs, and Apple Watches getting new integrations and connections all the time – so we hope that extends to the Apple Ring. It's unlikely that Apple will want the smart ring to replace the Apple Watch, and in fact it could be a useful screen for it (bear in mind Oura has an Apple Watch app, too).
+
+You might also like
+

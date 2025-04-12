@@ -1,0 +1,44 @@
+link: https://www.yahoo.com/tech/the-usb-c-apple-pencil-is-cheaper-than-ever-in-this-early-prime-day-deal-144636955.html
+
+source: www.yahoo.com
+
+title: The USB-C Apple Pencil is cheaper than ever in this early Prime Day deal
+
+summary: 
+
+publishDate: 2024-09-30T14:46:36.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7146274447441101
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/uu/api/res/1.2/UnIAb80WwU6KELpt8HFSyQ--~B/Zmk9c3RyaW07aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/9de93550-7f37-11ef-9f34-f1bd48b73031', 'https://s.yimg.com/ny/api/res/1.2/Iz5eQd4.LJIMoQAinehm9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/faad2470-6d01-11ee-8ff6-a313543a1aec']
+
+content: There are bargains aplenty to be had in the lead up to the October edition of Prime Day. Many are even bringing the prices of certain products down to record lows. Case in point: the USB-C Apple Pencil is cheaper than it’s ever been right now. You can snap one up for $69 , which is $10 off and matches the lowest price we’ve seen to date for it.
+
+Apple debuted this model last year as its most budget-friendly Apple Pencil so far, and this sale makes the peripheral even more wallet-friendly. However, Apple's long had a problem with making it clear to consumers which version of the stylus is compatible with their iPad .
+
+For the sake of clarity, here are all the iPad models with which the USB-C Apple Pencil works:
+
+iPad Pro 13-inch (M4)
+
+iPad Pro 12.9-inch (3rd generation and later )
+
+iPad Pro 11-inch (all models)
+
+iPad Air 13-inch (M2)
+
+iPad Air 11-inch (M2)
+
+iPad Air (4th generation and later)
+
+iPad (10th generation)
+
+iPad mini (6th generation)
+
+Although being able to charge the peripheral with a USB-C cable is handy, this version does lack some of the fancier features of the Apple Pencil Pro and second-gen Apple Pencil. While you can attach it to the side of iPads with magnetic holders for safekeeping and convenience, there's no support for magnetic charging. Pressure sensitivity isn't available and you can't use Apple's nifty double-tap feature. However, the company says the USB-C Apple Pencil does support pixel-perfect accuracy, low latency and tilt sensitivity.
+
+Follow @EngadgetDeals on Twitter for the latest tech deals and buying advice in the lead up to October Prime Day 2024.
+

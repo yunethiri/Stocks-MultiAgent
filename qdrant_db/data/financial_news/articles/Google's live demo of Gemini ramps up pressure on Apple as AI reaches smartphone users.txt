@@ -1,0 +1,62 @@
+link: https://www.cnbc.com/2024/08/14/google-live-gemini-demo-lifts-pressure-on-apple-as-ai-hits-smartphones.html
+
+source: www.cnbc.com
+
+title: Google's live demo of Gemini ramps up pressure on Apple as AI reaches smartphone users
+
+summary: While Google's live demo on Tuesday had some bugs, the company showed it's closer than its rivals to bringing artificial intelligence to smartphones.
+
+publishDate: 2024-08-14T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999982118606567
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Rick Osterloh, Senior Vice President of Devices and Services at Google, speaks during the Made By Google event at Google's Bay View campus in Mountain View, California, on August 13, 2024. Google announced new Pixel phones, watches and AI technology.
+
+During Google's Pixel phone launch on Tuesday, a product director named David Citron took the stage to show off the mobile capabilities of the company's new AI assistant, Gemini. Things got awkward right after the presenter told the audience, "all the demos today are live, by the way."
+
+In front of a big crowd of media and analysts at Google's Silicon Valley headquarters and about 100,000 viewers on YouTube, Citron took a photo of a concert poster and asked the assistant to check his calendar to see if he's free the night pop star Sabrina Carpenter is playing in San Francisco.
+
+The demo failed, freezing up and displaying an error message. Citron tried again, with the same result. After a quick verbal appeal to the "demo gods," and a phone swap, the third try worked.
+
+"Sure, I found that Sabrina Carpenter is coming to San Francisco on November 9, 2024," the assistant wrote in a message that popped up on Citron's screen. "I don't see any events on your calendar during that time."
+
+While the incident was brief and buggy, the demo highlighted one of Google's advantages as artificial intelligence features make their way deeper into smartphone software. Rivals are preparing consumers for a future of AI, but Google's Gemini features are real and are shipping — at least for testing purposes — now.
+
+In June, Apple presented a prerecorded video, rather than a live demo, to showcase its assistant Siri's forthcoming leap in capability to take actions and understand context under its new AI system called Apple Intelligence.
+
+Apple Intelligence is currently in testing for developers, but some of its most critical improvements, including image generation, integration with ChatGPT and key advancements for its assistant Siri, haven't yet officially come out of Apple's labs.
+
+OpenAI, which kicked off the generative AI boom with ChatGPT, also often reveals AI advancements but strictly limits the number of people who can test them.
+
+"I think what's new is that we've moved from the mode of, like projecting a vision of where things are headed to, like, actual shipping product," Rick Osterloh, Google devices chief, told CNBC's Deirdre Bosa on Tuesday.
+
+Google's live demos mark a shift from late last year, when the company tried to show off Gemini in a demonstration, and ended up getting roundly criticized for editing the video.
+
+"What we were showing today is the stuff that is shipping in the next few days or weeks, and that's really critical," Osterloh said. "For a lot of the things that other companies have announced, they're really not available to many people. This is going to be available to millions of people very soon."
+
+After Apple's announcement in June, the company did some scripted live testing with media and analysts for Apple Intelligence on current devices. In July, Apple released a preview of some Apple Intelligence functions for developers, including the ability to generate summaries as well as a new look for Siri that makes the entire iPhone screen glow. However, the preview doesn't include functions like image generation, ChatGPT integration and the most anticipated improvements to Siri which will enable it to perform tasks naturally.
+
+Google's kickoff on Tuesday could put renewed pressure on Apple, as the two smartphone market leaders race to integrate AI into their operating systems. IDC estimates that "Gen AI" capable smartphones — phones with the chips and memory needed to run AI — will more than quadruple in units sold in 2024 to about 234 million devices.
+
+"We got an idea today of what Apple is competing with," Grace Harmon, analyst at eMarketer, said in an interview.
+
+With generative AI moving to phones, the market is also going to see a shift in AI processing. Instead of sophisticated models that emulate human output being run in huge Nvidia -based data centers, AI features for devices will rely on simpler functions like summarization or fluency, mainly running on the chips already inside the devices.
+
+In Google's 100-minute presentation Tuesday, the company showed several capabilities that aren't yet available elsewhere.
+
+Citron's example — asking questions about the contents of a poster in a photo — highlights a technical advancement called "multimodal AI," which isn't a planned Apple capability.
+
+The company introduced a feature that lets users take screenshots of what they're viewing, and Google will compile that information into notes that can be quickly searched later.
+
+Google's most important presentation on Tuesday was Gemini Live, its next-generation assistant. In the demo, the technology was able to chat naturally, like a person, adding items to shopping lists or checking Google calendars. Soon, it will be able to help a user do deep research, Osterloh said on stage. Google executives attributed the capabilities to "decades of investment" in AI and its "integrated AI strategy."
+
+At one point, Google said its AI was a "complete end-to-end experience that only Google can deliver," a tweak to a phrase that's long come from Apple. Tim Cook, Apple's CEO, is fond of saying that "only Apple" can create its products because of its expertise integrating hardware and software.
+
+In a press release, Google took a shot at Apple's forthcoming integration with ChatGPT, which is expected before the end of the year. The company said Apple's approach is less private than Google's, because Gemini "doesn't require hand-off to a third-party AI provider you may not know or trust."
+

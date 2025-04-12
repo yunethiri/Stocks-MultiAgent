@@ -1,0 +1,34 @@
+link: https://www.cnbc.com/2024/10/28/apple-intelligence-released-heres-how-to-get-it-on-your-iphone.html
+
+source: www.cnbc.com
+
+title: Apple releases Apple Intelligence. Here's how to get it on your iPhone
+
+summary: The release is a critical milestone for Apple, which is relying on the feature launch to power its marketing campaign for the iPhone 16.
+
+publishDate: 2024-10-28T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999990701675415
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/107426787-1718043559248-Screenshot_2024-06-10_at_21907_PM.png?v=1729887370&w=1920&h=1080']
+
+content: In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT
+
+Apple CEO Tim Cook poses as Apple holds an event at the Steve Jobs Theater on its campus in Cupertino, California, on Sept. 9, 2024. Manuel Orbegozo | Reuters
+
+Apple on Monday released iOS 18.1, an update that includes the company's artificial intelligence, called Apple Intelligence, for the iPhone 16 and iPhone 15 Pro. It also released software updates for iPad and Mac with Apple Intelligence. The release is a critical milestone for Apple, which is relying on the feature launch to power its marketing campaign for the iPhone 16 lineup released last month. It is also Apple's answer to Wall Street's questions about its AI strategy. Apple has taken a different path with its device-based AI than its megacap rivals, which are focused on cloud-based AI systems powered by billions of dollars of Nvidia chips. Apple Intelligence is limited to start. The first wave of Apple Intelligence features includes writing tools that can proofread or rewrite text, new features that can remove objects from photos and a feature that can summarize a stack of notifications into a single message.
+
+Siri updates during Apple's WWDC2024 in Cupertino, California, on June 10, 2024. Source: Apple Inc.
+
+Monday's release includes improvements to Siri, including a new look that makes the entire screen glow around the phone's edges. Siri can answer questions about Apple products, including troubleshooting, and has more natural voices. However, the update does not let Siri take actions inside of apps, which is expected in another update next year. Plus, another update with ChatGPT integration and image-generation abilities is also scheduled for later this year as part of iOS 18.2. Some investors believe Apple Intelligence could drive a major upgrade cycle and cement Apple as the leader in daily usage of cutting-edge AI. "Given the staggered launch of Apple Intelligence, we expect iPhone demand to pick up post initial release of Apple Intelligence in late Oct," Bank of America Securities analyst Wamsi Mohan wrote in an Oct. 25 note.
+
+Opt in
+
+You need an iPhone 15 Pro, iPhone 15 Pro Max or any iPhone 16 model to install and use Apple Intelligence. The service primarily uses the iPhone's chip, which is why it does not work on earlier phones, though some more complicated queries will be handled by Apple's servers. You also need to turn it on by asking for access to Apple Intelligence in the Settings app. Doing so puts users on a waitlist. Apple has not said how long the wait will take, but during beta tests over the summer, users typically received access within the same day. Your phone will then download large files — Apple's AI models — that Apple Intelligence needs to operate.
+
+Zoom In Icon Arrows pointing outwards Apple Intelligence can summarize important emails inside the Mail app. Apple
+

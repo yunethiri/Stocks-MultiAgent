@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/11/12/apple-wont-launch-a-smart-ring-says-oura-ceo-its-hard-to-do.html
+
+source: www.cnbc.com
+
+title: Apple won't launch a smart ring, says Oura CEO: 'It's hard to do'
+
+summary: Samsung's smart ring debut put the products firmly in the spotlight, with one analyst predicting that Apple could launch its own smart ring in 2026.
+
+publishDate: 2024-11-12T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.5997486710548401
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg']
+
+content: LISBON — Apple will not introduce a smart ring, the CEO of health-tech firm Oura told CNBC, despite speculation the iPhone giant may be considering a move into this product category.
+
+Samsung's smart ring debut earlier this year has put the product firmly in the spotlight, with one analyst predicting earlier this year that Apple could launch its own smart ring in 2026.
+
+But Tom Hale, CEO of Oura — which has been developing smart rings since the company was established in 2013 — said he doesn't think Apple will enter the space.
+
+"I think they [Apple] are unconvinced about the value of having a ring and a watch together and they're not interested in undercutting the Apple Watch as a business," Hale told CNBC in an interview on Tuesday at the Web Summit in Lisbon, Portugal.
+
+"I think they're probably keeping a close eye on Samsung and a close eye on us, but it's hard to do this product category right."
+
+Under CEO Tim Cook, Apple has put a large focus on health applications through the Apple Watch and related services.
+

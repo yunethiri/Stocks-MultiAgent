@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-11-27T14:41:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9985378980636597
+
+images: ['https://s.yimg.com/ny/api/res/1.2/t7ajICnAnCFcfjopmV811Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/228c6f30038d6a912424f2902bc7da3e', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: iPhone maker Apple (NASDAQ: AAPL) has been one of the world's most valuable stocks for a long time.
 
 It rose above several oil giants to the top spot in 2011 and hasn't dropped out of the Top 3 since then. Apple isn't always the top dog, occasionally passed by fellow tech giants like Nvidia (NASDAQ: NVDA) or Microsoft (NASDAQ: MSFT) for a while, but it never strays far from the top spot. And it's back on the throne as of this writing with a $3.54 trillion market cap on November 25.
@@ -31,10 +39,4 @@ My mildly bearish thesis is that Apple is running out of truly innovative ideas.
 Still, Apple has seen more misses than home runs lately. The Apple Vision Pro virtual reality headset never found a market and is reportedly being discontinued after less than a year. The latest round of product introductions essentially featured slightly faster iPhones, MacBooks, and iPads with more memory. Only time will tell whether the highly touted Apple Intelligence set of artificial intelligence (AI) features will make a difference. Either way, Apple didn't lead the charge into the generative AI era.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9985378980636597
 

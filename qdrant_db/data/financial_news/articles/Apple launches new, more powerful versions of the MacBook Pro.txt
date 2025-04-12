@@ -1,0 +1,24 @@
+link: https://www.reuters.com/technology/apple-launches-new-more-powerful-versions-macbook-pro-2024-10-30/
+
+source: www.reuters.com
+
+title: Apple launches new, more powerful versions of the MacBook Pro
+
+summary: Apple launched new versions of the MacBook Pro as the company looks to drum up sales of the line of laptops leaning in to demand from professional users who seek more powerful chips for photo, video and audio editing tools.
+
+publishDate: 2024-10-30T15:04:48.129Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9096508026123047
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> launched new versions of the MacBook Pro as it looks to drum up sales of the line of laptops leaning in to demand from professional users who seek more powerful chips for photo, video and audio editing tools.
+The new line of MacBook Pro laptops will start at $1,599, with the higher-end versions sporting more powerful M4 Pro and M4 Max processors.
+Consumers have been looking to upgrade to personal computers with more powerful chips to ensure their systems can process artificial intelligence tools.
+The PC market is poised for a comeback in 2024, fueled by the rise of AI-enabled PCs. This resurgence follows a slump of more than two years that began after the pandemic.
+Apple's new launches come days after the Cupertino, California-based company unveiled a set of colorful iMac desktop computers with the M4 chip and Apple Intelligence features.
+

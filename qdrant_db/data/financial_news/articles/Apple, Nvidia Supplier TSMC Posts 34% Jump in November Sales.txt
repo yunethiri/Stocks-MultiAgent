@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-10T11:21:25.000Z
 
+language: en
+
+sentiment: positive
+
+confidence: 0.9999979734420776
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Ps_FLR1lpm3r090_Ifa0rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/e1b12df26b29d4764c8fe699873e8f8f', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/U_NhiHTVEFC_KPA6bCVw.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d087c240-2cdc-11ef-a7fa-1e26e21a0640']
+
 content: CFOTO / Future Publishing via Getty Images
 
 
@@ -45,10 +53,4 @@ U.S.-listed shares of TSMC, the world's largest contract chip manufacturer, are 
 
 
 Read the original article on Investopedia
-
-language: en
-
-sentiment: positive
-
-confidence: 0.9999979734420776
 

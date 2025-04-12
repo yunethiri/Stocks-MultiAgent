@@ -1,0 +1,62 @@
+link: https://www.yahoo.com/tech/apple-users-complain-ios-18-131443179.html
+
+source: www.yahoo.com
+
+title: Apple users complain that iOS 18 is ‘killing’ their iPhone batteries —what to do if you’re affected
+
+summary: 
+
+publishDate: 2024-09-17T13:14:43.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999325275421143
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-users-complain-ios-18-131443179.html&c14=-1', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/3iLK.NTIyq.fTw1hWlr1qQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOQ--/https://media.zenfs.com/en/ny_post_articles_869/d3ed2f92dd14f35e39f9db2cbf52437b']
+
+content: Apple users complain that iOS 18 is ‘killing’ their iPhone batteries —what to do if you’re affected
+
+Apple users complain that iOS 18 is ‘killing’ their iPhone batteries —what to do if you’re affected
+
+Apple users are bitter over the latest software update, claiming their device performance has taken a drastic hit.
+
+Overly zealous customers eager to upgrade to the new iOS 18 — released on Monday ahead of the iPhone 16 launch — are met with battery troubles, claiming the operating system drains the battery life of their smartphones.
+
+Already on X, users moaned that they “regret updating” since the update is supposedly “killing” their phone battery, making jokes about their devices overheating after installing.
+
+Online, users are complaining that their iPhone battery life has taken a hit after updating to iOS 18. Shutterstock / Muhammad Alimaki
+
+The highly anticipated iOS update is angering smartphone users, who are airing out their frustrations on social media. NurPhoto via Getty Images
+
+“I updated my software to IOS 18 and my battery percentage has dropped so fast,” one X user wrote, per Daily Mail. “It’s been an hour since I charged it at 80% and didn’t used [sic] it that much at this time yet my phone percentage now is at 67%.”
+
+While a select few claimed the update had no effect on their battery, this is standard fare for any iPhone update it seems — with iOS 17, disgruntled Apple fans grumbled about the same battery life issues — and, on the bright side, completely normal.
+
+On Reddit, iOS 18 beta testers show new features — and some note battery life impacts — of the new operating system. ant_t99/Reddit
+
+“Installing a new OS on an iPhone triggers a lot of stuff to go on in the background, from indexing to recalibrating the battery, and this can go on for hours or even days,” ZDNet researcher Adrian Kingsley-Hughes told Daily Mail.
+
+“Not only does this consume power, but the battery recalibration can give the impression that the battery is draining more rapidly when in fact it isn’t.”
+
+iPhone X, 11, 12 and 13 after upgrading to iOS 18 #iOS18pic.twitter.com/ZeQymYOptT — Bayo Otedola (@mister_ade5) September 16, 2024
+
+My iPhone 11 after updating to iOS 18 #IOS18 pic.twitter.com/9SF20gCcLZ — N 𓀠 (@NSB693) September 16, 2024
+
+According to ZDNet, concerned smartphone users can try rebooting their devices and updating applications in the interim in an attempt to remedy the issue. The site also recommends turning down screen brightness, resetting network settings, using “Dark Mode” or turning off Wi-Fi Assist, a function that automatically switches to cellular data when Wi-Fi is too slow.
+
+Poor battery life could indicate degrading battery health — which can be easily checked in the iPhone’s Settings app under the tab “Battery” — and a battery replacement could fix the problem.
+
+Ultimately, the issue should resolve itself over time after the update is completed. Sometimes, users have to wait until another software update is available for bugs to be fixed.
+
+The highly anticipated iOS 18 update allows users more customization capabilities, abandoning the grid layout of the home screen and letting users place apps wherever they want and even change the color and size of the icons.
+
+The new software update utilizes artificial intelligence. Anadolu via Getty Images
+
+Additionally, the Photos app underwent a revamp, with an updated layout with new collection options. The Mail app features new ways to organize inboxes, and a new feature in Safari allows users to get rid of unwanted ads and pop-ups for a more streamlined browsing experience.
+
+The operating system also has a new Passwords app and updated privacy features, as well as new Apple Intelligence functions that utilize AI.
+
+While not all iPhones are compatible with iOS 18, according to Apple, all devices from the iPhone XR and later should be able to install and use the latest operating system.
+

@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-27T18:38:36.000Z
 
+language: en
+
+sentiment: negative
+
+confidence: 0.9474352598190308
+
+images: ['https://s.yimg.com/uu/api/res/1.2/UiEY4tZrkmvHRGmuKIjvoA--~B/Zmk9c3RyaW07aD04MTtxPTgwO3c9MTk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-12/6b577ce0-c49d-11ef-9b5f-56fc84a403ad', 'https://s.yimg.com/uu/api/res/1.2/vlPJfamhEzjwzzAoUerV8Q--~B/Zmk9c3RyaW07aD0xMjY7cT04MDt3PTE2ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/713f05d0-c478-11ef-bf6f-3eddab07a1a7.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/dzJ1YBP0KGeG_11a2M96gg--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.cf.webp']
+
 content: Apple (AAPL) shares are up about 8% over the past month. But BTIG chief market technician Jonathan Krinsky is warning investors about a potential sell-off in the stock. Krinsky notes that when Apple has posted five straight weeks of gains of more than 2%, the stock tends to fall over the following six weeks.
 
 Morning Brief Hosts Brad Smith and Brian Sozzi discuss the call in the video above.
@@ -15,10 +23,4 @@ Morning Brief Hosts Brad Smith and Brian Sozzi discuss the call in the video abo
 To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.
 
 This post was written by Stephanie Mikulich.
-
-language: en
-
-sentiment: negative
-
-confidence: 0.9474352598190308
 

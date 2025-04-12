@@ -1,0 +1,38 @@
+link: https://www.cnbc.com/2024/10/23/apple-analyst-kuo-says-company-cut-iphone-16-orders-10-million-units.html
+
+source: www.cnbc.com
+
+title: Apple analyst Kuo says company cut iPhone 16 orders by 10 million units
+
+summary: Apple shares slid on Wednesday after industry supply chain analyst Ming-Chi Kuo said the company has cut orders for the iPhone 16 by about 10 million units.
+
+publishDate: 2024-10-23T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9987621307373047
+
+images: ['https://static-redesign.cnbcfm.com/dist/a54b41835a8b60db28c2.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: A series of iPhone 16 on display inside the Apple Inc. store at Tun Razak Exchange (TRX) on September 20, 2024 in Kuala Lumpur, Malaysia.
+
+"As a result, iPhone 16 production for 2H24 is now estimated at 84 million units," Kuo wrote , noting that his estimate is down from about 88 million units.
+
+Kuo said most of the cuts impact the regular iPhone 16 instead of the iPhone 16 Pro models , which have nicer displays and better cameras and have been more popular with consumers.
+
+Apple shares fell about 2% on Wednesday after industry supply chain analyst Ming-Chi Kuo said the company has cut orders for the iPhone 16 by about 10 million units for the fourth quarter of this year and the first half of 2025.
+
+Kuo now forecasts Apple partners will produce 80 million iPhones during the fourth quarter, down from around 84 million last year. He estimates production of 45 million units during the first quarter of 2025 and 39 million units during the second quarter, down from 48 million and 41 million, respectively.
+
+"iPhone revenues are expected to come under pressure in 1H25 due to a YoY shipment decline and a less favorable product mix due to the launch of SE4," Kuo said, referring to the iPhone SE 4 phone he expects Apple to ship in December. Apple's iPhone SE models are usually the most affordable in its lineup but it doesn't refresh them annually.
+
+"I believe that Apple is best positioned to succeed in on-device AI, and I am confident about the long-term potential for Apple Intelligence to become a popular paid service," Kuo said. "However, significant growth in iPhone shipments will likely require further hardware innovation to accompany this AI development."
+
+Apple Intelligence is expected to launch in an iOS 18.1 update sometime next week, as a beta feature for new users to try. It's supported by the latest iPhone 16 phones and last year's iPhone 15 models. The first features will let users summarize text messages and emails, choose automatic replies for text messages and more.
+
+Apple didn't immediately respond to a request for comment.
+
+Subscribe to CNBC on YouTube.
+
