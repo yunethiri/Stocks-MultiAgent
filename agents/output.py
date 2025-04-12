@@ -57,6 +57,11 @@ class OutputAgent:
             
             # 3) Always synthesize a final response using the query and aggregated agent responses
             synthesis_prompt = ChatPromptTemplate.from_template("""
+            If the response does not relate to Apple finance at all, make sure that the response contains:
+            "If the query is unrelated to finance, respond as follows:\n"
+                    "Example Query: 'How do I bake a chocolate cake?'\n"
+                    "Response: 'The query doesn't seem to be related to finance. It looks like it's more about cooking. Feel free to ask any finance-related questions, and I'll be happy to help!'
+
             You are an expert financial analyst specializing in Apple (AAPL) stock.
             Synthesize the following information from different analysis agents into a coherent, comprehensive response.
 

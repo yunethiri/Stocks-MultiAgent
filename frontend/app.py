@@ -5,6 +5,11 @@ import pandas as pd
 import plotly.graph_objects as go
 import requests
 import json
+import os
+
+# Set the backend URL from environment (defaults to 127.0.0.1 for local testing)
+BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+
 
 #from openai import OpenAI
 
@@ -150,25 +155,21 @@ def process_prompt(prompt: str) -> None:
 
 
 def generate_chat_response(prompt: str) -> str:
-    """Generate chatbot response using OpenAI API."""
-    stock_name = st.session_state.current_symbol  # stock name pulled for context
-    context = f"Stock data for {stock_name}: {st.session_state.stock_data.head(5).to_string()}"
-    params = {
-    "query": f"{context}\n\nQuestion: {prompt}",
+    payload = {
+        "query": prompt,  # Only the user question
+        # You may also choose to pass session_id as a URL parameter if needed.
     }
-
     try:
-        # Call OpenAI's ChatCompletion endpoint
-        response = requests.post(url = 'http://127.0.0.1:8000/query',
-                                 params = params)
+        # Use 'params' to send as URL query parameters
+        response = requests.post(url=f'{BACKEND_URL}/query', params=payload)
         response_text = response.content.decode('utf-8')
         response_json = json.loads(response_text)
-        # Extract and return the response from OpenAI API
         return response_json['response']
-
     except Exception as e:
         st.error(f"Failed to generate response: {str(e)}")
         return "Error occurred. Please try again later."
+
+
 
 
 def handle_chat_input() -> None:
