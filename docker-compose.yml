@@ -1,0 +1,45 @@
+version: "3.9"
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: always
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    expose:
+      - "6333"
+      - "6334"
+      - "6335"
+    environment:
+      - QDRANT_LOG_LEVEL=INFO
+    volumes:
+      - ./qdrant_db/qdrant_data:/qdrant/storage
+
+  data_loader:
+    build:
+      context: ./qdrant_db
+      dockerfile: Dockerfile.loader
+    container_name: data_loader
+    volumes:
+      - ./qdrant_db/data_loader.py:/app/data_loader.py
+      - ./agents/.env:/app/.env
+      - ./qdrant_db/data:/data
+    depends_on:
+      - qdrant
+
+  backend:
+    build:
+      context: ./agents
+      dockerfile: Dockerfile.backend
+    container_name: backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./agents/.env
+    environment:
+      # Example configuration; adjust if your backend reads these variables:
+      - QDRANT_URL=http://qdrant:6333
+    depends_on:
+      - qdrant

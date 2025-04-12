@@ -8,7 +8,7 @@ from langchain_core.output_parsers import StrOutputParser, JsonOutputParser
 from langchain.schema import Document
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph, END
-from langgraph.checkpoint import JsonCheckpoint
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -68,7 +68,7 @@ class RAGAgent:
 
         self.graph = self._build_graph()
 
-    def build_graph(self):
+    def _build_graph(self):
         """Build the LangGraph workflow for the financial RAG agent."""
         # Define the graph
         workflow = StateGraph(RAGAgentState)
@@ -88,13 +88,8 @@ class RAGAgent:
         # Set the entry point
         workflow.set_entry_point("collection_selector")
 
-        # Create checkpoint for persistence
-        checkpointer = JsonCheckpoint(
-            os.path.join(os.getcwd(), "checkpoints", "financial_rag")
-        )
-
         # Compile the graph
-        return workflow.compile(checkpointer=checkpointer)
+        return workflow.compile()
 
     def select_collection(self, state: RAGAgentState) -> RAGAgentState:
         """Determine which collection(s) to query based on the user query."""

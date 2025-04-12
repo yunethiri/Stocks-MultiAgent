@@ -12,7 +12,9 @@ from langchain_community.tools import BraveSearch
 import os
 import time
 from openai import OpenAI
+from dotenv import load_dotenv
 
+load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")  # Use OpenAI API key
 client = OpenAI(api_key = openai_api_key)
 
@@ -328,7 +330,8 @@ class IntentAgent:
         return final_result
 
 
-# #for intent agent testing
+
+##for intent agent testing
 # if __name__ == '__main__':
 #     from dotenv import load_dotenv
 #     load_dotenv() 
@@ -343,6 +346,7 @@ class IntentAgent:
 
 #     print("\nGenerated Comprehensive Answer:")
 #     print(combined_response)
+
 
 
 
