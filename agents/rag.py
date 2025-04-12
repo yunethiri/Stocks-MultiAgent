@@ -141,12 +141,18 @@ class RAGAgent:
                 embedding_types=["float"],
             )
 
+            print(f"Query Embeddings: {query_embeddings}")
+
             # Retrieve documents
             response = self.qdrant_client.query_points(
                 collection_name=state.collection_choice,
                 query=query_embeddings.embeddings.float_[0],
                 limit=10,
+                with_payload = True,
+                with_vectors = False,
             ).points
+            print(f"Response: {response}")
+
             docs = []
             for point in response:
                 content = point.payload.get("document", "")

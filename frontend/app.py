@@ -28,7 +28,6 @@ EXAMPLE_PROMPTS = [
     "What are the key points in Apple's Earnings Calls in Q4 2024 regarding the stock?",
 ]
 
-
 def init_session_state() -> None:
     """creating session state variables."""
     session_defaults = {
@@ -139,13 +138,14 @@ def process_prompt(prompt: str) -> None:
 
     # generate and display chatbot response
     with st.chat_message("assistant"):
-        with st.spinner("Analysing stock data..."):
+        with st.spinner("Generating Response..."):
             try:
                 response = generate_chat_response(prompt)
                 st.session_state.messages.append(
                     {"role": "assistant", "content": response}
                 )
-                st.write(response)
+                safe_response = f"```text\n{response}\n```"
+                st.markdown(safe_response)
             except Exception as e:
                 # logging.error(f"Chat error: {str(e)}")
                 st.error("Failed to generate response. Please try again.")
@@ -159,6 +159,7 @@ def generate_chat_response(prompt: str) -> str:
         "query": prompt,  # Only the user question
         # You may also choose to pass session_id as a URL parameter if needed.
     }
+    
     try:
         # Use 'params' to send as URL query parameters
         response = requests.post(url=f'{BACKEND_URL}/query', params=payload)
