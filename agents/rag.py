@@ -9,6 +9,7 @@ from langchain.schema import Document
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph, END
 from dotenv import load_dotenv
+from openai import OpenAI 
 
 load_dotenv()
 
@@ -74,10 +75,10 @@ class RAGAgent:
         workflow = StateGraph(RAGAgentState)
 
         # Add nodes
-        workflow.add_node("collection_selector", self.select_collection)
-        workflow.add_node("retriever", self.retrieve_context)
-        workflow.add_node("entity_extractor", self.extract_financial_entities)
-        workflow.add_node("response_generator", self.generate_response)
+        workflow.add_node("collection_selector", self._select_collection)
+        workflow.add_node("retriever", self._retrieve_context)
+        workflow.add_node("entity_extractor", self._extract_financial_entities)
+        workflow.add_node("response_generator", self._generate_response)
 
         # Define edges
         workflow.add_edge("collection_selector", "retriever")
@@ -91,7 +92,7 @@ class RAGAgent:
         # Compile the graph
         return workflow.compile()
 
-    def select_collection(self, state: RAGAgentState) -> RAGAgentState:
+    def _select_collection(self, state: RAGAgentState) -> RAGAgentState:
         """Determine which collection(s) to query based on the user query."""
         try:
             prompt = ChatPromptTemplate.from_template(
@@ -115,6 +116,8 @@ class RAGAgent:
             # Validate the collection name
             if collection not in self.collection_names:
                 collection = self.collection_names[0]  # Default to first collection
+            
+            print(f"Collection selected: {collection}")
 
             # Update state
             state.collection_choice = collection
@@ -127,7 +130,7 @@ class RAGAgent:
             state["error"] = f"Collection selection failed: {str(e)}"
             return state
 
-    def retrieve_context(self, state: RAGAgentState) -> RAGAgentState:
+    def _retrieve_context(self, state: RAGAgentState) -> RAGAgentState:
         """Retrieve relevant documents from the selected collection."""
         try:
             # Perform query embeddings
@@ -152,6 +155,8 @@ class RAGAgent:
                 }
                 docs.append(Document(page_content=content, metadata=metadata))
 
+            print(f"Retrieved Content: {docs}")
+
             # Update state
             state.context = docs
             state.source_documents = [
@@ -170,7 +175,7 @@ class RAGAgent:
             state.error = f"Error during retrieval: {str(e)}"
             return state
 
-    def extract_financial_entities(self, state: RAGAgentState) -> RAGAgentState:
+    def _extract_financial_entities(self, state: RAGAgentState) -> RAGAgentState:
         """Extract financial entities from the retrieved documents."""
         if not state.context:
             return state
@@ -207,13 +212,15 @@ class RAGAgent:
                 {"action": "extract_entities", "num_entities": len(entities)}
             )
 
+            print(f"Extracted Financial Entities: {entities}")
+
         except Exception as e:
             state.error = f"Error during entity extraction: {str(e)}"
             state.financial_entities = []
 
         return state
 
-    def generate_response(self, state: RAGAgentState) -> RAGAgentState:
+    def _generate_response(self, state: RAGAgentState) -> RAGAgentState:
         """Generate the final response using the LLM with the retrieved context."""
         # Prepare context snippets
         context_snippets = [
@@ -265,6 +272,8 @@ class RAGAgent:
             }
         )
 
+        print(f"Generated Response: {response}")
+
         # Update state
         state.response = response
 
@@ -278,12 +287,13 @@ class RAGAgent:
         # Run the graph
         result = self.graph.invoke(initial_state)
 
+        result_dict = dict(result)  # Convert to a standard dictionary
         output = {
-            "response": result.response,
-            "source_documents": result.source_documents[:3],
-            "collection_used": result.collection_choice,
-            "entities": result.financial_entities,
-            "error": result.error,
+            "response": result_dict.get("response"),
+            "source_documents": result_dict.get("source_documents", [])[:3],
+            "collection_used": result_dict.get("collection_choice"),
+            "entities": result_dict.get("financial_entities"),
+            "error": result_dict.get("error"),
         }
 
         return output

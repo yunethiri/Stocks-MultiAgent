@@ -51,15 +51,13 @@ class QueryResponse(BaseModel):
     debug_info: Optional[Dict[str, Any]] = None
 
 @app.post("/query", response_model=QueryResponse)
-async def process_query(request: QueryRequest):
+async def process_query(query: str):
     try:
         # Generate session ID if not provided
-        session_id = request.session_id
-        if not session_id:
-            session_id = memory_agent.get_session_id()
+        session_id = memory_agent.get_session_id()
             
         # Process the query through the intent agent
-        result = intent_agent.process_query(request.query, session_id)
+        result = intent_agent.process_query(query, session_id)
         return JSONResponse(content=result)
     except Exception as e:
         return JSONResponse(
@@ -67,7 +65,7 @@ async def process_query(request: QueryRequest):
             content={
                 "error": str(e),
                 "response": "An error occurred while processing your request. Please try again.",
-                "session_id": request.session_id or "error_session"
+                "session_id": session_id or "error_session"
             }
         )
 
