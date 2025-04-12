@@ -60,7 +60,7 @@ class RAGAgent:
         self.cohere_client = cohere.ClientV2(self.cohere_api_key)
         self.cohere_model = "embed-english-v3.0"
 
-        self.qdrant_client = QdrantClient(url="http://localhost:6333")
+        self.qdrant_client = QdrantClient(url="http://qdrant:6333")
         self.collection_names = [
             "financial_news",
             "earnings_calls",
@@ -295,5 +295,6 @@ class RAGAgent:
             "entities": result_dict.get("financial_entities"),
             "error": result_dict.get("error"),
         }
+
 
         return output

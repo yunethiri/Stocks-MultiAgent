@@ -13,9 +13,8 @@ import os
 import time
 from openai import OpenAI
 from dotenv import load_dotenv
+
 load_dotenv()
-
-
 openai_api_key = os.getenv("OPENAI_API_KEY")  # Use OpenAI API key
 client = OpenAI(api_key = openai_api_key)
 
@@ -208,13 +207,18 @@ class IntentAgent:
                 
                 # Build the prompt using the formatted search results.
                 prompt_template = (
-                    "Using the following web search results, generate a detailed answer to the query '{query}'.\n"
-                    "Present your response in a series of numbered summary, up to a maximum of 4. Ensure that each summary answers the query"
-                    "and include repliable sources in the following format: [Source: <Source Name>](<URL>).\n\n"
-                    "For example:\n"
-                    "1. Baymax! is an animated superhero series that premiered on Disney+ on June 29, 2022. [Source: Wikipedia - Baymax!](https://en.wikipedia.org/wiki/Baymax!)\n"
-                    "2. The series features returning voice actors from Big Hero 6 along with new cast members. [Source: IMDb - Baymax!](https://www.imdb.com/title/tt13622958/)\n\n"
-                    "Now, using the web search results below, provide your answer:\n\n"
+                    "You are a financial analysis assistant. Check if the query '{query}' is related to finance.\n"
+                    "If it is, use the following web search results to generate a detailed response, answering the query '{query}' in a series of numbered summaries (up to a maximum of 4 summaries).\n"
+                    "Each summary should directly answer the query and include repliable sources formatted as follows: [Source: <Source Name>](<URL>).\n"
+                    "If the query is not related to finance, kindly respond accordingly by explaining that the query does not pertain to finance.\n\n"
+                    "Example:\n"
+                    "Query: 'What is the current price of Tesla stock?'\n"
+                    "1. As of the latest data, Tesla's stock price is $625.23, reflecting a 3% increase from the previous day. [Source: Yahoo Finance - Tesla](https://finance.yahoo.com/quote/TSLA)\n"
+                    "2. Tesla has been gaining investor interest due to its advancements in electric vehicle production and expansion into international markets. [Source: Bloomberg - Tesla](https://www.bloomberg.com/quote/TSLA)\n\n"
+                    "If the query is unrelated to finance, respond as follows:\n"
+                    "Example Query: 'How do I bake a chocolate cake?'\n"
+                    "Response: 'The query doesn't seem to be related to finance. It looks like it's more about cooking. Feel free to ask any finance-related questions, and I'll be happy to help!'\n\n"
+                    "Now, using the web search results below, generate your response for the query '{query}':\n\n"
                     "{formatted_results}"
             )
                 chat_prompt = prompt_template.format(query=query, formatted_results=formatted_results)
@@ -222,6 +226,9 @@ class IntentAgent:
                 final_answer = generate_chat_response(chat_prompt)
             except Exception as e:
                 final_answer = f"Error generating combined answer: {str(e)}"
+        
+        if not combine_response:
+            final_answer = f"Here are the raw web search results for your query '{query}':\n\n{raw_result}"
         
         return final_answer
             
@@ -323,6 +330,7 @@ class IntentAgent:
         return final_result
 
 
+
 ##for intent agent testing
 # if __name__ == '__main__':
 #     from dotenv import load_dotenv
@@ -333,11 +341,11 @@ class IntentAgent:
 #     test_query = "how to survive without watre for 5 days?"
 #     combined_response = agent._perform_web_search(test_query)
     
-#     print("Raw Web Search Results:")
-#     print(json.dumps(combined_response["raw_results"], indent=2))
+#     # print("Raw Web Search Results:")
+#     # print(json.dumps(combined_response["raw_results"], indent=2))
 
 #     print("\nGenerated Comprehensive Answer:")
-#     print(combined_response["final_answer"])
+#     print(combined_response)
 
 
 
