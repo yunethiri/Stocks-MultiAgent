@@ -1,0 +1,15 @@
+pymupdf
+cohere
+qdrant-client
+python-dotenv
+langchain-qdrant
+langchain-cohere
+langchain_openai 
+langgraph 
+typing 
+datetime
+pandas
+matplotlib
+yfinance
+uvicorn
+fastapi

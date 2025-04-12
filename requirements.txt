@@ -1,6 +1,0 @@
-pymupdf
-cohere
-qdrant-client
-python-dotenv
-langchain-qdrant
-langchain-cohere
