@@ -1,11 +1,14 @@
 import yfinance as yf
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
+import io
+import base64
 
 # Import required classes from LangChain for prompting and output parsing.
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
+from langchain_core.output_parsers import StrOutputParser
 
 class StockVisualizer:
     def __init__(self, ticker='AAPL'):
@@ -48,6 +51,24 @@ class StockVisualizer:
         ax.legend()
         fig.tight_layout()
         return fig
+
+    def summarize_with_llm(self) -> str:
+        llm = ChatOpenAI(temperature=0, model="gpt-4")
+        prompt = ChatPromptTemplate.from_template("""
+        Provide a brief summary of the stock performance.
+        Ticker: {ticker}
+        Period: {start} to {end}
+        Start price: {start_price:.2f}
+        End price: {end_price:.2f}
+        """)
+        chain = prompt | llm | StrOutputParser()
+        return chain.invoke({
+            "ticker":    self.ticker,
+            "start":     self.data.index[0].date(),
+            "end":       self.data.index[-1].date(),
+            "start_price": self.data['Close'].iloc[0].item(),
+            "end_price":   self.data['Close'].iloc[-1].item(),
+        })
 
     def process_query(self, query: str):
         """
@@ -92,4 +113,16 @@ class StockVisualizer:
         self.download_data(start_date, end_date)
         # Generate the plot and return the figure.
         fig = self.plot_closing_price()
-        return fig
+        summary = self.summarize_with_llm()
+            # convert to base64
+        buf = io.BytesIO()
+        fig.savefig(buf, format="png", bbox_inches="tight")
+        plt.close(fig)
+        buf.seek(0)
+        img_b64 = base64.b64encode(buf.read()).decode("utf-8")
+
+        # return only JSON‑safe things
+        return {
+            "summary": summary,
+            "image_base64": img_b64
+        }
