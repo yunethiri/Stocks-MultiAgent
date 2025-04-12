@@ -1,0 +1,22 @@
+link: https://finance.yahoo.com/video/expect-apples-glowtime-event-164231197.html
+
+source: finance.yahoo.com
+
+title: What to expect from Apple's 'It's Glowtime' event
+
+summary: 
+
+publishDate: 2024-09-06T16:42:31.000Z
+
+content: Apple (AAPL) is gearing up for the "It's Glowtime" event next week, where it is expected to unveil the new iPhone 16. Yahoo Finance Tech Editor Dan Howley joins Catalysts to discuss what investors and consumers can expect from the event, from updates on Apple Intelligence — its new gen AI platform — to some of the new specs on products like an iPhone 16 and AirPods.
+
+For more expert insight and the latest market action, click here to watch this full episode of Catalysts.
+
+This post was written by Melanie Riehl
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997482895851135
+

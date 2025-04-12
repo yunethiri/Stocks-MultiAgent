@@ -1,0 +1,36 @@
+link: https://finance.yahoo.com/news/apple-stock-touches-intraday-high-after-nod-of-confidence-from-wall-street-154221679.html
+
+source: finance.yahoo.com
+
+title: Apple stock touches intraday high after nod of confidence from Wall Street
+
+summary: 
+
+publishDate: 2024-12-26T15:42:21.000Z
+
+content: Apple (AAPL) stock hit an all-time intraday high Thursday after a nod of confidence in its continued upswing from Wall Street.
+
+Wedbush analyst Dan Ives raised his price target on Apple shares to a new Street high of $325, anticipating “a golden era of growth” for the Tim Cook-helmed tech giant in 2025.
+
+• USD (AAPL) View Quote Details
+
+“We believe Apple is heading into a multi-year AI driven iPhone upgrade cycle that is still being underestimated by the Street,” wrote Ives, continuing, “Rome wasn't built in a day and neither will Apple's AI strategy but the seeds of that strategy with Apple Intelligence are now forming and will transform the Apple consumer growth narrative over the coming years.”
+
+Apple stock touched $260 early Thursday — a record intraday high — before modestly paring gains. The stock was still on track to notch another record close after hitting a high of $258.20 on Christmas Eve. Shares have rallied more than 11% over the past month, and the iPhone maker is nearing a $4 trillion market cap.
+
+Apple is closing 2024 on a winning streak after a tough start to the year. It faced struggling iPhone sales, rising competition in China, and clashes with antitrust regulators at home and abroad. Early data from the initial rollout of Apple’s iPhone 16 lineup didn’t do much to bolster Wall Street’s confidence, with investment firm Jefferies (JEF) issuing a rare downgrade on the stock.
+
+Other analysts, Ives included, stayed bullish on the stock as more positive iPhone shipment data engendered confidence in Apple’s artificial intelligence strategy for its consumer devices. Apple’s fourth quarter earnings report in early November showed the tech giant beating expectations on iPhone sales, despite missing estimates overall.
+
+People shop at the Apple store at Fashion Valley in San Diego, California. (Photo by Kevin Carter/Getty Images) · Kevin Carter via Getty Images
+
+Shares began to climb in early November to new highs as Apple unveiled its new MacBook Pro lineup and, in mid December, added ChatGPT and other Apple Intelligence AI features for the iPhone, iPad and macOS. Apple has outperformed several of its so-called Magnificent Seven peers over the past month. While Apple shares have gained more than 11% during that time frame, Meta (META) rose 6.7%, Microsoft (MSFT) climbed 4.4%, Nvidia (NVDA) popped 1%.
+
+Still, macroeconomic uncertainty could create headwinds for Apple. Trump’s tariffs on China could impact prices for Apple products assembled in the country, with the worst case scenario adding $256 of cost per iPhone. The US Federal Reserve’s projection that it would lower interest rates less than expected in 2025 also caused fears of persistent higher rates and sticky inflation, dampening consumer confidence heading into the new year.
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9786989688873291
+

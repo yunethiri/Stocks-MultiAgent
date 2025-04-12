@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slip-as-investors-await-key-inflation-data-195406336.html
+
+source: finance.yahoo.com
+
+title: Stock market today: S&P 500, Nasdaq slip as investors await key inflation data
+
+summary: 
+
+publishDate: 2024-12-10T19:54:22.000Z
+
+content: US stocks wavered on Tuesday as investors trod carefully on the eve of a closely watched consumer inflation report seen as key to the path of interest rates.
+
+The Dow Jones Industrial Average (^DJI) traded just above the flatline while the S&P 500 (^GSPC) fell around 0.1% after all three gauges started the week with small losses. Meanwhile, the tech-heavy Nasdaq Composite (^IXIC) reversed earlier gains to drop about 0.2%.
+
+Alphabet (GOOG, GOOGL), which initially boosted the overall tech sector in early trade, saw shares jump over 4% after the Google parent claimed breakthroughs in quantum computing through the use of its new Willow quantum chip.
+
+While stocks are broadly muted, they are not far off from record highs as investors wait for Wednesday's update on consumer prices. Hopes are that the November inflation reading will provide further evidence of a "soft landing" for the economy, justifying widespread bets on a Federal Reserve rate cut in December.
+
+• USD (^DJI) View Quote Details
+
+Elsewhere in individual stock moves, Oracle (ORCL) shares fell over 7% after its quarterly revenue fell short in the face of tough cloud competition.
+
+Investors also weighed chipmaker Taiwan Semiconductor Manufacturing Co.'s (TSM, 2330.TW) report of a 34% year-on-year jump in revenue in November. While the sales number suggested sustained AI demand, it was also a decline from the previous month's reading. The Apple (AAPL) and Nvidia (NVDA) suppliers' stock slipped nearly 3%.
+
+LIVE
+
+10 updates
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9994644522666931
+
