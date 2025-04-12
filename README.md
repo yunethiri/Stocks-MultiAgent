@@ -40,7 +40,7 @@ Follow these steps to run the project:
 
 3. **Build and Start the Containers:**  
    From the project root, run:
-   docker-compose up --build
+   `docker-compose up -d`
 
 4. **Access the Frontend:**
     Open your web browser and navigate to http://localhost:8501 to access the Streamlit UI.
