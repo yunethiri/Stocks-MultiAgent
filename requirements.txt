@@ -4,5 +4,3 @@ qdrant-client
 python-dotenv
 langchain-qdrant
 langchain-cohere
-streamlit
-plotly
