@@ -225,6 +225,9 @@ class IntentAgent:
             except Exception as e:
                 final_answer = f"Error generating combined answer: {str(e)}"
         
+        if not combine_response:
+            final_answer = f"Here are the raw web search results for your query '{query}':\n\n{raw_result}"
+        
         return final_answer
             
 
