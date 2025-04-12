@@ -23,7 +23,6 @@ EXAMPLE_PROMPTS = [
     "What are the key points in Apple's Earnings Calls in Q4 2024 regarding the stock?",
 ]
 
-
 def init_session_state() -> None:
     """creating session state variables."""
     session_defaults = {
@@ -134,13 +133,14 @@ def process_prompt(prompt: str) -> None:
 
     # generate and display chatbot response
     with st.chat_message("assistant"):
-        with st.spinner("Analysing stock data..."):
+        with st.spinner("Generating Response..."):
             try:
                 response = generate_chat_response(prompt)
                 st.session_state.messages.append(
                     {"role": "assistant", "content": response}
                 )
-                st.write(response)
+                safe_response = f"```text\n{response}\n```"
+                st.markdown(safe_response)
             except Exception as e:
                 # logging.error(f"Chat error: {str(e)}")
                 st.error("Failed to generate response. Please try again.")
@@ -152,10 +152,12 @@ def process_prompt(prompt: str) -> None:
 def generate_chat_response(prompt: str) -> str:
     """Generate chatbot response using OpenAI API."""
     stock_name = st.session_state.current_symbol  # stock name pulled for context
-    context = f"Stock data for {stock_name}: {st.session_state.stock_data.head(5).to_string()}"
+    context = f"{stock_name} Stock"
     params = {
     "query": f"{context}\n\nQuestion: {prompt}",
     }
+
+    print(params)
 
     try:
         # Call OpenAI's ChatCompletion endpoint
