@@ -8,10 +8,40 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 from langgraph.graph import StateGraph, END
 from datetime import datetime
 import json
-from google import genai
-from google.genai import types
+from langchain_community.tools import BraveSearch
 import os
+import time
+from openai import OpenAI
+from dotenv import load_dotenv
+load_dotenv()
 
+
+openai_api_key = os.getenv("OPENAI_API_KEY")  # Use OpenAI API key
+client = OpenAI(api_key = openai_api_key)
+
+# --- Chat response generator function ---
+def generate_chat_response(prompt: str) -> str:
+    """
+    Generate a detailed answer from the LLM (e.g., OpenAI's ChatCompletion) using the provided prompt.
+    This prompt is expected to incorporate search results and citations (such as title and link).
+    """
+    # In your actual app, you might include additional context such as stock data, etc.
+    # For this example, we'll keep it simple.
+    messages = [{
+        "role": "user",
+        "content": prompt
+    }]
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=messages,
+            max_tokens=1000
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"Error occurred while generating answer: {str(e)}"
+    
 class IntentClassification(BaseModel):
     intent: str = Field(description="The classified intent")
     confidence: float = Field(description="Confidence score between 0 and 1")
@@ -107,65 +137,95 @@ class IntentAgent:
             # If classification fails, register the error and let delegation handle it.
             state["error"] = f"Intent classification failed: {str(e)}"
             return state
-
-    # def _perform_web_search(self, query: str) -> Dict[str, Any]:
-    #     """
-    #     Perform a web search using ChatGPT's web search tool mode.
-    #     Modify the prompt to ensure the response is in valid JSON format.
-    #     """
-    #     search_prompt = ChatPromptTemplate.from_template("""
-    #     You are now using ChatGPT's web search tool. Please perform a web search for the following query and return your findings.
-    #     Return your response as a valid JSON object in the following format exactly:
-
-    #     {{
-    #     "response": "<your web search result here>"
-    #     }}
-
-    #     If you are unable to perform a web search, return the JSON object with "No web search available" as the response.
-
-    #     Query: {query}
-    #     """)
-    #     chain = search_prompt | self.llm | JsonOutputParser()
-    #     result = chain.invoke({"query": query})
-    #     return {"response": result.get("response", f"No web search results for '{query}' were found.")}
     
-    def _perform_web_search(self, query: str) -> Dict[str, Any]:
+    def _perform_web_search(
+        self,
+        query: str,
+        country: str = "US",
+        search_lang: str = "en",
+        count: int = 20,
+        # offset: int = 0,
+        spellcheck: bool = True,
+        extra_snippets: bool = True,
+        summary: bool = True,
+        combine_response: bool = True
+    ) -> Dict[str, Any]:
         """
-        Perform a web search using Gemini's API via the Google GenAI client.
-        
-        This method uses the Gemini model ('gemini-1.5-flash') and the dynamic retrieval tool.
-        It returns a dictionary with the web search result.
-        
-        Adjust parameters and response parsing according to your needs and Gemini's documentation.
+        Uses the web search agent to gather information from the internet,
+        formats the results (including title, link, and snippet for each hit),
+        and then uses an LLM to generate a comprehensive answer that cites the sources.
+        It enforces a rate limit of 1 query per second.
         """
-        # Create the GenAI client using your API key.
-        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-        
         try:
-            # Call the generate_content method with the dynamic retrieval tool for Google search.
-            response = client.models.generate_content(
-                model='gemini-1.5-flash',
-                contents=query,
-                config=types.GenerateContentConfig(
-                    tools=[
-                        types.Tool(
-                            google_search=types.GoogleSearchRetrieval(
-                                dynamic_retrieval_config=types.DynamicRetrievalConfig(
-                                    dynamic_threshold=0.6
-                                )
-                            )
-                        )
-                    ]
-                )
-            )
-            # Depending on the API's response format, you may want to extract a particular field.
-            # Here, we simply convert the entire response to a string for demonstration.
-            search_result = response  # Customize extraction based on actual response structure.
-            return {"response": str(search_result)}
-        
+            # Retrieve your Brave API key from the environment.
+            brave_key = os.getenv("BRAVE_AI_API_KEY")
+            if not brave_key:
+                raise ValueError("Brave API key not found in environment variables.")
+
+            # Build the search keyword arguments
+            search_kwargs = {
+                "q": query,
+                "country": country,
+                "search_lang": search_lang,
+                "count": count,
+                # "offset": offset,
+                # "safesearch": safesearch,
+                # "text_decorations": 1 if text_decorations else 0,
+                "spellcheck": 1 if spellcheck else 0,
+                "extra_snippets": 1 if extra_snippets else 0,
+                "summary": 1 if summary else 0
+            }
+
+            search = BraveSearch.from_api_key(api_key=brave_key, search_kwargs=search_kwargs)
+            raw_result = search.run(query)
+            
+            # Enforce the 1 query per second rate limit.
+            time.sleep(1)
+            
         except Exception as e:
-            # Return an error message in the expected format.
-            return {"response": f"Web search error: {str(e)}"}
+            raw_result = f"Web search error: {str(e)}"
+        
+        final_answer = None
+        # If combine_response is True, use llm to produce a comprehensive answer
+        if combine_response:
+            try:
+                # Attempt to parse raw_result as JSON
+                try:
+                    parsed_results = json.loads(raw_result)
+                except Exception:
+                    parsed_results = raw_result
+                
+                # Format results into a combined template.
+                formatted_results = ""
+                if isinstance(parsed_results, list):
+                    for item in parsed_results:
+                        title = item.get("title", "No title")
+                        link = item.get("link", "No link")
+                        snippet = item.get("snippet", "No snippet available")
+                        formatted_results += f"Title: {title}\nLink: {link}\nSnippet: {snippet}\n\n"
+                else:
+                    formatted_results = str(parsed_results)
+                
+                # Build the prompt using the formatted search results.
+                prompt_template = (
+                    "Using the following web search results, generate a detailed answer to the query '{query}'.\n"
+                    "Present your response in a series of numbered summary, up to a maximum of 4. Ensure that each summary answers the query"
+                    "and include repliable sources in the following format: [Source: <Source Name>](<URL>).\n\n"
+                    "For example:\n"
+                    "1. Baymax! is an animated superhero series that premiered on Disney+ on June 29, 2022. [Source: Wikipedia - Baymax!](https://en.wikipedia.org/wiki/Baymax!)\n"
+                    "2. The series features returning voice actors from Big Hero 6 along with new cast members. [Source: IMDb - Baymax!](https://www.imdb.com/title/tt13622958/)\n\n"
+                    "Now, using the web search results below, provide your answer:\n\n"
+                    "{formatted_results}"
+            )
+                chat_prompt = prompt_template.format(query=query, formatted_results=formatted_results)
+                # Generate the final answer from the LLM.
+                final_answer = generate_chat_response(chat_prompt)
+            except Exception as e:
+                final_answer = f"Error generating combined answer: {str(e)}"
+        
+        return final_answer
+            
+
     
     def _delegate_tasks(self, state: IntentAgentState) -> IntentAgentState:
         """
@@ -261,6 +321,26 @@ class IntentAgent:
             )
             
         return final_result
+
+
+##for intent agent testing
+# if __name__ == '__main__':
+#     from dotenv import load_dotenv
+#     load_dotenv() 
+
+#     # Create an instance of the IntentAgent.
+#     agent = IntentAgent(model_name="gpt-4o")
+#     test_query = "how to survive without watre for 5 days?"
+#     combined_response = agent._perform_web_search(test_query)
+    
+#     print("Raw Web Search Results:")
+#     print(json.dumps(combined_response["raw_results"], indent=2))
+
+#     print("\nGenerated Comprehensive Answer:")
+#     print(combined_response["final_answer"])
+
+
+
 
 # # Example usage (with dummy memory and output agents):
 
