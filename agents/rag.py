@@ -59,7 +59,7 @@ class RAGAgent:
         self.cohere_client = cohere.ClientV2(self.cohere_api_key)
         self.cohere_model = "embed-english-v3.0"
 
-        self.qdrant_client = QdrantClient(url="http://localhost:6333")
+        self.qdrant_client = QdrantClient(url="http://qdrant:6333")
         self.collection_names = [
             "financial_news",
             "earnings_calls",
@@ -278,12 +278,14 @@ class RAGAgent:
         # Run the graph
         result = self.graph.invoke(initial_state)
 
+        result_dict = dict(result)  # Convert to a standard dictionary
         output = {
-            "response": result.response,
-            "source_documents": result.source_documents[:3],
-            "collection_used": result.collection_choice,
-            "entities": result.financial_entities,
-            "error": result.error,
+            "response": result_dict.get("response"),
+            "source_documents": result_dict.get("source_documents", [])[:3],
+            "collection_used": result_dict.get("collection_choice"),
+            "entities": result_dict.get("financial_entities"),
+            "error": result_dict.get("error"),
         }
+
 
         return output

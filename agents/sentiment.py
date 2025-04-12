@@ -72,7 +72,7 @@ class SentimentAgent:
 
 
         # Initialize Qdrant client
-        self.qdrant = QdrantClient(url="http://localhost:6333")
+        self.qdrant = QdrantClient(url="http://qdrant:6333")
         try:
             self.qdrant_collection_info = self.qdrant.get_collection(collection_name="financial_news")
             self.qdrant_collection_name = "financial_news"
