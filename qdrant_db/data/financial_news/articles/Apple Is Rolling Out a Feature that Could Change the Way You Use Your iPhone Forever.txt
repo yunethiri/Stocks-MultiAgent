@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/apple-rolling-feature-could-change-193749458.html
+
+source: www.yahoo.com
+
+title: Apple Is Rolling Out a Feature that Could Change the Way You Use Your iPhone Forever
+
+summary: 
+
+publishDate: 2024-11-22T19:37:49.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999869704246521
+
+images: ['https://s.yimg.com/uu/api/res/1.2/15.nHTXFVr9mrfMBo8o31w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_huffington_post_584/a07efbbef4fab58a71b5f406c2fabbe0.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/a2N6PctKvPuzAU4_oQl1mQ--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/fea8f47cf8a0d1f14a6889404e08fcc0.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/fRb.KFoilxornbLPw4t6dw--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-11/51ed4180-a82e-11ef-9baf-e648aa3e26ff.cf.webp']
+
+content: Don’t want Messages to be your iPhone’s default messaging app? It no longer has to.
+
+iPhone 18.2 default apps
+
+When Apple rolls out iOS 18.2 next month — likely in early December — it’s going to deliver several features that could change the way you use your iPhone.
+
+You’ve undoubtedly seen the Apple Intelligence features — such as ChatGPT’s integration with Siri, as well as the ability to create AI-generated images from text commands — which have been featured in basically every iPhone commercial for the last several months.
+
+Advertisement Advertisement
+
+But iOS 18.2 will also introduce several lesser-advertised features, some of which promise to be even more helpful.
+
+iOS 18.2 gives you a new Default Apps menu in Settings. (Photo taken on the iOS 18.2 public beta.) - Credit: Photo by Tucker Bowe for Gear Patrol
+
+One of them is Share Item Location, a feature that will allow you to temporarily share the location of a missing AirTag with an airline or a trusted person — i.e, a stranger — so they can help find it.
+
+Maybe more significantly, iOS 18.2 will let you switch away from Apple’s default apps for things calling and messaging for the first time. You’ll also be able to switch the default apps for things like call filtering, passwords and keyboards.
+
+You’ve previously been able to change away from Apple’s default apps for a select few things. For example, when iOS 14 rolled out a few years ago, you could change your iPhone’s default web browser and email apps away from Safari and Mail, respectively.
+
+Advertisement Advertisement
+
+But this is a big change for anybody who wants to break a bit outside Apple’s app ecosystem.
+
+For the first time, Apple allows you to change your iPhone’s default messaging and phone apps. (Photo taken on the iOS 18.2 public beta.) - Credit: Photo by Tucker Bowe for Gear Patrol
+
+How to Change Your iPhone’s Default Apps
+
+When your iPhone is running iOS 18.2, you’ll be able to access a new Default Apps menu in the Settings app. You’ll be able to use this to easily change the default apps.
+
+Open the Settings app. Scroll down to the bottom and select Apps. Select Default Apps at the top.
+
+From here, you’ll be able to change away from Apple’s default apps for email, messaging, calling, call filtering, browser apps, passwords, wallets and keyboards.
+
+The public beta of iOS 18.2 is available now. The official release of iOS 18.2 is expected in early December.
+

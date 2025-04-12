@@ -1,0 +1,34 @@
+link: https://finance.yahoo.com/news/apple-announce-ai-wall-tablet-212949077.html
+
+source: finance.yahoo.com
+
+title: Apple to announce AI wall tablet as soon as March, Bloomberg News reports
+
+summary: 
+
+publishDate: 2024-11-12T21:29:49.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999916553497314
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://media.zenfs.com/en/reuters-finance.com/5521d62c2dffd624be15c37d636c4333']
+
+content: (Reuters) - Apple is planning on launching a wall-mounted display that can control appliances, handle video conferencing and use artificial intelligence to navigate apps, Bloomberg News reported on Tuesday, citing people with knowledge of the effort.
+
+The product, code-named J490, could be announced as early as March, the report said, adding that it will spotlight the new AI platform, Apple Intelligence.
+
+Apple did not immediately respond to a Reuters request for comment.
+
+The higher-end device could be priced as much as $1,000 depending upon the components being used, the report said, but the display-only device would be far less than that.
+
+The potential device launch would come as the tech behemoth looks to compete with rivals in the smart home market, including Google's Nest Hub and Amazon's Echo Show and Echo Hub smart displays.
+
+The AI wall tablet, which looks like a square iPad and is about the size of two iPhones side by side, has a roughly 6-inch screen and will be offered in silver and black colors, Bloomberg News said.
+
+The product will be a standalone device, but it will require an iPhone for some tasks, the report said.
+
+(Reporting by Arasu Kannagi Basil in Bengaluru; editing by Alan Barona)
+

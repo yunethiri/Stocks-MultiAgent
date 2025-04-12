@@ -1,0 +1,84 @@
+link: https://www.cnbc.com/2024/09/01/apple-and-google-wallets-want-to-make-hotel-room-key-card-obsolete-.html
+
+source: www.cnbc.com
+
+title: Apple and Google wallets want to help make the hotel room key card obsolete
+
+summary: Through use of Apple Wallet and Google Wallet, hotel chains are racing to ditch the plastic room key card.
+
+publishDate: 2024-09-01T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998791217803955
+
+images: ['https://image.cnbcfm.com/api/v1/image/108023035-1724178597412-gettyimages-1944981870-europapress_5700590_woman_tests_vuelings_new_biometric_recog.jpeg?v=1724178815&w=600&h=300&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/107404269-17137459721713745969-34219554465-1080pnbcnews.jpg?v=1713745971&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Many hotel chains are racing to replace the plastic room key with digital options, including Apple Wallet and Google Wallet apps. Plastic hotel key cards have had a rough few years. During the pandemic, touch was taboo, so touchless trends accelerated. And cybersecurity concerns have mounted around hotel key technology. Earlier this year, researchers found a vulnerability in plastic hotel keys that could render up to three million keys easy prey for hackers and take years to fix.
+
+Cybersecurity and safety issues have prompted many hotel chains to accelerate plans to transform hotel room door locks. While major U.S. chains have had the digital key capability for years, Google Wallet and Apple Wallet are jumping in by offering hotels the ability to save guests' room keys to their wallets, enabling them to access their rooms by simply tapping the back of their phones against a reader near the door handle.
+
+Hilton Hotels has its Honors app, which allows guests to check in and use a room key through their smartphone. The 119-room Harpeth Hotel in Franklin, Tennessee, is a Hilton property, and guests can check in digitally and store keys in their Google or Apple wallet app.
+
+"The benefit to the digital check-in is that your phone is the key," said Kimberly Elder, director of sales for the Harpeth Hotel, adding that many guests still prefer the plastic key cards.
+
+Eli Fuchs, regional director of operations at Valor Hospitality Partners, which has Hilton and Holiday Inn Express hotels in its portfolio, says digital is the next wave in hotel room door technology.
+
+"Traditional hotel room keys are staring down the end of their existence," Fuchs says.
+
+However, some security experts caution that even the newer lock methods aren't foolproof.
+
+"Keyless systems can introduce entirely new threat vectors for hotel security operations to manage," said Lee Clark, cyber threat intelligence production manager at Retail and Hospitality Information Sharing and Analysis Center (RH-ISAC).
+
+While Clark says these threats can be mitigated through security control policies and configurations, such as multifactor authentication (MFA), these introduce extra steps that harried guests may not always want to jump through.
+
+Clark says it's unlikely that all hotels will replace all key cards with digital keys any time soon because some guests may prefer a key card or may not have a personal device compatible with digital lock systems, along with the expense.
+
+"Transitioning to digital and keyless lock systems carries a significant cost in equipment, installation, maintenance, and security," Clark said.
+
+Hotel chains begin to require digital key systems
+
+And human habits keep getting in the way, too.
+
+For instance, data from J.D. Power's research on hotels found that only 14% of total branded hotel guests used digital keys during their hotel stay. Even guests who downloaded the brand's app to their phones used the plastic key card.
+
+According to J.D. Power data, among guests who have the app for the hotel company/brand, 30% use a digital key, and 70% use a plastic card most of the time.
+
+On the other hand, many hotels simply haven't installed locks capable of digital entry.
+
+"Several large hotel chains, whose apps are most likely to support digital keys, are beginning to require that hotel franchise owner to install new door locks as part of updated brand standards," said Andrea Stokes, hospitality practice lead at J.D. Power.
+
+Despite the slow adoption of digital options by customers, J.D. Power data does show that keyless customers feel safer than those using plastic cards.
+
+"Guests using 'digital key' provide significantly more positive ratings for safety of the hotel compared to those who did not use digital keys," Stokes said.
+
+Chad Spensky, CEO of Allthenticate, which develops smartphone access capability and credential management, compares the plastic key card to passwords, which cybersecurity specialists view as low-tech and dated.
+
+"We all still use passwords, despite the glaring security holes and clunky user experience. In the same way, key cards are likely here to stay," Spensky said.
+
+He says the real promise of digital cards is less about security and more about convenience.
+
+"While the card implementations are no more secure than their plastic counterparts, their user experience is far superior," Spensky said. If given a choice between shuffling around a bunch of plastic cards or having your smartphone, "the phone is a clear winner."
+
+The consumer convenience factor is pushing hotel chains forward in their quest for digital keys. While digital keys offer an additional attack surface, they also allow for quick course correction.
+
+One of the biggest problems with keycards, Spensky says, is that when a vulnerability is discovered there is no easy way to patch the vulnerability, "With smartphones patches can be pushed out almost instantly over the air," he said.
+
+Don't count out the plastic key card yet
+
+Mehmet Erdem, professor, and chair of the department of resort, gaming, and golf management at the University of Las Vegas's William F. Harrah College of Hospitality, warns that no system is foolproof and that people shouldn't let digital entry give them a false sense of security.
+
+"Everything can be hacked, everything can be breached," Erdem said. "If someone has the intention to hack, it will happen."
+
+Erdem says not to count the plastic key card out yet. There are magnetic key cards that require a swipe and the newer radio frequency identification (RFID) cards that simply require proximity or can be loaded onto a phone. Erdem says RFID technology is improving, which makes plastic keys more versatile.
+
+"RFID is not outdated," Erdem said, adding that it allows people who want less interaction to download the app, get the key, activate it, and go to the room.
+
+"Because of sustainability and cost, hotels will push for mobile app," Erdem said, but he added that some people will always prefer the physical plastic key. The advantage of the digital version of a plastic key, he said, comes down to human nature. "People forget their wallets, people forget their ID, but they don't forget their phone."
+
+But in Las Vegas, where people routinely head to their hotel rooms flush with winnings from the blackjack tables and slots, there is an old-fashioned, low-tech option that makes the door discussion moot.
+
+"There's always the safe in the room, the guests should use that if they have something very valuable," Erdem said.
+

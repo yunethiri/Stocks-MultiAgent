@@ -1,0 +1,50 @@
+link: https://www.yahoo.com/tech/apple-unveils-2024-app-store-140010928.html
+
+source: www.yahoo.com
+
+title: Apple unveils 2024 App Store Award winners—here's the top apps of the year
+
+summary: 
+
+publishDate: 2024-12-11T14:00:10.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.996364951133728
+
+images: ['https://s.yimg.com/uu/api/res/1.2/nFMwTchGH5S_Zwv4bpaRDA--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-01/16956f60-b638-11ee-bfb2-19f66157f950.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/a1Oi9sV5oy.MAcvB2SjwEg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_ecomm_415/e03b547ddb3f019334bd8c7d53b671da.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/_F6V5Q6l0L0vpm1srq6GQg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/quartz.com/c15775edee84fc6da6d3a2d54f438198.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future/Apple
+
+Apple today (December 11) announced the winners of the App Store Awards 2024, continuing the annual tradition of recognizing excellent apps compatible with the company's devices. The NYT Games app, largely credited with the Wordle and Connections phenomena, is recognized among 17 total honorees in this year's awards.
+
+The App Store Awards aim to showcase entertainment, value, and relevance to Apple's users. A majority of the apps are device-specific, including two new categories for Apple Vision Pro, while others recognize those apps that have made some kind of cultural impact, such as NYT Games.
+
+Advertisement Advertisement
+
+Advertisement
+
+Some readers might know Tom's Guide for our daily dedication to Wordle tips and Connections clues. Me? I've been doing the NYT Crossword and comparing results with my family members for years, so I was particularly excited to see the app among this year's App Store Awards winners.
+
+"This year we've added two additional games to our portfolio, plus archives, so this has been the year of our app really shining and a lot of investment has gone into it," Ashby Thornwell, NYT Games senior engineering manager, told me. "Having a daily fresh puzzle every day keeps players engaged."
+
+Apple App Store Award 2024 winners
+
+The NYT Games app is one of 17 total winners among this year's App Store Awards, spanning apps for iPhone, Apple Watch, iPad, Mac, and Apple Vision Pro.
+
+Another standout to me is Kino, the iPhone App of the Year, that pairs the iPhone 16 Pro's video-capturing abilities with a number of cinematic color-grading presets. I also am impressed by the ways Adobe Lightroom continues to innovate for photo editing as the Mac App of the Year.
+
+Advertisement Advertisement
+
+Advertisement
+
+Apple sets aside winners in gaming categories as well. From the best Apple Arcade game to the best iPad games, users might find themselves inspired to check out some new titles based on the 2024 App Store Awards.
+
+Otherwise, the cultural impact category celebrates apps that positioned for lasting significance among communities. Considering how many people have made NYT Games part of their daily family communication, the award makes sense. That said, apps like Oko and EF Hello that make it easier to exist in global settings are well-deserving, too.
+
+See the full lit of App Store Awards 2024 winners below:
+

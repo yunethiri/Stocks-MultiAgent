@@ -1,0 +1,98 @@
+link: https://www.yahoo.com/tech/apple-iphone-17-air-rumors-120000593.html
+
+source: www.yahoo.com
+
+title: Apple iPhone 17 Air rumors: Specs, price, release date, and more
+
+summary: 
+
+publishDate: 2024-11-16T12:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999898672103882
+
+images: ['https://s.yimg.com/uu/api/res/1.2/2amoDUBml2fj2OLO.q_cQw--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2023-11/53a814c0-8974-11ee-adac-9b2035fff84f.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/.V7LtUxUaP_hg2IbclbTRQ--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mashable_articles_863/45f8ffd9b87067078f95faac3b7ea972.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/rd.KypDuINo8YDjqmBZOng--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/android_central_347/4ec53d8a0d880bdf1592c9eefce1340c.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Despite its expected September 2025 release schedule, the iPhone 17 lineup is already generating some buzz. That interest is partially thanks to the rumored inclusion of a first-ever wildly thin iPhone model called the iPhone 17 Air.
+
+Obviously, we don't know the name for sure, but Apple's rumored, thin smartphone is also being referred to as the iPhone 17 Slim, though Bloomberg's Mark Gurman seems to think Apple will go with the 'Air' naming convention to boost sales — an idea first suggested by Apple leaker and YouTuber Jon Prosser.
+
+Advertisement Advertisement
+
+Whatever the name ends up being, we've rounded up the best leaks and rumors about the iPhone Air's specs, price, release date, and more.
+
+iPhone 17 Air rumors: Latest news
+
+iPhone 17 Air rumors: Release date & price
+
+It's still early days for the iPhone 17 Air, so rumors about its price aren't as solid as rumors about its specs and features. That said, there are a few ideas swirling around about its potential price tag.
+
+In a report from The Information, it's said the iPhone 17 Air "could be priced higher than the iPhone Pro Max." The iPhone 16 Pro Max starts at $1,199 right now, so the iPhone 17 Air could very well start at $1,299 or higher.
+
+This rumor matches up with rumors from July 2024 that a 'Slim' iPhone would become the most premium model in the iPhone lineup. However, rumored specs up to this point indicate the iPhone 17 Air will feature lower-end specs compared to the Pro Max, so a higher price doesn't make the most sense.
+
+Advertisement Advertisement
+
+Another rumor from analyst Jeff Pu via an investor note seen by 9to5Mac suggests the iPhone 17 Air may act as a "replacement" for the iPhone's "Plus" model. If Pu means the Air model would fully replace the Plus model in the iPhone 17 lineup, then the Air's starting price could match or hover around the iPhone 16 Plus' $899 starting price.
+
+When it comes to a release date, Apple is much more predictable. The iPhone 17 Air, if it exists, will likely launch in September 2025, along with the rest of the iPhone 17 lineup.
+
+iPhone 17 Air rumors: Specs
+
+None of the following specs have been confirmed by Apple yet, but here's what we've heard so far from leakers and analysts regarding the iPhone 17 Air's possible specs.
+
+iPhone 17 Air rumors: Design & display
+
+The iPad Pro M4 is the thinnest product Apple has ever made — even thinner than the iPod Nano — and the company reportedly has plans to bring that sleek, thin design to the iPhone, MacBook, and Apple Watch.
+
+Advertisement Advertisement
+
+The iPhone 17 Air was originally thought to be much thinner than the iPhone 16's 7.8-millimeter depth. However, according to a leak reported on by MacRumors, it might not be impressively thin like we were first expecting.
+
+The leak mentions Apple's original plans to reduce thickness by manufacturing a battery with a thinner substrate, but the cost and tech involved made it an impractical solution. The battery will supposedly be around 6mm thick, and with all the extra materials around it, it'll likely be larger than the smallest iPhone ever, the iPhone 6 at just 6.9mm thick.
+
+Compared to the 13-inch iPad Pro M4's thickness of just 5.1mm, the iPhone 17 Air's thickness will pale in comparison, but it should still be noticeably thinner than the rest of the iPhone 17 lineup.
+
+3D render of the iPhone SE 4 and iPad mini 7 based on information gathered from rumors and leaks. Two iPhone SE 4 smartphones sit on top of an iPad mini 7, one is facing up to show its display, the other is facing down to show its back and camera array.
+
+Many rumors suggest the iPhone 17 Air will adopt a fully aluminum casing, in an effort to make the phone feel lighter. Analyst Ming-Chi Kuo, however, thinks the phone's chassis will be constructed of both aluminum and titanium, "with a lower percentage of titanium than the current Pro and Pro Max metal frames."
+
+Advertisement Advertisement
+
+As for its display, the iPhone 17 Air is expected to feature a 6.6-inch display with a 2,740 x 1,260-pixel resolution, ProMotion capabilities with a refresh rate of up to 120Hz, and potentially a smaller camera cutout, thanks to Apple's rumored "metalens" technology.
+
+A leaker on Weibo (via MacRumors) says all iPhone 17 models will adopt a "super-hard AR (anti-reflective) layer" that's "more scratch-resistant" than the existing outer glass. Then, there's also a slim possibility that the iPhone 17 Air could be one of the first to sport an OLED display panel (via Tom's Guide).
+
+iPhone 17 Air rumors: Cameras
+
+For the longest time, iPhones either have two or three cameras in the rear camera array. With the iPhone 17 Air, however, the company might shake things up and risk upsetting the Apple cart.
+
+iphone 16 back
+
+According to a research note by industry analyst Jeff Pu (seen by MacRumors), the iPhone 17 Air will reportedly be getting a single 48-megapixel rear wide camera, similar to what's expected for the iPhone SE 4.
+
+Advertisement Advertisement
+
+This means it'd be adopting the same main rear camera found in the iPhone 16 and iPhone 16 Plus, but ditching the 12-megapixel ultrawide camera. If the 17 Air's price is to remain the same as the existing 16 Plus model, this camera omission will definitely be an issue.
+
+On the front, the selfie camera will reportedly be getting an upgrade, leaving its 12-megapixel camera behind in favor of a much better 24-megapixel camera. This change is supposed to be hitting all iPhone 17 models, not just the Air.
+
+iPhone 17 Air rumors: Outlook
+
+While I'm hoping the iPhone 17 Air will indeed be the thinnest iPhone Apple's ever made, that doesn't seem likely right now. Larger batteries (which give people the all-day battery life they want) simply don't allow for incredibly thin phones.
+
+That said, it could be a welcome addition to the iPhone 17 lineup. Right now, the biggest thing that differentiates the base iPhone 16 from its Plus counterpart is screen size. Replacing the Plus model with a thinner Air model could make it stand out as the phone you buy when you want a large display and a thin, lightweight form factor, and make fewer people opt for the base variant.
+
+Advertisement Advertisement
+
+Expect more info to arrive as we push ahead into next year and approach WWDC 2025. As an iPhone gets closer to its release date, we often start seeing more leaks of both info and photos, so stay tuned.
+
+For news, rumors, and updates on all things Apple, iPhone, and tech, follow Laptop Mag on X, Facebook, Instagram, LinkedIn, and Flipboard for the latest word as it arrives.
+

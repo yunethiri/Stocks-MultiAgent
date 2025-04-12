@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-08-27T15:00:00.000Z
 
+language: en
+
+sentiment: negative
+
+confidence: 0.9999691247940063
+
+images: ['https://s.yimg.com/ny/api/res/1.2/yhhUHsZOVe8jVAtGOwi9ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/0e880e40-647a-11ef-9eb7-2c698efd72b6', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300001&c7=https%3A%2F%2Ffinance.yahoo.com%2Fvideo%2Fwhy-apples-iphone-16-might-150000531.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8']
+
 content: Apple (AAPL) is set to host its iPhone 16 launch event on September 9, with investors eagerly awaiting the unveiling of the next generation of smartphones, Apple Watches, and AirPods. Maxim Group managing director and senior consumer internet analyst Tom Forte joins Morning Brief to discuss the potential impact of this launch on the tech giant.
 
 Forte notes a specific challenge facing Apple this year: while the company will introduce new hardware in its latest iPhone upgrade cycle, consumers will need to wait for the updates related to Apple's artificial intelligence software dubbed "Apple Intelligence."
@@ -17,10 +25,4 @@ Forte explains this could potentially delay sales for the tech giant in the near
 For more expert insight and the latest market action, click here to watch this full episode of Morning Brief.
 
 This post was written by Angel Smith
-
-language: en
-
-sentiment: negative
-
-confidence: 0.9999691247940063
 

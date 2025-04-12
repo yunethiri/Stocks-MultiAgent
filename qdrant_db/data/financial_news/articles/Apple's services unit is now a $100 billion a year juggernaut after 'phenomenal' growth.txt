@@ -1,0 +1,44 @@
+link: https://www.cnbc.com/2024/10/31/apple-services-is-100-billion-per-year-juggernaut-but-growth-slowing.html
+
+source: www.cnbc.com
+
+title: Apple's services unit is now a $100 billion a year juggernaut after 'phenomenal' growth
+
+summary: Apple's services business has become a critical part of the company's appeal to Wall Street over the past decade.
+
+publishDate: 2024-10-31T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999997615814209
+
+images: ['https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://image.cnbcfm.com/api/v1/image/108055948-17304081371730408132-36920059001-1080pnbcnews.jpg?v=1730408135&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Apple CEO Tim Cook (C) joins customers during Apple's iPhone 16 launch in New York on September 20, 2024.
+
+Apple's second-largest division after the iPhone has turned into a $100 billion a year business that Wall Street loves.
+
+In Apple's earnings report on Thursday, the company said it reached just under $25 billion in services revenue, an all-time high for the category, and 12% growth on an annual basis.
+
+"It's an important milestone," Apple CFO Luca Maestri said on a call with analysts. "We've got to a run rate of $100 billion. You look back just a few years ago and the the growth has been phenomenal."
+
+Apple first broke out its services revenue in the December quarter of 2014. At the time, it was $4.8 billion.
+
+Apple's services unit has become a critical part of Apple's appeal to investors over the past decade. Its gross margin was 74% in the September quarter compared to Apple's overall margin of 46.2%.
+
+Services contains a wide range of different offerings. According to the company's SEC filings, it includes advertising, search licensing revenue from Google, warranties called AppleCare, cloud subscription services such as iCloud, content subscriptions such as the company's Apple TV+ service, and payments from Apple Pay and AppleCare.
+
+On a January 2016 earnings call, when the reporting segment was relatively new, Apple CEO Tim Cook told investors to pay attention.
+
+"I do think that the assets that we have in this area are huge, and I do think that it's probably something that the investment community would want to and should focus more on," Cook said.
+
+Over the years, Apple has compared its services business to the size of Fortune 500 companies, which are ranked by sales, to give a sense of its scale. After Thursday, Apple's services business alone, based on its most recent run rate, would land around 40th on the Fortune 500, topping Morgan Stanley and Johnson & Johnson.
+
+Services appeals to investors because many of the subscriptions contained in it are billed on a recurring basis. That can be more reliably modeled than hardware sales, which will increase or decrease based on a given iPhone model's demand.
+
+"Yes, the the recurring portion is growing faster than the transactional one," Maestri said on Thursday.
+
+Apple's fourth-quarter results beat Wall Street expectations for revenue and earnings on Thursday, but net income slumped after a one-time charge as part of a tax decision in Europe. The stock fell as much as 2% in extended trading.
+

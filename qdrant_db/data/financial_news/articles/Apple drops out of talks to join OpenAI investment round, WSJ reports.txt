@@ -1,0 +1,32 @@
+link: https://finance.yahoo.com/news/apple-drops-talks-join-openai-015726843.html
+
+source: finance.yahoo.com
+
+title: Apple drops out of talks to join OpenAI investment round, WSJ reports
+
+summary: 
+
+publishDate: 2024-09-28T01:57:26.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999862909317017
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-drops-talks-join-openai-015726843.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/QQjPL20S9MK5ckm47XLbLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOA--/https://media.zenfs.com/en/reuters-finance.com/08975e0fe66b17d1c568be787baa0221']
+
+content: (Reuters) -Apple has left negotiations to participate in an OpenAI funding round expected to raise about $6.5 billion, the Wall Street Journal said on Friday.
+
+The tech giant recently fell out of the talks for the round, set to close next week, the newspaper said, citing a person familiar with the matter.
+
+Other firms, such as Microsoft and Nvidia, have also been in talks to participate, the report said, adding that Microsoft was expected to invest about $1 billion after having already poured $13 billion into the company.
+
+OpenAI declined to comment, while Apple did not immediately respond to a request for comment.
+
+Last month, the Journal first reported that Apple was in the talks, as part of OpenAI's new fund-raising effort that could value the ChatGPT maker above $100 billion.
+
+The high valuation is a result of the AI arms race OpenAI sparked with its launch of ChatGPT in late 2022, spurring companies across industries to invest billions in the technology to stay ahead of the competition and capture market share.
+
+(Reporting by Shivani Tanna in Bengaluru; Editing by Clarence Fernandez and Himani Sarkar)
+

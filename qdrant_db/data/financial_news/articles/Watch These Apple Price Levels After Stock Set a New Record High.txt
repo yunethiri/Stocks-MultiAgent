@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-10T14:48:35.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9950882792472839
+
+images: ['https://s.yimg.com/ny/api/res/1.2/OEYXpDmIpZ8wp6dA6t9V4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NzQ-/https://media.zenfs.com/en/investopedia_245/c5ee2c0d33a2eddd077fe57b0a179117', 'https://s.yimg.com/ny/api/res/1.2/U_NhiHTVEFC_KPA6bCVw.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2024-06/d087c240-2cdc-11ef-a7fa-1e26e21a0640', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Source: TradingView.com
 
 
@@ -53,10 +61,4 @@ Chart-Based Price Target to Watch
 Investors can project a potential bullish price target by using the measuring principle, a technique that analyses chart patterns to predict future moves.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9950882792472839
 

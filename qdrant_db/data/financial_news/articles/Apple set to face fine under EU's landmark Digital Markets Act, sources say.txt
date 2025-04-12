@@ -1,0 +1,20 @@
+link: https://www.reuters.com/technology/apple-set-face-fine-under-eus-landmark-digital-markets-act-sources-say-2024-11-05/
+
+source: www.reuters.com
+
+title: Apple set to face fine under EU's landmark Digital Markets Act, sources say
+
+summary: Apple is set to be fined by EU antitrust regulators under the bloc's landmark rules aimed at reining in the power of Big Tech, making it the first company to be sanctioned, sources with direct knowledge of the matter said on Tuesday.
+
+publishDate: 2024-11-05T20:54:16.818Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.5648322105407715
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F667527b5-7241-4d9c-bf23-822c102ec553.png?auth=8f8b914edb10351d28e561a89ed475cd59671441a975776afb716a308f7fe04e&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F667527b5-7241-4d9c-bf23-822c102ec553.png?auth=8f8b914edb10351d28e561a89ed475cd59671441a975776afb716a308f7fe04e&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F667527b5-7241-4d9c-bf23-822c102ec553.png?auth=8f8b914edb10351d28e561a89ed475cd59671441a975776afb716a308f7fe04e&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is set to be fined by EU antitrust regulators under the bloc's landmark rules aimed at reining in the power of Big Tech, making it the first company to be sanctioned, sources with direct knowledge of the matter said on Tuesday.
+

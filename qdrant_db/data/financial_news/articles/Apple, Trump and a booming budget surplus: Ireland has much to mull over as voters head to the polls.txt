@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/11/28/apple-trump-and-a-booming-budget-surplus-ireland-has-much-to-mull-over-as-voters-head-to-the-polls.html
+
+source: www.cnbc.com
+
+title: Apple, Trump and a booming budget surplus: Ireland has much to mull over as voters head to the polls
+
+summary: A budget surplus and concerns over U.S. President-elect Donald Trump's upcoming tax policies are some of the economic questions facing Ireland.
+
+publishDate: 2024-11-28T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7261344194412231
+
+images: ['https://image.cnbcfm.com/api/v1/image/108068787-1732714306264-gettyimages-2045531476-_mg_1863.jpeg?v=1732714330&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg']
+
+content: Polling station in Ireland. Kinga Krzeminska | Moment | Getty Images
+
+Ireland goes to the polls on Nov. 29, with center-right parties Fianna Fáil and Fine Gael once again expected to form the nucleus of the country's next government. The historical rivals have shared power over the last five years alongside the Green Party, and the latest opinion polls show the two riding high, as the election campaign enters its final days. Whoever leads the country following the vote will face some unique economic challenges and opportunities: Ireland has a budget surplus, driven by its unique position as a European headquarters for major U.S. tech and pharmaceutical companies, while its balance sheet was boosted by a September ruling of the European Court of Justice, which ordered Apple to pay 13 billion euros ($13.7 billion) in back taxes to the country. On the flipside, there are concerns in Dublin that U.S. President-elect Donald Trump will look to clamp down on U.S. companies paying taxes in Ireland, instead of in America.
+
+Political angle
+
+The country's two biggest parties look once again on track to form a government, despite some travails for Fine Gael as the campaign winds down. The latest Irish Times/Ipsos B&A poll of Nov. 25 shows support for Fine Gael falling six points to 19% over the last two weeks, while Fianna Fáil's backing now stands at 21%. Support for Republican Party Sinn Féin, which posted major gains in the previous general election, currently sits at 20%, while independent candidates are polling at 17%. Ireland uses proportional voting, and if no party can claim a majority in the election, a coalition is certain. It is nevertheless unclear what policy changes can be expected, given the sway that Fianna Fáil and Fine Gael are likely to have in a potential government. Housing is a significant issue, with the Central Bank of Ireland warning in a recent September report that Ireland's "housing market has been subject to more than a decade of under-supply", adding that the surge in rent and house prices has stretched affordability. The central bank went on to forecast that "around 52,000 new homes could be needed per year out to the middle of the century, or a 20,000 unit increase relative to 2023 supply." Homelessness across the country, particularly in Dublin, has reached record levels, with almost 15,000 people in emergency accommodation in September, of whom 4,561 were children, according to official figures. Despite concerns over tight housing supply, Emma Howard, economist at TU Dublin, said in an email to CNBC that Ireland still remains attractive to workers, given that it is "the only English speaking country with access to the European single market, and we have a relatively younger and more education workforce than our European counterparts."
+
+Budget bonus
+
+The good news is that the country's finances are on a strong footing, more than a decade after the government sought a bailout from the IMF, the ECB and the European Commission. A budget surplus has been recorded in the last two years, with Finance Minister Jack Chambers revealing in September that the country expects to record a surplus of up to €24 billion this year, driven by the ECJ ruling. An additional boost came in mid-November when S&P Global Ratings upped its outlook on Ireland to positive from stable, adding that it could potentially revise its ratings to AAA — the agency's highest grade— if Dublin "continues to rebuild economic and fiscal buffers." The report nevertheless came with a warning for authorities that 10 foreign-owned multinational enterprises were responsible for half of the country's corporate tax receipts in 2023. However, Howard says "if the 'windfall' corporation taxes are removed, the proportion of government revenue that is not from domestic economic activity, Ireland actually has a budget deficit, and over the period 2024-2030 the current spending plans add up to a deficit of €50 billion." Many of these are U.S. companies, and this is where clouds could appear on the horizon for the country.
+
+Trump's return
+

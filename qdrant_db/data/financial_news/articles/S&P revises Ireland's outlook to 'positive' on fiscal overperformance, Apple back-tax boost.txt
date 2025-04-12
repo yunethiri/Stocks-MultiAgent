@@ -1,0 +1,27 @@
+link: https://www.reuters.com/markets/europe/sp-revises-irelands-outlook-positive-fiscal-overperformance-apple-back-tax-boost-2024-11-15/
+
+source: www.reuters.com
+
+title: S&P revises Ireland's outlook to 'positive' on fiscal overperformance, Apple back-tax boost
+
+summary: S&P Global Ratings revised Ireland's outlook to "positive" from "stable" on Friday, citing extraordinary fiscal overperformance, sustained economic growth and external resilience of the country's economy.
+
+publishDate: 2024-11-15T22:49:52.856Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999995231628418
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: S&P Global Ratings revised Ireland's outlook to "positive" from "stable" on Friday, citing extraordinary fiscal overperformance, sustained economic growth and external resilience of the country's economy.
+"The positive outlook reflects the significant fiscal overperformance, particularly driven by corporation tax receipts, which are rebuilding the Irish government's fiscal buffers," the ratings agency <a href="https://disclosure.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3285039" target="_blank">said</a>.
+Ireland's tax collection increased by 14.9% in the first 10 months of the year, compared with the same period in 2023, as the first portion of a 14 billion euro ($14.74 billion) back-tax windfall boosted already healthy revenues.
+An <a href="/world/europe/ireland-unveil-bumper-pre-election-budget-apple-windfall-plans-2024-09-30/">explosion in corporate tax revenues</a>, mainly paid by a few large U.S. multinationals, has handed Ireland one of Europe's few budget surpluses, and a one-off collection of back taxes from Apple Inc is set to push that surplus to 7.5% of national income this year.
+S&P estimates the Irish government will run a fiscal surplus equivalent to 7.4% of national income.
+"Yet, even without the Apple tax windfall, other regular corporate tax receipts had been continuing to surge, and we estimate the surplus excluding the Apple windfall will still be about 2.8% of national income, which continues to be the highest in the eurozone," S&P said.
+S&P affirmed the "AA/A-1+" long- and short-term ratings of Ireland while suggesting it could be raised in the next 24 months if the country continues to rebuild economic and fiscal buffers, improving its resilience to external shocks.
+($1 = 0.9498 euros)
+

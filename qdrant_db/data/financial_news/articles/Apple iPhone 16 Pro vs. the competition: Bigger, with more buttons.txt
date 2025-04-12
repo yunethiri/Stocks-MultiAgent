@@ -1,0 +1,34 @@
+link: https://www.yahoo.com/news/apple-iphone-16-pro-vs-the-competition-bigger-with-more-buttons-194622608.html
+
+source: www.yahoo.com
+
+title: Apple iPhone 16 Pro vs. the competition: Bigger, with more buttons
+
+summary: 
+
+publishDate: 2024-09-09T19:46:22.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8152630925178528
+
+images: ['https://s.yimg.com/ny/api/res/1.2/xexoQk1sbRFV8QgS.07aLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NDU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f6ff05e0-6ee1-11ef-9fa7-46302c95bd28', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197618800&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fapple-iphone-16-pro-vs-the-competition-bigger-with-more-buttons-194622608.html&c14=-1']
+
+content: Here's how Apple's latest compares to other prominent $1,000 smartphones from Samsung and Google.
+
+Apple unveiled a quartet of iPhones on Monday, including the iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max. As expected, the updates are largely iterative. The standard models now have the programmable Action button from last year's Pro series, slightly improved battery life and an updated camera module that's stacked vertically instead of diagonally.
+
+The Pro phones, meanwhile, feature bigger displays with slimmer bezels, improved battery life and a handful of camera upgrades, including a 5x optical zoom for the smaller Pro and a sharper ultrawide camera. The standard models run on Apple's new A18 silicon, while the Pro models, fittingly, use a faster and more efficient chip called the A18 Pro.
+
+The most notable hardware change across the board might be a new touch-sensitive "Camera Control" button that makes capturing photos and video a little more DSLR-like. Mostly, though, these phones don't look to be massive departures from the iPhone 15s before them. Much of Apple's sales pitch will come down to how helpful its "Apple Intelligence" AI tools are out in the wild.
+
+We already have a hands-on preview for the iPhone 16 Pro up on the site, and we'll have full reviews for the entire iPhone 16 lineup in the near future. But if you're thinking about pre-ordering right away, we've broken down how the new iPhone 16 Pro compares to two of its most prominent rivals in the $1,000 price bracket, the Google Pixel 9 Pro and Samsung Galaxy S24+, on the spec sheet. Per usual, raw specs won't tell the full story — you'd probably buy an iPhone because you want iOS and an Android phone because you prefer Android — but if you're wondering what a $1,000 smartphone gets you in 2024, here's how Apple's latest handset stacks up.
+
+Apple iPhone 16 Pro Google Pixel 9 Pro Samsung Galaxy S24+ Pricing (MSRP) $999 (128GB), $1,099 (256GB), $1,299 (512GB), $1,499 (1TB) $999 (128GB), $1,099 (256GB), $1,219 (512GB), $1,449 (1TB) $1,000 (256GB), $1,120 (512GB) Dimensions 5.9 x 2.8 x 0.3 inches 6 x 2.8 x 0.3 inches 6.2 x 3 x 0.3 inches Weight 7.03 ounces 7 ounces 6.9 ounces Screen size 6.3 inches 6.3 inches 6.7 inches Screen resolution 1,206 x 2,622 (460 ppi) 1,280 x 2,856 (495 ppi) 1,440 x 3,120 (512 ppi) Screen type OLED Up to 120Hz (1-120Hz) Up to 2,000 nits (peak brightness) Ceramic Shield LTPO OLED Up to 120Hz (1-120Hz) Up to 3,000 nits (peak brightness) Corning Gorilla Glass Victus 2 Dynamic AMOLED 2X Up to 120Hz (1-120Hz) Up to 2,600 nits (peak brightness) Corning Gorilla Glass Victus 2 SoC Apple A18 Pro (6-core) Google Tensor G4 (8-core) NA/China: Qualcomm Snapdragon 8 Gen 3 (8-core) Int'l: Samsung Exynos 2400 (10-core) RAM Not specified 16GB RAM 12GB RAM Battery "Up to 27" hours video playback 4,700 mAh "24+ hours" with mixed usage 4,900mAh "Up to 29" hours video playback Charging Wired: not specified 25W wireless (with MagSafe charger; up to 15W with Qi2 chargers) 27W wired 21W wireless (with Pixel Stand; up to 12W with other Qi chargers) 45W wired 15W wireless Storage 128GB, 256GB, 512GB, 1TB 128GB, 256GB, 512GB, 1TB (1TB only available with Obsidian model) 256GB, 512GB Rear camera Main ("Fusion"): 48 MP, f/1.78 Ultrawide: 48 MP, f/2.2, 120° FOV Telephoto: 12 MP, f/2.8, 5x optical zoom Main: 50 MP, f/1.68, 82° FOV Ultrawide: 48 MP, f/1.7, 123° FOV Telephoto: 48 MP, f/2.8, 5x optical zoom Main: 50 MP, f/1.8, 85° FOV Ultrawide: 12MP, f/2.2, 120° FOV Telephoto: 10MP, f/2.4, 3x optical zoom Front camera 12 MP, f/1.9 42 MP, f/2.2, 103° FOV 12 MP, f/2.2, 80° FOV Video capture Rear: 4K at 24/25/30/60/100/120 fps, 1080p up to 240 fps Front: 4K at 24/24/30/60 fps, 1080p up to 120 fps Rear: 8K at 30 fps, 4K at 24/30/60 fps, 1080p up to 240 fps Front: 4K at 30/60 fps Rear: 8K at 24/30 fps, 4K at 30/60 fps, 1080p up to 240 fps Front: 4K at 30/60 fps Water and dust resistance rating IP68 IP68 IP68 Wi-Fi Wi-Fi 7 Wi-Fi 7 Wi-Fi 6e Bluetooth Bluetooth 5.3 Bluetooth 5.3 Bluetooth 5.3 OS iOS 18 Android 14 Android 14 Colors and finish Glass front, glass back, titanium frame Black Titanium, White Titanium, Natural Titanium, Desert Titanium Glass front, glass back, aluminum frame Porcelain, Rose Quartz, Hazel, Obsidian Glass front, glass back, aluminum frame Cobalt Violet, Amber Yellow, Onyx Black, Marble Gray, Jade Green, Sandstone Orange, Sapphire Blue
+
+Apple iPhone 16 Pro $999 at Apple
+
+Catch up on all the news from Apple’s iPhone 16 event!
+

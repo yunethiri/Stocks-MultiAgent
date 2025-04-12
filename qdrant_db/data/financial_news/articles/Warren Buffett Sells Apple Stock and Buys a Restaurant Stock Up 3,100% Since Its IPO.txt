@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-28T08:30:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998406171798706
+
+images: ['https://s.yimg.com/ny/api/res/1.2/ZnafwME2KUfhpGY9k5Sz1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/206822820c1717a77c87d5bb4618445b', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0']
+
 content: Warren Buffett reportedly manages about 90% of Berkshire Hathaway's (NYSE: BRK.A) (NYSE: BRK.B) equity securities portfolio, while understudies Todd Combs and Ted Weschler handle the rest. The company does not disclose which investment manager makes each individual trade, but Buffett is almost certainly in charge of large positions like Apple (NASDAQ: AAPL).
 
 Despite once calling Apple the "best business" in the world, Buffett sold 100 million shares in the third quarter, cutting Berkshire's stake by 25%. And while Apple still ranked as the company's largest holding as of Sept. 30, Buffett has now sold more than 615 million shares in the last four quarters.
@@ -27,10 +35,4 @@ Apple reported modest financial results in the fourth quarter of fiscal 2024, wh
 Apple is a solid business, but not even the best business is worth buying at any price. Apple's price-to-earnings (P/E) ratio has risen from 26 in April to 42 in December without a meaningful catalyst. Sure, it recently launched Apple intelligence, a suite of artificial intelligence capabilities for newer iPhones and MacBooks. But that has yet to trigger the upgrade cycle predicted by so many analysts.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9998406171798706
 

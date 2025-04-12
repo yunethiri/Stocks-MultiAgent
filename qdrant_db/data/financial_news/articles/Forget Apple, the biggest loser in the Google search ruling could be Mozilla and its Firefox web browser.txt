@@ -1,0 +1,48 @@
+link: https://finance.yahoo.com/news/forget-apple-biggest-loser-google-001421247.html
+
+source: finance.yahoo.com
+
+title: Forget Apple, the biggest loser in the Google search ruling could be Mozilla and its Firefox web browser
+
+summary: 
+
+publishDate: 2024-08-06T00:14:21.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999792575836182
+
+images: ['https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fforget-apple-biggest-loser-google-001421247.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/uc3BT6fAXsSlRmv5AQC_DQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU4Ng--/https://media.zenfs.com/en/fortune_175/5ba8ba5141185391adaefe793b9982c6']
+
+content: “Google is a monopolist, and it has acted as one to maintain its monopoly."
+
+With those words from United States District judge Amit Mehta on Monday, Google suffered a historic antitrust case loss at the hands of the U.S. Department of Justice. Mehta, the judge presiding over the trial, ruled that the tech giant has illegally maintained a monopoly through the billions of dollars in annual payments it makes to partners to secure the default search engine position on popular web browsers and mobile phones. With those dominant positions locked in, the argument goes, other competitors in the search and search advertising businesses have no chance of competing effectively.
+
+The ruling immediately prompted speculation about the impact to Apple, which receives as much as $20 billion from Google every year in exchange for putting the search engine front-and-center on its iPhones via the Apple Safari web browser.
+
+But while Apple would certainly take a big hit if the ruling is upheld, Apple is a large, diversified company with many sources of revenue. That's not the case for another partner of Google's located in the fallout zone of Monday's ruling: Mozilla, the non-profit tech org that makes the Firefox web browser.
+
+When users of Firefox type a search term into the browser, the query is automatically routed to Google's search engine. The arrangement is vital for Mozilla. According to the Mozilla Foundation's 2021-2022 financial statement, which is the most recent published, $510 million out of its $593 million in revenue came courtesy of Google's search payments.
+
+If that number $510 million were to go away entirely, Mozilla will have a serious problem on its hands.
+
+Mozilla is putting on a brave face for now, and not directly addressing the existential threat that the ruling appears to pose.
+
+"Mozilla has always championed competition and choice online, particularly in search," a spokesperson said in a statement to Fortune on Monday. "We're closely reviewing the court's decision, considering its potential impact on Mozilla and how we can positively influence the next steps...Firefox continues to offer a range of search options, and we remain committed to serving our users' preferences while fostering a competitive market."
+
+For Mozilla, which first rose to prominence in the late 1990s as a community-driven project to challenge Microsoft's stranglehold on the web browser market via Internet Explorer, Monday's ruling is the latest setback in a quest to find relevance in a market dominated by Big Tech companies. Mozilla laid off about 60 staffers earlier this year and saw its CEO step down.
+
+Story continues
+
+You can be sure that critics of the judge's ruling will highlight the potentially devastating impact on Mozilla to make the case that the antitrust ruling will have unintended consequences on smaller tech industry players. Others might argue that Mozilla hasn't done enough with those spoils to differentiate its Firefox browser, or that it could cut a deal with another search engine like Bing if its Google deal goes away completely.
+
+Either way, Google will appeal the suit so a long battle may ensue. And there's another big domino to fall: the judge will rule on the remedy or remedies — essentially, the business-model penalties — that Google will face.
+
+Evercore ISI research analyst Mark Mahoney tacked them off in a research note on Monday evening:
+
+"The exact remedy is key, and so far, it’s hard to pick a winning horse among a range of outcomes," he wrote. " i) forbidding payment from Google altogether, ii) a cap on the amount of distribution agreement fees, iii) pushing Apple to implement a “choice screen”, or iv) something else? In any case, we expect at least another 6 months to a year before we would know the exact remedies (or longer if the judge decides to stay the remedies phase pending GOOG’s appeal)."
+
+This story was originally featured on Fortune.com
+

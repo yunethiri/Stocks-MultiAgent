@@ -1,0 +1,20 @@
+link: https://www.reuters.com/technology/apple-cuts-about-100-jobs-its-services-division-bloomberg-news-reports-2024-08-28/
+
+source: www.reuters.com
+
+title: Apple cuts about 100 jobs in its services division, Bloomberg News reports
+
+summary: Apple cut about 100 jobs in its services division, with the majority being from the team responsible for Apple Books and Apple Bookstore. The job cuts were reported by Bloomberg News on Tuesday.
+
+publishDate: 2024-08-28T03:15:23.367Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9992948770523071
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple Inc <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has cut about 100 jobs in its services division, with the biggest cuts in the team responsible for the Apple Books app and Apple Bookstore, Bloomberg News reported on Tuesday.
+

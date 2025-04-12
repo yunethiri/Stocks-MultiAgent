@@ -1,0 +1,56 @@
+link: https://www.yahoo.com/news/iphone-16-apple-intelligence-more-174847674.html
+
+source: www.yahoo.com
+
+title: iPhone 16, Apple Intelligence and more: Everything revealed at Apple Event 2024
+
+summary: 
+
+publishDate: 2024-09-09T17:48:47.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999946355819702
+
+images: ['https://s.yimg.com/ny/api/res/1.2/pFSCv1ETbJ6.xS2MF67KjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzOQ--/https://media.zenfs.com/en/techcrunch_350/65d0154781c70200eb9b3980ae25e17f', 'https://s.yimg.com/ny/api/res/1.2/x.OFYovDh6hL1neROHChAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzMg--/https://media.zenfs.com/en/techcrunch_350/9fbec85464d6214d4197d2ce21e60b33', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: Apple’s biggest event of the year has arrived, and with it, the iPhone 16 lineup and a slew of AI-related updates for iOS 18. Apple Intelligence is expected to be the star of the Apple event this year, like it was at WWDC in June, despite the many anticipated hardware reveals like new Apple Watches, AirPods and Macs. Broadcasting live from its headquarters in Cupertino, Apple’s “Glowtime” event kicked off at 10 a.m. PT, and you can still watch the livestream here.
+
+Whether Monday's reveals end up inspiring or delaying a “supercycle” of customers adopting the new iPhone 16 lineup remains to be seen, but Apple’s focus on AI as a core part of its sales pitch moving forward is clear. We’ll keep this post updated as the Apple event continues, and as reports emerge from the demo rooms and briefings following the event.
+
+iPhone 16
+
+As no surprise, the iPhone 16 "has been designed for Apple Intelligence from the ground up," in the words of Apple CEO Tim Cook, and the tweaked designs and new colors were revealed at the Apple event. The new iPhone 16 lineup comes with a camera control along the side, which allows for physical interactions to access camera features, along with the new A18 chip Apple claims makes the iPhone 16 30 percent faster than the iPhone 15. Catch up on our ongoing iPhone 16 updates here.
+
+Apple Watch Series 10
+
+overview of Apple Watch Series 10 features
+
+Apple kicked things off with reveals on the Watch for the line’s tenth anniversary, rolling out a series of updates within the Apple Watch Series 10 line, including a tweaked design with more rounded corners and an updated aspect ratio, with Apple’s first wide-angle OLED screens. The Series 10’s display is up to 40 percent brighter when viewed at an angle, and is the thinnest Apple Watch yet at 9.7mm and up to 10 percent lighter than the previous models. Unsurprisingly, AI featured in the Apple Watch Series 10 reveal, with a new photos watch face using AI to curate the photos shown on the display, and translation tools using machine learning to improve output.
+
+Apple Watches are also getting an update to detect sleep apnea, which is pending FDA clearance. The feature will come to both the Series 10 and Series 9 watches. The Apple Watch Series 10 will start at $399, and it launches September 20.
+
+Read more on the Apple Watch Series 10 here.
+
+Apple Watch Ultra
+
+Apple has long touted the Ultra as a device for fitness aficionados, boasting custom workouts, running track detection, bike rides as live activities and so on. And after a lead-up to a reveal, Apple dropped that there won't be a Apple Watch Ultra 3 yet, instead announcing a new satin black color for the Ultra 2.
+
+AirPods 4
+
+AirPods 4
+
+Apple claims the new AirPods 4 are the "most comfortable AirPods ever," with a new A2 chip under the tweaked design. Personalized Spatial Audio is coming to the AirPods 4, along with the addition of machine learning for Siri to pick up head shakes as nods as responses to prompts. The new AirPods 4 will also be available September 20, starting at $129 with active noise cancellation added for the $179 tier. Get the full rundown on the AirPods updates here.
+
+AirPods Pro 2
+
+AirPods Pro Hearing Test
+
+Three points were highlighted for AirPods Pro 2 updates: prevention, awareness and assistance. For prevention, hearing protection will be added and on by default for passive noise reduction, managed through machine learning. For awareness, Apple is adding a "clinically validated" hearing test that owners can take at any time.
+
+And then for assistance, hearing aid features are launching for those whose hearing tests identify them as potentially benefiting from hearing assisting features. Apple claims that they expect clearance from the FDA on these features "soon," with updates expected to come to iOS in the fall.
+
+https://www.youtube.com/watch?v=uarNiSl_uh4
+

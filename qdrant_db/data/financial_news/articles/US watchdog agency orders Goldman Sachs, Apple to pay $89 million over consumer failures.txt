@@ -1,0 +1,22 @@
+link: https://www.reuters.com/business/us-watchdog-agency-orders-goldman-sachs-apple-pay-89-million-over-consumer-2024-10-23/
+
+source: www.reuters.com
+
+title: US watchdog agency orders Goldman Sachs, Apple to pay $89 million over consumer failures
+
+summary: Corporate giants Goldman Sachs and Apple will pay $89 million for violations of consumer protection laws in their joint credit card business, the U.S. Consumer Financial Protection Bureau announced Wednesday.
+
+publishDate: 2024-10-23T14:37:33.033Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999834299087524
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Corporate giants Goldman Sachs <a href="https://www.reuters.com/markets/companies/GS.N" target="_blank">(GS.N)</a> and Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will pay $89 million for violations of consumer protection laws in their joint credit card business, the U.S. Consumer Financial Protection Bureau announced Wednesday.
+Goldman Sachs will also face restrictions on its ability to issue new credit cards, according to CFPB.
+"The companies violated consumer financial protection laws through their practices related to Apple card affecting hundreds of thousands of Apple Card users," CFPB Director Rohit Chopra told reporters. "This led to wrongful charges, mishandled disputes and damaged credit reports."
+

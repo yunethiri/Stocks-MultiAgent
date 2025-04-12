@@ -1,0 +1,44 @@
+link: https://finance.yahoo.com/news/tim-cook-explains-why-apple-171513331.html
+
+source: finance.yahoo.com
+
+title: Tim Cook Explains Why Apple Defied Steve Jobs' Design Philosophy With the iPhone 16's Camera Button, Touches On Retirement Plans
+
+summary: 
+
+publishDate: 2024-12-09T17:15:13.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.5101478695869446
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/EIJEKhvKRUMCKhtvTWFinA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef', 'https://media.zenfs.com/en/Benzinga/1ff23aa0a8ff85b16b34616b738d0ac7']
+
+content: Tim Cook Explains Why Apple Defied Steve Jobs' Design Philosophy With the iPhone 16's Camera Button, Touches On Retirement Plans
+
+Apple Inc. (NASDAQ:AAPL) CEO Tim Cook has shared insights on the company’s future, touching on the iPhone 16’s new camera button, Vision Pro sales, and AirPods’ evolution.
+
+What Happened: In an interview with WIRED published on Wednesday, Cook was asked about the decision to add a physical button to the iPhone 16 for camera control—a stark departure from Steve Jobs' aversion to buttons.
+
+Cook replied, "I don't know what Steve would have thought," but believed the change was essential for improving user experience.
+
+Don't Miss:
+
+On generative AI, Cook described it as "a wave" that grew over time. He noted Apple's foresight in incorporating a neural engine into its products back in 2017, recognizing early that AI and machine learning would revolutionize technology.
+
+The Apple CEO also addressed reports of slower-than-expected Vision Pro sales, describing it as a product for early adopters. "The ultimate test for us is the ecosystem."
+
+Regarding AirPods' future role in addressing hearing loss, Cook framed it as a democratization of health. The tech giant aims to reduce the stigma of traditional hearing aids and encourage self-diagnosis.
+
+See Also: The global games market is projected to generate $272B by the end of the year — for $0.55/share, this VC-backed startup with a 7M+ userbase gives investors easy access to this asset market.
+
+When asked about his tenure as CEO, Cook admitted he hasn't set a firm timeline for his departure. "I'll do it until the voice in my head says, ‘It's time,'" he said. "But it's hard to imagine life without Apple."
+
+Why It Matters: Earlier last week, speculations rose about Cook’s potential retirement and the search for his successor. At 63, his tenure has surpassed that of many Fortune 500 CEOs.
+
+Last month, Apple reported fiscal fourth-quarter revenue of $94.9 billion, surpassing analysts’ projections of $94.56 billion. The tech giant also reported adjusted earnings of $1.64 per share for the quarter, exceeding the anticipated $1.60 per share.
+
+Read Next:
+

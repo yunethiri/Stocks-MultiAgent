@@ -1,0 +1,27 @@
+link: https://www.reuters.com/technology/brazil-antitrust-body-rules-apple-must-lift-restrictions-in-app-payments-2024-11-26/
+
+source: www.reuters.com
+
+title: Brazil antitrust body rules Apple must lift restrictions on in-app payments
+
+summary: Brazilian antitrust regulator Cade said on Monday that Apple must lift restrictions on payment methods for in-app purchases, among other things, as the watchdog moved to proceed with an investigation into a complaint filed by Latin America e-commerce giant MercadoLibre.
+
+publishDate: 2024-11-26T00:39:42.469Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9918243288993835
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Brazilian antitrust regulator Cade said on Monday that Apple must lift restrictions on payment methods for in-app purchases, among other things, as the watchdog moved to proceed with an investigation into a complaint filed by Latin America e-commerce giant MercadoLibre.
+Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> in Brazil declined to comment. MercadoLibre <a href="https://www.reuters.com/markets/companies/MELI.O" target="_blank">(MELI.O)</a> did not immediately respond to a request for comment outside normal business hours.
+MercadoLibre's complaint, filed in 2022 in Brazil and Mexico, accused Apple of imposing a series of restrictions on the distribution of digital goods and in-app purchases, including banning apps from distributing third-party digital goods and services such as movies, music, video games, books and written content.
+In the complaint, MercadoLibre criticized the California tech giant for requiring developers that offer digital goods or services within apps to use Apple's own payment system and stopping them from redirecting buyers to their websites.
+Cade ruled that Apple must allow app developers to add tools so customers can buy their services or products outside the app, such as through the use of hyperlinks to external websites.
+Another preventive measure is that Apple must allow app developers to offer other in-app payment processing options apart from the one owned by Apple, the regulator added.
+Apple will have 20 days to comply with the measures, Cade said, imposing a 250,000 real (about $43,000) fine per day if Apple fails to comply with the demands.
+($1 = 5.7983 reais)
+

@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/uk-consumer-group-takes-apple-over-icloud-service-2024-11-14/
+
+source: www.reuters.com
+
+title: UK consumer group takes on Apple over iCloud service
+
+summary: British consumer group Which? will launch legal action against Apple on Thursday, alleging the tech giant breached competition law by effectively locking millions of its customers into its iCloud service.
+
+publishDate: 2024-11-14T00:08:23.171Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999618530273438
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: British consumer group Which? will launch legal action against Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Thursday, alleging the tech giant breached competition law by effectively locking millions of its customers into its iCloud service.
+Which? said Apple encouraged its users to sign up to iCloud to store photos, videos and other data while making it difficult to use alternative providers.
+Customers then had to pay for the service once their data exceeded the free 5GB limit, it said.
+Which? said the resulting lack of competition had led to consumers being overcharged, by up to 13.36 pounds ($16.98) this year, through their monthly iCloud subscription.
+Apple said in a statement its customers were not required to use iCloud and many used third-party alternatives.
+"We reject any suggestion that our iCloud practices are anticompetitive and will vigorously defend against any legal claim otherwise," it said.
+About 40 million Apple customers in Britain who have obtained iCloud services over the last nine years could be entitled to a payout if the claim is successful, Which? said.
+Its Chief Executive Anabel Hoult said the group believed Apple customers were owed nearly 3 billion pounds as a result of the tech giant forcing its iCloud services on customers.
+"Taking this legal action means we can help consumers to get the redress that they are owed, deter similar behaviour in the future and create a better, more competitive market," she said.
+Which? said it would file the claim with the Competition Appeal Tribunal.
+($1 = 0.7870 pounds)
+

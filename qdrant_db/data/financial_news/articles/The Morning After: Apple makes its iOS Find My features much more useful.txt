@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/the-morning-after-engadget-newsletter-121525242.html
+
+source: www.yahoo.com
+
+title: The Morning After: Apple makes its iOS Find My features much more useful
+
+summary: 
+
+publishDate: 2024-11-12T12:15:25.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9070590138435364
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: One of the most useful new features in the public beta of iOS 18.2 is the capability to share the location of a lost item connected to Apple’s Find My network. Sure, you could already share an item’s location with people in your contacts list, but Apple says this could help when you have to rely on the help of a stranger.
+
+When you choose Share Item Location in the Find My app on iPhone, iPad or Mac, you get the option to share a link that shows the location of your missing item. The link’s recipient will be able to open it on any device, and they’ll also be able to see your Apple account email and/or phone number so they can get in touch with you. You can even share the information with selected airlines. Apple has apparently worked with several carriers to integrate this feature into their systems.
+
+Better still, air transport tech company SITA is also incorporating Share Item Location into WorldTracer, its baggage-tracing system. Apple says more than 500 airlines and ground handlers at 2,800-plus airports use it. Perfect for when I head to Portugal in just five days’ time. Yes, brag.
+
+For now, it’s part of the public beta, so if you want the feature, you’ll have to install iOS 18.2.
+
+— Mat Smith
+
+The biggest tech stories you missed
+
+Get this delivered daily direct to your inbox. Subscribe right here!
+
+New tech powers a big audio upgrade.
+
+TMA (Engadget)
+
+It’s not been a great year for Sonos, but still, here comes its latest upgraded soundbar. While the design is mostly unchanged from the Arc that debuted in 2020, there are several key changes inside the Arc Ultra that make this a better all-in-one solution. Sonos is promising better bass performance, thanks to new speaker tech debuting in the Arc Ultra, but just how good can it be? $999 worth of good?
+
+Continue reading.
+
+Just. Buy. This. Phone!
+
+If you want an excellent midrange smartphone or an upgrade from that crunchy Android of yours from 2014, just get yourself the Pixel 8a, down $100 to $399. With Google’s Tensor G3 chip, the Pixel 8a supports many of the same AI features as the flagship Pixel devices. The cameras are excellent, and it has a gorgeous (and smooth) 6.1-inch 120Hz OLED display. The only caveat is… we’ve seen it drop to $380 briefly. Still, it’s a deal. We gave it a score of 90 in our review.
+
+Continue reading.
+
+A 6v6 limited-time Overwatch 2 mode starts November 12.
+
+For the first time in over two years, Overwatch 2 players will be able to group up in teams of six for a three-week event starting today. But there’s a twist: You won’t be able to select Kiriko or Sombra or battle it out with an additional player on each side on Push maps just yet. Yes, you’ll be limited to the first 21 heroes, kitted out with their old movesets and ultimates. Did someone call for Symmetra, teleport savior? No, but they will.
+
+Continue reading.
+

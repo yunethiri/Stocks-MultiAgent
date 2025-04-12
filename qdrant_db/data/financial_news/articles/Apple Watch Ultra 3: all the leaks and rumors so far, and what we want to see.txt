@@ -1,0 +1,94 @@
+link: https://www.yahoo.com/tech/apple-watch-ultra-3-leaks-120308042.html
+
+source: www.yahoo.com
+
+title: Apple Watch Ultra 3: all the leaks and rumors so far, and what we want to see
+
+summary: 
+
+publishDate: 2024-08-09T12:03:08.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9969727993011475
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/6Qp9W2v.3Px8hD3Ovc8Rjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/techradar_949/5d9333a61c7b04629801a83a7d589d41', 'https://s.yimg.com/ny/api/res/1.2/pZkaD_zNYCMF6jylRkKHXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM0MjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/8a90d890-2959-11ed-bdff-f769a639287d']
+
+content: Apple Watch Ultra 3: all the leaks and rumors so far, and what we want to see
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+The Apple Watch Ultra 2 is due an upgrade. | Credit: Apple
+
+A lot has changed since the Apple Watch Ultra 2 launched in September 2023 – not least the introduction of the Samsung Galaxy Watch Ultra as one of the best smartwatches around – and that means there's a lot of interest in what the Apple Watch Ultra 3 will bring.
+
+Here we've collected together all the leaks and rumors we've heard so far about the wearable. Apple hasn't revealed anything officially yet, but we've got a pretty good idea about what the 2024 edition of this premium-level smartwatch is going to offer.
+
+We've also put our heads together to come up with a list of features and upgrades we'd like to see from the Apple Watch 3. Even though we gave the current model 4.5 out of 5 stars in our Apple Watch Ultra 2 review, there's still room for improvement with the new edition.
+
+Cut to the chase
+
+What is it? A new Apple Watch Ultra
+
+When is it out? Most likely September 2024
+
+How much will it cost? Probably at least $799 / £799 / AU$1,399
+
+Apple Watch Ultra 3: rumored release date and price
+
+Two Apple Watch 9 models
+
+Whatever else you can say about Apple, it certainly launches its products on a regular schedule – and so we'd expect to see the Apple Watch Ultra 3 in September 2024, following on from the Apple Watch Ultra 2 in September 2023, and the original Apple Watch Ultra, which launched back in September 2022.
+
+Like previous models, the Apple Watch Ultra 3 will almost definitely launch alongside new iPhones. This year, that's going to be the iPhone 16, the iPhone 16 Plus, the iPhone 16 Pro, and the iPhone 16 Pro Max. Oh, and don't forget the Apple Watch 10 (we might even see the Apple Watch SE 3 show up too).
+
+When it comes to pricing, we haven't heard anything specifically on this. We do know that the Apple Watch Ultra 2 starts at $799 / £799 / AU$1,399, and Apple typically matches its new devices to the devices they're replacing – so expect the Apple Watch 3 to be around the same price, or perhaps a little bit more expensive.
+
+Apple Watch Ultra 3: leaks, rumors, and watchOS 11
+
+The Apple Watch Ultra 2 on a person's wrist
+
+While we'd like to report that the Apple Watch Ultra 3 is set to be a revolutionary and innovative upgrade over the current model, in reality it might not be all that much different to the smartwatch it's replacing. Well-known sources are suggesting the 3rd-gen version will be more or less the same as the 2nd-gen one.
+
+That goes for the internals as well as the design, apparently – good news if you love the Apple Watch Ultra 2, not-so-good news if you were hoping for a bit of a shake-up in 2024. The Apple Watch Ultra 2 runs on the same Apple S9 chip as the Apple Watch 9 does, up from the Apple S8 in the equivalent smartwatches launched in 2022.
+
+One upgrade that has been rumored is a switch to a microLED display, from the current OLED tech. This would make the display on the new watch both brighter and kinder to the battery – a real win-win. However, it's not certain which Apple device will be the first to get microLED screens, which could also come to iPhones and iPads.
+
+watchOS 11
+
+Indeed, more recent reports suggest the microLED tech might not be ready in time for September 2024 – it's possible we'll have to wait for the Apple Watch Ultra 4 to see it on an Apple smartwatch. There has been some speculation that we wouldn't see the Apple Watch Ultra 3 at all this year, but it does now seem to be on the way.
+
+It's all a little underwhelming, especially when changes in design and form factor have been rumored for the Apple Watch 10 (or should that be the Apple Watch X?). It's possible that Apple is saving major updates for the Apple Watch Ultra for 2025, rather than significantly transforming both of its watches at the same time.
+
+What we do know is that watchOS 11 will arrive at the same time as the Apple Watch Ultra 3 and the Apple Watch 10, bringing with it a more intelligent widget stack, a new Vitals app for displaying important health metrics, more customization options, and a Training Load feature for assessing the impact of workouts on your body.
+
+Apple Watch Ultra 3: what we want to see
+
+All the signs are that the Apple Watch Ultra 3 isn't going to be a huge jump forward in tech from the Apple Watch Ultra 2 – but we still have a few ideas about how Apple could improve its most capable smartwatch.
+
+1. A cheaper price
+
+Lower prices are always welcome, and while we do understand the premium materials used on the Apple Watch Ultra don't come cheap, surely Apple can find some compromises to offer a cheaper version of the Ultra? There's a not-insignificant $400 / £400 / AU$750 difference between the starting prices of the Apple Watch 9 and the Apple Watch Ultra 2, and an additional smartwatch model could bridge that gap nicely.
+
+2. More design options
+
+Apple Watch Ultra 2 review
+
+Right now the Apple Watch Ultra 2 is available with just one casing choice: standard silver titanium. The three straps (each available in three colors) give you some customization options, but we'd like to see more options when it comes to both the casing around the display and the straps you can get with it. If there's not much changing with the watch specs or design, then Apple can at least give users some more personalization options. Maybe an all-black option?
+
+3. More exclusive features
+
+The Apple Watch Ultra 2 has a number of exclusive features to differentiate it from the Apple Watch 9, including an Action button and a siren button you can use to call for help. We'd like to see even more of these upgrades added to make the hefty price jump from the standard model worth it – perhaps in the form of exclusive apps for more advanced outdoor activity tracking, or a more advanced set of sensors for deeper health insights.
+
+4. An improved Siri
+
+Apple Intelligence presentation
+
+We've heard plenty about the Apple Intelligence upgrades that are coming to Siri on iPhones, iPads and Macs later this year, but as yet there's nothing for the Apple Watch or watchOS 11. The Apple Watch Ultra 3 could be the perfect showcase for a smarter Siri that gives better answers and can provide more information – a key upgrade for a device where voice control is often preferable to tapping at the screen with your fingers and thumbs.
+
+5. Better battery life
+
+The up-to-36-hours battery life on the Apple Watch Ultra 2 isn't too bad at all, but it there wasn't any upgrade in this department over the original Apple Watch Ultra, and it still falls short if you want to take the wearable away for a few days in the mountains or into the middle of nowhere. A combination of a bigger battery capacity, a more efficiency chipset, and some software optimizations should be possible to extend battery life even further.
+

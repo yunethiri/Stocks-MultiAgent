@@ -1,0 +1,25 @@
+link: https://www.reuters.com/technology/apple-ceo-tim-cook-meet-with-trump-friday-2024-12-13/
+
+source: www.reuters.com
+
+title: Apple CEO Tim Cook to meet with Trump on Friday
+
+summary: Apple CEO Tim Cook will meet Donald Trump on Friday night at the U.S. president-elect's Mar-a-Lago resort in Florida, a source familiar with the matter told Reuters.
+
+publishDate: 2024-12-13T23:24:23.674Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999464750289917
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> CEO Tim Cook will meet Donald Trump on Friday night at the U.S. president-elect's Mar-a-Lago resort in Florida, a source familiar with the matter told Reuters.
+Business leaders have attempted to establish a positive rapport with Trump since his election win in November.
+<a href="/world/us/meta-donates-1-mln-trumps-inaugural-fund-2024-12-12/">Meta Platforms</a><a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> and <a href="/world/us/amazon-donating-1-mln-trump-inaugural-fund-air-event-prime-video-2024-12-13/">Amazon</a> <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> have each donated $1 million to Trump's inaugural fund. Bank of America <a href="https://www.reuters.com/markets/companies/BAC.N" target="_blank">(BAC.N)</a>, the second-largest U.S. lender, also plans to contribute to Trump's inaugural committee but has yet to decide on the amount.
+Trump will take office in January. He said in October when he was running for the White House that he received a call from Cook over concerns about the financial penalties that have been imposed by the European Union on the iPhone maker.
+European regulators have launched a series of investigations into Big Tech firms in recent years, with the aim of curbing their power and ensuring a level playing field for smaller rivals. A U.S. Justice Department case accuses the iPhone maker of unlawfully dominating the smartphone market.
+Trump's team and Apple did not immediately respond to a request for comment. The Trump-Cook meeting was reported earlier by the New York Times.
+

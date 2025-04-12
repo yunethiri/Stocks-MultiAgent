@@ -1,0 +1,44 @@
+link: https://www.cnbc.com/2024/10/25/apple-returns-to-top-5-in-china-with-iphone-16-huawei-grows-faster.html
+
+source: www.cnbc.com
+
+title: Apple returns to top 5 smartphone ranking in China with iPhone 16 as Huawei battle ramps up
+
+summary: Apple returned to the top five ranking of China's smartphone market, helped by the launch of the iPhone 16, but its growth was still outpaced by Huawei.
+
+publishDate: 2024-10-25T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999911785125732
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/101091331-1672755376781-Arjun_Kharpal_-_Headshot.jpg?v=1672755428&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg']
+
+content: People walk past an advertisement for the iPhone 16 Pro at an Apple store during National Day holiday on October 3, 2024 in Chongqing, China.
+
+Huawei trailed Apple in third place with 15.3% market share, IDC data showed. However, the company's smartphone shipments in China grew by 42% year-on-year, as it continues to stage a revival in the world's largest smartphone market.
+
+Apple stood at second position by market share in the third quarter, according to International Data Corporation (IDC). The tech giant took a 15.6% slice of the Chinese market over the period, down from 16.1% in the third quarter of last year. The company's shipment growth to China flatlined year-on-year in the third quarter. Apple stood at second position by market share in the third quarter.
+
+Apple rejoined the ranks of the top five smartphone vendors in the China in the third quarter, helped by the launch of the iPhone 16, data released on Friday showed — but its growth was still outpaced by domestic rival Huawei.
+
+Apple and Huawei have been locked in an intense battle since the Chinese tech giant launched its new Mate 60 smartphone last year that contained a surprisingly advanced chip. Huawei has been battered over the last few years by U.S. sanctions that have restricted its access to advanced semiconductors, along with software. The measures have crippled its smartphone business.
+
+The Mate 60 has led to a Huawei revival in its home market, and the company has since launched a number of new devices, including a so-called trifold phone, the Mate XT.
+
+Huawei's resurgence has put intense pressure on Apple in China, one of its largest and most important markets. In the second quarter, Apple was knocked out of the top five ranking in China by market share.
+
+"Huawei has staged an impressive comeback, recording four consecutive quarters of at least double-digit growth. The launch of the world's first tri-foldable phone is expected to further drive the foldable market development," IDC said in its report.
+
+The Cupertino giant is hoping the iPhone 16 series will help it stage a comeback in China, with the company promising many new AI software features called Apple Intelligence. The company has said that Apple Intelligence will launch in the U.S. this fall, but there is no clear timeline as to when it will be released in China, mainly due to more complicated regulation in the country.
+
+In the absence of Apple Intelligence, Chinese rivals including Oppo, Huawei and Honor have been touting their own AI features.
+
+Apple CEO Tim Cook visited China this week, meeting with top government officials and executives at the country's tech companies. One analyst told CNBC this may be an attempt to shore up partnerships with Chinese companies to launch Apple Intelligence.
+
+Domestic rival Vivo stood in first place with 18.6% of the Chinese market share in the third quarter and year-on-year shipment growth of 21.5%, IDC said. Xiaomi and Honor were in fourth and fifth place, respectively.
+
+Separate numbers released on Friday by Canalys showed Apple's China shipments in the third quarter declined 6% year-on-year. Canalys said Apple was fifth place by market share in China. Meanwhile, the data company put Huawei in second place by market share, with 24% year-on-year growth in the third quarter of this year.
+

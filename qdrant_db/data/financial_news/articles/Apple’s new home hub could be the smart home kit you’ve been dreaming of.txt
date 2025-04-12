@@ -1,0 +1,52 @@
+link: https://www.yahoo.com/tech/apple-home-hub-could-smart-100000904.html
+
+source: www.yahoo.com
+
+title: Apple’s new home hub could be the smart home kit you’ve been dreaming of
+
+summary: 
+
+publishDate: 2024-11-18T10:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998911619186401
+
+images: ['https://s.yimg.com/uu/api/res/1.2/W6oKxZURuXUORbn8XPutTQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-11/67eb81e0-9d1b-11ef-beb7-77fa8da2f82d.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/hjUnwsMUq687p28wr.dUmQ--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-08/6b86add0-2959-11ed-bdbf-bfb343e5af5f.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/nxMpaPtSZOnciyV8WN0D8Q--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-11/969f04e0-a508-11ef-bfc6-ee2bf7d03b33.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick Summary
+
+Apple's smart home tablet, tipped for an early 2025 release, will resemble a small iPad, it is claims.
+
+A report says that it'll also have an interface similar to the iPhone's standby mode.
+
+As we reported last week, Apple is working on a smart home "wall tablet" that it plans to launch in early 2025. However, there are now more details about what it'll potentially do, and why it could be important.
+
+Advertisement Advertisement
+
+The device is said to be the first of a series of smart home devices Apple is reportedly working on, including a home hub that can move courtesy of a robotic arm and possibly even an Apple-branded TV. That last one is a very big maybe, but according to Bloomberg's Mark Gurman Apple is seriously considering it.
+
+Here's what we think we know.
+
+Apple's home tablet could finally deliver on Apple's promises
+
+The new device will reportedly be similar in size to two iPhone 16s stuck together, and it'll have an interface that feels like a combination of watchOS and the Standby Mode for iPhone. It's going to be available in a choice of silver and black, Gurman says in his latest Power On newsletter, and it'll look like "a low-end iPad".
+
+He claims that the tablet-style device will have a non-removable rechargeable battery, a built-in FaceTime camera and speakers, and it'll have sensors that enable it to detect your distance from the screen. You'll be able to stick it on your wall, or buy a base with additional speakers to turn it into a desktop or bedside device.
+
+Advertisement Advertisement
+
+Apple apparently imagines "people FaceTiming each other from different rooms", using the tablet to pull up security camera footage, controlling their smart home kit and controlling the music on their HomePod speakers. It won't have its own App Store but it will have Siri and most likely Apple Intelligence too.
+
+It sounds like a vast improvement over Apple's current smart home efforts, and with Apple on board with Matter, the smart home interoperability standard, the HomeKit platform is less of a walled garden than it used to be.
+
+However, if Apple doesn't price this really aggressively it could have difficulty in getting people interested in an iPad-esque device that doesn't do as much as an iPad does.
+
+It's definitely one to keep an eye on, though.
+

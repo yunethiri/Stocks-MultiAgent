@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/apple-accused-silencing-workers-spying-personal-devices-2024-12-02/
+
+source: www.reuters.com
+
+title: Apple accused of silencing workers, spying on personal devices
+
+summary: Apple has been accused in a new lawsuit of illegally monitoring its workers' personal devices and iCloud accounts while also barring them from discussing their pay and working conditions.
+
+publishDate: 2024-12-02T18:01:35.593Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9174484014511108
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has been accused in a new lawsuit of illegally monitoring its workers' personal devices and iCloud accounts while also barring them from discussing their pay and working conditions.
+The complaint filed in California state court on Sunday by Amar Bhakta, who works in digital advertising for Apple, claims the company requires employees to install software on personal devices that they use for work allowing Apple to access their email, photo libraries, health and "smart home" data and other personal information.
+At the same time, the lawsuit alleges, Apple imposes confidentiality policies that prohibit employees from <a href="/legal/government/apple-accused-by-nlrb-deterring-employees-discussing-pay-equity-2024-11-01/">discussing working conditions</a>, including with the media, and engaging in legally-protected whistleblowing.
+Bhakta, who has worked for Apple since 2020, says he was barred from talking about his work on podcasts and instructed to remove information about his working conditions from his LinkedIn profile.
+"Apple's surveillance policies and practices chill, and thus also unlawfully restrain, employee whistleblowing, competition, freedom of employee movement in the job market, and freedom of speech," the lawsuit said.
+Apple in a statement provided by a spokesperson said the claims in the lawsuit lack merit and that its workers are trained annually on their rights to discuss their working conditions.
+“At Apple, we're focused on creating the best products and services in the world and we work to protect the inventions our teams create for customers," the company said.
+Lawyers for Bhakta also represent two women who <a href="/technology/apple-accused-lawsuit-underpaying-female-workers-california-2024-06-13/">filed a lawsuit in June</a> accusing Apple of systematically underpaying female workers in its engineering, marketing, and AppleCare divisions. Apple has said it is committed to inclusion and pay equity.
+Apple is also facing at least three complaints from a U.S. labor board claiming it has <a href="/legal/government/apple-accused-by-nlrb-deterring-employees-discussing-pay-equity-2024-11-01/">illegally deterred employees</a> from discussing issues such as sex bias and pay discrimination with each other and the media, including by restricting their use of social media and workplace messaging app Slack. The company has denied wrongdoing.
+The new lawsuit was filed under a unique California law that allows workers to sue their employers on behalf of the state and keep 35% of any penalties that are recovered.
+

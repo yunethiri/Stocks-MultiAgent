@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/11/02/berkshire-hathaway-brk-earnings-q3-2024.html
+
+source: www.cnbc.com
+
+title: Warren Buffett continued to sell down his Apple stake, cutting about a quarter in the third period
+
+summary: The Oracle of Omaha downsized Apple — his biggest equity holding — for a fourth quarter in a row.
+
+publishDate: 2024-11-02T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.6726127862930298
+
+images: ['https://image.cnbcfm.com/api/v1/image/107410590-1714842908978-Buffet-BAM-050424-6.jpg?v=1718628646&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: The Oracle of Omaha started trimming his stake in the iPhone maker in the fourth quarter of 2023 and ramped up selling in the second quarter when he surprisingly dumped nearly half of the bet .
+
+The Omaha-based conglomerate held $69.9 billion worth of Apple shares at the end of September, according to its third-quarter earnings report released Saturday morning. That implied Buffett offloaded approximately a quarter of his stake with about 300 million shares remaining in the holding. In total, the stake is down 67.2% from the end of the third quarter last year.
+
+Warren Buffett sold another big chuck of his Apple stake, downsizing Berkshire Hathaway 's biggest equity holding for four quarters in a row.
+
+It's unclear what exactly motivated the continuous selling in the stock Berkshire first bought more than eight years ago. Analysts and shareholders had speculated it was due to high valuations as well as portfolio management to reduce concentration. Berkshire's Apple holding was once so big that it took up half of its equity portfolio.
+
+In May at the Berkshire annual meeting, Buffett hinted that the selling was for tax reasons as he speculated that the tax on capital gains could be raised in the future by a U.S. government wanting to plug a climbing fiscal deficit. However, the magnitude of the sales made many believe it could be more than just a tax-saving move.
+
+Berkshire began buying the stock in 2016 under the influence of Buffett's investing lieutenants Ted Weschler and Todd Combs. Before Apple, Buffett largely avoided technology companies for most of his career, saying they were outside of his circle of competence.
+
+The legendary investor fell in love with Apple for its loyal customer base and the stickiness of the iPhone. Over the years, he raised his Apple holding to Berkshire's biggest and even once called the tech giant the second-most important business after his cluster of insurers.
+
+Amid the big selling spree, Berkshire's cash hoard reached $325.2 billion in the third quarter, an all-time high for the conglomerate. The firm paused buybacks completely during the quarter.
+
+Apple shares are up 16% on the year, trailing the S&P 500's 20% gain.
+

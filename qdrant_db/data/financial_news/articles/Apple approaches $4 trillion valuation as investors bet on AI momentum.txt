@@ -1,0 +1,48 @@
+link: https://finance.yahoo.com/news/apple-approaches-4-trillion-valuation-134235833.html
+
+source: finance.yahoo.com
+
+title: Apple approaches $4 trillion valuation as investors bet on AI momentum
+
+summary: 
+
+publishDate: 2024-12-23T13:42:35.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9207615256309509
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/reuters-finance.com/d612e41d1b071fa4dda620a0b5cf6b4a']
+
+content: By Shashwat Chauhan and Medha Singh
+
+(Reuters) - Apple is closing in on a historic $4 trillion stock market valuation, powered by investors cheering progress in the company's long-awaited AI enhancements to rejuvenate sluggish iPhone sales.
+
+The company has pulled ahead of Nvidia and Microsoft in the race to the monumental milestone, thanks to an about 16% jump in shares since early November that has added about $500 billion to its market capitalization.
+
+The latest rally in Apple shares reflects "investor enthusiasm for artificial intelligence and an expectation that it will result in a supercycle of iPhone upgrades," said Tom Forte, an analyst at Maxim Group, who has a "hold" rating.
+
+Valued at about $3.85 trillion as of the last close, Apple dwarfs the combined value of Germany and Switzerland's main stock markets.
+
+The Silicon Valley firm, driven by the so-called iPhone supercycles, was the first U.S. company to hit previous trillion-dollar milestones.
+
+In recent years, the company has attracted criticism for being slow to map out its artificial intelligence strategy, while Microsoft, Alphabet, Amazon and Meta Platforms have pulled ahead to dominate the emerging technology.
+
+Shares of Nvidia, the biggest AI beneficiary, have surged more than 800% over the past two years, compared to the near doubling in shares of Apple during the same period.
+
+Apple earlier in December started integrating OpenAI's ChatGPT into its devices after unveiling plans in June to integrate generative AI technology across its app suite.
+
+The company expects overall revenue to increase "low- to mid-single digits" during its fiscal first quarter - a modest growth forecast for the holiday shopping season - sparking questions about the momentum for the iPhone 16 series.
+
+However, LSEG data showed analysts expect revenue from iPhones to rebound in 2025.
+
+"Although near-term iPhone demand is still muted ... it is a function of limited Apple Intelligence features and geographic availability, and as both broaden, it will help to drive an improvement in iPhone demand," Morgan Stanley analyst Erik Woodring said in a note, reiterating Apple as the brokerage's "top pick" heading into 2025.
+
+The recent surge in shares has pushed Apple's price-to-earnings ratio to a near three-year high of 33.5, compared to 31.3 for Microsoft and 31.7 for Nvidia, according to LSEG data.
+
+Warren Buffett's Berkshire Hathaway has sold shares of Apple - its top holding - this year, as the conglomerate broadly retreated from equities on concerns over stretched valuations.
+
+Story Continues
+

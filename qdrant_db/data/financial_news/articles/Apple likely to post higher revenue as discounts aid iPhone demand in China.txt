@@ -1,0 +1,37 @@
+link: https://www.reuters.com/technology/apple-likely-post-higher-revenue-discounts-aid-iphone-demand-china-2024-07-31/
+
+source: www.reuters.com
+
+title: Apple likely to post higher revenue as discounts aid iPhone demand in China
+
+summary: Apple will likely report on Thursday that it returned to revenue growth in its fiscal third quarter as it won back some customers in China with big iPhone discounts and sold more high-margin iPads thanks to a refreshed design.
+
+publishDate: 2024-07-31T11:19:45.297Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> will likely report on Thursday that it returned to revenue growth in its fiscal third quarter as it won back some customers in China with big iPhone discounts and sold more high-margin iPads thanks to a refreshed design.
+Sales of the iPhone, which account for nearly half of Apple's revenue, are expected to have decreased by 2.2% in the three months ended June, a big improvement from the 10.5% decline in the second quarter, according to LSEG data.
+Analysts said the worst may be over for the iPhone.
+They expect a <a href="/technology/apples-ai-push-could-reinvigorate-iphone-sales-customers-look-upgrade-2024-06-11/">strong upgrade cycle</a> for the iPhone 16 series likely to come in September after Apple said in June it was gearing up to <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">introduce AI features</a> across its devices.
+Under pressure from a resurgent Huawei in China, Apple had in May offered discounts of up to 2,300 yuan ($317) on select iPhone models. This helped narrow iPhone sales declines in the country to 3.1% in the April-June quarter, according to IDC, from a decline of 6.6% in the first three months of the year.
+"The company's fate is turning around in the region," said CFRA Research analyst Angelo Zino, adding that Apple's AI plans should appeal to customers in the feature-sensitive market.
+After lagging rivals Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> and Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google in the AI race for months, Cupertino, California-based Apple unveiled plans to bring OpenAI's ChatGPT to its devices and burnish its suite of apps including Siri with new "Apple Intelligence" technology.
+The commentary helped Apple <a href="/technology/apple-beats-microsoft-return-worlds-most-valuable-company-2024-06-12/">regain the crown</a> of the world's most valuable company it had lost for a few days to Microsoft. Apple's shares have risen nearly 30% in the past three months, though a recent market selloff led by megacaps led to the stock slipping more than 7% from its July 15 record.
+"Apple's AI strategy announcements were very well received globally and helped improve the declining consumer perception of the brand and generate excitement," said Nabila Popal, research director with IDC's Worldwide Tracker team.
+"I won't be surprised if there was a spike in iPhone 15 Pro and Pro Max models in the April-June quarter - that are Apple Intelligence ready," Popal added.
+Overall, Apple's revenue is expected to have risen 3.3% in the third quarter from a year earlier, after a decline of 4.3% in the second quarter.
+IPad sales likely jumped 14.1%, the fastest growth since the holiday quarter of 2022, after Apple launched a new AI-focused iPad Pro and a larger iPad Air in May to revive demand for a product line that had languished for the past two years.
+Mac sales are expected to have ticked up 2.6%, while its wearables and accessories business likely continued its slump with a decline of 6%.
+The company's services business - including App Store and subscription services such as Apple TV and Music - likely grew 13.2%.
+Growth in the segment has outperformed the company's mainstay hardware business in recent years and the services unit now accounts for more than a quarter of Apple's revenue. However, the outlook for the division has been muddied by regulatory scrutiny.
+The European Union's antitrust regulator has accused Apple App Store of <a href="/technology/apples-app-store-rules-breach-eu-tech-rules-eu-regulators-say-2024-06-24/">breaching the bloc's Digital Markets Act</a> (DMA), which requires Big Tech to ensure a level playing field for rivals and give users more choice. The company is also facing three investigations under the DMA.
+"Apple's services business has been a key part of the bull thesis on the stock. Its growth is particularly important given the very high marginal contribution of the business," Bernstein analyst Toni Sacconaghi said.
+($1 = 7.2513 Chinese yuan renminbi)
+

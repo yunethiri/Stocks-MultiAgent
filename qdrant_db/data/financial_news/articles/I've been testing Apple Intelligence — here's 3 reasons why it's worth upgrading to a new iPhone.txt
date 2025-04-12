@@ -1,0 +1,64 @@
+link: https://www.yahoo.com/tech/ive-testing-apple-intelligence-heres-053052629.html
+
+source: www.yahoo.com
+
+title: I've been testing Apple Intelligence — here's 3 reasons why it's worth upgrading to a new iPhone
+
+summary: 
+
+publishDate: 2024-11-09T05:30:52.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9966943264007568
+
+images: ['https://s.yimg.com/ny/api/res/1.2/whBJqsN.2zTlTpx5zxqEPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/9f781b5d09f59b37e9d5a66632cd8f00', 'https://s.yimg.com/ny/api/res/1.2/NMa4gOi_4NybzMfpUAIfVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/0e431d43c46ff12fb79bd8b852233b06', 'https://s.yimg.com/ny/api/res/1.2/ek1ImAtZBgemCTDWTtx_dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/a76ffbfe8ebc4a23f0f8d99947a8ab05']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Tom's Guide
+
+If you've got an older iPhone and are prone to FOMO — that's the fear of missing out for us olds — the arrival of Apple Intelligence via updates to iOS 18 must feel like a trying moment. Maybe you weren't considering an upgrade to the best iPhones before, but all the chatter around Apple's suite of AI tools has you wondering if you might be passing up an opportunity to really improve your iPhone experience.
+
+As I said when evaluating Apple Intelligence in the wake of the iOS 18.1 release, I don't think the initial batch of AI features alone should prompt a rush of iPhone 16 upgrades, though that's more about the strength of the phones themselves than a judgment on what Apple Intelligence delivers. All of the iPhone 16 models benefit from performance improvements, longer-lasting batteries and design flourishes like the Camera Capture button; the iPhone 16 Pro models in particular benefit from improved camera hardware. That's the reason to upgrade, not because Apple Intelligence can now fine-tune your emails via the Writing Tools feature.
+
+It's also worth remembering that Apple Intelligence's arrival will be an ongoing process, as evidenced by the fact that iOS 18.1 arrived just a couple of weeks ago, and we're already packing the new additions appearing in the just-released iOS 18.2 beta. If you're not sure about an iPhone upgrade this year, just wait — Apple Intelligence will still be there, and in better shape, when you are ready to get that new iPhone.
+
+Still, the feeling that you're missing out on something can be a powerful motivator. So if you're still on the fence about getting a new iPhone and Apple Intelligence is the one factor that could push you into the upgrade column, here are the three reasons why it makes sense to ditch that older phone for a newer model that supports Apple Intelligence.
+
+You spend a lot of time working with images on your phone
+
+Clean Up tool in Photos app running on ios 18.1
+
+If you find yourself firing up the Photos app a lot — either because photography is a hobby, a side hustle or even how your bread and butter — Apple Intelligence has a lot to offer you. The Clean Up tool in Photos puts a new AI-powered editing feature at your disposal, letting you remove distracting objects or stray people from a photo with a tap. My colleague John Velasco put together a Clean Up vs. Magic Eraser face-off, and while Google's editing tool has been around for several years, Clean Up has made a promising debut. Certainly, it's a very intuitive photo-editing tool that really seems to understand what you're trying to remove from an image.
+
+You'll also find Photos an easier app to navigate with Apple Intelligence, and I'm not just talking about the redesign Apple introduced for anyone who upgrades to iOS 18 (a redesign that I've grown to appreciate, by the way). Searching in Photos is vastly improved, as Apple now supports natural language search. Just type a description of the images you're looking for, and the odds are pretty good that it will turn up in the search results.
+
+iOS 18.2 adds other imaging tools, including the Image Playground and Genmoji. With both features, you're using text prompts to generate images, whether it's a new avatar for one of your contacts or an emoji that you can use in Messages. You've got to request early access to Image Playground, and as of this writing, there's a multi-day wait ahead of you when you do make your request. But the image creation tools available available on your iPhone are expanding rapidly, and I can understand wanting to get in on the ground floor of that.
+
+Serious Mail time-savers
+
+A summary of an email in Apple Intelligence on an iPhone 15 Pro running iOS 18.1
+
+Outside of Photos, no app on your iPhone has seen a greater Apple Intelligence-driven improvement than Apple's own Mail client. If Mail is your go-to app for staying in touch and getting things done, there's a lot to like in the updated version.
+
+We'll start with the fact that a priority mail feature floats your most important messages to top of the inbox These are messages with a deadline or call to action, and the new Mail app wants to make sure you act on them in a timely fashion. If you struggle to stay on top of your inbox, this will go a long way toward making sure you're responding to key messages.
+
+Summary features turn out to be a real time-saver, too, whether it's the auto-generated summaries that appear in some messages in your inbox to give you the gist of what an email is about before you tap on it, or the summary tool that parses messages to highlight their key points. I especially like the latter, too, because it helps me sort through long email chains with multiple recipients weighing in. I can just summarize the entire string of message into a couple of key sentences that break down what's been discussed, without having to peruse every single message.
+
+iOS 18.2 introduces a new organization to Mail as well, splitting your inbox into different categories for primary mail, receipts and transactions, newsletters and promotions. (Note that this change isn't Apple Intelligence-specific.) I've just started using iOS 18.2 so I don't yet have a verdict on these changes, but they do seem to fall in line with the other productivity improvements Apple Intelligence has introduced so far.
+
+You want a better Siri
+
+Gif animation of new Siri with Apple Intelligence animation.
+
+Apple has big plans for Siri, as it uses Apple Intelligence to make its digital assistant smarter and more responsive. Eventually, the plan is for Siri to be aware of what's on your iPhone screen, put that information in context and form responses based on that information — but we're a long way from that, as Mark Spoonauer's new Siri vs. old Siri testing indicates.
+
+Of all the features I tested while putting iOS 18.1 through its paces, Siri has the most work ahead of it. iOS 18.2 looks like a crucial step forward by adding ChatGPT integration to Apple's digital assistant, which at the very least, has enhanced the conversational capabilities of Siri, according to my colleagues who've spent more time with this feature.
+
+I turn to Siri for the basics at the moment, but if you're more heavily invested in the digital assistant's evolution into a more powerful part of the iPhone experience, you'll likely want to be a part of that progress. And that could be reason enough for you to get an iPhone that's capable of supporting the Apple Intelligence-powered version of Siri.
+
+More from Tom's Guide
+

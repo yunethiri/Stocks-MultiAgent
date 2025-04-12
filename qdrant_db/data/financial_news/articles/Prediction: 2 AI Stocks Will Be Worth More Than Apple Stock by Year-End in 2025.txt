@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/prediction-2-ai-stocks-worth-092500504.html
+
+source: finance.yahoo.com
+
+title: Prediction: 2 AI Stocks Will Be Worth More Than Apple Stock by Year-End in 2025
+
+summary: 
+
+publishDate: 2024-12-26T09:25:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9984133243560791
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/ny/api/res/1.2/v572x33s7yKPgO.KLCC55Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjk-/https://media.zenfs.com/en/motleyfool.com/091fb7c2273cf5b4287e3421714b78af', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Apple is currently the most valuable publicly traded company in the world, with a market value of $3.9 trillion. The company has held that title for the better part of a decade but has yet to demonstrate it can monetize artificial intelligence (AI). Consequently, I think the two AI stocks below can top Apple's current market value before the end of 2025:
+
+Nvidia (NASDAQ: NVDA) is currently worth $3.4 trillion. Its share price would need to increase 17% in the next year for the company to achieve a market value of $4 trillion.
+
+Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is currently worth $2.4 trillion. Its share price would need to rise 67% in the next year for the company to achieve a market value of $4 trillion.
+
+Admittedly, my first prediction is somewhat conservative, and my second prediction is very aggressive. Here's what investors should know about these AI stocks.
+
+Nvidia: 17% implied upside before the end of 2025
+
+Nvidia has been the foundation of the artificial intelligence (AI) boom. Its graphics processing units (GPUs) are the industry standard in accelerating complex data center workloads, and the company dominates the market for InfiniBand networking, which is currently the preferred connectivity technology for backend networks in AI data centers.
+
+The company reported excellent financial results in the third quarter of fiscal 2025, which ended in October 2024. Revenue increased 94% to $35 billion on particularly strong momentum in the data center segment, supported by strong sales growth in the automotive and robotics segment. Meanwhile, non-GAAP net income doubled to reach $0.81 per diluted share.
+
+Nvidia has a key catalyst on the horizon in the launch of its Blackwell GPU. Compared to the previous Hopper chip, Blackwell can complete AI training tasks up to four times faster and AI inference tasks up to 30 times faster. The production ramp up began in the current quarter, so Nvidia should see substantial Blackwell sales in the next year.
+
+Morgan Stanley expects spending on cloud AI semiconductors to increase more than 50% next year. That paves the way for robust earnings growth from Nvidia. Indeed, Wall Street expects its adjusted earnings to grow 50% in the next four quarters. That consensus makes the current valuation of 53 times adjusted earnings look cheap.
+
+Nvidia's stock must reach $164 per share for the company to have a market value of $4 trillion. It will hit that mark if it meets Wall Street's earnings estimates and shares trade above 42 times earnings, which would be a large discount to the current valuation. Personally, I will be surprised if Nvidia doesn't blow past $4 trillion in 2025.
+
+Story Continues
+

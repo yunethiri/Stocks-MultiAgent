@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/apple-stock-hits-record-high-231144700.html
+
+source: finance.yahoo.com
+
+title: Apple stock hits record high as JPMorgan dismisses AI worries
+
+summary: 
+
+publishDate: 2024-12-16T23:11:44.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9933261871337891
+
+images: ['https://s.yimg.com/ny/api/res/1.2/.7NRv7UI5.89WqJqUmgNeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/e17b1210d05d267458d931621402514d', 'https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Will artificial intelligence features power iPhone sales to new heights? Probably not anytime soon, but that doesn’t mean Apple shares are due for a crash from the highs they’ve achieved this year, as some have predicted.
+
+Apple stock, which closed at a record $251.04 on Monday, has gained more than 50% since bottoming out around $165 in April when the company launched Apple Intelligence—the name for its phone-based AI service—to underwhelming reviews. Overall, shares are up 35% on the year, outpacing the S&P 500’s 28% gain, and letting Apple reclaim its spot as the world’s most valuable company.
+
+All of this reflects there is plenty of optimism surrounding Apple, despite flagging iPhone sales, which account for about half of the company’s revenue.
+
+According to JPMorgan’s Samik Chatterjee, the optimism is warranted. He believes an AI revenue boost will arrive with the expected launch of the iPhone 17 in 2025, projecting that the product’s sales will surge from 230 million units in the company’s upcoming fiscal year, which started this quarter, to 251 million phones in the following 12 months.
+
+Even if that doesn’t pan out, Chatterjee wrote in a note published on Monday, there is still a strong bull case for the stock. That story hinges on Apple’s services business—think of elements like technical support; content such as Apple Music, News, and TV; and payment products like Apple Pay and the company’s co-branded credit card. Revenue from those offerings, Chatterjee claimed, should be more resilient than many investors expect.
+
+Does Buffett believe Apple is too expensive?
+
+It’s unclear if famed investor Warren Buffett shares Chatterjee’s perspective. The Oracle of Omaha made headlines this year when he downsized his position in the company by more than two-thirds, fueling speculation about whether the stock has become unreasonably expensive. (It’s worth noting, however, that Buffett’s $74 billion stake in the company remains Berkshire Hathaway’s largest public holding.)
+
+Apple currently trades at around 34 times its projected earnings for the next 12 months, according to consensus estimates from S&P Capital IQ. That makes the stock equivalent to or more expensive than that of nearly all of its fellow tech giants in the so-called Magnificent Seven—America’s largest companies by market cap—apart from Amazon (40 times) and Tesla (140 times).
+
+Chatterjee currently maintains a $265 price target on the stock, implying a P/E ratio of 27 based on his earnings projections for 2026.
+
+“We believe that the multiple is justified as it is more in line with the average multiple the shares have traded at in recent years; although, we see upside opportunity with a longer AI-led replacement cycle likely to bolster the earnings multiple investors are willing to ascribe,” he wrote.
+
+Story Continues
+

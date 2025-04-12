@@ -1,0 +1,32 @@
+link: https://www.reuters.com/legal/litigation/apple-fends-off-appeal-win-506-mln-university-wisconsin-patent-case-2024-08-28/
+
+source: www.reuters.com
+
+title: Apple fends off appeal of win in $506 mln University of Wisconsin patent case
+
+summary: A US appeals court has rejected the University of Wisconsin's bid for a new trial in a patent dispute with Apple, upholding a previous ruling that wiped out a $506 million verdict in favor of the university. The Federal Circuit found that the university should have presented its infringement theory during the original trial. This decision comes after years of litigation over processor technology used in iPhones and iPads.
+
+publishDate: 2024-08-28T18:23:20.015Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9968451261520386
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Ff74225e9-9447-47f6-b565-d39a501d7d75.png?auth=be7aca7763b172233a6d682b9f82b123ddc2cea66a071c9fced579bb87077923&width=120&height=63&smart=true']
+
+content: The University of Wisconsin's bid for a new trial was rebuffed by a U.S. appeals court on Wednesday in a long-running dispute between the school and Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> over computer processor technology that previously led to a $506 million victory for the university.
+The U.S. Court of Appeals for the Federal Circuit <a href="https://tmsnrt.rs/3MpP9NG" target="_blank">upheld a Wisconsin federal court's 2022 ruling</a> that the school was not entitled to a new trial following the appeals court's 2018 decision to wipe out a jury's verdict in its favor.
+The Federal Circuit rejected the university's argument that it should have been allowed to raise a new infringement theory after the appeals court's 2018 ruling, finding that the school should have presented the theory during the original trial.
+Attorneys and spokespeople for Apple and the university did not immediately respond to requests for comment on the ruling.
+The Wisconsin Alumni Research Foundation (WARF), the school's patent licensing arm, sued Apple in 2014, arguing that chips used in iPhones and iPads violated its patent rights in technology for improving processor performance.
+A Wisconsin jury awarded WARF $234 million in damages in 2015, and U.S. District Judge William Conley increased the award to more than $506 million in 2017.
+The Federal Circuit <a href="/article/technology/apple-wins-reversal-in-university-of-wisconsin-patent-lawsuit-idUSKCN1M81TV/">overturned the jury's patent infringement decision</a> in 2018. WARF asked for a new trial in Wisconsin the next year.
+Conley <a href="/legal/litigation/apple-defeats-new-trial-bid-after-overturning-506-mln-patent-verdict-2022-05-11/">rejected WARF's request</a> in 2022. A unanimous three-judge Federal Circuit panel agreed with Conley on Wednesday.
+The case is Wisconsin Alumni Research Foundation v. Apple Inc, U.S. Court of Appeals for the Federal Circuit, No. 22-1884.
+For WARF: Morgan Chu of Irell & Manella
+For Apple: William Lee of Wilmer Cutler Pickering Hale & Dorr
+Read more:
+<a href="/legal/litigation/apple-defeats-new-trial-bid-after-overturning-506-mln-patent-verdict-2022-05-11/">Apple defeats new trial bid after overturning $506 mln patent verdict</a>
+

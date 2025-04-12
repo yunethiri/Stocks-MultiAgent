@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-08-11T14:45:19.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9383057355880737
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/EIJEKhvKRUMCKhtvTWFinA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fwarren-buffett-declares-shift-selling-144519364.html&c14=-1']
+
 content: Warren Buffett, arguably America’s most successful investor, is at it again. His latest moves in the stock market have captured the attention of investors. Under his control since 1965, he has led Berkshire Hathaway (BRK. A, BRK. B) to nearly double the performance of the S&P 500 with his calculated decisions.
 
 Don't Miss:
@@ -49,10 +57,4 @@ Get the latest stock analysis from Benzinga?
 This article Warren Buffett Declares Shift: Selling Apple Stock To Invest In This 'Magnificent' Megacap – Here's Why originally appeared on Benzinga.com
 
 © 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9383057355880737
 

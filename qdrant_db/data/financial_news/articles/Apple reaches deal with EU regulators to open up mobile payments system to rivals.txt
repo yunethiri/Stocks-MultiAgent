@@ -1,0 +1,18 @@
+link: https://www.cnbc.com/2024/07/11/apple-reaches-deal-with-eu-to-open-up-mobile-payments-system-to-rivals.html
+
+source: www.cnbc.com
+
+title: Apple reaches deal with EU regulators to open up mobile payments system to rivals
+
+summary: EU antitrust chief Margrethe Vestager said the European Commission accepted commitments from Apple to open access to its tap and go payments tech to rivals.
+
+publishDate: 2024-07-11T10:28:39.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

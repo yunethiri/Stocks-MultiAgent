@@ -1,0 +1,32 @@
+link: https://www.yahoo.com/news/apple-intelligence-delays-could-impede-192523465.html
+
+source: www.yahoo.com
+
+title: Apple Intelligence delays could impede iPhone 16 ‘supercycle’
+
+summary: 
+
+publishDate: 2024-09-08T19:25:23.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999649524688721
+
+images: ['https://s.yimg.com/ny/api/res/1.2/WZOxSeS5hv6ChUy_TY.ZBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/873fde1146dd5b90ddec6d4b29f82761', 'https://s.yimg.com/cv/apiv2/default/20190724/yahoo-news-logo-2019.svg', 'https://s.yimg.com/ny/api/res/1.2/Fx6xIVSYqLqLPbYLpFIiLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/techcrunch_350/873fde1146dd5b90ddec6d4b29f82761']
+
+content: When Apple unveiled its AI plans at WWDC in June, analysts suggested the feature could put the iPhone 16 on track for another "supercycle." Like the addition of 5G before it, industry watchers believed that Apple Intelligence’s arrival might convince holdouts to bite the bullet and upgrade their device.
+
+We’ll have a much better picture when the company reveals the iPhone 16 at tomorrow’s “It’s Glowtime” event in Cupertino. In the meantime, however, it's believed that Apple Intelligence's slow rollout could significantly hamper supercycle potential.
+
+In June, Apple showed the world a take on AI firmly in-line with its mission statement of prioritizing user experience. Trained on small models -- instead of the massive black boxes behind services like Google Gemini and OpenAI’s ChatGPT -- Apple’s play is centered around improving existing experiences through generative AI.
+
+As Bloomberg notes today, however, delays could impact the iPhone 16's bottom line. WWDC offered a lot of big promises, but we’re unlikely to see many delivered until 2025. Regional limitations present key roadblocks as well, including in the EU and China -- the latter of which can make or break Apple financials in any given quarter. ChatGPT integration, meanwhile, is also unlikely for launch.
+
+In the lead up to WWDC, the industry wondered whether Apple would be able to become a major player with the generative AI competition. But while the developer conference wowed observers with impressive demos, there’s still a lot of catching up to do.
+
+At the time of writing, iPhone 15 Pro/Pro Max are the only devices approved to run Apple Intelligence. Tomorrow’s event is set to change that, especially as further rumors point to increased uniformity across the iPhone 16 line. The base models are expected to get A18 chips, with the Pros, fittingly, getting an A18 Pros.
+
+While sales are incredibly important to Apple and its shareholders, Apple Intelligence is a massive, multi-faceted undertaking, and rushing it out too early could have a longer term adverse impact on the company's bottom line than a staggered rollout.
+

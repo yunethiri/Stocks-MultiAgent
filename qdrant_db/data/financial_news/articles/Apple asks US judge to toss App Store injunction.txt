@@ -1,0 +1,37 @@
+link: https://www.reuters.com/legal/transactional/apple-asks-us-judge-toss-app-store-injunction-2024-09-30/
+
+source: www.reuters.com
+
+title: Apple asks US judge to toss App Store injunction
+
+summary: Apple has asked a U.S. judge to throw out or narrow a decision governing its lucrative App Store, saying new legal developments undermine a court order that “Fortnite” video game maker Epic Games won in its lawsuit against the tech giant.
+
+publishDate: 2024-09-30T22:07:16.906Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9874842762947083
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has asked a U.S. judge to throw out or narrow a decision governing its lucrative App Store, saying new legal developments undermine a court order that “Fortnite” video game maker Epic Games won in its lawsuit against the tech giant.
+Apple made its request on Monday in a <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjrjkdpq/Epic%20v%20Apple%20--%20injunction%20motion%2020240930.pdf" target="_blank">court filing</a> to U.S. District Judge Yvonne Gonzalez Rogers in Oakland, where the iPhone maker and Epic have faced off for years over Apple's App Store practices.
+Epic sued Apple in 2020, accusing it of violating antitrust law by controlling the market for iPhone apps and overcharging developers through a 30% commission on app transactions. Apple defeated most of the case, but Rogers in a 2021 ruling said Apple must give developers more power to steer app users to payment options outside of Apple’s ecosystem.
+In Monday’s filing, Apple said new decisions by California state courts and the U.S. Supreme Court in two unrelated cases bolster the company’s legal arguments against the injunction.
+Apple did not immediately respond to a request for comment, and Epic declined to comment.
+Citing the new rulings, Apple said its practices were not unfair and that any injunction should be limited to benefiting only Epic, and not other developers.
+The other cases included a proposed California consumer class action against Apple over its App Store practices, and an action in U.S. federal court accusing the Biden administration of pressuring social media companies to combat misinformation.
+The wrangling comes as Apple fights Epic’s claims that it has <a href="/legal/epic-games-accuses-apple-violating-app-store-injunction-2024-03-13/">violated</a> the court’s 2021 order and should be held in contempt. Apple has denied any wrongdoing.
+Epic, as part of the contempt fight, has accused Apple of dragging its feet on producing internal corporate documents. Apple’s efforts drew a rebuke last week from a U.S. magistrate judge, who said the company had waited too long to ask for a deadline extension.
+“Apple knew it wasn’t on track to make the substantial completion deadline and kept that a secret,” U.S. District Judge Thomas Hixson <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1017.0.pdf" target="_blank">wrote</a>, accusing the company of "bad behavior" aimed at prolonging the case.
+The case is Epic Games Inc v Apple Inc, U.S. District Court, Northern District of California, No. 20-cv-05640.
+For Epic: Gary Bornstein and Yonatan Even of Cravath, Swaine & Moore
+For Apple: Mark Perry of Weil, Gotshal & Manges; and Cynthia Richman of Gibson, Dunn & Crutcher
+Read more:
+<a href="/legal/epic-games-accuses-samsung-google-scheme-block-app-rivals-2024-09-30/">Epic Games accuses Samsung, Google of scheme to block app rivals</a>
+<a href="/legal/transactional/apple-judges-document-demands-could-delay-epic-antitrust-ruling-2024-06-05/">Apple judge's document demands could delay Epic antitrust ruling</a>
+<a href="/legal/apple-denies-violating-us-court-order-epic-games-lawsuit-2024-04-13/">Apple denies violating US court order in Epic Games lawsuit</a>
+<a href="/legal/epic-games-accuses-apple-violating-app-store-injunction-2024-03-13/">Epic Games says Apple violated App Store injunction, seeks contempt order</a>
+

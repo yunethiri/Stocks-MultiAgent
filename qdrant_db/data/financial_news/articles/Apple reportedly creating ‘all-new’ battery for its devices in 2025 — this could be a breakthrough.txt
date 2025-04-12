@@ -1,0 +1,54 @@
+link: https://www.yahoo.com/tech/apple-reportedly-creating-battery-devices-235122744.html
+
+source: www.yahoo.com
+
+title: Apple reportedly creating ‘all-new’ battery for its devices in 2025 — this could be a breakthrough
+
+summary: 
+
+publishDate: 2024-09-06T23:51:22.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999959468841553
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/AfalPqM_wCW8ORITitXM.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/96550bf6d360bcade6abed186fd69ff3', 'https://s.yimg.com/ny/api/res/1.2/f_xV7rJd6FrGzllX9kwmsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI5MjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/0f550920-295a-11ed-bffb-cbfc786734bb']
+
+content: Apple reportedly creating ‘all-new’ battery for its devices in 2025 — this could be a breakthrough
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Poravute Siriphiroon/ Shutterstock
+
+Apple has been slowly making more and more components of its devices in house; a new report claims that batteries could soon join the ranks of parts that Apple develops on its own. And those batteries could find their way into Apple products as soon as next year.
+
+The Korean website ETNews (via MacRumors) reports from industry sources that Apple has been working on its own batteries since at least 2018 when the iPhone maker began hiring people with battery experience and applying for related patents.
+
+Apple is looking to build a "completely new" battery with vastly improved performance, ETNews says, adding that Apple is in the process of putting together cathode materials to determine performance.
+
+Apparently, the Apple battery has a totally different composition compared to other batteries currently available. It combines raw materials like nickel, cobalt, manganese and aluminum for improved performance.
+
+Reportedly, the company is also exploring silicon content as a cathode material, different from the graphite that has traditionally been used. However, ETNews notes that silicon has a problem with volume expansion during charging and discharging, and Apple is working to get around that issue.
+
+Reports further claim that Apple is looking into carbon nanotubes to improve conductivity, as that would deliver better performance from less common materials. That switch also could lead to faster charging times.
+
+The resulting battery is supposed to be an innovation that has not yet been commercialized. A source suggested to ETNews that the Apple Vision Pro headset significantly increased Apple's need for high-performance batteries. The $3,500 product is rated for just 2 to 2.5 hours of battery life. Meanwhile, devices like the Apple Watch have had the same "all-day" rating since they were introduced, while rival smartwatches now last multiple days on a charge.
+
+Nothing in the ETNews report details where Apple is at in the construction of these batteries or what kind of performance improvements have been discovered in the exploration.
+
+Most batteries are lithium-ion and composed of an anode, cathode and an electrolyte layer. The anode is generally made of lithium metals while the cathode is made from graphite. According to Reliance Digital, most smartphones pack a "Li-ion" battery because it can hold more power cells while maintaining a smaller footprint inside a device.
+
+In general, across the industry, battery performance has seen significant performance improvements in recent years either through physical engineering like power efficiency of chipsets or software wrangling of the battery and operating systems.
+
+And Apple isn't the only company working on improved batteries. Over the summer, OnePlus announced the "glacier battery" which allegedly crams a 6,100 mAh capacity battery cell into a 5,000 mAh slot. That battery is built on silicon carbon anode technology and allegedly provides two days of use on a single charge.
+
+Other companies like Realme, have been pushing forward the ability of chargers. The company recently announced a 320W charger that is supposed to be capable of fulling charging a smartphone battery in less than 5 minutes. That charger is not yet available on any actual smartphones, though.
+
+Allegedly, Apple's battery project was co-developed with Apple's go at an Apple Car that has since been cancelled. After that the focus shifted toward mobile applications. If reports are to be believed, we should start seeing the Apple battery in their products in 2025.
+
+If we do get this new battery next year, we imagine it'll appear in the iPhone 17 lineup.
+
+More from Tom's Guide
+

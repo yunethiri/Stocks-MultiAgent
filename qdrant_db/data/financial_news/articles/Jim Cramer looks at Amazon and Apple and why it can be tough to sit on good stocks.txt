@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/10/08/jim-cramer-amazon-apple.html
+
+source: www.cnbc.com
+
+title: Jim Cramer looks at Amazon and Apple and why it can be tough to sit on good stocks
+
+summary: Cramer recapped action in the stocks of Apple and Amazon, which received downgrades on Monday — ratings with which he disagreed. Both recovered by Tuesday.
+
+publishDate: 2024-10-08T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8652505278587341
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/104524980-20170612-1091-2390.jpg?v=1497300345&w=1920&h=1080']
+
+content: CNBC's Jim Cramer on Tuesday described why it can be difficult for investors to sit on solid stocks. Some can get spooked by analyst downgrades, for example, and sell their position in a great company that will be hard to later buy back.
+
+"In the last decade, the toughest thing to do is to hold on to good stocks," he said. "But analysts and commentators love to take aim at big long-term winners. Their jeremiads have scared so many people out of some amazing gains."
+
+According to Cramer, many on Wall Street can be "complacent," with bulls ignoring downside risks and bears ignoring opportunities. If investors want to take action on a downgrade, it's wise to wait for a bounce to sell. Then, buy back at a lower price, but that is "incredibly hard" to achieve, even for talented traders, he said.
+
+Cramer recapped action in the stocks of Apple and Amazon , which received downgrades on Monday — ratings with which Cramer disagreed. Analysts were bearish on Apple in part because of perceived hardware issues with the newest iPhone model, but Cramer countered that the company's products have been continuously popular. He also acknowledged that Amazon may be facing some headwinds, but the megacap has a steady track record of bouncing back.
+
+Both stocks sold off heavily on Monday, he pointed out, but they recovered by Tuesday — hampering investors' chances of buying back shares if they sold during the previous session.
+
+"I need you to understand that when analysts downgrade after stocks have already been hammered, when really good investors ignore the positives, then, it may be a grim time," Cramer said. "But not so grim that we can't make money by focusing on the fundamentals of the companies."
+

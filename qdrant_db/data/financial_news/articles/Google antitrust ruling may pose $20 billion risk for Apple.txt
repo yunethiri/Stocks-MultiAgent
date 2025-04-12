@@ -1,0 +1,36 @@
+link: https://www.reuters.com/technology/google-antitrust-ruling-may-pose-20-billion-risk-apple-2024-08-06/
+
+source: www.reuters.com
+
+title: Google antitrust ruling may pose $20 billion risk for Apple
+
+summary: Apple's lucrative deal with Google could be under threat after a U.S. judge ruled that the Alphabet-owned search giant was operating an illegal monopoly.
+
+publishDate: 2024-08-06T19:59:05.496Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999904632568359
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple's <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> lucrative deal with Google <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> could be under threat after a U.S. judge ruled that the Alphabet-owned search giant was operating an <a href="/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/">illegal monopoly</a>.
+A potential remedy for Google to avoid antitrust actions could involve terminating the agreement, which makes its search engine a default on Apple devices, Wall Street analysts said on Tuesday.
+Google pays Apple $20 billion annually, or about 36% of what it earns from search advertising made through the Safari browser, for the privilege, according to Morgan Stanley analysts.
+If the deal is undone, the iPhone maker could take a 4-6% hit to its profit, the analysts estimated.
+The pact runs until at least September 2026 and Apple has the right to unilaterally extend it for another two years, according to media reports in May that cited a document filed by the Department of Justice in the antitrust case.
+"The most likely outcome now is the judge rules Google must no longer pay for default placement or that companies like Apple must proactively prompt users to select their search engine rather than setting a default and allowing consumers to make changes in settings if they wish," Evercore ISI analysts said.
+Apple's shares were trading flat on Tuesday, underperforming a recovery in the broader market after Monday's global selloff. Alphabet was little changed, after falling 4.5% in the previous session.
+"The message here is that if you've got a dominant market position with a product, you'd better avoid the use of exclusive agreements and make sure any agreement you make gives the buyer free choice to substitute away," said Herbert Hovenkamp, a professor of law at the University of Pennsylvania.
+To be sure, the "remedy" phase could be lengthy, followed by potential appeals to the U.S. Court of Appeals, the District of Columbia Circuit and the U.S. Supreme Court. The legal wrangling could play out into 2026.
+
+AI TILT
+Still, if the tie-up is scrapped, Apple will have several options including offering customers alternatives such as Microsoft Bing to customers, or potentially a new search product powered by OpenAI.
+Analysts agree that the ruling will speed up Apple's move towards AI-powered search services. It recently announced that it would bring OpenAI's ChatGPT chatbot <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">to its devices</a>.
+In a shift away from exclusive deals that would help Apple ward off regulatory scrutiny, the company has said it is also in talks with Google to add the Gemini chatbot and plans to add other AI models as well.
+Apple is also revamping Siri with AI technology, giving it more control to handle tasks that had proven tricky in the past such as writing emails and interacting with messages.
+While those efforts are expected to make little money in the coming years, they could help capitalize on the new technology.
+"Apple could see this as a temporary setback, especially since it earns a lot from the Google search deal, but it is also an opportunity for them to pivot to AI solutions for search," said Gadjo Sevilla, analyst at Emarketer.
+

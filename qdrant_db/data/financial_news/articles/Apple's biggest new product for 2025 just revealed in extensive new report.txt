@@ -1,0 +1,56 @@
+link: https://www.yahoo.com/tech/apples-biggest-product-2025-just-185725524.html
+
+source: www.yahoo.com
+
+title: Apple's biggest new product for 2025 just revealed in extensive new report
+
+summary: 
+
+publishDate: 2024-11-13T18:57:25.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9995879530906677
+
+images: ['https://s.yimg.com/uu/api/res/1.2/0h9Y4t6K044Kk_bMa77oCQ--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/android_police_756/a4b5495079dc0ab8f4d1fdd4159b1ac4', 'https://s.yimg.com/uu/api/res/1.2/lYUHVWPcS1AMz.ki.iZcLw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mashable_articles_863/fb8f6411bedee2cfd819ea57747cacfc.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/zd_9u7qztX_W7dbvN5GUKg--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/13f452190c7b834c02a957ce2eeda02f.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Shutterstock
+
+Every couple of weeks a new rumor sprouts up claiming that Apple is working on an iPad-esque smart home display. Most of them have come from the Apple whisperer, Bloomberg's Mark Gurman.
+
+This week, Gurman is back with a new set of rumors regarding the potential smart home device, which he says will launch in March of 2025.
+
+Advertisement Advertisement
+
+The long-hinted at device is supposed to be wall-mounted "command center" that can control smart home devices, take video calls and use voice-activated Siri commands. It's very reminiscent of the Amazon Echo Hub or the Google Nest Hub, which currently offers a number of similar features.
+
+Both the Echo and Nest offer pretty clear interfaces with integrations for other smart products like Ring cams or Nest thermostats. They're two of the best smart home hubs and stiff competition for Apple.
+
+According to Gurman, Apple will announce the controller in early March of next year. Apparently, the product, code-named J490, will also launch a custom version of Apple Intelligence, described as a "blend of watchOS and iOS StandBy Mode." Apparently, the UI is "dynamic" and will shift based on your proximity.
+
+While the display will be touched based, the main control will be voice via Siri and Apple Intelligence. Apparently, it's designed around something called "App Intents," which is a platform that lets AI "precisely control applications and tasks." This platform is supposed to debut in the coming months. Thought it's not clear if that means it will launch with the rumored smart home device or before.
+
+Advertisement Advertisement
+
+The device is supposed to feature a six-inch display, built-in camera, rechargeable battery and speakers.
+
+Apple's first smart home hub
+
+Assuming the rumors are true, Apple is looking to offer a centralized solution to controlling HomeKit-compatible smart home devices like lights, thermostats and security cameras.
+
+It sounds like Apple will create a variety of attachments, including the wall-mount and several different bases with speakers that can be placed around the home. Sources say that Apple is looking at the device as a way to FaceTime while cooking or videoconference for meetings.
+
+It's supposed to feature sensors that detect how many people are nearby and Apple's Handoff feature that lets you move tasks from device to device. As an example, you could trigger a function on the smart home tablet and then continue it on your iPhone.
+
+Advertisement Advertisement
+
+The device is standalone and, according to Gurman, Apple imagines that people will buy multiple units of the device that are spread through your home.
+
+Apple is also allegedly looking ahead to the future where the company might create a robotic limb that holds the display and could potentially follow you around your home. That idea has been rumored before and has a potential $1,000 price tag. It reminds us of Meta's failed Portal project, which was cut in 2022 amidst a slashing of budgets and mass layoffs at the company. The robotic limb might get an AI-personality, that is supposed to be an "AI companion in your home or workspace."
+
+Allegedly, Apple is looking to price its smart home panel in the range of the Echo Hub and Nest Hub Max, which sell for $180 and $230, respectively. It's supposed to come out in silver and black.
+

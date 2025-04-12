@@ -1,0 +1,26 @@
+link: https://finance.yahoo.com/video/apple-announces-september-event-iphone-193450848.html
+
+source: finance.yahoo.com
+
+title: Apple announces its September event, new iPhone expected
+
+summary: 
+
+publishDate: 2024-08-26T19:34:50.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999908208847046
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300001&c7=https%3A%2F%2Ffinance.yahoo.com%2Fvideo%2Fapple-announces-september-event-iphone-193450848.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8']
+
+content: Apple has announced the company will reveal its latest devices on Monday, September 9. It's widely expected the tech giant will unveil an iPhone 16 and more about its AI-focused Apple Intelligence platform.
+
+Yahoo Finance tech editor Dan Howley reports the details.
+
+For more expert insight and the latest market action, click here to watch this full episode of Market Domination.
+
+This post was written by Stephanie Mikulich.
+

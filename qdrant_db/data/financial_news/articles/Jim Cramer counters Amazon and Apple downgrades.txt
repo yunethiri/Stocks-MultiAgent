@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/10/07/jim-cramer-counters-amazon-apple-downgrades.html
+
+source: www.cnbc.com
+
+title: Jim Cramer counters Amazon and Apple downgrades
+
+summary: CNBC's Jim Cramer told investors not to get caught up in trading on Wall Street.
+
+publishDate: 2024-10-07T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999655485153198
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://image.cnbcfm.com/api/v1/image/107398819-1712683900519-img_2765_720.jpg?v=1712683936&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: CNBC's Jim Cramer told investors not to get caught up in downgrades or general trading on Wall Street, reiterating his stance that there's merit to sticking with solid companies even if their share prices fluctuate.
+
+"When I look at the history of this incredible bull market—and it has been an incredible bull market—it's littered with 'buy-to-hold, hold-to-sell, buy-to-hold, hold-to-sell,' these downgrades that scare you out of amazing stocks at levels that may temporarily be too high, but will recover later," he said. "If you listen to the downgrades, though, you'll never recover with it."
+
+Cramer said Monday had a "ridiculous plethora of sell-side downgrades," where the Dow Jones Industrial Average dipped 0.94%, the S&P 500 shed 0.96% and the Nasdaq Composite declined 1.18%. He conceded that the session was poor, but said heeding too many downgrades can be bad for those investing in the market for the long term.
+
+Although he acknowledged that Amazon is facing some hurdles, he disagreed with Wells Fargo's downgrade of the stock. He said the megacap has faced hurdles before and bounces back, saying it's only a matter of time before that happens. He noted that shares recovered after a substantial dip at the beginning of August, when the company reported a revenue miss.
+
+Cramer also disagreed with Jeffries' downgrade of Apple . While he said the company could be facing some near-term headwinds with the release of the iPhone16, he claimed the company doesn't have a record of releasing subpar products. He continued, sayin the downgrade was "betting against Apple's entire culture of excellence."
+
+"Wall Street is addicted to trading," Cramer said. "But if you're managing your own money, you should not be listening to all of this trading advice. You can't afford to do what they want you to do because trading is a full-time job."
+

@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/09/10/in-huaweis-battle-against-apple-chips-are-still-a-weakness-analyst-.html
+
+source: www.cnbc.com
+
+title: In Huawei’s battle against Apple, chips are still a weakness, says analyst
+
+summary: As Huawei battles it out with Apple in China, its chip capabilities remain a weakness, despite recent breakthroughs, according to one analyst.
+
+publishDate: 2024-09-10T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.7853776812553406
+
+images: ['https://image.cnbcfm.com/api/v1/image/108031505-1725937636353-1725937234-36194975462-hd.jpg?v=1725937643&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg']
+
+content: Illustration of a user browsing booking information for Huawei's new foldable mobile phone in Suqian, Jiangsu province, China, Sept 8, 2024.
+
+As Huawei tries to upstage Apple 's new iPhone with the launch of its own 'trifold phone' on Tuesday, its chip capabilities remain a weakness, despite recent breakthroughs, according to one analyst.
+
+Speaking to CNBC's "Squawk Box Asia" on Tuesday, Martin Yang, senior analyst of emerging technologies at Oppenheimer & Co., said Huawei's chip remains two or three years behind the cutting edge.
+
+The gap on technology for their systems-on-chip, or SoCs, that merge central processing with cellular connectivity, is "widening because [Huawei] still doesn't have access to any below 7 nanometer processes," said Yang. In chip manufacturing, a nanometer denotes the size of transistors on a processor.
+
+The smaller the size of a transistor, the more can be fit on a chip, increasing its level of advancement.
+
+Huawei had made a smashing breakthrough last year when it released its Mate 60 smartphone, which included an advanced 7-nanometer chip originating from China.
+
+The speed in which Chinese firms were able to reach this benchmark surpassed what many analysts thought possible under U.S. trade restrictions that limited China's access to advanced semiconductor tech.
+
+On the back of this success, Huawei has been able to take back market share from Apple in China, the largest smartphone market in the world.
+
+However, unlike with the Mate 50, Huawei has not announced a big chip breakthrough for its latest phone launch.
+

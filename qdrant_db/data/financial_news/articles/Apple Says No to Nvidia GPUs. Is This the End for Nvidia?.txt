@@ -1,0 +1,68 @@
+link: https://finance.yahoo.com/news/apple-says-no-nvidia-gpus-140000621.html
+
+source: finance.yahoo.com
+
+title: Apple Says No to Nvidia GPUs. Is This the End for Nvidia?
+
+summary: 
+
+publishDate: 2024-08-10T14:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999836683273315
+
+images: ['https://s.yimg.com/ny/api/res/1.2/5YIB.uIuxOqBB_jsFAiqSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU4OA--/https://media.zenfs.com/en/motleyfool.com/04ed7c74effe4a57aed6c173227d1671', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300249&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-says-no-nvidia-gpus-140000621.html&c14=-1']
+
+content: Nvidia (NASDAQ: NVDA) has been one of the best stocks to invest in since the start of 2023. Its climb centers around the massive demand for artificial intelligence (AI) computing power. A lot of this demand comes from big tech players, but one big tech company recently said no to Nvidia.
+
+Although Apple (NASDAQ: AAPL) was late to the artificial intelligence game, its product was highly anticipated. To many people's surprise, Apple didn't use Nvidia GPUs (graphics processing units) to create its AI model. Could this be a sign that Nvidia's GPU empire is starting to crack?
+
+GPUs have been the most popular option for training AI models
+
+Nvidia's GPUs have become incredibly popular for running AI workloads. Nvidia's GPUs are best in class, and it has industry-leading software available to help squeeze out every bit of performance from the GPUs. This is important as these servers that run AI models contain thousands of GPUs. GPUs are a top choice for this kind of workload because they can perform many calculations in parallel, unlike central processing units (CPUs) found in PCs. They are also good at other tasks, like cryptocurrency mining, engineering simulations, and drug discovery.
+
+But because they aren't purpose-built for AI calculations, there is likely a better way to process calculations. These chips exist and aren't made by any of Nvidia's traditional competitors.
+
+One of these alternatives is Alphabet's (NASDAQ: GOOG)(NASDAQ: GOOGL) tensor processing unit (TPU). Alphabet's TPU was designed specifically for these large AI computations but is limited in flexibility. If a workload is properly set up, TPUs blow Nvidia's GPUs' performance out of the water, but only for specific use cases.
+
+This is the primary reason Apple selected Alphabet's TPUs to train its Apple Intelligence model. Does one of the largest players in the industry selecting purpose-built hardware rather than a broader one signify the end for Nvidia?
+
+Nvidia's investment thesis hinges on customers buying more GPUs
+
+Part of the reason some investors (like myself) are hesitant to buy into Nvidia's stock now is the extreme growth expectations built into the company. Anyone buying the stock now assumes that the demand for Nvidia's GPUs will continue to grow significantly. However, they don't consider the possibility that once developers are used to setting up their AI models in a particular way, they may choose to use purpose-built hardware like the TPU.
+
+This could be a thesis-breaker for Nvidia, as Wall Street analysts expect Nvidia's revenue to grow by 98% this year to $110 billion and by 36% next year to $151 billion. Should demand for its product drop, these projections could be in danger.
+
+Story continues
+
+NVDA Revenue (TTM) Chart
+
+It's not just Alphabet with its custom design, either. Amazon (NASDAQ: AMZN) and Microsoft (NASDAQ: MSFT) both have their own custom chips that are purpose-built for AI model training. Neither of these three companies sells these products directly to the consumer. Instead, if clients want to access them, they must rent them through one of their cloud computing offerings.
+
+This is a better long-term business model than Nvidia's, as once Nvidia sells its GPU, the only revenue it will get is from customers deciding to upgrade or replace the unit after its service life is complete. Cloud computing companies buy hardware and then rent the power to clients on a recurring basis, extending the value they can get from one unit.
+
+Still, all three cloud giants' data centers are filled to the brim with Nvidia's GPUs, and they're all buying more. So, while there may be better ways to train AI models, many companies are still training on GPUs.
+
+Time will tell whether this trend reverses and more companies train AI models like Apple did or GPUs for broader use continue to dominate. But it's a great point to remember if you're considering investing in Nvidia.
+
+Should you invest $1,000 in Nvidia right now?
+
+Before you buy stock in Nvidia, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $641,864!*
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of August 6, 2024
+
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Keithen Drury has positions in Alphabet and Amazon. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Microsoft, and Nvidia. The Motley Fool recommends the following options: long January 2026 $395 calls on Microsoft and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.
+
+Apple Says No to Nvidia GPUs. Is This the End for Nvidia? was originally published by The Motley Fool
+

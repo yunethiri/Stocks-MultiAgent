@@ -1,0 +1,122 @@
+link: https://www.yahoo.com/tech/apple-iphone-16-vs-16-135508976.html
+
+source: www.yahoo.com
+
+title: Apple iPhone 16 vs. 16 Plus vs. 16 Pro vs. 16 Pro Max: Here's How to Choose
+
+summary: 
+
+publishDate: 2024-11-22T15:27:52.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999852180480957
+
+images: ['https://s.yimg.com/uu/api/res/1.2/zVkGNTPDo9QkDGGiWSbXAw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_ecomm_415/f2dcd49346f2246a384d77441f5904fc.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/RZGBZ.mu_UB.J2CvoZ0PDg--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-07/fbcb0240-3ed0-11ef-bfab-260b39295c2b.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/TJTqJZQFKt025EViGAThHQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/117221d2914019f16b9b13206c5c6891.cf.webp']
+
+content: PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
+
+Pricing: From $799 to $1,599
+
+Cost is a big factor when selecting a mobile phone. Even though most US buyers split the cost of new phones over 24 or 36 months via their service plan, every little decision adds up on that monthly bill. Here's a breakdown of iPhone pricing.
+
+Apple charges $799 for the iPhone 16 with 128GB of storage, $899 for 256GB, or $1,099 for 512 GB. The iPhone 16 Plus models cost $100 more across the board, or $899 for the 128GB model, $999 for 256GB, or $1,199 for 512GB.
+
+The Pro models carry an increase of $200. The iPhone 16 Pro with 128GB costs $999, the 256GB model costs $1,099, the 512GB model costs $1,299, and the 1TB model costs $1,499. Moving to the iPhone 16 Pro Max, you'll pay $1,199 for the 256GB model (there is no 128GB model), $1,399 for the 512GB model, or $1,599 for the 1TB model.
+
+Advertisement Advertisement
+
+If you're more interested in the monthly breakdown, you should expect to pay about $33 per month for two years for the base iPhone 16 and $67 per month for two years for the 1TB Pro Max iPhone. Those prices are valid if you finance the phone directly with Apple. Since AT&T, T-Mobile, and Verizon break down costs over three years, you can expect the monthly price to drop to about $22 for the base model and $44 for the top model. Your pricing will likely be different if you trade in an old iPhone.
+
+Winner: Apple (ka-ching!)
+
+Sizing and Design
+
+The iPhone 14 and iPhone 15 families were available in two basic sizes, but Apple has expanded the lineup this year and now offers four sizes from which to choose.
+
+The iPhone 16 is the smallest and lightest of the new iPhones, measuring 5.81 by 2.82 by 0.31 inches (HWD) and 6.00 ounces. The 16 Pro is slightly larger, measuring 5.89 by 2.81 by 0.32 inches and 7.03 ounces. Then comes the 16 Plus, which measures 6.33 by 3.06 by 0.31 inches and weighs 7.03 ounces. The Pro Max is the biggest and heaviest, measuring 6.42 by 3.06 by 0.32 inches and 7.99 ounces. You can put the Pro Max in the "pretty darned big" category.
+
+Advertisement Advertisement
+
+In terms of design, the iPhone 16s aren't that hard to tell apart thanks to their different color palettes. The iPhone 16 and 16 Plus are available in five shades: Black, Pink, Teal, Ultramarine, or White. The 16 Pro and 16 Pro Max come in four options: Black Titanium, Desert Titanium, Natural Titanium, or White Titanium.
+
+The iPhone 16 and 16 Plus are made with aluminum frames and Apple's Ceramic Shield, while the Pro models upgrade the frame to titanium. All four models have an IP68 rating for protection against dust and water.
+
+The buttons and controls are identical. The left side features the Action Button and separate volume keys, while the right edge holds the power button and the Camera Control—this new feature lets you quickly open the camera and take photos or videos, as well as access tools like zoom by sliding your finger across the sapphire glass. None of the iPhones for US buyers has a physical SIM card because US iPhone models rely on eSIM only. International models do include a SIM card tray. Each iPhone has a USB-C port on the bottom, but they aren't all the same. The iPhone 16 and 16 Plus have USB 2.0 ports, while the 16 Pro and Pro Max have USB 3.1.
+
+The biggest visual difference between the iPhones, other than their color, is the camera module. The iPhone 16 and 16 Plus have two camera lenses stacked vertically, and the 16 Pro and Pro Max have three cameras arranged in a triangle that rests on a large, squarish bump.
+
+Winner: Tie
+
+Screen Dimensions: It Matters
+
+Four different-sized phones means four different-sized displays, measuring 6.1, 6.3, 6.7, and 6.9 inches. The iPhone 16 and 16 Plus use Apple's Super Retina XDR OLED screen. It's a static screen at 60Hz and does not support the always-on display feature. The 6.1-inch iPhone 16 has a resolution of 2,556 by 1,179 pixels and a density of 460 pixels per inch (ppi), while the 6.7-inch 16 Plus has a resolution of 2,796 by 1,290 pixels at 460ppi.
+
+The Pro models upgrade the screen to a variable refresh rate display that Apple brands as ProMotion. The refresh rate can range from 1Hz to save power up to 120Hz for smoother performance. This screen supports an always-on display option. The 6.3-inch 16 Pro has a resolution of 2,622 by 1,206 pixels at 460ppi, while the 6.9-inch Pro Max has a resolution of 2,868 by 1,320 pixels at 460ppi. The Pro Max has the largest-ever screen on an iPhone.
+
+Advertisement Advertisement
+
+All four iPhones produce 1,000 nits of brightness (typical), with HDR brightness reaching 1,600 nits and peak brightness reaching 2,000 nits. They support a contrast ratio of 2 million to 1 and include a fingerprint-resistant oleophobic coating.
+
+Winner: iPhone 16 Pro Max
+
+Apple Silicon: What's a Pro Chip?
+
+According to Apple's spec sheets, a single GPU core is all that separates the A18 processor in the iPhone 16 and 16 Plus from the A18 Pro chip in the iPhone 16 Pro and Pro Max. Based on the chip's architectural diagram, the A18 includes two performance cores, four efficiency cores, five GPU cores, and 16 Neural Engine cores (or NPU). The A18 Pro adds a single GPU core, giving it six instead of five.
+
+There are almost certainly numerous other differences that Apple isn't defining. For example, Apple doesn't spell out the clock speeds for the CPU cores. It's possible the A18 Pro has higher clock speeds than the A18. We do know that all four iPhones share the same amount of RAM, which is believed to be 8GB.
+
+Advertisement Advertisement
+
+Unsurprisingly, in our in-depth comparison, we found the A18 Pro chip outperformed the A18 chip. On average, it is about 10% better across a variety of benchmarks, though it did particularly well in GPU tests, which give the Pro models an edge when it comes to Apple Intelligence.
+
+Winner: iPhone 16 Pro and Pro Max
+
+Battery: From 18 to 29 Hours
+
+Apple does not share details on the capacity of iPhone batteries, but analysis of the phones suggests the iPhone 16 has a 3,561mAh battery, the 16 Plus has a 4,674mAh battery, the 16 Pro has a 3,582mAh battery, and the 16 Pro Max has a 4,685mAh battery. Further, the company quantifies battery life by how many hours the devices can perform specific tasks, none of which include "regular use."
+
+The iPhone 16 can play local video files for up to 22 hours, stream online video files for up to 18 hours, and play audio for up to 80 hours. Those numbers increase to 27, 24, and 100 hours, respectively, for the iPhone 16 Plus. The Pro model batteries typically last longer. Apple says the 16 Pro can play local video files for up to 27 hours, stream online video files for up to 22 hours, and play audio for up to 85 hours. Those battery life ratings increase to 22, 29, and 105 hours, respectively, for the 16 Pro Max.
+
+Our own tests provided different results. We found the iPhone 16 lasted 17 hours and 47 minutes, the iPhone 16 Plus lasted 21 hours and 51 minutes, the iPhone 16 Pro lasted 20 hours and 33 minutes, and the iPhone 16 Pro Max lasted 22 hours and 5 minutes.
+
+Advertisement Advertisement
+
+As far as charging is concerned, each iPhone 16 supports MagSafe wireless charging at up to 25W, Qi2 charging at up to 15W, and regular Qi charging at 7.5W. Apple does not disclose the wired charging speeds, though reports suggest all four models support up to 45W wired charging. That has yet to be confirmed.
+
+Winner: iPhone 16 Pro Max
+
+Cameras: Do You Want Zoom?
+
+Camera functionality is one of the bigger differentiators between the new iPhones. The regular models have two rear cameras, while the Pro phones have three. The Pro iPhones also get more advanced videography features. Here's the breakdown:
+
+The iPhone 16 and 16 Plus share their camera arrangement. Each has a 48MP f/1.6 main camera. Apple brands this the Fusion camera because the sensor can take 48MP images at 1x, 12MP images at 2x, or combined 24MP images that blend the detail of all 48MP with the light-capturing power of the 12MP binned sensor. The 12MP ultrawide camera has a 120-degree field of view with support for macro shooting.
+
+The Pro models have a similar 48MP main camera with an f/1.78 and optical image stabilization. It, too, can capture 48MP or 24MP images, in addition to 12MP 2x telephoto shots. The 48MP ultrawide offers a 120-degree field of view at f/2.2 and can snag full 48MP resolution pictures. A dedicated 12MP 5x optical telephoto camera is available to both iPhone 16 Pro models.
+
+Advertisement Advertisement
+
+Apple says the iPhone 16 supports up to 10x zoom via cropping with the main sensor. The Pro models support up to 5x optical zoom and up to 25x digital zoom via optical zoom and cropping. As far as shooting photos is concerned, that's the biggest difference.
+
+The TrueDepth camera, or selfie camera, appears to be identical across all four iPhone 16s. It's a 12MP shooter at f/1.9. The Pro models can shoot in ProRAW, while the non-Pro models are limited to HEIF or jpeg.
+
+Looking at the video capabilities paints a different picture. All the iPhones can shoot 1080p or 4K video at 24, 25, 30, or 60 frames per second in Dolby Vision. You also get Cinematic Mode, Action Mode (at 2.8K), slow motion, time-lapse, and spatial video capture (for the Apple Vision Pro). The Pro models add Fusion capture at up to 4K120, so you can get incredibly smooth action or slow things down after the fact with 4x slow motion. The Pros also get ProRes capture at 4K120, Log video recording, and Academy Color Encoding System. Last, they have stabilized sensors and include four microphones for improved audio recording.
+
+If you're a serious video creator, the Pro models are for you.
+
+Winner: iPhone 16 Pro and Pro Max
+
+Anything Else?
+
+Most other specs and features are shared across all iPhone 16 models. For example, they have the same sub-6GHz and mmWave 5G support, Wi-Fi 7, Bluetooth 5.3, NFC, and Thread radios. The only difference is that the Pro models have dual-band GPS while the iPhone 16 and 16 Plus have single-band GPS.
+
+Everyone gets Emergency SOS via satellite, Crash Detection, Roadside Assistance via satellite, Messages via satellite, and Find My via satellite for safety. All the iPhones ship with iOS 18 and will receive the same amount of software support.
+
+Winner: Tie
+
+Verdict: We're All Winners
+
+Apple makes different iPhones for different people. The iPhone 16 will likely be the best iPhone for most people thanks to its balance of price and features. Those who want something bigger but want to keep the price in check can get the 16 Plus instead. Want a better camera system but like things small? Go with the iPhone 16 Pro. Last, if you want it all, Apple will happily take your money for the 16 Pro Max.
+

@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/10/15/apple-new-ipad-mini-tablet.html
+
+source: www.cnbc.com
+
+title: Apple announces new iPad mini, available to order now and in stores on Oct. 23
+
+summary: Apple announced a new iPad mini on Tuesday, offering the first update to its smallest tablet since 2021. It starts at $499 and launches in stores on Oct. 23.
+
+publishDate: 2024-10-15T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999666213989258
+
+images: ['https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/108047800-1728998392633-Apple-iPad-mini-hero-241015_bigjpglarge_2x.jpg?v=1728998421&w=1920&h=1080']
+
+content: Apple announced a new iPad mini on Tuesday, offering the first update to its smallest tablet since 2021.
+
+The new iPad mini comes with a faster A17 Pro processor, the same chip that was in last year's iPhone 15 Pro. That means it supports Apple Intelligence, the company's new suite of artificial intelligence features that will slowly begin rolling out to users this month.
+
+During the company's fiscal third quarter, Apple showed the strongest growth in its iPad segment, which grew about 24% year-over-year after it introduced several new iPads for the first time since 2022.
+
+Apple's smallest iPad has attracted a fanbase of users who appreciate its more portable 8.3-inch screen for reading books or taking notes. The iPad Mini supports the latest Apple Pencil Pro, which was introduced alongside the iPads Pro earlier this year.
+
+It starts at $499, can be preordered now and launches in stores on Oct. 23.
+
+
+
+Subscribe to CNBC on YouTube.
+

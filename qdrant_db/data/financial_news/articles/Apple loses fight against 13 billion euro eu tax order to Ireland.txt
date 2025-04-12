@@ -1,0 +1,21 @@
+link: https://www.reuters.com/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/
+
+source: www.reuters.com
+
+title: Apple loses fight against 13 billion euro eu tax order to Ireland
+
+summary: Europe's top court on Tuesday upheld a 2.42 billion euro EU antitrust fine imposed on Alphabet's Google seven years ago for using its own price comparison shopping service to gain an unfair advantage over smaller European rivals.
+
+publishDate: 2024-09-10T07:48:52.092Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.99722820520401
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Europe's top court on Tuesday upheld a 2.42 billion euro EU antitrust fine imposed on Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google seven years ago for using its own price comparison shopping service to gain an unfair advantage over smaller European rivals.
+The <a href="/article/world/eu-hits-google-with-record-24-billion-euro-fine-idUSKBN19I101/">fine</a> is one of three penalties levied by the European Commission against Google in the last decade for various antitrust infringements that have cost the company 8.25 billion euros in total in the last decade.
+

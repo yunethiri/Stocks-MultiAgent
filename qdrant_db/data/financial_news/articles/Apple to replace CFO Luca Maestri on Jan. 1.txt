@@ -1,0 +1,40 @@
+link: https://www.cnbc.com/2024/08/26/apple-to-replace-cfo-luca-maestri-on-jan-1.html
+
+source: www.cnbc.com
+
+title: Apple to replace CFO Luca Maestri on Jan. 1
+
+summary: Maestri will continue to lead teams focusing on IT, security and real estate development, Apple said.
+
+publishDate: 2024-08-26T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9995957016944885
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Luca Maestri speaks to newly graduated students during the visit of the President of the Council, Giuseppe Conte, to Apple and Cisco Academy.
+
+Apple announced Monday that it will replace Chief Financial Officer Luca Maestri on Jan. 1 with current Apple insider Kevan Parekh.
+
+Maestri will continue to lead teams focusing on IT, security and real estate development, Apple said.
+
+Parekh, the incoming CFO, had been a top Maestri lieutenant as the company's vice president of financial planning and analysis.
+
+"For more than a decade, Kevan has been an indispensable member of Apple's finance leadership team, and he understands the company inside and out. His sharp intellect, wise judgment, and financial brilliance make him the perfect choice to be Apple's next CFO," Apple CEO Tim Cook said in a statement.
+
+Maestri was named Apple CFO in 2014 before the stock began a torrid run, partially powered by strong demand for iPhones. Apple stock is up more than 800% since Maestri became CFO.
+
+During his tenure as finance chief, Apple more than doubled annual sales and net income and expanded its gross margin. In 2014, Apple's annual sales were about $183 billion. Last year, Apple reported $383 billion in revenue.
+
+Maestri oversaw Apple's record-breaking capital return program, and appeared alongside Cook on quarterly earnings calls.
+
+Maestri, 60, started his career with General Motors and spent two decades at the automaker, helping to establish its operations in the Asia Pacific region. He then served as CFO at Nokia Siemens and Xerox before joining Apple as corporate controller in 2013. He was promoted to CFO the following year.
+
+Parekh joined Apple in finance and product marketing in 2013 after four years at Thomson Reuters. Similar to Maestri, he previously worked at GM, including in overseas operations.
+
+Apple is not the only Silicon Valley giant experiencing a shake-up in finance. At Alphabet, Ruth Porat announced in July 2023 that she was leaving the CFO role to become president and chief investment officer. In June, the company finally announced a replacement, bringing in Anat Ashkenazi, who had been leading finance at Eli Lilly. A year before Porat's move was made public, Meta named Susan Li as CFO, replacing David Wehner, who was becoming chief strategy officer.
+

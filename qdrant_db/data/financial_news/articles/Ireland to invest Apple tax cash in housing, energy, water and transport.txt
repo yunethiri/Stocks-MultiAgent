@@ -1,0 +1,23 @@
+link: https://www.reuters.com/markets/europe/ireland-invest-apple-tax-cash-housing-energy-water-transport-2024-10-01/
+
+source: www.reuters.com
+
+title: Ireland to invest Apple tax cash in housing, energy, water and transport
+
+summary: Ireland plans to invest the 14 billion euros ($15.5 billion) that Apple has been ordered to pay in back taxes into housing, energy, water and transport infrastructure, Finance Minister Jack Chambers told parliament on Tuesday.
+
+publishDate: 2024-10-01T13:06:18.650Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997079968452454
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Ireland plans to invest the 14 billion euros ($15.5 billion) that Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has been <a href="/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/">ordered to pay</a> in back taxes into housing, energy, water and transport infrastructure, Finance Minister Jack Chambers told parliament on Tuesday.
+"It is this government's view that we should utilise these revenues to address the known challenges that we face in housing, energy, water and transport infrastructure," Chambers said.
+The government will approve a framework for the spending in the first quarter of 2025, he added.
+($1 = 0.9031 euros)
+

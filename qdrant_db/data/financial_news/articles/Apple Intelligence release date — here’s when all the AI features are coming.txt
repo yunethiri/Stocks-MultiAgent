@@ -1,0 +1,44 @@
+link: https://www.yahoo.com/tech/apple-intelligence-release-date-ai-103052923.html
+
+source: www.yahoo.com
+
+title: Apple Intelligence release date — here’s when all the AI features are coming
+
+summary: 
+
+publishDate: 2024-09-30T10:30:52.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999997615814209
+
+images: ['https://s.yimg.com/ny/api/res/1.2/NSn9ZEYSNtJ8wty_nrwhKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/1420f8b88623ab1ff01178d8d2eb23f7', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Tom's Guide
+
+With the iOS 18.1 in public beta, giving anyone with a compatible phone the chance to test out the Apple Intelligence features that mark Apple's initial push into AI, the official release window is top of everyone's mind. Thanks to Bloomberg's Mark Gurman, we've got a better idea of when highly anticipated features like Genmoji, Image Playground, and more will roll out.
+
+You can expect the first sight of Apple Intelligence, other than for beta testers that is, to come with iOS 18.1's official launch sometime in mid-October.
+
+"We should be looking for the software upgrade by the middle of October," Gurman said in his PowerOn newsletter.
+
+Don't get too excited though, as several notable features won't arrive until iOS 18.2 or later, he added, echoing a previous report about the Apple Intelligence rollout timeline. iOS 18.2 should add ChatGPT integration and introduce Genmoji, which uses AI to generate emojis based on inputted text or based on someone from your Photos library, as well as Image Playground, Apple's answer to Google's Pixel Studio that lets you use AI to create images of yourself and others.
+
+Apple is currently working on getting iOS 18.2 "down to zero-bug status in early November," Gurman said. If history stands, that means a release window should be sometime in December. Another update could also come before the holidays with iOS 18.3, but it's expected to be a reality minor one, and it's unclear if any other Apple Intelligence features will be added with it, according to a recent MacRumors report.
+
+As for Apple's planned overhaul to its Siri virtual assistant, which promises to give users better contextual and personalized responses, don't expect that to be available until March with iOS 18.4, he added.
+
+Apple Intelligence features to expect with iOS 18.1
+
+You can already test out Apple's new suite of AI features in the iOS 18.1 public beta, so we have an idea of what to expect when the full release comes. Easily the most noteworthy is Clean Up, an AI photo editing tool called Clean Up that's essentially Apple's version of Google's Magic Eraser. It easily lets you touch up your images, removing distracting objects or photo-bombers, with a couple of taps right there in the image gallery.
+
+And while the promised overhauled Siri is still a ways off, Apple has upgraded its virtual assistant to improve its understanding of follow-up requests and when users trip over their tongues. Other new AI-powered features include notification summaries and suggested replies for Messages, Mail, and other apps; writing tools that can proofread drafts or rewrite them for specific audiences; article summaries when using Reader Mode in the Safari app; AI-generated phone call recordings and transcriptions; the option to type a description to create a Memories movie in the Photos app; and a new focus mode that automatically prioritizes only the most important or urgent notifications.
+
+Of course, you'll need one of the best iPhones like the iPhone 15 Pro, iPhone 15 Pro Max, or any of the latest iPhone 16 series to enjoy Apple Intelligence once it does begin to rollout.
+
+More from Tom's Guide
+

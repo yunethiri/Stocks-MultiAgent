@@ -1,0 +1,106 @@
+link: https://finance.yahoo.com/news/dillard-86-old-department-store-103000215.html
+
+source: finance.yahoo.com
+
+title: Dillard’s is an 86-year-old department store chain—and its stock has beaten Tesla, Apple, and Microsoft over the past four years. Here’s how they did it
+
+summary: 
+
+publishDate: 2024-12-11T10:30:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999823272228241
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/xS8GqYadCKAKTmlB49VTQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/fortune_175/7e2d4a63b2ca02760accaf9c1ce3ba12', 'https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e']
+
+content: For a seasoned department store shopper, a visit to a Dillard’s can feel like a trip back in time. The slightly harsh lighting and drab carpeting are straight out of the 1990s, and the not-especially-trendy clothing is stacked and hung on shelves, racks, and fixtures that wouldn’t have been out of place in the golden age of Sears.
+
+But a Dillard’s is also a throwback in a good way: The aisles aren’t overflowing with a noisy flock of 30%-off discount signs. Unlike at too many of its rivals, there aren’t mounds of unfolded, unattended sweaters on the floor. And above all, there are a lot of staff around—quick to help, speedy in tidying up after messier shoppers, and ensuring you aren’t waiting at a cash register for an eternity.
+
+Dillard’s isn’t a nationwide household name: It doesn’t operate stores on the West Coast or anywhere on the East Coast north of Virginia. But it’s a giant in the South and Southwest—and more important, it’s thriving in an era when department store retail has teetered on the edge of extinction. If its stores aren’t flashy, that’s the point, and its secret sauce. Dillard’s stores have struck the right balance between meeting shopper needs and avoiding clutter: They have enough inventory and enough variety in sizes and colors to project abundance, not chaos.
+
+This is how a family-owned and -run department store—a department store!—is thriving in the year of our Lord 2024. Focusing on basics like well-run stores and on merchandise customers want, and undistracted by the latest fads, Dillard’s has been able to take market share from rivals like Macy’s and Nordstrom. In early December, when activist investor Barington Capital went public with an effort to push Macy’s to change its business, it made a presentation to Macy’s shareholders that included a clear message: Be more like Dillard’s.
+
+“They’re not the most exciting of retailers, or innovative, and they’re old-fashioned,” says GlobalData managing director Neil Saunders. “But Dillard’s has never sacrificed investment in its stores.”
+
+For investors, backing Dillard’s hasn’t involved many sacrifices lately. Since January 2021, Dillard’s shares have risen 604%, compared with the S&P 500’s 57% increase, and they remain close to their all-time high. Over the same stretch, Macy’s shares are down 25%, Nordstrom down 34%, and Kohl’s down 62%. What’s more, Dillard’s has also outperformed Tesla, Microsoft, Apple, and just about every stock not named Nvidia over the past four years.
+
+In physical retail, of course, performance is relative. Like other department stores, Dillard’s is grappling with a consumer pullback on some discretionary spending, notably for apparel, and the continued drift of some shoppers to Amazon or the sites and stores of individual brands. Over the long term, the sector’s decline is incredibly striking: Department stores’ share of U.S. retail spending fell to 2.3% in 2023, down from 9.8% two decades earlier. In recent years, Belk and JCPenney have sought bankruptcy protection only to emerge as much smaller chains, while Lord & Taylor went out of business altogether, and Sears is a shadow of its former self.
+
+Story Continues
+
+In this beleaguered sector, though, treading water counts as a victory: In 2023, Dillard’s sales came in at $6.75 billion, a touch below the prior year; and so far this year its retail sales are down 3%. (Macy’s and Nordstrom, Dillard’s two biggest rivals, have both seen improvement in 2024 after several tough years.)
+
+More tellingly, Dillard’s sales and store count are roughly where they were a decade ago, whereas its rivals’ numbers have shrunk considerably. And Dillard’s has reported three consecutive years of well above average profits, with operating margins outpacing those of rivals. The company’s stellar recent returns show that investors have recognized the big gap between Dillard’s and its competition.
+
+How does Dillard’s do it? Its management and ownership aren’t exactly revealing their secrets. Both the company and the family that owns it are unusually press-shy. Indeed, Dillard’s is one of only 21 publicly traded companies in the Fortune 1000 that don’t hold quarterly earnings calls where they take questions from investors. (Dillard’s media relations executive did not respond to Fortune’s requests for comment or fact-checking questions for this article.)
+
+The hints Dillard’s leaders drop in earnings reports are anodyne: “We are the place where customers are far more motivated by fashion and newness than by price or promotional measures,” William Dillard II, the septuagenarian CEO of 26 years and son of the founder, wrote in a letter to shareholders in Dillard’s annual report earlier this year.
+
+Still, analysts and competitors who eagerly watch the company have noticed some patterns. Given the founding family’s tight control, Dillard’s hasn’t fallen under pressure from Wall Street to chase faster growth with waves of discounts that erode the stores’ cachet. (Like many of its rivals, Dillard’s operates some outlet stores; unlike many competitors, it only does clearance racks and big discounts at the outlets, not in its full-size stores.) The company’s strong use of inventory tech has also kept its profit margins high.
+
+“They do retail right,” says Burt Flickinger, a veteran analyst and cofounder of retail consultancy Strategic Resource Group. Dillard’s success shows that the department store format still has legs, and it just might offer a blueprint to its struggling peers.
+
+From small-town store to pioneer
+
+Dillard’s history goes back to pre–World War II, small-town Arkansas. Founder William Thomas Dillard borrowed money from his father in 1938 to open a clothing store in the hamlet of Nashville. The Great Depression’s effects were still pinching consumers, but Dillard had considerable experience to draw upon: He had earlier gone through a management training program at Sears and had an MBA from Columbia University.
+
+He sold that small first store 11 years later and then bought out his partners in a larger Texarkana department store in which he had also invested, with his eye on larger markets. He then quickly expanded that chain, the kernel of what is now Dillard’s, in Texas and the South, in much the same way that Nordstrom became the regional leader in the Northwest and Lord & Taylor in the Northeast. (The company’s headquarters are still in Arkansas, having moved to Little Rock in 1964.)
+
+Two factors helped Dillard’s emerge as the South’s dominant chain. The company was quicker than competitors to open stores in malls in the 1960s as suburbanization accelerated, while also being adept at choosing higher-quality malls that could ride out recessions. What’s more, William Dillard understood early how much technology could give him an edge, adopting systems that computerized checkout and tracked inventory before other department stores did. To this day, analysts say, Dillard’s has industry-leading inventory management software, enabling it to reduce the need to sell items at clearance and to more easily offer shoppers more new merchandise—a key reason for the recent surge in Dillard’s profitability. Another way he was innovative: In 1961, he launched Dillard Investment Co., making the company one of the first retailers to offer customers store credit cards.
+
+Although Dillard’s went public in 1969, it is still effectively run like a private company. It has long been a family affair: William Dillard II, the current CEO, would visit stores with his father as a preteen. Family members together own more than 81% of voting rights in the company. In addition to the founder’s direct offspring, three of his grandchildren are now Dillard’s executives. The tight-knit ownership has led to a secretive culture: The company does not even announce the date of its quarterly earnings reports via press release until the evening before.
+
+Dillard's CEO Bill Dillard II talks with the media in Dillard's at Penn Square Mall Friday, May 8, 2020, in Oklahoma City, the fourth day the store has been open since temporarily closing due to coronavirus concerns. (AP Photo/Sue Ogrocki)
+
+Other than local news reports of Dillard family members’ participation in philanthropy, the family stays out of the news and certainly never seeks press, earning them the moniker of “the Dullards” in Arkansas.
+
+At the same time, tight family ownership of voting shares has shielded it from outside pressure to pursue ill-advised strategies (much as fellow Arkansas retailer Walmart has been buffered by the sizable Walton family stake in that company). While Macy’s has repeatedly had to face down activist investors trying to make it sell off its stores, the Dillards have been left in peace, in full command of their family enterprise.
+
+Family control also enabled the company to keep its focus on the South, without shareholder pressure to go national. That kind of pressure has sometimes led their competitors down expensive cul-de-sacs: Macy’s, for example, tried opening a separate chain of T.J. Maxx–like discount stores called Backstage (those stores are now housed within Macy’s regular locations rather than being stand-alone); while Nordstrom face-planted with a Canadian expansion it later dropped. Dillard’s, meanwhile, has stuck to its core business and done well.
+
+Family affair
+
+Dillard’s strong performance comes despite factors that theoretically could have led it astray. For one thing, the Dillard’s C-suite includes five family members, all but one in their seventies. (The Dillard’s board is similarly made up of older people who’ve been there for eons, with six of 15 directors being members of the Dillard family.) That’s often a recipe for insularity, potentially leading to management and a board that are nonresponsive to changes in the market. Dillard’s counters that theory in its 2024 annual report: There, the company says that the fact that its ranks of senior executives are thinner than at other retailers puts “executive management closer in the chain of command” to store associates, making it nimbler.
+
+That the Dillard family prefers to focus on the core business and not chase growth fads could stem from a close call with a cash crunch a generation ago. In a bid to expand, Dillard’s in 1998 paid $2.9 billion to buy the 100-location Mercantile Stores chain—its biggest acquisition ever. That deal brought its store count to an all-time high of 342 locations, and revenue to its apex of $8.5 billion in 1999.
+
+But the debt from that deal proved crushing, with the interest expense diverting investment away from stores. Dillard’s briefly fell into the discounting trap. And by 2003, some Wall Street analysts began speaking of a restructuring or the possibility that Dillard’s would need to put itself up for sale.
+
+The Mercantile acquisition had made sense at the time, given that it came during a period of department store consolidation, when the ethos was buy or be bought, or miss out on the land grab. In 2005, Macy’s parent company bought May Department Stores for $17 billion. That deal led to a backlash from customers angry over their stores being rebranded Macy’s (Chicagoans who loved Marshall Field’s, to name but one example, took years to accept Macy’s). It also left the chain with too many stores, part of why Macy’s is still closing locations two decades later.
+
+Dillard’s eventually recovered from that big acquisition, but it never attempted another and has kept debt to a minimum since. It closed a few stores a year for a stretch in the 2000s, and eventually the fleet went back to its earlier size, as did top-line revenue. Today, Dillard’s store count is roughly where it was in 2004, while Macy’s is undertaking yet another round of closings, this one involving 150 of its stores in the next three years.
+
+Moving upscale
+
+Dillard’s relatively strong performance over the past few years has helped it snag choice merchandise from suppliers. “Vendors know that Dillard’s pays on time and in full, so they are willing to advance Dillard’s more inventory,” says SRG’s Flickinger.
+
+That in turn has helped Dillard’s tap into a white space in the market. “Dillard’s has worked to move its product offering more upscale, focusing on the market opportunity between Macy’s and Nordstrom,” JPMorgan analyst Matt Boss wrote in a recent research note. And that is a reason Nike started selling its goods in Dillard’s again in 2023, three years after the sportswear company ill-advisedly dropped its Dillard’s accounts as part of its campaign to sell more at its own online and physical stores.
+
+The upshot: While Dillard’s stores may seem staid, the brands they sell can skew fancy. Dillard carries rising brands like activewear apparel company Rhone, upscale clothiers Hickey Freeman, Boss, Armani Exchange, luggage-maker Tumi, and suit-maker Hart Schaffner Marx, alongside home-goods brands like Southern Living.
+
+Dillard’s also does well with its in-house store brands, which generate 23.6% of sales, compared with 15% at Macy’s and 10% at Nordstrom, according to Bloomberg Intelligence. Store brands offer higher profit margins, so when they catch on with consumers, as they have at chains like Dillard’s and Target, they offer a retailer stronger results. “Dillard’s higher quality and distinctive designs likely explain its relative outperformance,” posits Bloomberg Intelligence.
+
+Avoiding a doom loop
+
+Many retailers have found themselves in a bit of a customer-service doom loop. As sales decline, they cut back on employee expenses to protect margins, compromising customer-service levels, which in turn makes shoppers less likely to return, hurting sales and so on.
+
+But Dillard’s 29,600 employees literally have skin in the game: Collectively, they own some 30% of the company’s nonvoting shares, a fairly rare phenomenon in retail. (The company regularly pays substantial special dividends to all its shareholders.) Bloomberg Intelligence said in a recent note that the “culture of employee ownership” is one of its biggest competitive advantages. And that has helped it maintain a high level of presentation, including relying on visual merchandisers who put together appealing vignettes that make Dillard’s stores more welcoming.
+
+However much the aging Dillard clan is unmistakably in control, the company has a strong talent development culture and a team that understands how a department store can carve a place for itself among shoppers. “They are the last great combination of family and professional management,” says Flickinger, the retail analyst.
+
+Such talent also helps Dillard’s remain connected to the broader culture. Dillard’s has collaborated with influencers and other celebrities to promote products from its store labels—enlisting popular stylist Mary Glenn McElveen, for example, to work with its women’s clothing and footwear brand Antonio Melani.
+
+ATLANTA, GEORGIA - DECEMBER 05: Princess Banton-Lofters attends as she hosts High-Low Fashion Show at Dillard's at Atlantic Station on December 05, 2023 in Atlanta, Georgia. (Photo by Derek White/Getty Images)
+
+Dillard’s still has some weaknesses—though none seems too big to manage. Its e-commerce is still a relatively small percentage of sales compared with rivals, at 30%. Dillard’s remains a mall-based retailer at a time malls, even good ones, are not out of the woods. (When other retailers and sellers flee a mall, overall visits by shoppers tend to drop, hurting even the stronger tenants.) And its C-suite and board, dominated by octogenarians, won’t be around forever, creating the potential for stumbles during leadership transitions. (William Dillard III, a grandson of the founder and a senior vice president, is a mere baby, in his early fifties, and is rising up the ranks.)
+
+Dillard’s remains a black box, a most opaque publicly traded retailer. But it has survived the department store meltdown by concentrating on what it does best. And that is clearly its best way forward long term while continuing to offer investors outsize returns.
+
+“This is their store, this is their business, and they run it on their terms,” says GlobalData’s Saunders. “Their attitude is, ‘We’re running this business, and if you want to invest in it, fine. If not, that’s also fine.’”
+
+This story was originally featured on Fortune.com
+

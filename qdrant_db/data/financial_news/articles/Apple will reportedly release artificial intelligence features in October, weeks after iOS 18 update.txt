@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/07/29/apple-intelligence-ai-to-release-in-october-report-.html
+
+source: www.cnbc.com
+
+title: Apple will reportedly release artificial intelligence features in October, weeks after iOS 18 update
+
+summary: The company split the Apple Intelligence features from the initial iOS 18 launch due to concerns over their stability, a Bloomberg report said.
+
+publishDate: 2024-07-29T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999991655349731
+
+images: ['https://image.cnbcfm.com/api/v1/image/107426822-1718044523927-Screenshot_2024-06-10_at_23454_PM.png?v=1718044624&w=1920&h=1080', 'https://image.cnbcfm.com/api/v1/image/107426771-17180432241718043222-34899079765-1080pnbcnews.jpg?v=1718043224&w=750&h=422&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/107432932-1719328257748-IMG_1737.jpg?v=1719328300&w=60&h=60&ffmt=webp']
+
+content: Apple 's new artificial intelligence features will roll out in October, missing the initial launch of iPhone and iPad software updates, according to a Bloomberg report released on Monday.
+
+The company split the Apple Intelligence features from the initial iOS launch due to concerns over their stability and need to run tests on a wider scale, the report said.
+
+Apple previously said its AI features would be released in a beta version this fall, and they're expected to help drive sales of Apple's new iPhones. The features will only work on iPhone 15 Pro models and newer. Some of the promised Apple Intelligence features, such as ChatGPT integration and Siri improvements, are expected to be released later in the year.
+
+Apple plans to give developers early access to Apple Intelligence as soon as this week in the iOS 18.1 beta, Bloomberg said.
+
+The company first announced Apple Intelligence on June 10. The AI features, which will also be available on all Macs and iPads that run the M1 chip or newer, can proofread writing or re-write in a friendly or professional tone, create custom emojis, and summarize and transcribe phone calls.
+
+Apple did not immediately respond to a request for comment.
+
+Read more on Bloomberg.
+

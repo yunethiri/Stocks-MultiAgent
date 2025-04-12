@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/apple-intelligence-launches-week-090000849.html
+
+source: finance.yahoo.com
+
+title: Apple Intelligence launches this week. How to get it, and what you can do with it
+
+summary: 
+
+publishDate: 2024-10-26T09:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998186230659485
+
+images: ['https://s.yimg.com/ny/api/res/1.2/6__ruWIEWBVEMkrOjzK3Jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fastcompany_735/e24472e18e652ec65ebe96d0f2dec871', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/8cHHXbD8wVcklANLPHq82w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMwMDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2024-08/13434730-66fd-11ef-8fab-6ea5cc9e473a']
+
+content: After months of anticipation, Apple’s official foray into the world of artificial intelligence launches this week. That’s when the company will roll out its Apple Intelligence AI platform to eligible devices. Apple isn’t being shy about how profound of an event this will be for the company and its future. In an interview with The Wall Street Journal, Apple CEO Tim Cook said that Apple Intelligence would make the experience of using Apple products “profoundly different” and likened Apple’s AI technology to the iPhone’s touch interface and the iPod’s click wheel in terms of innovation and importance.
+
+Most Read from Fast Company
+
+
+
+That’s a high bar—and possibly a problematic one. That’s because the Apple Intelligence that gets rolled out this week won’t be a finished product but rather a work in progress. All of the Apple Intelligence features the company previewed in June won’t be coming to your iPhone or other devices just yet. So, what features are coming this week? Here’s what you need to know.
+
+Apple Intelligence features on launch day
+
+When Apple Intelligence launches this week, it will include a swath of new AI features baked into the iPhone’s operating system—iOS 18.1 (Apple Intelligence is also coming to supported iPads and Macs this week). These features can be broken down into four main categories, according to the release notes (published by 9to5Mac). They are:
+
+Writing tools: Apple Intelligence will allow you to use AI to proofread, rewrite, and summarize text nearly everywhere you can type words in iOS—emails, messages, documents, and more. The proofreading function includes Grammarly-like features that allow you to choose better words and fix grammatical mistakes; rewriting abilities let you make your text sound more friendly, concise, or professional; and “summarizing” means that Apple Intelligence can read your text and generate a summary of the most salient points.
+
+Photos: The most visually eye-catching feature of the Apple Intelligence launch will be the ability to quickly erase unwanted objects from photos. For example, you can tap on a street sign to delete it from that beautiful city sunset shot you took. Another cool feature is the ability to find photos and videos simply by describing what is in them, such as “black cat near cauldron.”
+
+Siri: The iPhone’s digital assistant is a big beneficiary of the Apple Intelligence launch. Siri gets a revamped look—the borders of your iPhone’s screen glow when Siri is engaged—along with a more natural voice and the ability to understand requests in the context of previous requests.
+
+Notifications: Perhaps the biggest productivity benefit included in the Apple Intelligence launch is the ability for Apple Intelligence to summarize notifications from multiple apps, showing you the most important information you need to act on.
+
+Story Continues
+

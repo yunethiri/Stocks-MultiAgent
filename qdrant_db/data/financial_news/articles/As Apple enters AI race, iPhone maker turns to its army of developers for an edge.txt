@@ -1,0 +1,42 @@
+link: https://www.cnbc.com/2024/10/04/apple-is-turning-to-its-army-of-developers-for-an-edge-in-the-ai-race.html
+
+source: www.cnbc.com
+
+title: As Apple enters AI race, iPhone maker turns to its army of developers for an edge
+
+summary: As Apple prepares Apple Intelligence to jump into tech's AI race, it's relying on one of its strongest advantages: Its army of 34 million app developers.
+
+publishDate: 2024-10-04T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999231100082397
+
+images: ['https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/108037013-1726832883613-gettyimages-2172320297-AA_20092024_1866014.jpeg?v=1726833239&w=1920&h=1080', 'https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp']
+
+content: A view of Apple's new iPhone 16 at an Apple Store on the Regent Street in London, United Kingdom on September 20, 2024.
+
+As Apple prepares Apple Intelligence to jump into Silicon Valley's AI race, it's relying on one of its strongest advantages: Its army of 34 million app developers.
+
+IPhone users will get their first taste of Apple Intelligence, the company's artificial intelligence system, later this month. The company is relying on Apple Intelligence to be the strongest selling point for the iPhone 16, its latest generation of smartphones.
+
+Apple's AI isn't as advanced as the state of the art coming out of the most advanced labs, such as rivals like OpenAI's ChatGPT, Google's Gemini and Meta's Llama. Apple isn't using the biggest models, nor can it pull off some of the more show-stopping tricks of the bleeding-edge voice models — OpenAI's latest can sing, for example.
+
+Where Apple is hoping to distinguish its AI is that Siri may actually be able to do things on your phone — send emails, decipher calendars and take and edit photos. That's something other company's AI chatbots cannot currently do, and to accomplish this, Apple is beckoning its army of third-party developers to fine tune their apps to collaborate with Apple Intelligence. Eventually, Siri may be able to trigger any action in an app that a user can take, part of the company's long term vision for Siri, Apple said in June.
+
+"Siri will have the ability to take hundreds of new actions in and across apps," said Apple's Kelsey Peterson, director of machine learning, in the Apple Intelligence launch video.
+
+Apple can easily make this happen for its own apps, but for Apple Intelligence to interact with the millions of non-Apple apps, it needs developers to embrace a new way of programming their apps. This means developers will need to create as many as hundreds of snippets of additional code called App Intents.
+
+Apple has a strong history of getting its developers to support new platform initiatives, and it's running a well-worn playbook to get them on board — personal attention from developer relations, a party-like atmosphere at the company's annual developer's conference and most importantly, it dangles App Store promotion that can lead to millions of downloads for developers who get on board.
+
+If third-party developers jump on board and the Siri system works as advertised, it could represent one of Apple's biggest and most durable advantages in the AI race.
+
+"You should be able to string things together and kind of get that future we've all been envisioning where you can use Siri conversationally, to do a bunch of things at once," said Jordan Morgan, an iOS developer who's written a tutorial about App Intents.
+
+Whether Apple is successful at cajoling its millions of developers is a critical question, and the stakes are high for the company.
+
+The company is relying on Apple Intelligence, which only works on last year's iPhone 15 Pro or iPhone 16 models that came out this year, to spur a wave of upgrades and boost flat iPhone sales. If Apple's improved Siri is poorly supported by developers or it fails to impress, it could cool iPhone sales, and customers could wind up choosing to use a rival's voice assistant through an app instead of the built-in Siri.
+

@@ -1,0 +1,28 @@
+link: https://www.reuters.com/world/europe/ireland-unveil-bumper-pre-election-budget-apple-windfall-plans-2024-09-30/
+
+source: www.reuters.com
+
+title: Ireland to unveil bumper pre-election budget, Apple windfall plans
+
+summary: Ireland will hand voters billions of euros of tax cuts and spending increases and outline plans to use a whopping Apple back tax windfall to improve the country's creaking infrastructure in Tuesday's bumper pre-election budget.
+
+publishDate: 2024-09-30T23:07:23.934Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9888718724250793
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Ireland will hand voters billions of euros of tax cuts and spending increases and outline plans to use a whopping Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> back tax windfall to improve the country's creaking infrastructure in Tuesday's bumper pre-election budget.
+Prime Minister Simon Harris must call an election by March but most analysts see November as the most likely date, when voters will start to benefit from the latest budget splurge resulting from Europe's healthiest set of public finances.
+A surge in corporate tax revenues mainly paid by a handful of large U.S. multinationals has handed Ireland one of Europe's few budget surpluses, with the added 14 billion euros ($15.62 billion) of Apple back taxes set to push it to <a href="/markets/europe/irish-budget-surplus-surge-8-national-income-after-apple-windfall-2024-09-27/">8% of national income</a> this year.
+The government has pledged to use the proceeds of the <a href="/technology/why-does-apple-have-pay-ireland-144-billion-2024-09-10/">EU Apple court order</a> on longer term water, energy and housing projects but will still <a href="/world/europe/ireland-break-spending-rule-again-pre-election-budget-2024-07-09/">break</a> its own budget rule that caps spending growth for the third successive year by increasing day-to-day spending by at least 6.9% or almost 7 billion euros.
+Some EU countries are contemplating spending cuts and tax hikes, but new Irish Finance Minister Jack Chambers has said the average worker will be 1,000 euros better off from the planned income tax cuts and rises in welfare rates, while also stashing money away in a new <a href="/markets/wealth/why-is-ireland-launching-sovereign-wealth-fund-2023-10-10/">sovereign wealth fund</a>.
+Ministers will again include an added package of "one-off" financial supports to help households with the cost of living, even though inflation has fallen to almost zero from 5% a year ago and 9% the year before that.
+Ireland has <a href="/markets/europe/flush-with-multinational-money-ireland-struggles-close-infrastructure-gap-2024-09-27/">struggled</a> to keep up with the demands of a fast-growing economy and population and make real progress with intractable problems in housing, transport and healthcare despite sharp capital spending increases.
+Analysts welcome the commitment to using the windfall gains on persistent deficits in crucial infrastructure, but they say the government needs to get reforms right in areas like planning to really capitalise on its exceptional fiscal position.
+($1 = 0.8961 euros)
+

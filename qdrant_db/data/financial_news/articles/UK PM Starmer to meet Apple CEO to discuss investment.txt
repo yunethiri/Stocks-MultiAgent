@@ -1,0 +1,25 @@
+link: https://www.reuters.com/technology/uk-pm-starmer-meet-apple-ceo-discuss-investment-2024-12-11/
+
+source: www.reuters.com
+
+title: UK PM Starmer to meet Apple CEO to discuss investment
+
+summary: British Prime Minister Keir Starmer will meet Apple chief executive Tim Cook on Wednesday afternoon to discuss the company's ongoing investment in the country, the prime minister's spokesperson said.
+
+publishDate: 2024-12-11T13:47:25.815Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999383687973022
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: British Prime Minister Keir Starmer will meet Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> chief executive Tim Cook on Wednesday afternoon to discuss the company's ongoing investment in the country, the prime minister's spokesperson said.
+Starmer and Cook are expected to discuss Apple's investment in Britain, where the company has pumped in 18 billion pounds ($23 billion) over the last five years, the spokesperson told reporters.
+"They are obviously a big investor," the spokesperson said. "Boosting investment into technology is a key priority for the prime minister."
+Cook is due to meet Britain's King Charles on Thursday when the pair will tour the company's UK headquarters in Battersea, south London.
+Apple said in a release that its engineering teams in Britain have doubled over the past five years and the company supports about 550,000 jobs. It said its investments in the UK include Apple TV+ production, support for key technologies in Apple Intelligence and Private Cloud Compute.
+($1 = 0.7847 pounds)
+

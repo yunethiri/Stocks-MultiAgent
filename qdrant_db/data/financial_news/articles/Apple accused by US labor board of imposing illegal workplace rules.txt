@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/apple-accused-by-us-labor-board-imposing-illegal-workplace-rules-2024-10-01/
+
+source: www.reuters.com
+
+title: Apple accused by US labor board of imposing illegal workplace rules
+
+summary: A U.S. labor board issued a complaint accusing Apple of violating employees' rights to organize and advocate for better working conditions by maintaining a series of unlawful workplace rules.
+
+publishDate: 2024-10-01T14:59:26.208Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9768885970115662
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2Fbdb4e34b-8122-4c57-94e1-851c4d54423b.png?auth=e9fd4da339d04509e13b898f3a4e57601fe8605efd9268698ccdefcbfc52a34c&width=120&height=63&smart=true']
+
+content: A U.S. labor board issued a complaint accusing Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> of violating employees' rights to organize and advocate for better working conditions by maintaining a series of unlawful workplace rules.
+The National Labor Relations Board in the complaint announced late on Monday claims Apple required employees nationwide to sign illegal confidentiality, non-disclosure, and non-compete agreements and imposed overly broad misconduct and social media policies.
+The complaint accuses Apple of "interfering with, restraining, and coercing employees in the exercise of" their rights under federal labor law.
+Apple did not immediately respond to a request for comment.
+If Apple does not settle the claims, the case will be heard by an administrative judge beginning in January. The agency is seeking to require Apple to rescind the allegedly unlawful rules and notify its entire U.S. workforce of their legal rights.
+Administrative judges' decisions can be reviewed by the five-member labor board, whose rulings can be appealed to federal appeals courts.
+The complaint stems from <a href="/technology/us-national-labor-relations-board-investigating-two-complaints-apple-workers-2021-09-02/">charges filed against Apple</a> in 2021 by Ashley Gjovik, a former senior engineering manager at the company. Gjovik said various Apple rules, including those relating to confidentiality and social media use, <a href="/technology/apple-workplace-rules-violate-us-labor-law-agency-finds-2023-01-31/">deter employees from discussing issues</a> such as pay equity and sex discrimination with each other and the media.
+Gjovik also filed a lawsuit in California federal court in May accusing Apple of illegally retaliating against her for filing the NLRB complaints and attempting to organize other workers. Apple has denied wrongdoing and has moved to dismiss the case.
+The company is facing at least two other pending NLRB cases claiming it fired an employee at its Cupertino, California headquarters for criticizing managers and illegally interfered with a union campaign at a retail store in Atlanta. The company has denied wrongdoing.
+The NLRB in May ruled that the manager of an Apple store in Manhattan <a href="/world/us/apple-interrogation-nyc-worker-about-union-drive-was-illegal-us-labor-board-2024-05-07/">unlawfully interrogated an employee</a> about his support for a union. Two Apple stores in the U.S. <a href="/markets/us/apple-workers-vote-unionizing-second-us-store-2022-10-15/">have unionized since 2022</a>, and unions are working to organize several other locations.
+

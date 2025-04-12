@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/08/03/warren-buffetts-berkshire-hathaway-sold-nearly-half-its-stake-in-apple.html
+
+source: www.cnbc.com
+
+title: Warren Buffett's Berkshire Hathaway sold nearly half its stake in Apple
+
+summary: Berkshire Hathaway disclosed a $84.2 billion bet in Apple at the end of the second quarter,  indicating that Warren Buffett offloaded 49.4% of the tech bet.
+
+publishDate: 2024-08-03T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999489784240723
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/107133546-1673385901966-IMG_0124_2.jpg?v=1673385916&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Warren Buffett's Berkshire Hathaway dumped nearly half of its gigantic Apple stake last quarter in a surprising move for the famously long-term-focused investor.
+
+The Omaha-based conglomerate disclosed in its earnings filing that its holding in the iPhone maker was valued at $84.2 billion at the end of the second quarter, suggesting that the Oracle of Omaha offloaded a little more than 49% of the tech stake. Even after the selling Apple remains the largest stock stake by far for Berkshire.
+
+Buffett trimmed the Apple stake by 13% in the first quarter and hinted at the Berkshire annual meeting in May that it was for tax reasons. Buffett noted that selling "a little Apple" this year would benefit Berkshire shareholders in the long run if the tax on capital gains is raised down the road by a U.S. government wanting to plug a climbing fiscal deficit.
+
+But the magnitude of this selling suggests it could be more than just a tax-saving move.
+
+After declining in the first quarter on concerns it was falling behind on artificial intelligence innovation, Apple shares took off in the second quarter, gaining 23% to a new record as it gave more detail to investors about its future in artificial intelligence.
+
+It won't be clear exactly why Buffett is selling down the holding Berkshire first bought more than eight years ago, whether company reasons, market valuation or because of portfolio management concerns (Buffett typically doesn't want a single holding to grow too large). Berkshire's Apple holding was once so big that it took up half of its equity portfolio.
+

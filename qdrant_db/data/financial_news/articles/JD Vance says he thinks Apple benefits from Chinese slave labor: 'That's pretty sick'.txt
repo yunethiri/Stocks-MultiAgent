@@ -1,0 +1,40 @@
+link: https://www.cnbc.com/2024/09/12/jd-vance-says-he-thinks-apple-benefits-from-chinese-slave-labor.html
+
+source: www.cnbc.com
+
+title: JD Vance says he thinks Apple benefits from Chinese slave labor: 'That's pretty sick'
+
+summary: Republican vice presidential nominee JD Vance said he thinks Apple sometimes benefits "from chinese slave labor."
+
+publishDate: 2024-09-12T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9998733997344971
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://image.cnbcfm.com/api/v1/image/107134095-1665676148728-2022_Headshots-0474.jpg?v=1665676160&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg']
+
+content: Republican vice presidential nominee Sen. JD Vance on Thursday took a shot at Apple on CNBC's "Squawk Box," saying he thinks the company benefits from "slave labor" in China. His comment was part of a broader conversation about taxing companies that rely on manufacturing in China.
+
+"Do I think Apple is an evil company? No. Do I think that sometimes they benefit from Chinese slave labor? Yeah, and that's pretty sick," said Vance, of Ohio. "I think that a company that wants to benefit from American markets should also have to pay American workers a fair wage." Apple raised the starting wage for retail employees in May 2022 to $22 an hour.
+
+Apple has previously said that it has found no evidence of forced labor anywhere it operates. The company had been asked by the former chairs of the Congressional-Executive Commission on China in 2021 to engage with U.S. Customs and Border Protection to ensure its supply chain is free of forced labor.
+
+Apple did not immediately respond to CNBC's request for comment.
+
+The iPhone maker partners with manufacturers that build its devices overseas. Apple has historically relied on China for its production. As relations between the U.S. and China have become strained, it has worked to diversify its supply chain by expanding manufacturing to countries such as Vietnam and India.
+
+For example, Apple produced $14 billion worth of iPhones in India over the last fiscal year.
+
+Vance also said Thursday that he wants to raise tariffs on companies "shipping jobs overseas." Former President Donald Trump has threatened additional tariffs of 60% to 100% on goods from China and blanket tariffs of 10% to 20% on imported goods.
+
+Vance expressed support for Federal Trade Commission Chair Lina Khan's antitrust crackdown and stricter rules on mergers.
+
+"When you have companies like Facebook and Google censoring American citizens, making it harder for Americans to speak in their own political process, that is a major problem," Vance said. "And yeah, I do think that there should be an antitrust solution to it."
+
+Meta and Google did not immediately respond to CNBC's requests for comment.
+
+On Thursday, Vance will headline two fundraisers in New York City hosted by some of his top supporters in the financial industry. Each event is expected to raise more than $1 million for Trump's presidential campaign.
+

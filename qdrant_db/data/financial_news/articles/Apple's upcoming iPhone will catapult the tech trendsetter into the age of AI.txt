@@ -1,0 +1,38 @@
+link: https://finance.yahoo.com/news/apples-upcoming-iphone-catapult-tech-003424081.html
+
+source: finance.yahoo.com
+
+title: Apple's upcoming iPhone will catapult the tech trendsetter into the age of AI
+
+summary: 
+
+publishDate: 2024-09-07T00:34:24.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9564247131347656
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300100&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapples-upcoming-iphone-catapult-tech-003424081.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/xKHCQHMfUw.ZP5aQVVqvZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/5b163058a195ceb1437b7326a87a94b1']
+
+content: Apple's ubiquitous iPhone is about to break new ground with a shift into artificial intelligence that will do everything from smartening up its frequently dim-witted assistant Siri to creating customized emojis on the fly.
+
+The new era will dawn Monday with the unveiling of the hotly anticipated iPhone 16 in a Cupertino, California, auditorium named after Apple co-founder Steve Jobs, who pulled out the first iPhone in 2007 and waved it like a magic wand while predicting it would reshape society.
+
+Apple has sold billions of iPhones since then, helping to create about $3 trillion in shareholder wealth. But in the past decade, there have been mostly minor upgrades from one model to the next — a factor that has caused people to hold off on buying a new iPhone and led to a recent slump in sales of Apple's marquee product.
+
+The iPhone 16 is generating a bigger buzz because it is the first model to be tailored specifically for AI, a technology that is expected to trigger the biggest revolution in the industry since Jobs thrust Apple into the smartphone market 17 years ago.
+
+The advances included in the iPhone 16 could set up Apple to be “the gatekeeper of the consumer AI revolution,” Wedbush Securities analyst Dan Ives wrote in a research note.
+
+Apple's pivot began three months ago with a preview of its new approach during a developers conference, helping to build anticipation for Monday's showcase.
+
+Since that June conference, competitors such as Samsung and Google have made even more strides in AI. Google even took the unusual step of introducing its latest Pixel phones packed with their own AI magic last month instead of hewing to its traditional October timetable in an effort to upstage Apple's release of the iPhone 16.
+
+In an attempt to set itself apart from the early leaders in AI, the technology being baked into the iPhone 16 is being promoted as “Apple Intelligence.” Even so, Apple Intelligence is similar to the generically named AI already available on Google's Pixel 9 and the Samsung Galaxy S24 released in January.
+
+Most of Apple's AI tasks will be performed on the iPhone itself instead of remote data centers — a distinction that requires a special processor within the forthcoming models and the high-end iPhone 15s that came out a year ago.
+
+That's why investors anticipate hot demand for the iPhone 16, spurring a surge in sales that has caused Apple's stock price to climb by 13% since Apple previewed its AI strategy in June. That spike has increased the company's market value by nearly $400 billion.
+

@@ -1,0 +1,50 @@
+link: https://www.yahoo.com/tech/future-apple-watch-models-could-100000340.html
+
+source: www.yahoo.com
+
+title: Future Apple Watch models could ditch the battery and get power from a surprising source
+
+summary: 
+
+publishDate: 2024-11-11T10:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9992221593856812
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Ffuture-apple-watch-models-could-100000340.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/YbKUly7ultjArWGkgtBxjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/t3_620/cba9c4c07ae1e1c181b459cd40a47a3c', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif']
+
+content: Future Apple Watch models could ditch the battery and get power from a surprising source
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Matt Kollat/T3
+
+Quick Summary
+
+US researchers have successfully used Power-over-Skin technology to power small wearable devices.
+
+Instead of a battery they receive energy transmitted via your skin, so could be transformative for future smartwatches – like the Apple Watch.
+
+The big challenge with wearable devices is how to power them. While battery technology in the likes of the Apple Watch and AirPods has improved enormously in recent years, it's still something of an Achilles heel for our devices.
+
+However, a new innovation in the area could improve things – by taking the batteries out of smaller wearables altogether.
+
+Called Power-over-Skin, the tech, as you've no doubt gathered from the name, uses your skin as a crucial component in the device ecosystem. Instead of having batteries in individual wearables, you have one single power source that uses your skin as a giant wireless power pack.
+
+Will your skin power up your AirPods or Apple Watch?
+
+It's not yet ready to work on the likes of Apple's earbuds or Watch, but the technology, as outlined in a research paper from Carnegie Mellon University and reported by Techradar , is promising.
+
+It's based on the discovery that human skin is an effective transmitter of energy at 40MHz, and so far the researchers have used it with an LED earring, a calculator, and a Bluetooth ring.
+
+We're not talking huge amounts of energy here – microwatts rather than watts – so you can forget about charging a MacBook Pro with skin power unless you fancy plugging yourself into the mains. The transmission power also drops dramatically with distance, so the source would have to be fairly close to the device(s) being powered.
+
+Although it doesn't require direct skin-to-skin contact for the transmitter, so you could keep that in your pocket or, if small enough, hanging around your neck.
+
+It'll be a while before we see skin-powered AirPods, if at all. But, in the shorter term the tech has some interesting applications for smart health monitoring.
+
+For example, the researchers describe a skin-powered health patch that could potentially stay on its wearer forever. And, if it could be included in a smart ring , that could seriously reduce the need for a thick casing, one of the visible drawbacks of devices such as the Samsung Galaxy Ring.
+

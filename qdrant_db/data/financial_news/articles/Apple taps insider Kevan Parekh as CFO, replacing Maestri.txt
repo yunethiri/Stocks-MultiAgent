@@ -1,0 +1,48 @@
+link: https://finance.yahoo.com/news/apple-finance-chief-luca-maestri-203812622.html
+
+source: finance.yahoo.com
+
+title: Apple taps insider Kevan Parekh as CFO, replacing Maestri
+
+summary: 
+
+publishDate: 2024-08-26T20:38:12.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999793767929077
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/reuters-finance.com/95295852ad01b3c9161f0c8ad1f80858', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapple-finance-chief-luca-maestri-203812622.html&c14=-1']
+
+content: (Reuters) -Tech giant Apple on Monday named insider Kevan Parekh as its chief financial officer, replacing company veteran Luca Maestri who will transition from the role on Jan. 1, 2025.
+
+The leadership change comes ahead of Apple's multiple product launch this fall season, which analysts have called the biggest software upgrade for the iPhone.
+
+It includes artificial intelligence features, which are crucial for Apple as it looks to reverse a slowdown in global sales, particularly in China, and better compete with rivals who have rolled out AI upgrades.
+
+Parekh, who has been with Apple for more than a decade and will join the company's executive committee, most recently served as vice president of financial planning and analysis.
+
+"It appears that the transition to the new CFO is planned and orderly, which is the most important question. Maestri staying on with Apple is also very important, as it removes the risk of financial questions," D.A. Davidson analyst Gil Luria said.
+
+"(Parekh) will need to continue the prudent capital management, but may also be tasked with restarting Apple's exploration of complimentary acquisitions."
+
+Before Apple, Parekh held senior leadership roles at Thomson Reuters and General Motors.
+
+Apple said Maestri will continue to lead the corporate services teams, including information systems and technology, information security and real estate and development, reporting to CEO Tim Cook.
+
+During Maestri's tenure, Apple more than doubled its revenue, with services revenue growing more than five times.
+
+"Apple filling the role with an internal candidate should make the transition a bit smoother... any change of this magnitude does create some level of uncertainty, especially given the consistency and the history of execution from Maestri," Piper Sandler analysts said in a note.
+
+Earlier this month, Apple said its third-quarter iPhone sales were better than expected and forecast more gains as it bets on artificial intelligence to attract buyers, even as its overall China business disappointed.
+
+In recent years, iPhone sales have slowed due to a lack of significant upgrades in newer models and competition from Android-based smartphone brands offering high-end specifications at lower prices.
+
+At its developers conference in June, Apple announced a slew of AI features under the umbrella "Apple Intelligence", including a revamped Siri and an integration with ChatGPT.
+
+The iPhone maker's shares were last down nearly 1% in extended trading.
+
+(Reporting by Manya Saini and Zaheer Kachwala in Bengaluru; Editing by Arun Koyyur)
+

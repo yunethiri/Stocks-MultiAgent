@@ -1,0 +1,40 @@
+link: https://www.yahoo.com/tech/apple-intelligence-around-corner-few-134000783.html
+
+source: www.yahoo.com
+
+title: Apple Intelligence is right around the corner, with a few absent perks
+
+summary: 
+
+publishDate: 2024-10-06T13:40:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999175071716309
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-intelligence-around-corner-few-134000783.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: Back in September. Apple announced that its suite of next-gen AI features would make their way to supported hardware in October. Today, Bloomberg reports that rollout of those AI features – clubbed under the Apple Intelligence banner – will begin on October 28.
+
+The AI toolkit will arrive with the iOS 18.1 update for the iPhone 15 Pro pair, the entire iPhone 16 series, and iPads with M1 (or newer) silicon in the series. Unfortunately, this is not the full Apple Intelligence package that the company announced a while ago.
+
+On the contrary, it’s just a phased rollout, which means we are only getting a few of those tricks. Among them are Writing Tools, a suite of AI-driven features that perform tasks like summarization, proofreading, and style adjustment, to name a few.
+
+Nadeem Sarwar / Digital Trends
+
+Writing tools will be available in a majority of Apple products, such as Notes, Mail, and Pages, followed by third-party apps. The Notes and Phone apps are also getting an automatic transcription and summarization convenience.
+
+The update will also add a new Reduce Interruptions mode that intelligently silences the barrage of notifications and only allows the important alerts to pass through. On a similar note, we have notification summaries, which seem to be working just fine during the beta testing phase.
+
+As far as the meatier feature updates, such as the ChatGPT integration, goes, they will only be here with the iOS 18.2 update at a later date. Moreover, Siri’s ability to cross-talk with external apps and access their data for more effective voice-based control will reportedly be ready with the iOS 18.4 build that arrives next year.
+
+Nadeem Sarwar / Digital Trends
+
+“I’m told that Apple is taking its time with the rollout to ensure that major bugs are eliminated and it can support all the new traffic on its AI cloud servers,” writes Bloomberg’s Mark Gurman.
+
+It seems Apple Intelligence could still use a lot of work. The Writing Tools work, but only when dealing with English (US) language. A similar situation applies to audio note transcription and voicemails as well.
+
+Support for more languages will only arrive “over the course of the next year,” says Apple. In hindsight, the staggered rollout also makes sense, as it gives Apple time to polish its AI products and avoid landing in embarrassing AI flub scenarios that have already hit Google and Microsoft in their race for AI dominance.
+

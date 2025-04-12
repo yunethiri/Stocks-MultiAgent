@@ -1,0 +1,28 @@
+link: https://www.cnbc.com/2024/08/05/apple-shares-drop-7percent-after-warren-buffetts-berkshire-hathaway-slashes-stake-by-half.html
+
+source: www.cnbc.com
+
+title: Apple shares drop 7% after Warren Buffett's Berkshire Hathaway slashes stake by half
+
+summary: Berkshire Hathaway disclosed in its earnings filing that it dumped a little more than 49% of the Apple stake.
+
+publishDate: 2024-08-05T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9996668100357056
+
+images: ['https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: Warren Buffett walks the floor ahead of the Berkshire Hathaway Annual Shareholders Meeting in Omaha, Nebraska on May 3, 2024.
+
+Warren Buffett sent shockwaves through the investing world over the weekend by slashing his big Apple stake by half, causing the tech stock to crater on Monday amid the intensifying global sell-off.
+
+Berkshire Hathaway disclosed in its earnings filing that its Apple holding was valued at $84.2 billion at the end of the second quarter, indicating that the Oracle of Omaha dumped a little more than 49% of the tech stake.
+
+Shares of Apple dropped more than 7% in premarket trading Monday. Global stock markets are on the brink of a major correction, triggered by concerns of an economic slowdown.
+
+The 93-year-old legendary investor has been on a massive selling spree, offloading more than $75 billion in equities in the second quarter and raising Berkshire's cash pile to a whopping $277 billion, an all-time high for the conglomerate. Buffett also started selling his second biggest holding Bank of America in July.
+

@@ -1,0 +1,74 @@
+link: https://finance.yahoo.com/news/apples-iphone-16-put-ai-100050985.html
+
+source: finance.yahoo.com
+
+title: Apple debuts AI-boosted iPhone 16
+
+summary: 
+
+publishDate: 2024-09-09T10:00:50.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.8297865986824036
+
+images: ['https://s.yimg.com/ny/api/res/1.2/NKpqpbAoAMlBjPWP0IgXsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/reuters-finance.com/1f7c584f6e54f8913cdd23d038bc3b4e', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fapples-iphone-16-put-ai-100050985.html&c14=-1', 'https://media.zenfs.com/en/reuters-finance.com/ce352669276fcf45eddce2411cbdaf28']
+
+content: By Max A. Cherney and Kenrick Cai
+
+CUPERTINO, California (Reuters) -Apple on Monday unveiled its artificial intelligence-boosted iPhone 16, showing off the long-awaited phone hours after Chinese rival Huawei's tri-fold phone began racking up orders.
+
+"The next generation of iPhone has been designed for Apple Intelligence from the ground up. It marks the beginning of an exciting new era," Chief Executive Tim Cook said at a product launch.
+
+The iPhone 16 will use the new A18 chip and have an aluminum back, as well as a new customizable button that can be used for camera controls.
+
+Huawei's website showed on Monday that it had garnered more than 3 million pre-orders for its Z-shaped tri-fold phone. This underscores Huawei's ability to navigate U.S. sanctions and solidifies its position against Apple in China, where consumers are hankering for more AI features and are willing to pay for them.
+
+Apple shares were down less than 1% in afternoon trading.
+
+Apple also unveiled new Watches and AirPods.
+
+The new Series 10 Watch starts at $399, is thinner than its predecessor and has an up to 30% larger screen than previous generations. Apple highlighted the Watch's ability to help with sports and health issues, including finding longer-term conditions such as sleep apnea as well as detecting and responding to emergencies such as a fall.
+
+Apple also launched a new version of the more rugged Watch Ultra 2, starting at $799. The new AirPods 4 have a new design for more comfortable wearing and improved acoustics. And Apple rolled out hearing-aid features that it has submitted for U.S. regulatory review.
+
+Apple fans globally have been waiting to see the new phones with AI, which Cook hinted at as he began the show. “We are thrilled to introduce the first iPhones designed from the ground up for Apple Intelligence and its breakthrough capabilities,” Cook said in opening remarks.
+
+"The Chinese market is hungrier for AI features than the U.S. market," said Ben Bajarin, CEO and principal analyst at Creative Strategies. For Apple, "it will be very difficult to bring it to China immediately, so they'll be going off the merits of the hardware."
+
+Apple unveiled Apple Intelligence at its developer conference in June, its take on generative AI that can conjure text, images and other content on command.
+
+But these upgrades will take time to reach consumers.
+
+Apple Intelligence features are expected to launch in a software update to the iPhone and iPad operating system likely in October and a full upgrade of Apple's voice assistant Siri is likely to come only early next year, according to media reports.
+
+Story continues
+
+Apple Intelligence must be approved by Beijing in order to be released in the Chinese market. In July, OpenAI blocked access to ChatGPT in China, a move that could impact the chatbot's integration into Siri. Apple has not announced an AI partner for China.
+
+IPhones accounted for more than half of Apple's $383 billion sales last year, and the new devices are an important update for the Cupertino, California-based company that is betting the AI feature will drive consumers to upgrade amid a slowdown in iPhone sales.
+
+In China, Apple aggressively slashed prices earlier this year, prompted by government restrictions and increased domestic competition.
+
+The iPhone 16 lineup is the first Apple smartphones designed around these AI features, though those are expected also to be available on iPhone 15 Pro and Pro Max, the top-end versions of the previous-generation devices.
+
+"The software side, and how Apple frames it, is the biggest question," said Bajarin. "Investors will look for if it's compelling enough to have a larger-than-normal upgrade cycle."
+
+Rivals including Alphabet's Google are also showcasing AI features to try to upend Apple's dominance in the high-end smartphone market.
+
+Google, developer of the Android operating system which competes with Apple's iOS, traditionally announced its Pixel smartphones in the autumn. This year, it pushed the event to August ahead of Apple's announcement.
+
+Google focused on AI features including Gemini Live, which allows users to hold live voice conversations with a digital assistant. Many of the AI features Google announced were also rolled out to the Android-based devices made by manufacturers such as Samsung and Motorola.
+
+"The question is who is going to be the first to combine a truly personal AI assistant with knowledge and information that is accurate and personalized," said Bob O’Donnell, chief analyst for TECHnalysis Research.
+
+Apple has so far shared a timeline for the release of Apple Intelligence only in the United States, where it is slated to launch on compatible devices in the autumn.
+
+In June, one week after its developer conference, Apple said it would delay the release in Europe due to European Union tech rules.
+
+Apple's event at the tech giant's Apple Park headquarters started at 10 a.m. PDT (1700 GMT). Huawei has scheduled an official announcement of its Mate XT phone on Tuesday in China.
+
+(Reporting by Max Cherney in Cupertino, California, and Kenrick Cai in San Francisco; additional reporting by Yuvraj Malik, Arsheeya Bajwa, Aatrayee Chatterjee, L Unnamalai and Zaheer Kachwala in Bengaluru; Writing by Peter Henderson; Editing by Kenneth Li and Matthew Lewis)
+

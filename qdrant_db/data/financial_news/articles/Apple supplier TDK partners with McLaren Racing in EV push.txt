@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/apple-supplier-tdk-partners-with-mclaren-racing-ev-push-2024-10-29/
+
+source: www.reuters.com
+
+title: Apple supplier TDK partners with McLaren Racing in EV push
+
+summary: Apple supplier TDK has partnered with McLaren Racing in Formula E electric motor racing as the Japanese components manufacturer targets expansion in the electric vehicle sector.
+
+publishDate: 2024-10-29T05:40:09.249Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999814033508301
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> supplier TDK <a href="https://www.reuters.com/markets/companies/6762.T" target="_blank">(6762.T)</a> has partnered with McLaren Racing in Formula E electric motor racing as the Japanese components manufacturer targets expansion in the electric vehicle sector.
+TDK, once well known to consumers for its cassette tapes, is the world's largest supplier of smartphone batteries. It is growing its passive components and sensors businesses and aims to build its presence in the EV supply chain.
+The company's technology is used in the Nissan <a href="https://www.reuters.com/markets/companies/7201.T" target="_blank">(7201.T)</a> e-4ORCE 05 cars used by McLaren, and TDK will look at supplying components such as inverters and sensors, an executive said.
+"Formula E technology is always at the cutting edge of EVs and we want them to utilise our components so we can sharpen our technology," Taro Ikushima, CEO of TDK's Electronic Components Business Company, said in an interview.
+Automotive accounts for almost a quarter of total sales at TDK, which was founded in 1935, with the company a leading supplier of components such as ceramic capacitors and temperature sensors.
+While many fans remain wedded to Formula One with the signature sound of its internal combustion engines, interest in Formula E is growing.
+The speed of the broader transition from gasoline vehicles is debated, with Toyota <a href="https://www.reuters.com/markets/companies/7203.T" target="_blank">(7203.T)</a> chairman Akio Toyoda believing the global share of EVs will peak at 30%.
+TDK sees opportunity across the spectrum with plug-in hybrids and battery electric vehicles using 60% and 100% more multilayer ceramic chip capacitors respectively than gasoline cars.
+"Safety, durability, longevity, in automotive these are very important factors and can be applied to other industries," Ikushima said.
+TDK shares are up 39% this year, outperforming the 13% rise in Japan's broader Topix index <a href="https://www.reuters.com/markets/quote/.TOPX" target="_blank">(.TOPX)</a>.
+

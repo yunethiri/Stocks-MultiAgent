@@ -1,0 +1,20 @@
+link: https://www.reuters.com/markets/deals/bronfmans-paramount-plans-include-partnerships-with-amazon-or-apple-bloomberg-2024-08-24/
+
+source: www.reuters.com
+
+title: Bronfman's Paramount plans include partnerships with Amazon or Apple, Bloomberg News reports
+
+summary: Edgar Bronfman's plans for Paramount Global include partnering with technology companies like Amazon.com or Apple to improve its streaming TV business, Bloomberg News reported on Saturday, citing people familiar with his thinking.
+
+publishDate: 2024-08-24T23:27:25.135Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999980926513672
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Edgar Bronfman's plans for Paramount Global <a href="https://www.reuters.com/markets/companies/PARA.O" target="_blank">(PARA.O)</a> include partnering with technology companies like Amazon.com <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> or Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> to improve its streaming TV business, Bloomberg News reported on Saturday, citing people familiar with his thinking.
+

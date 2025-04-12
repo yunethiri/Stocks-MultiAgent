@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-09-18T12:05:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.999993085861206
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300249&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fbought-1-share-apple-stock-120500519.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/WP8CeRUmi3Xzg6kE5og8Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/motleyfool.com/8f1c0250b70e5d3de7b9ec36db767d76', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0']
+
 content: Apple (NASDAQ: AAPL) has moved back into the top spot as the largest company in the world by market cap. It's gone through some stunning ups and downs, but if you'd bought shares at the initial public offering (IPO) back in 1980 and held on, you'd have a lot more shares, and a lot of money. Let's see just how much.
 
 Holding for the long term
@@ -39,10 +47,4 @@ Story continues
 Jennifer Saibil has positions in Apple. The Motley Fool has positions in and recommends Apple. The Motley Fool has a disclosure policy.
 
 If You Bought 1 Share of Apple Stock at Its IPO, Here's How Many Shares You Would Own Now was originally published by The Motley Fool
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.999993085861206
 

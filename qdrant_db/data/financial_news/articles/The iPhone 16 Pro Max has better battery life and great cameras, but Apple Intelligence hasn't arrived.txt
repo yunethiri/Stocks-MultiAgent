@@ -1,0 +1,48 @@
+link: https://www.cnbc.com/2024/09/18/apple-iphone-16-pro-max-review.html
+
+source: www.cnbc.com
+
+title: The iPhone 16 Pro Max has better battery life and great cameras, but Apple Intelligence hasn't arrived
+
+summary: CNBC's iPhone 16 Pro Max review. There are a lot of good upgrades but Apple Intelligence isn't ready yet.
+
+publishDate: 2024-09-18T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/108031232-1725905652030-Screenshot_2024-09-09_at_21328_PM.png?v=1725905686&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT
+
+iPhone 16 Pro Apple Inc.
+
+Apple's iPhone 16 family of phones will hit shelves on Friday. Ahead of their launch, I've spent the past five days been testing the high-end iPhone 16 Pro Max. It's a great phone with cool updates like a dedicated camera button, and it charges faster over MagSafe than earlier Pro models. The screens are also slightly larger than prior versions. But this review is tricky, because one of the banner features Apple has been hyping — on stage and in its new ads — is Apple Intelligence. It's Apple's suite of AI features for the iPhone, and it's not coming until later this year. There are reasons to be excited. A few of the new AI features, like changes to Siri, photo editing, and the option to have AI rewrite text for you, will launch in beta in October. More additions, such as as Apple's image and emoji generator, more personal Siri responses and integration with ChatGPT, will come later. I was able to test some of the beta features for this review. Others weren't available. Those limitations make it difficult to provide a comprehensive assessment of the new device or to suggest whether the upgrade is worthwhile. Apple shares slid earlier in the week after analysts suggested lighter demand for the iPhone 16 Pro models this year. TF Securities analyst Ming-Chi Kuo said the problem is that Apple Intelligence isn't out at launch. Barclays also feared it may be because the Chinese language version of Apple Intelligence won't launch until 2025. Here's what you need to know about the new iPhone 16 Pro Max, as of now.
+
+The changes to know about
+
+iPhone 16 Pro. Apple Inc.
+
+The biggest change you'll notice is the new camera button. I'm still getting used to it after a few days, but I'm already defaulting to just pulling the phone out of my pocket, tapping the button and taking a picture. My wife rightly asked me why I don't just hit the camera button on the lock screen like on earlier iPhones. I don't have a good answer for that. It just feels more natural to push a camera button. I enjoyed doing a half-press to get camera controls like the zoom during my son's first soccer game, though I found it was easier to sometimes just pinch to zoom. The new 48-megapixel wide-angle lens offers sharper images in zoomed-out shots that can capture more scenery. Videographers will likely enjoy the 4K 120fps recording offered on the iPhone 16 Pro Max. Still, I try to keep my clips in lower quality because I'm sharing them over text messages with family and friends. The iPhone 16 Pro Max has the best battery life of any iPhone yet. Apple's new A18 Pro processor paired with a larger battery offers up to 33 hours of video playback, up from 29 hours on last year's iPhone 15 Pro Max. I was usually able to make it to about dinnertime before needing to charge the 15, and I can make it to bedtime — or beyond — with the new phone depending on how much I'm using it. I love that Apple increased the speed of its MagSafe charging. I used MagSafe when it came out but ultimately switched back to regular cable charging because it was quicker. Now, MagSafe gives up to a 50% charge in 30 minutes if you're using a 30-watt charger (not included.) The screens are slightly larger on this year's Pro models. The iPhone 16 Pro Max moved from 6.7 inches to 6.9 inches. I didn't notice a difference and could only tell when I put the two phones next to each other. It's still a fantastic screen with a high refresh rate, which means scrolling is smooth. It's colorful and bright and I love the always-on display for seeing notifications without picking up my phone. It's not new this year but still useful and limited to the Pro models.
+
+Apple Intelligence
+
+Apple Intelligence photos Apple Inc.
+
+In the absence of Apple Intelligence at launch, I'm limited to testing a few beta features. They're hit or miss, as to be expected in beta. Apple Intelligence could help drive a new cycle of iPhone upgrades. Apple reported $39.3 billion in iPhone sales during the fiscal third quarter, about 46% of the company's total revenue and down 1% from a year earlier. CEO Tim Cook said the segment grew on a constant currency basis. I like email summaries provided by Apple Intelligence. They're accurate and give you just a couple of lines that summarize what's said or relayed in an email. This only works in Apple's Mail app, though, so it won't work if your company makes you use Outlook or if you prefer Gmail. Similarly, I found that Apple Intelligence accurately summarized long bits of text (including the introduction to this review) and returned an accurate snippet. In notifications, it's just OK. Summaries of news alerts were correct. Summaries of text messages sometimes were unnecessary. In one text from my wife, for example, Apple Intelligence suggested I threw a dinosaur at my daughter and made her cry before I apologized. In reality, my son was the culprit. The original text would have been sufficient. In a daycare app notification that I use, Apple Intelligence did a good job summarizing that my daughter "took a nap, ate Cheerios, and is playing happily." That would be a perfect amount of information to receive while driving.
+
+Apple Intelligence photos Apple Inc.
+
+Another Apple Intelligence feature can help you create movie memories, which are little snippets of photos and videos set to music. In a TV ad, Apple shows a young woman using it to create memories of a dead goldfish with the help of Siri. I couldn't use Siri to create movies like that. Instead, I opened the Photos app, tapped Memories and wrote in a prompt asking for a photo memory of my son "learning to fish at Skytop set to a fishing tune." It correctly showed pictures of a family trip to the Poconos but didn't include any pictures of my son fishing there. The music was called "Fishing Tune" by Jiang Jiaqiang but didn't sound like fishing music to me. Another test, asking for a photo memory of my son "playing soccer," worked better but also included a picture of him as a baby with a football in his hands. There's also the whole new Siri interface that glows along the edges of the screen. I like the look compared to the globe, and it's easier to type to Siri by tapping the screen indicator at the bottom of the display. Siri doesn't feel drastically changed to me right now, although I liked that I could ask iPhone-specific questions like "How do I use my iPhone to scan a document?" and "How do I take a screen recording?" Siri presents the answer in a simple step-by-step guide at the top of the screen. You can speak to Siri with interruptions now, too. So, if you get stumped while you're thinking and say "umm" or "hold on a second," you can continue to ask questions in the same line of thought, like "How tall is the Eiffel Tower?" and then follow with, "And when was it built?" But it doesn't always work. I tried "How far is Boston?" for example, followed by, "And what's the weather there?" Siri gave me the weather for my current location. Apple Intelligence can be useful and I'm excited to see where it goes.
+
+Apple iPhone 16
+
+An attendee holds two iPhone 16s as Apple holds an event at the Steve Jobs Theater on its campus in Cupertino, California, on Sept. 9, 2024. Manuel Orbegozo | Reuters
+
+I focused this review on the iPhone 16 Pro Max. The iPhone 16 is slightly smaller and has a little less battery life but is otherwise identical. My colleague used the regular iPhone 16. There are a few differences between the two. The iPhone 16 comes in more colors and is built out of aluminum instead of titanium like the higher-end Pro models. It also has the new camera button but lacks the higher refresh rate and the always-on features of the Pro model displays. The iPhone 16 will support all of the Apple Intelligence features I've mentioned above, plus the ones that are still coming. Apple also upgraded the processor for faster performance and added a new macro camera mode for up-close pictures of objects, as well as support for capturing spatial images for the Apple Vision Pro headset. It offers up to 22 hours of video playback versus the 20 hours in last year's iPhone 15.
+
+Should you buy it?
+

@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-11-20T08:52:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999839067459106
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/ny/api/res/1.2/cPbWqLka92Y9WOyUe33T_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/dff1981b56868349a1f77d2d140c42d9', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: All billionaires don't think alike. For example, Warren Buffett is buying only a few stocks for Berkshire Hathaway's portfolio but has built a massive cash stockpile for the conglomerate. Meanwhile, Millennium Management hedge fund manager Israel "Izzy" Englander continues to buy and sell stocks with gusto.
 
 Englander either added to or reduced Millennium's positions in many of its holdings in the third quarter of 2024. Some of his most notable trades involved buying and selling "Magnificent Seven" stocks.
@@ -33,10 +41,4 @@ Englander loaded up on Microsoft (NASDAQ: MSFT) during Q3. He bought 1.56 millio
 He also added modestly to Millennium's position in Meta Platforms (NASDAQ: META) in Q3. The hedge fund owned 1.34 million shares at the end of the quarter, up 7.6% from three months earlier.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.9999839067459106
 

@@ -1,0 +1,42 @@
+link: https://www.cnbc.com/2024/12/03/apple-says-it-uses-amazons-custom-ai-chips-.html
+
+source: www.cnbc.com
+
+title: Apple says it uses Amazon's custom AI chips
+
+summary: Apple is currently using Amazon Web Services' custom AI chips for services like searching and will evaluate if its latest AI chip can be used to pre-train its AI models like Apple Intelligence.
+
+publishDate: 2024-12-03T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999810457229614
+
+images: ['https://image.cnbcfm.com/api/v1/image/107344528-1701979654141-107344528-1701960145166-Jassy3.jpg?v=1701979662&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg']
+
+content: Apple is currently using Amazon Web Services' custom artificial intelligence chips for services like search and will evaluate if the company's latest AI chip can be used to pre-train its models like Apple Intelligence.
+
+Apple revealed its usage of Amazon's proprietary chips at the annual AWS Reinvent conference on Tuesday. Benoit Dupin, Apple's senior director of machine learning and AI, took the stage to discuss how Apple uses the cloud service. It's a rare example of the company officially allowing a supplier to tout them as a customer.
+
+"We have a strong relationship, and the infrastructure is both reliable and able to serve our customers worldwide," Apple's Dupin said.
+
+Apple's appearance at Amazon's conference and its embrace of the company's chips is a strong endorsement of the cloud service as it vies with Microsoft Azure and Google Cloud for AI spending. Apple uses those cloud services, too.
+
+Benoit said that Apple had used AWS for over a decade for services including Siri, Apple Maps and Apple Music. Apple has used Amazon's Trainium and Graviton chips to serve search services, for example, and Benoit said that Amazon's chips had led to a 40% efficiency gain.
+
+But Benoit also suggested that Apple would use Amazon's Trainium2 chip to pre-train its proprietary models. It's a sign that Amazon's chips aren't just a cost-effective way to inference AI models compared to x86 central processors made by Intel and AMD, but can also be used to develop new AI. Amazon announced on Tuesday that its Trainium2 chip was generally available to rent.
+
+"In early stages of evaluating Trainium2 we expect early numbers up to 50% improvement in efficiency with pre-training," Dupin said.
+
+Earlier this year, Apple said in a research paper that it had used Google Cloud's TPU chips to train its iPhone AI service, which it calls Apple Intelligence.
+
+The majority of AI training is done on pricey Nvidia graphics processors. Cloud providers and startups are racing to develop alternatives to lower costs and are exploring different approaches that could lead to more efficient processing. Apple's usage of custom chips could signal to other companies that non-Nvidia training approaches can work.
+
+AWS is expected to announce new details on Tuesday about offering Nvidia Blackwell-based AI servers for rent, too.
+
+Apple released its first major generative AI product this fall. Apple Intelligence is a series of services that can summarize notifications, rewrite emails, and generate new emojis. Later this month, it will integrate with OpenAI's ChatGPT, the company says, and next year, Siri will get new abilities to control apps and speak naturally.
+
+Unlike leading chatbots like OpenAI's ChatGPT, Apple's approach to AI isn't based on large clusters of Nvidia-based servers in the cloud. Instead, Apple uses an iPhone, iPad or Mac chip to do as much of the processing as possible, and then sends complicated queries to Apple-operated servers using its own M-series chips.
+

@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/elon-musk-jokingly-refers-apple-190015107.html
+
+source: finance.yahoo.com
+
+title: Elon Musk 'Jokingly' Refers To Apple As The 'Tesla Graveyard' And Says Steve Jobs Was 'Kind Of A Jerk' To Him When They Met At A Party
+
+summary: 
+
+publishDate: 2024-12-15T19:00:15.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999958276748657
+
+images: ['https://media.zenfs.com/en/Benzinga/85e43ed404e36beab19621671766309b', 'https://s.yimg.com/ny/api/res/1.2/EIJEKhvKRUMCKhtvTWFinA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Elon Musk 'Jokingly' Refers To Apple As The 'Tesla Graveyard' And Says Steve Jobs Was 'Kind Of A Jerk' To Him When They Met At A Party
+
+Elon Musk doesn't hold back when it comes to Apple. From calling the company the "Tesla Graveyard" to criticizing its AI plans and reflecting on his unpleasant encounter with Steve Jobs, Musk's comments make it clear that the rivalry between these tech giants is personal, professional and competitive.
+
+Back in 2015, during an interview with the German newspaper Handelsblatt, Musk mocked Apple's hiring practices. Referring to its recruitment of former Tesla employees, he said:
+
+"They have hired people we've fired. We always jokingly call Apple the ‘Tesla Graveyard.' If you don't make it at Tesla, you work at Apple. I'm not kidding."
+
+Don't Miss:
+
+This came from reports that Apple was working on its electric vehicle project, "Titan." Musk didn't stop at staffing digs; he also questioned Apple's ability to break into the auto industry, saying, "Did you ever take a look at the Apple Watch? No, It's good that Apple is moving and investing in this direction. But cars are very complex compared to phones or smartwatches. You can't just go to a supplier like Foxconn and say: Build me a car."
+
+At the time, Apple declined to comment.
+
+Musk's critiques haven't just been aimed at Apple's business strategies. In an interview with GQ that same year, he recalled meeting Steve Jobs at a party before Jobs' death in 2011. The encounter wasn't what Musk had hoped for. "[The] one time I met Steve Jobs, he was kind of a jerk," Musk said.
+
+See Also: If there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it?
+
+He later tried to soften his remark, explaining that his observation was based on a "personal experience." He added that Larry Page, cofounder of Google, had introduced him to Jobs several years earlier and Jobs may not have even known who he was then.
+
+Fast-forward to today and Musk's criticisms of Apple have shifted to its push into artificial intelligence. After Apple announced updates to Siri that included integration with OpenAI's ChatGPT, Musk voiced concerns about user privacy and security. Writing on his platform, X, he called the collaboration "an unacceptable security violation" and accused Apple of having "no clue what's actually going on."
+

@@ -1,0 +1,25 @@
+link: https://www.reuters.com/technology/apple-supplier-iqes-ceo-departs-finance-chief-takes-interim-charge-2024-10-29/
+
+source: www.reuters.com
+
+title: Apple supplier IQE's CEO departs, finance chief takes interim charge
+
+summary: British semiconductor wafer maker IQE on Tuesday said its CEO, Americo Lemos, has left the company with immediate effect and finance chief Jutta Meier will take interim charge.
+
+publishDate: 2024-10-29T07:39:55.584Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.945260226726532
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: British semiconductor wafer maker IQE <a href="https://www.reuters.com/markets/companies/IQE.L" target="_blank">(IQE.L)</a> on Tuesday said its CEO, Americo Lemos, has left the company with immediate effect and finance chief Jutta Meier will take interim charge.
+Meier joined IQE earlier this year from Intel Corp <a href="https://www.reuters.com/markets/companies/INTC.O" target="_blank">(INTC.O)</a> where she served as a senior finance director.
+Phil Smith, the chair of IQE since 2019, will step down and Mark Cubitt, who was named the chair-elect earlier this month, will become executive chair, the company said.
+"Their (Mark and Jutta) immediate priorities will include a focus on executing on the near-term pipeline as well as cash generation across the Group and on unlocking embedded value by pursuing the IPO of our Taiwan business," Phil Smith, the outgoing chairman, said.
+IQE, whose 'epi-wafers' are used in the iPhone's facial recognition sensors, <a href="/technology/british-chip-parts-maker-iqe-swings-half-year-profit-2024-09-10/">forecast</a> annual profit at the lower end of market view in September as some of its markets were slower to recover from a supply glut.
+In July, IQE <a href="/markets/deals/british-chip-parts-maker-iqe-plans-ipo-taiwan-business-2024-07-31/">said</a> it planned to file for an IPO of its Taiwanese business on the local stock exchange, although it would retain control of the unit.
+

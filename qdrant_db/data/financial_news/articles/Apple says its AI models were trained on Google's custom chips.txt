@@ -1,0 +1,34 @@
+link: https://www.cnbc.com/2024/07/29/apple-says-its-ai-models-were-trained-on-googles-custom-chips-.html
+
+source: www.cnbc.com
+
+title: Apple says its AI models were trained on Google's custom chips
+
+summary: Apple is using chips designed by Google in building its advanced AI models, according to a paper published on Monday.
+
+publishDate: 2024-07-29T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999986886978149
+
+images: ['https://image.cnbcfm.com/api/v1/image/106634536-1595882512360-sun_tim.jpg?v=1595882612&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: Apple said on Monday that the artificial intelligence models underpinning Apple Intelligence, its AI system, were pretrained on processors designed by Google, a sign that Big Tech companies are looking for alternatives to Nvidia when it comes to the training of cutting-edge AI.
+
+Apple's choice of Google's homegrown Tensor Processing Unit (TPU) for training was detailed in a technical paper just published by the company. Separately, Apple released a preview version of Apple Intelligence for some devices on Monday.
+
+Nvidia's pricey graphics processing units (GPUs) dominate the market for high-end AI training chips, and have been in such high demand over the past couple years that they've been difficult to procure in the required quantities. OpenAI, Microsoft , and Anthropic are all using Nvidia's GPUs for their models, while other tech companies, including Google, Meta , Oracle and Tesla are snapping them up to build out their AI systems and offerings.
+
+Meta CEO Mark Zuckerberg and Alphabet CEO Sundar Pichai both made comments last week suggesting that their companies and others in the industry may be overinvesting in AI infrastructure, but acknowledged the business risk of doing otherwise was too high.
+
+"The downside of being behind is that you're out of position for like the most important technology for the next 10 to 15 years," Zuckerberg said on a podcast with Bloomberg's Emily Chang.
+
+Apple doesn't name Google or Nvidia in its 47-page paper, but did note its Apple Foundation Model (AFM) and AFM server are trained on "Cloud TPU clusters." That means Apple rented servers from a cloud provider to perform the calculations.
+
+"This system allows us to train the AFM models efficiently and scalably, including AFM-on-device, AFM-server, and larger models," Apple said in the paper.
+
+Representatives for Apple and Google didn't respond to requests for comment.
+

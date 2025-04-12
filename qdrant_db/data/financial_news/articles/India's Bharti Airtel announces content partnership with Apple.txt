@@ -1,0 +1,25 @@
+link: https://www.reuters.com/business/media-telecom/indias-bharti-airtel-announces-content-partnership-with-apple-2024-08-27/
+
+source: www.reuters.com
+
+title: India's Bharti Airtel announces content partnership with Apple
+
+summary: Bharti Airtel has partnered with Apple to bring exclusive offers for Apple Music and Apple TV+ to customers in India later this year, the telecom company said on Tuesday.
+
+publishDate: 2024-08-27T18:43:28.517Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9979200959205627
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Bharti Airtel <a href="https://www.reuters.com/markets/companies/BRTI.NS" target="_blank">(BRTI.NS)</a> has partnered with Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> to bring exclusive offers for Apple Music and Apple TV+ to customers in India later this year, the telecom company said on Tuesday.
+Apple TV+ will be included on Airtel's video-streaming service Xstream with premium wifi and postpaid plans, and users of the company's music-streaming service, Wynk Premium, will have access to offers on Apple Music, the Indian company said.
+Bharti Airtel did not disclose a deal value for the partnership, nor did it provide information on the costs of the plans.
+Following the deal, Airtel will exit the music vertical, and shut down its Wynk music app, absorbing all its employees, according to a Business Insider report.
+Airtel did not immediately respond to a Reuters request for comment on the report.
+This comes as Disney <a href="https://www.reuters.com/markets/companies/DIS.N" target="_blank">(DIS.N)</a> and Reliance <a href="https://www.reuters.com/markets/companies/RELI.NS" target="_blank">(RELI.NS)</a> <a href="/world/india/disney-reliance-offer-concessions-india-merger-no-cricket-rights-sale-2024-08-22/">try</a> to secure India antitrust approval for their $8.5 billion merger, aiming to create India's biggest entertainment player.
+

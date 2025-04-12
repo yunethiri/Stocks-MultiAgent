@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-08-23T14:16:38.000Z
 
+language: en
+
+sentiment: positive
+
+confidence: 0.9638453125953674
+
+images: ['https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fthird-point-sees-room-apple-141638561.html&c14=-1', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: By Svea Herbst-Bayliss
 
 NEW YORK (Reuters) -Billionaire hedge fund manager Daniel Loeb sees room for Apple's (AAPL) stock price to climb, especially if the technology company successfully harnesses artificial intelligence for its iOS mobile operating system.
@@ -21,10 +29,4 @@ Apple, Loeb wrote, had been "under-owned" by institutional investors who feared 
 Demand for newer iPhones will grow as Apple Intelligence features will not be backwards-compatible and Apple's App Store will likely be the primary distribution platform for new consumer-focused AI apps, the letter said.
 
 (Reporting by Svea Herbst-Bayliss; editing by Jonathan Oatis)
-
-language: en
-
-sentiment: positive
-
-confidence: 0.9638453125953674
 

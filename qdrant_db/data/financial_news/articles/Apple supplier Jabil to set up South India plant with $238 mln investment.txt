@@ -1,0 +1,26 @@
+link: https://www.reuters.com/technology/apple-supplier-jabil-set-up-south-india-plant-with-238-mln-investment-2024-09-10/
+
+source: www.reuters.com
+
+title: Apple supplier Jabil to set up South India plant with $238 mln investment
+
+summary: Electronic components maker Jabil will set up a manufacturing plant in India's southern state of Tamil Nadu with an investment of about 20 billion rupees ($238.2 million), the state's industries minister said on Tuesday.
+
+publishDate: 2024-09-10T05:19:43.018Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999904632568359
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Electronic components maker Jabil <a href="https://www.reuters.com/markets/companies/JBL.N" target="_blank">(JBL.N)</a> will set up a manufacturing plant in India's southern state of Tamil Nadu with an investment of about 20 billion rupees ($238.2 million), the state's industries minister said on Tuesday.
+U.S.-based Jabil, a supplier to Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a>, will base its plant near the city of Trichy as part of an agreement signed in Chicago that will create close to 5,000 jobs, Tamil Nadu Minister T R B Rajaa <a href="https://x.com/TRBRajaa/status/1833330563966754912?t=_20lc6-n9yeNPHt6oE-AKg&s=19" target="_blank">said on social media site X</a>.
+"India is emerging as a key manufacturing hub," <a href="https://www.jabil.com/news/jabil-expand-operations-india.html" target="_blank">said</a> Matt Crowley, executive vice president for global business units at Jabil.
+"Our expansion in India will enable Jabil to meet and grow with the future needs of our customers and complement our existing facility in Pune," he added, referring to the Western Indian city.
+Tamil Nadu has also signed an agreement with Rockwell Automation <a href="https://www.reuters.com/markets/companies/ROK.N" target="_blank">(ROK.N)</a> worth 6.66 billion rupees to expand the automation products maker's manufacturing in the Indian state, and another agreement of undisclosed value with Autodesk <a href="https://www.reuters.com/markets/companies/ADSK.O" target="_blank">(ADSK.O)</a>, Chief Minister M K Stalin <a href="https://x.com/mkstalin/status/1833317787030458492" target="_blank">said</a>.
+Rockwell and Autodesk did not immediately respond to requests for comment.
+($1 = 83.9640 Indian rupees)
+

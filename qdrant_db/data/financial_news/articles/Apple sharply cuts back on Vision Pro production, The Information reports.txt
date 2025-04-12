@@ -1,0 +1,27 @@
+link: https://www.reuters.com/technology/apple-sharply-cuts-back-vision-pro-production-information-reports-2024-10-23/
+
+source: www.reuters.com
+
+title: Apple sharply cuts back on Vision Pro production, The Information reports
+
+summary: Apple has sharply scaled back its Vision Pro production since early summer and could stop making the existing version of the mixed reality headset by year-end, the Information reported on Wednesday, citing people involved in building its components.
+
+publishDate: 2024-10-23T15:07:28.208Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9997751116752625
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has sharply scaled back its Vision Pro production since early summer and could stop making the existing version of the mixed reality headset by year-end, the Information reported on Wednesday, citing people involved in building its components.
+Sales for the device have been waning after initial enthusiasm following its launch in February, due to the headset's hefty price tag and competition from cheaper options including Meta Platforms' <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> Quest.
+While Apple's Vision Pro starts at around $3,500 in the U.S., Meta's Quest 3 headset has a price tag of around $500.
+According to the Information report, employees at three Vision Pro suppliers have so far built enough components to make between 500,000 and 600,000 headsets. One of the employees said their factory suspended production of Vision Pro components in May.
+Apple in recent weeks has also told the device's assembler, Luxshare, that it might need to wind down its manufacturing in November, the report said, citing an employee at the manufacturer.
+The iPhone maker did not immediately respond to a Reuters request for comment.
+The Information had <a href="/technology/apple-suspends-work-next-high-end-headset-focus-cheaper-model-information-2024-06-18/">reported</a> in June that Apple was working on releasing a more affordable Vision product with fewer features before the end of 2025 and suspended work on its next high-end headset.
+Apple launched the Vision Pro in international markets earlier this year to reinvigorate demand at a time when it rushes to incorporate artificial intelligence into its flagship mobile devices to get ahead of rivals.
+

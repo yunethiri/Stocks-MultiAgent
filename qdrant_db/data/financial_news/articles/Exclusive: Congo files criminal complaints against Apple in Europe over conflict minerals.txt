@@ -1,0 +1,48 @@
+link: https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/
+
+source: www.reuters.com
+
+title: Exclusive: Congo files criminal complaints against Apple in Europe over conflict minerals
+
+summary: The Democratic Republic of Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain, lawyers for the Congolese government told Reuters.
+
+publishDate: 2024-12-17T05:06:20.309Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9138824343681335
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: The Democratic Republic of Congo has filed criminal complaints against Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> subsidiaries in France and Belgium, accusing the tech firm of using <a href="/world/africa/congo-lawyers-say-received-new-evidence-apples-minerals-supply-chain-2024-05-22/">conflict minerals</a> in its supply chain, lawyers for the Congolese government told Reuters.
+Congo is a major source of tin, tantalum and tungsten, so-called 3T minerals used in computers and mobile phones. But some artisanal mines are run by <a href="/world/africa/why-fighting-is-flaring-eastern-congo-threatening-regional-stability-2024-02-19/">armed groups</a> involved in massacres of civilians, mass rapes, looting and other crimes, according to U.N. experts and human rights groups.
+Apple does not directly source primary minerals and says it audits suppliers, publishes findings and funds bodies that seek to improve mineral traceability.
+Its 2023 <a href="https://s203.q4cdn.com/367071867/files/doc_downloads/2024/04/Apple-Conflict-Minerals-Report.pdf" target="_blank">filing on conflict minerals</a> to the U.S. Securities and Exchange Commission said none of the smelters or refiners of 3T minerals or gold in its supply chain had financed or benefited armed groups in Congo or neighbouring countries.
+But international lawyers representing Congo argue that Apple uses minerals pillaged from Congo and laundered through international supply chains, which they say renders the firm complicit in crimes taking place in Congo.
+In parallel complaints filed to the Paris prosecutor's office and to a Belgian investigating magistrate's office on Monday, Congo accuses local subsidiaries Apple France, Apple Retail France and Apple Retail Belgium of a range of offences.
+These include covering up war crimes and the laundering of tainted minerals, handling stolen goods, and carrying out deceptive commercial practices to assure consumers supply chains are clean.
+"It is clear that the Apple group, Apple France and Apple Retail France know very well that their minerals supply chain relies on systemic wrongdoing," says the French complaint, after citing U.N. and rights reports on conflict in east Congo.
+Belgium had a particular moral duty to act because looting of Congo's resources began during the 19th century colonial rule of its King Leopold II, Congo's Belgian lawyer Christophe Marchand said.
+"It is incumbent on Belgium to help Congo in its effort to use judicial means to end the pillaging," he said.
+The complaints, prepared by the lawyers on behalf of Congo's justice minister, make allegations not just against the local subsidiaries but against the Apple group as a whole.
+France and Belgium were chosen because of their perceived strong emphasis on corporate accountability. Judicial authorities in both nations will decide whether to investigate the complaints further and bring criminal charges.
+In an unrelated case in March this year, a U.S. federal court <a href="/legal/us-appeals-court-dismisses-child-labor-case-against-tech-companies-2024-03-05/">rejected an attempt</a> by private plaintiffs to hold Apple, Google, Tesla, Dell and Microsoft accountable for what the plaintiffs described as their dependence on child labour in Congolese cobalt mines.
+
+MINERALS FUEL VIOLENCE
+Since the 1990s, Congo's mining heartlands in the east have been devastated by waves of fighting between armed groups, some backed by neighbouring Rwanda, and the Congolese military.
+Millions of civilians have died and been displaced.
+Competition for minerals is one of the main drivers of conflict as armed groups sustain themselves and buy weapons with the proceeds of exports, often smuggled via Rwanda, according to <a href="https://documents.un.org/doc/undoc/gen/n24/118/80/pdf/n2411880.pdf" target="_blank">U.N. experts</a> and <a href="https://www.amnesty.org/en/location/africa/east-africa-the-horn-and-great-lakes/democratic-republic-of-the-congo/report-democratic-republic-of-the-congo/" target="_blank">human rights organisations</a>.
+Rwanda denies benefiting from the trade.
+Among the appendices to Congo's legal complaint in France was a <a href="ttps://www.state.gov/statement-of-concern-related-to-certain-minerals-supply-chains-from-rwanda-and-eastern-democratic-republic-of-the-congo-contributing-to-the-ongoing-conflict/" target="_blank">statement issued by the U.S. State Department</a> in July, expressing concerns about the role of the illicit trade in minerals from Congo, including tantalum, in financing conflict.
+The statement was a response to requests from the private sector for the U.S. government to clarify potential risks associated with manufacturing products using minerals extracted, transported or exported from eastern Congo, Rwanda and Uganda.
+Congo's complaints focus on ITSCI, a metals industry-funded monitoring and certification scheme designed to help companies perform due diligence on suppliers of 3T minerals exported from Congo, Rwanda, Burundi and Uganda.
+Congo's lawyers argue that ITSCI has been discredited, including by the Responsible Minerals Initiative (RMI) of which Apple is a member, and that Apple nevertheless uses ITSCI as a fig leaf to falsely present its supply chain as clean.
+The RMI, whose members include more than 500 companies, announced in 2022 it was <a href="/markets/commodities/responsible-minerals-initiative-cuts-traceability-scheme-itsci-approved-list-2022-10-31/">removing ITSCI</a> from its list of approved traceability schemes.
+In July this year, it said it was <a href="https://www.responsiblemineralsinitiative.org/news/rmi-update-on-itsci-recognition-and-great-lakes-region-due-diligence/" target="_blank">prolonging the suspension</a> until at least 2026, saying ITSCI had not provided field observations from high-risk sites or explained how it was responding to an escalation of violence in North Kivu province, which borders Rwanda and is a key 3T mining area.
+ITSCI criticised the RMI's own processes and <a href="https://www.itsci.org/2024/07/12/response-to-the-5th-july-2024-rmi-memo-on-itsci-recognition/" target="_blank">defended its work</a> in Congo as reliable. It has also rejected allegations in a 2022 report by campaigning group Global Witness entitled <a href="https://www.globalwitness.org/en/campaigns/natural-resource-governance/itsci-laundromat/" target="_blank">"The ITSCI Laundromat"</a>, cited in Congo's legal complaint in France, that it was complicit in the false labelling of minerals from conflict zones as coming from mines located in peaceful areas.
+Apple mentioned ITSCI five times in its 2023 filing on conflict minerals. The filing also made multiple mentions of the RMI, in which Apple said it had continued active participation and leadership, but did not mention the RMI's ditching of ITSCI.
+In its July statement, the U.S. State Department said flaws in traceability schemes have not garnered sufficient engagement and attention to lead to changes needed.
+Robert Amsterdam, a U.S.-based lawyer for Congo, said the French and Belgian complaints were the first criminal complaints by the Congolese state against a major tech company, describing them as a "first salvo" only.
+

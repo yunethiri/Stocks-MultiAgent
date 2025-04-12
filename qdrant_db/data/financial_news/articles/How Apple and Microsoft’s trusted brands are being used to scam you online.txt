@@ -1,0 +1,70 @@
+link: https://www.cnbc.com/2024/09/25/how-apple-and-microsofts-trusted-brands-are-being-used-to-scam-you.html
+
+source: www.cnbc.com
+
+title: How Apple and Microsoft’s trusted brands are being used to scam you online
+
+summary: No, it's not really Apple or Microsoft popping up on your screen to warn your computer has been infected. It's an online scam, and it's getting more frequent.
+
+publishDate: 2024-09-25T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998925924301147
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg']
+
+content: No, it's not really Apple or Microsoft popping up on your screen to tell you your computer has been infected.
+
+It's scammers trying to convince you to call them and divulge sensitive information, which may include passwords, bank or credit account information or Social Security numbers.
+
+"They use the reputation of the brand [for legitimacy purposes] to make it seem more real," said Cliff Steinhauer, director of information security and engagement at The National Cybersecurity Alliance. "Because, who doesn't know Microsoft or Apple as a brand?"
+
+Consumers are likely to see more of these types of scams now, in the wake of Apple's recent release of its new iPhone. There tends to be a rise in scams when a new product or version is released because it's easier for scammers taking advantage of news headlines to strike while the iron is hot, said Nati Tal, head of Guardio Labs, which identifies, monitors and mitigates internet security threats. "In a very small time period, they will get tons and tons of potential victims."
+
+The scams can affect anyone, but as has been the case with other recent tech-linked consumer crime waves, such as bitcoin ATM fraud, the elderly are especially vulnerable. Last year, nearly 18,000 victims aged 60 and over reported tech support scams to the FBI's Internet Crime Complaint Center, making it the most widely reported kind of elder fraud in 2023. Fraud losses from tech support scams against the elderly amounted to $590 million of losses — and that's only reported cases.
+
+These types of scams are getting even harder to spot because of AI, especially when the scheme uses a known company logo to make it look legit. Here's what people should know to protect themselves from scams targeting commonly used, trusted tech brands:
+
+Never assume any online ad is authentic
+
+People can be duped in a number of ways. One way is malvertising, in which bad actors pay for ads on search engines like Google or Microsoft's Bing. These rogue ads can appear as sponsored content, or in small print as an ad, during a search engine query.
+
+So, for example, a consumer searching for "Microsoft support" might be shown a fake Microsoft ad with a number to call. By calling this number, people are playing right into scammers' hands, according to Malwarebytes, which has identified a number of these schemes. Malwarebytes also uncovered a malicious ad campaign targeting Mac users looking for support or extended warranty from Apple.
+
+"People have all sorts of issues with their computers and they look for help, but a lot of the time the numbers they find will be a scammer's number, not the real one," said Jérôme Segura, senior director of research at Malwarebytes.
+
+Pop-ups, emails from brands you know are often suspect
+
+Tech scams also ensnare unsuspecting consumers through phishing emails for renewal offers that seem to come from legit places, including Microsoft, McAfee, PayPal and Norton. These emails could be laced with malware if users click on a link, or they could be phishing attempts to get more information from the individual. Sometimes simply opening the attachment could infect a consumer's computer with malware.
+
+The other type of tech-support scam happens when a window pops up on a user's computer to warn of an "infection."
+
+There's often audio associated with this type of scam to instill a sense of urgency for consumers to call the number listed in the pop-up. There may also be a button that says "return to safety," but when clicked, what was a regular browser window — with the address bar and window title visible — becomes a full-screen page, with a message about not rebooting the computer because it's infected, Segura said.
+
+"Imagine being the user and hearing the non-stop audio playing in the background saying your computer is compromised. This is very stressful and it will lead people to make a bad decision in calling the fake phone number," he said.
+
+Once people call, they often are manipulated into sharing personal information such as their credit card number or giving scammers access to their computer.
+
+How to click without getting into online trouble
+
+For starters, consumers should avoid clicking on sponsored ads obtained during a Google or Bing query. (Hint: These often appear at the top of the search results page, but they can also appear further down, so look out for the word "sponsored" or "ad" depending on the search engine.) Consumers should also avoid clicking on random links sent in an email, even if they think they know the sender. And don't open attachments unless you're sure you know what's being sent.
+
+In the case of a pop-up warning of a computer virus, Segura said the general rule is to only click on the browser's own icons which are typically at the very top right corner. "Never click on any other 'X' within the web page itself, as it is fake," he said.
+
+If people do click on the X or have clicked on "return to safety," the webpage will likely go into full-screen mode. "If that happens, you must first exit out of full screen by long pressing on the keyboard's escape button (Esc) and only then can you finally X out," Segura said.
+
+Internet browsers come with basic protections, so be sure to keep your browsers updated. You might also want to install a free, or paid-protection service that covers multiple types of threats.
+
+What to do if you fall for a tech scam
+
+Next steps depend on the type of information you shared with scammers. If, for instance, you called a number for "Microsoft" or "Apple" and gave usernames and passwords, change those. If you only shared your name, address and phone number, it's not necessary to do anything because this information is readily available to scammers through data brokers, Jim Routh, chief trust officer at identity security company Saviynt, explained in an email.
+
+Consumers who share their credit card number, expiration date and CVV, should call their credit card company's fraud line to report the incident and request a new credit card be overnighted.
+
+If credentials are shared with the fraudster for other online accounts, the password for each should be immediately changed. It's also advisable for consumers to freeze their credit with each of the three primary credit bureaus, Equifax, Experian and TransUnion. This is a good practice to do for your whole family and especially for children under 18, even in the absence of a particular threat. It's also advisable to place a fraud alert with one of the credit bureaus, which will relay the information to all three.
+
+People who are concerned they installed malware who don't have anti-virus protection should choose a reputable brand and install it, Routh said. If they lack technical sophistication, they can call the Geek Squad or a similar service to scan the workstation and find the malware to remove. Consumers who have given remote computer access to scammers should bring their device to a service professional for assistance, he added.
+

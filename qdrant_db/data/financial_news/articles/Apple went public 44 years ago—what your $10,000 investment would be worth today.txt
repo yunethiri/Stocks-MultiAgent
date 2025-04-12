@@ -1,0 +1,38 @@
+link: https://finance.yahoo.com/news/apple-went-public-44-years-180110896.html
+
+source: finance.yahoo.com
+
+title: Apple went public 44 years ago—what your $10,000 investment would be worth today
+
+summary: 
+
+publishDate: 2024-12-12T18:01:10.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999909520149231
+
+images: ['https://s.yimg.com/ny/api/res/1.2/63dkeRyGqI4Pd9wtQipkVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/fortune_175/84628b454b74b33c5165e905e775a364', 'https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Apple’s initial public offering was a once in a generation event. When the computer company from Cupertino, California, began trading on the Nasdaq on Dec. 12, 1980, it was the biggest IPO since the Ford Motor Company went public in 1956. As The Wall Street Journal famously put it, “Not since Eve has an Apple posed such temptation.”
+
+The hype proved to be entirely justified. Apple is today the largest company in the world, becoming the first firm to reach a $3 trillion valuation in 2022—four years after it was the first U.S. corporation to surpass the $1 trillion threshold. Those who bet on Apple’s success 44 years ago—and even much later—have been richly rewarded.
+
+If you had invested $10,000 of today’s dollars in Apple when the company went public at $22 a share, your investment would now be worth $32.7 million, according to calculations by Fortune using data from S&P Capital IQ. The analysis accounts for Apple’s five stock splits and assumes the reinvestment of all dividends, based on the stock’s price at close Wednesday.
+
+The gains are impressive in comparison to the broader market. Since November 1982, the earliest that data from Bloomberg is available, Apple shares have yielded a total return of 20% on an annualized basis. That number is 12% for the S&P 500 over the same span, meaning Apple has grown nearly twice as fast on average each year.
+
+In recent years, the tech giant's growth has been especially spectacular. Since the unveiling of the iPhone in January 2007, Apple's year-over-year return has averaged 24% compared to the S&P 500's 10%.
+
+Warren Buffett cashes in on Apple gains
+
+Therefore, even investors who got in decades after Apple went public have witnessed huge gains. That includes Warren Buffett, whose $40 billion bet on the company, including purchases from 2016-18, has paid off handsomely for Berkshire Hathaway shareholders.
+
+At the end of the last year, Berkshire’s Apple holding was worth $174.3 billion. The Oracle of Omaha has sold-off more than two-thirds of that position since, but Berkshire’s 300 million Apple shares—worth about $74 billion as of Wednesday’s close—remains the largest piece of the conglomerate’s portfolio.
+
+Berkshire’s position at the start of 2024 would currently be worth over $220 billion, but Buffett likely won’t fret about missing the upswing. Stock sales propelled Berkshire’s profits to $26.25 billion last quarter, compared to a loss of $12.77 billion during Q3 a year ago. As Fortune’s Shawn Tully recently noted, Buffett’s Apple gambit will likely go down as one of the best wagers in the storied investor’s career.
+
+Story Continues
+

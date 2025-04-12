@@ -1,0 +1,34 @@
+link: https://www.yahoo.com/tech/apple-confirms-release-date-ios-183509831.html
+
+source: www.yahoo.com
+
+title: Apple Confirms Release Date for iOS 18.1
+
+summary: 
+
+publishDate: 2024-10-21T18:35:09.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9772237539291382
+
+images: ['https://s.yimg.com/ny/api/res/1.2/UmMj1LDBOFy7wZVImSTB6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/how_to_geek_999/28f3c20f010b8e6031fd1a60240052d8', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/EWCZZoSkOJDOQldTbvOaSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI5ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a2960650-3ed2-11ef-995e-7d7bf6be1f39']
+
+content: Apple has confirmed that iOS 18.1 will be released for compatible iPhone models on Monday, October 28, alongside iPadOS 18.1 and macOS Sequoia 15.1.
+
+Apple has confirmed the iOS 18.1 release date to several outlets that were given early access to its new hearing health features. Earlier today, it seeded release candidate versions of iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1, officially concluding the beta-testing period.
+
+iOS 18.1 will bring several hearing health features to the latest AirPods Pro 2, including hearing protection, hearing testing, and hearing aid. The U.S. Food and Drug Administration granted Apple marketing authorization for its over-the-counter hearing aid software, turning the earbuds into a hearing aid for folks with perceived mild to moderate hearing impairment.
+
+iOS 18.1 will mark the first update since iOS 18.0 arrived in September. This is the update that will finally enable the first batch of Apple Intelligence features on the iPhone 15 Pro phones and the iPhone 16 lineup. There will be writing tools to summarize, rewrite, and proofread any text. Siri will get a new glowing animation and a new shortcut to type to Siri (double-tapping the bottom of the display). Moreover, the smart assistant will use Apple's large language model to understand more complex queries, especially if you stumble or start over.
+
+AI will also summarize your notifications and provide contextually aware replies in apps like Messages and Mail. Photos will get natural language search and the ability to create animated slideshows from simple prompts. A Clean Up feature in Photos will remove unwanted objects from images while seamlessly replacing the background.
+
+Other Apple Intelligence features coming in the first wave include generating transcripts of recorded phone calls, summaries of web articles in Safari, a new Focus mode called Reduce Interruptions, and more. Features coming later include a substantial Siri upgrade with the ability to perform complex actions across apps, AI image generation dubbed Image Playground, creating new emoji from prompts called Genmoji, and ChatGPT integration in Siri.
+
+If you don't care about Apple Intelligence or the new AirPods hearing health features, iOS 18.1 brings enough quality-of-life improvements to justify installing it, including a fix for sudden freezes and restarts that some iPhone 16 owners complained about.
+
+Source: Wired
+

@@ -1,0 +1,44 @@
+link: https://www.reuters.com/technology/why-does-apple-have-pay-ireland-144-billion-2024-09-10/
+
+source: www.reuters.com
+
+title: Explainer: Why does Apple have to pay Ireland $14.4 billion?
+
+summary: Apple lost a long-running court battle with the European Union on Tuesday, resulting in the company being forced to pay 13 billion euros ($14.4 billion) in back taxes to Ireland, as part of a wider crackdown on so-called "sweetheart deals".
+
+publishDate: 2024-09-10T10:24:47.902Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9993832111358643
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple lost a long-running court battle with the European Union on Tuesday, resulting in the company being forced to pay 13 billion euros ($14.4 billion) in back taxes to Ireland, as part of a wider crackdown on so-called "sweetheart deals".
+
+WHAT HAPPENED?
+In 2016, the European Commission’s competition chief Margrethe Vestager accused Ireland of having granted Apple illegal tax benefits, unfairly diverting investment away from other countries.
+Both Apple and Ireland, whose low tax rates helped it attract Big Tech companies to set up their European headquarters, successfully challenged the EU ruling.
+But the European Court of Justice has now <a href="/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/">sided with Vestager</a>, agreeing Apple had unduly benefited from unfair loopholes in Ireland's tax regime, and that the company must now hand Ireland 13 billion euros in back payments.
+
+WHAT WAS THE 'DOUBLE IRISH' SCHEME?
+Part of Ireland's success in luring tech giants was a result of its old tax regime, under which multinational businesses were able to cut their overseas contributions to single digits.
+The arrangement involved a complex corporate structure whereby a multinational could channel untaxed revenues to an Irish subsidiary which then pays the money to another company registered in Ireland but taxed elsewhere, such as tax haven Bermuda.
+Both companies being Irish led to the term "Double Irish".
+Apple used a version of the Double Irish scheme until around 2014 when, under sustained pressure from the EU and U.S., Ireland closed the loophole.
+
+WHAT DID APPLE SAY?
+Apple expressed disappointment with the ruling, which is final and cannot be appealed.
+"The European Commission is trying to retroactively change the rules and ignore that, as required by international tax law, our income was already subject to taxes in the U.S.," the company said.
+
+HOW IS IRELAND GOING TO SPEND THE CASH?
+In its initial statement, the Irish government did not say. It will likely be placed into a new sovereign wealth fund that Dublin set up last year to invest surging corporate tax receipts that have handed it one of the few budget surpluses in Europe.
+The government already plans to cut taxes and increase spending again in a pre-election Oct. 1 budget. Opposition parties have repeated calls that the Apple tax receipts should be used to further boost spending now on strained services.
+
+WILL OTHER COMPANIES BE FORCED TO PAY BACK TAXES?
+The Commission's case against Ireland was helped by its ability to secure access to documents in which Irish officials were <a href="/article/business/why-the-eu-says-apple-must-pay-ireland-145-billion-in-tax-idUSKCN1151Z4/">unusually frank</a> about the agreement they made with Apple.
+Amazon <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> has been investigated for its tax arrangements in Luxembourg, but last year <a href="/technology/eu-top-court-rejects-250-mln-eu-tax-order-amazon-2023-12-14/">won an ECJ hearing</a> which ruled the company did not have to pay 250 million euros in back taxes.
+In 2019, Starbucks won its fight against an EU demand to pay up to 30 million euros in Dutch back taxes, while Fiat Chrysler Automobiles lost its challenge against an order to stump up a similar amount to Luxembourg.
+

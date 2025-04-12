@@ -1,0 +1,26 @@
+link: https://www.cnbc.com/2024/10/08/apple-could-launch-a-ring-to-rival-samsung-in-2026-ccs-insight.html
+
+source: www.cnbc.com
+
+title: Apple could launch a ring to rival Samsung by 2026, research firm predicts
+
+summary: Apple could launch a connected ring to rival Samsung by 2026, according to CCS Insight, adding to the U.S. tech giant's focus on health.
+
+publishDate: 2024-10-08T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999442100524902
+
+images: ['https://image.cnbcfm.com/api/v1/image/101091331-1672755376781-Arjun_Kharpal_-_Headshot.jpg?v=1672755428&w=60&h=60&ffmt=webp', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT
+
+Apple CEO Tim Cook gestures during the annual developer conference event at the company's headquarters in Cupertino, California, U.S., June 10, 2024. Carlos Barria | Reuters
+
+Apple could launch a connected ring to rival Samsung by 2026, according to CCS Insight, adding to the U.S. tech giant's focus on health. The call is part of CCS Insight's annual predictions report and if it came true, it would be the first new product from the Cupertino giant since the Apple Vision Pro headset launched this year. "Health has become a fundamental pillar for Apple. In fact, I would go so far as to say, at the point that Tim Cook decides to relinquish control and he retires ... I would like to think that one of his major legacies from Apple would be around personal health," Ben Wood, chief analyst at CCS Insight, told CNBC's Beyond the Valley podcast published on Tuesday.
+
+"Given how deeply and personally invested Tim Cook is in health, I think that a ring is a very complimentary extension to Apple," he said, referring to Apple CEO Cook. Wood highlighted Apple's focus on health from products like the Apple Watch with all of its sensors to the latest AirPods Pro 2 headphones that can turn into hearing aids. Similar to smartwatches, a smart ring is embedded with various sensors to track health metrics like heart rate. Oura was one of the pioneers of the space, but Samsung this year launched the Galaxy Ring, bringing this style of product to a bigger audience, as it looks to make a bigger push into the health space. The Samsung Galaxy Ring costs $399 and adds to the South Korean tech giant's portfolio of products from smartphones to smartwatches as it looks to keep users locked into its world of devices.
+

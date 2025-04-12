@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/1-unstoppable-stock-could-join-101500129.html
+
+source: finance.yahoo.com
+
+title: 1 Unstoppable Stock That Could Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club
+
+summary: 
+
+publishDate: 2024-12-14T10:15:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996028542518616
+
+images: ['https://s.yimg.com/ny/api/res/1.2/_sviATU1ZBQu0bA8Z1mzAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/motleyfool.com/cddb0c543bc89ade04ad93d6c01a14a0', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: The U.S. economy has an incredible track record of producing the world's most valuable companies. United States Steel became the first-ever $1 billion company in 1901, and 117 years later in 2018, Apple became the first company in the world to reach a valuation of $1 trillion.
+
+Apple is now worth over $3.7 trillion, and six other technology companies have joined it in the trillion-dollar club: Microsoft, Amazon, Alphabet, Meta Platforms, Tesla, and Nvidia. But I think another one could soon earn its membership.
+
+Oracle (NYSE: ORCL) was founded in 1977 and it has participated in almost every technological revolution ever since. Now, it's quickly becoming a leader in artificial intelligence (AI) data center infrastructure, which could catapult the company to a $1 trillion valuation in under a decade.
+
+Oracle's market capitalization is currently $492 billion, so investors who buy its stock today could double their money if it does join the trillion-dollar club.
+
+Oracle's AI infrastructure is best-in-class
+
+Large language models (LLMs) are at the foundation of every AI chatbot and software application. Developers keep building larger LLMs to make AI software "smarter," but it's a very expensive exercise that requires data centers filled with thousands of graphics processing units (GPUs).
+
+Nvidia supplies the world's most powerful GPUs for developing AI. The more of them a developer can access, the more data their LLMs can ingest and process. The Oracle Cloud Infrastructure (OCI) Supercluster technology allows developers to scale up to 65,000 Nvidia H200 GPUs, which is the highest number in the industry.
+
+But Oracle is about to go a step further. It's currently building new clusters that will allow developers to use up to 131,000 of Nvidia's latest Blackwell GPUs.
+
+OCI's random direct memory access (RDMA) technology is also much faster than traditional Ethernet networks when it comes to moving data from one point to another. Since most developers rent computing capacity on a per-minute basis, faster processing translates to substantial cost savings. That's why Oracle has attracted leading AI start-ups like xAI, OpenAI, Cohere, and more.
+
+During its fiscal 2025 second quarter (which ended Oct. 31), Oracle said GPU usage was up by a whopping 336% compared to the year-ago period, which highlights how quickly demand is climbing for AI infrastructure. The company currently has 98 data center regions in operation, but it plans to build another 1,000 to 2,000 over the long term to meet that demand.
+
+Story Continues
+

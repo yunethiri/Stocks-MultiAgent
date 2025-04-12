@@ -1,0 +1,82 @@
+link: https://www.yahoo.com/tech/iphone-se-ipad-mini-7-080615808.html
+
+source: www.yahoo.com
+
+title: New iPhone SE and iPad mini 7 could gatecrash next week's Apple 'Glowtime' event
+
+summary: 
+
+publishDate: 2024-09-03T08:06:15.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9969568252563477
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fiphone-se-ipad-mini-7-080615808.html&c14=-1', 'https://s.yimg.com/ny/api/res/1.2/XVx2QqHkW0Mofi4KALwADA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/laptopmag_536/b16ac74131c5865baae6ab3b42d81205', 'https://s.yimg.com/ny/api/res/1.2/bI3UjUWDhVafwTrDbZIT_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/b58087f0-2952-11ed-bd77-c4838d5619e0']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Laptop Mag / Rael Hornby
+
+Apple's 'Glowtime' event is now less than a week away and the stage is set for the unveiling of the company's iPhone 16 series of smartphones coinciding with the full release of iOS 18, iPadOS 18, and macOS Sequoia — with each platform redesigned and upgraded with AI in mind to play host to Apple Intelligence later in the year.
+
+The internet is abuzz with iPhone 16 rumors, with leaks hinting towards a redesigned camera island, an improved OLED display, and a powerful new A18 Bionic chipset capable of running on-device AI tools and features.
+
+Meanwhile, quietly in the background, two of Apple's long-rumored and much-anticipated products sit in the wings, waiting for their moment in the spotlight: the iPhone SE 4 and iPad mini 7.
+
+However, that wait may be over. According to one report, stock of the current iPhone SE 3 and iPad mini 6 are in short supply — a trademark tell-tale sign from Apple that new models are on the way, and a potential heads up to a surprise unveiling at this month's special 'It's Glowtime' event.
+
+iPhone SE 4: What it is and what to expect
+
+A new iPhone SE has reportedly been in the works for some time and has been the subject of many leaks and rumors in 2024. From a radical shift in design to utterings of it being Apple's most accessible way of engaging with its new AI suite, Apple Intelligence, the fourth-generation iPhone SE is supposedly decked-out to take the budget smartphone market by storm.
+
+It was 2022 when Apple released the last iPhone SE, and since then we've seen Google's Pixel A-series smartphones dominate when it comes to affordable, feature-rich handsets. However, Apple appears set to make a strong return to this category, with the new iPhone SE 4 rumored to feature a 6.1-inch, 60Hz, OLED panel, 12W wireless charging, Face ID, and one of Apple's later A-series Bionic chipsets — all of which will hopefully be bundled with a price tag south of $500 to remain competitive with the iPhone 16's expected $699 starting price.
+
+The iPhone SE 4 is also expected to adopt a similar design to the iPhone 13 and iPhone 14 while including the iPhone 15 Pro's Action Button. This new design is a departure from its predecessor's iPhone 8-inspired look, ditching the physical home button for a more full-screen look and familiar aluminum frame, though maintaining its simple single-lens rear camera layout.
+
+3D render of the iPhone SE 4 and iPad mini 7 based on information gathered from rumors and leaks. Two iPhone SE 4 smartphones sit on top of an iPad mini 7, one is facing up to show its display, the other is facing down to show its back and camera array.
+
+iPad mini 7: What it is and what to expect
+
+It feels like the iPad mini 7 has been rumored to make an appearance at almost every Apple event the company has hosted this year. Perhaps most obviously, the iPad mini 7 was widely rumored to feature alongside the new iPad Pro M4 and iPad Air 6 M2 at Apple's "Let Loose" event in May. However, beyond a passing mention, we've yet to hear anything of note from Apple when it comes to its pocketable iPad.
+
+That said, its existence and impending release are heralded by reliable sources such as analyst Ming-Chi Kuo, but there appears to be no clear consensus between sources on exactly when we'll see Apple officially unveil the iPad mini 7. It is reasonably well agreed upon that the mini may feature a later A-series Bionic chipset instead of one of Apple's M-series chips, increased storage options, and an improved display to fix the previous model's issues with "jelly scrolling."
+
+When the iPad Mini 7 eventually makes an appearance, we won't be expecting a major overhaul beyond processor and display upgrades, and without the tablet featuring an M-series chipset, it's unlikely to support fresh accessories like the Apple Pencil Pro.
+
+3D render of the iPhone SE 4 and iPad mini 7 based on information gathered from rumors and leaks. Two iPhone SE 4 smartphones sit on top of an iPad mini 7, one is facing up to show its display, the other is facing down to show its back and camera array.
+
+Finally time for a glow up?
+
+According to Bloomberg's Mark Gurman, both the current iPhone SE and iPad mini are facing stock shortages. However, far from this being a sudden run on these products, it's likely a sign of scaled-back production to prepare for new models to take their places.
+
+We see similar drops in stock whenever Apple is preparing to launch a new product, and it's typically something spotted right before that product is unveiled. Also in short supply are models of Apple Watch and AirPods — both of which are rumored to have new models launching alongside the iPhone 16 during this month's "It's Glowtime" event.
+
+Logically, this may imply that the iPhone SE 4 and iPad mini 7 could also feature at this month's event. However, a release at this time would fly in the face of at least one of these product's previous release windows.
+
+Historically, the iPhone SE launches during spring, with the last three models being released between March and April.
+
+Ever since Apple halted its annual upgrade cycle for the iPad mini, its release window has been a little harder to track. However, of the last three releases, two fell within September.
+
+Given what we know about Apple's release habits, it's not beyond the realm of possibility to imagine the iPad mini 7 finally getting its moment to shine at this month's event.
+
+As for the iPhone SE, Apple will likely stick to its spring launch window. However, that's not to say that this is definite. Should this year's iPhone lineup receive a bump in price, the release of the iPhone SE 4 within the same window could help Apple continue to ship units in the face of a global smartphone slump in sales.
+
+That said, many insiders and analysts still point to a 2025 release for the iPhone SE. And despite continued confusion over the eventual availability of the iPad mini 7, the names attached to these claims are more often right than wrong.
+
+3D render of the iPhone SE 4 and iPad mini 7 based on information gathered from rumors and leaks. An iPhone SE 4 smartphone sits on top of an iPad mini 7 and another iPhone SE 4. The top iPhone shows the smartphone's display and iOS 17, the bottom phone is face down and shows the back panel and camera array.
+
+Outlook
+
+Ultimately, we won't know for certain what Apple's plans are until they announce them during this month's "It's Glowtime" event. However, certain indicators suggest a relatively stacked card and a mixed bag of featured products.
+
+Given the routinely predicted release of a small-scale iPad this year from usually reliable sources, the iPad mini 7 feels long overdue. A low-cost option for both iPad and iPhone feels like a safe bet for Apple to bank on if they plan on boosting sales ahead of the Holiday season and October's expected launch of new Macs.
+
+Seeing both products finally make it to store shelves would be a massive boon for Apple fans, but if we had to pick one of these products as the most likely to feature during this month's event, it would be the iPad mini 7.
+
+Still, with Apple, there's always room for a surprise or two. With that in mind, be sure to stick with Laptop Mag throughout the week for updates on the latest news ahead of Apple's unveilings, and be sure to join us on Monday, September 9 for coverage and commentary on everything revealed at the "It's Glowtime" event.
+
+More from Laptop Mag
+

@@ -1,0 +1,23 @@
+link: https://www.reuters.com/technology/apple-supplier-foxconns-q3-profit-rises-14-beats-forecasts-2024-11-14/
+
+source: www.reuters.com
+
+title: Apple supplier Foxconn's Q3 profit rises 14%, beats forecasts
+
+summary: Apple supplier Foxconn reported on Thursday a 14% rise in third-quarter net profit, driven by strong AI server demand.
+
+publishDate: 2024-11-14T06:24:21.912Z
+
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> supplier Foxconn <a href="https://www.reuters.com/markets/companies/2317.TW" target="_blank">(2317.TW)</a> reported on Thursday a 14% rise in third-quarter net profit, driven by strong AI server demand.
+The Taiwanese company, the world's largest contract electronics maker, reported net profit for the July-September quarter rose to T$49.3 billion ($1.5 billion) from T$43.1 billion in the same period the previous year, according to Reuters calculations.
+The profit beat analysts' average estimate of T$46.3 billion.
+($1 = 32.5590 Taiwan dollars)
+

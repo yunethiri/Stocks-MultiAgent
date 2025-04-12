@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/tech/apple-slowing-down-schedule-everything-150000300.html
+
+source: www.yahoo.com
+
+title: Apple’s slowing down its schedule for everything other than iPhones, says insider
+
+summary: 
+
+publishDate: 2024-10-09T15:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9902933835983276
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: Apple’s slowing down its schedule for everything other than iPhones, says insider
+
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick Summary
+
+After some high-profile quality control issues, Apple is reportedly slowing down its product update strategy to move away from annual releases for non-iPhone devices.
+
+This could start to come into force from next year.
+
+For some years now Apple has been on a fairly predictable schedule: it releases new iPhones, AirPods and Apple Watches in September, it updates its Macs in October or November and there are typically new iPads and other products in the spring. However, it is claimed the release cycle is putting too much pressure on the company's engineers, so Apple is reportedly going to update some of its hardware at a more leisurely pace.
+
+The change won't affect the iPhone. Annual updates are a crucial part of Apple's calendar: for all kinds of reasons including marketing and revenues, so the annual iPhone event is here to stay. But, according to Mark Gurman from Bloomberg, this year's Apple Watch launch was the shape of things to come.
+
+What does a slower schedule mean for Apple devices?
+
+This year's Apple Watch event updated the core Apple Watch – but it simply added a new colour for the Apple Watch Ultra 2, and it didn't unveil the next generation of Apple Watch SE.
+
+As Gurman explains, that kept the focus firmly on the core Apple Watch model; the other two models will get updated next year and then likely remain on a two-year schedule.
+
+One of the reasons Apple is reportedly doing this is because of quality control. For example iPadOS 18 had to be pulled from the new iPad Pros because of serious software issues – it was only re-released for those devices last week – and the third beta of watchOS 11.1 had to be pulled too. Last month, there were software issues with HomePods.
+
+The problem, it seems, is that Apple doesn't have different teams for different devices.
+
+Gurman gives the example of Apple's audio engineers: they don't just work on AirPods, but also on the speakers for HomePods and Apple Watches, iMacs and MacBook Pros. Not only that, but those devices are using various operating systems.
+
+The current Apple hardware range runs watchOS, iOS, iPadOS, macOS and tvOS, and there's apparently a homeOS coming too. That's an awful lot of bases to cover, and the recent software issues in particular suggest that Apple is trying to do too many things in too short a time period.
+

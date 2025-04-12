@@ -1,0 +1,31 @@
+link: https://www.reuters.com/technology/apple-says-it-uses-no-nvidia-gpus-train-its-ai-models-2024-07-29/
+
+source: www.reuters.com
+
+title: Apple says it uses no Nvidia GPUs to train its AI models
+
+summary: Apple relied on chips designed by Alphabet's Google rather than industry leader Nvidia to build its new artificial-intelligence software infrastructure that will power its forthcoming suite of AI tools and features, according to an Apple research paper it published on Monday.
+
+publishDate: 2024-07-29T22:04:06.307Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999990701675415
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> relied on chips designed by Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google rather than industry leader Nvidia <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> to build its new artificial-intelligence software infrastructure that will power its forthcoming suite of AI tools and features, according to an Apple research paper it published on Monday.
+Apple's decision to rely on Google's cloud infrastructure is notable because Nvidia <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> produces the most sought-after AI processors. Including the chips made by Google, Amazon.com <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> and other cloud computing companies, Nvidia commands roughly 80% of the market.
+In the research paper, Apple did not explicitly say that it uses no Nvidia chips, but its description of the hardware and software infrastructure of its AI tools and features lacked any mention of Nvidia hardware.
+Apple could not immediately be reached for comment on Monday.
+Apple said in the research paper that to train its AI models, it used two flavors of Google's tensor processing unit (TPU) that are organized in large clusters of chips. To build the AI model that will operate on iPhones and other devices, Apple used 2,048 of the TPUv5p chips. For its server AI model, Apple deployed 8,192 TPUv4 processors.
+Nvidia does not design TPUs but rather focuses its efforts on so-called graphics processing units (GPUs) that are widely used for AI efforts.
+Unlike Nvidia, which sells its chips and systems as standalone products, Google sells access to the TPUs through its Google Cloud Platform. Customers interested in buying access must build software through Google's cloud platform in order to use the chips.
+Apple is <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">rolling out portions Apple Intelligence</a> to its beta users this week.
+<a href="/technology/artificial-intelligence/how-apple-used-googles-help-train-its-ai-models-2024-06-11/">Reuters reported</a> the use of the TPU chips in June but Apple did not disclose the full extent of its reliance on Google hardware until Monday's research paper.
+Google did not return a request for comment, and Nvidia declined to comment.
+Apple's engineers said in the paper it would be possible to make even larger, more sophisticated models with Google's chips, than the two models it discussed in the paper.
+Apple unveiled a slew of new AI features at its June developer conference, including integrating OpenAI's ChatGPT technology into its software.
+

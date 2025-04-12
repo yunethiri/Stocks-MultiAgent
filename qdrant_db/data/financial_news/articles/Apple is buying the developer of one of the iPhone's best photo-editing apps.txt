@@ -1,0 +1,26 @@
+link: https://www.yahoo.com/tech/apple-is-buying-the-developer-of-one-of-the-iphones-best-photo-editing-apps-165853866.html
+
+source: www.yahoo.com
+
+title: Apple is buying the developer of one of the iPhone's best photo-editing apps
+
+summary: 
+
+publishDate: 2024-11-01T16:58:53.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999988079071045
+
+images: ['https://s.yimg.com/ny/api/res/1.2/xx3sZhWYX_HJ16kSbQbj_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/b10c30e0-9870-11ef-9f3b-6cdc867d4d39', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-is-buying-the-developer-of-one-of-the-iphones-best-photo-editing-apps-165853866.html&c14=-1', 'https://s.yimg.com/g/images/spaceball.gif']
+
+content: Apple is set to buy a notable developer of photo-editing apps. The company is acquiring Pixelmator, pending regulatory approval. Terms of the deal haven't been disclosed.
+
+While it seems likely that Apple will eventually bake some of Pixelmator's tech into its own Camera and Photos apps, the latter said "there will be no material changes to the Pixelmator Pro , Pixelmator for iOS and Photomator apps at this time." However, it promised there will be "exciting updates" in the future.
+
+Pixelmator said in a statement that it has taken inspiration from Apple since the very beginning of its 17-year existence and that it has similarly focused on "design, ease of use and performance." After the deal closes and it joins Apple, Pixelmator expects to "have the ability to reach an even wider audience and make an even bigger impact on the lives of creative people around the world."
+
+For quite some time, Pixelmator's apps have been a popular alternative to the likes of Photoshop within the Apple ecosystem. Its tools are available on Mac, iPhone, iPad and even Vision Pro.
+

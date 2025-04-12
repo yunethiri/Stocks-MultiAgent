@@ -1,0 +1,30 @@
+link: https://www.reuters.com/technology/nvidia-rallies-poised-dethrone-apple-most-valuable-company-2024-10-14/
+
+source: www.reuters.com
+
+title: Nvidia rallies, poised to dethrone Apple as most valuable company
+
+summary: Shares of Nvidia neared record highs on Monday, putting the heavyweight AI chipmaker on the brink of dethroning Apple as the world's most valuable company.
+
+publishDate: 2024-10-14T17:10:51.076Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999309778213501
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Shares of Nvidia <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> neared record highs on Monday, putting the heavyweight AI chipmaker on the brink of dethroning Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> as the world's most valuable company.
+With investors betting on strong demand for its next-generation Blackwell AI processors, the Santa Clara, California company's stock climbed 2.8% to $138.57, just short of its intraday record high of $140.76 on June 20.
+In June, Nvidia <a href="/markets/us/nvidia-becomes-worlds-most-valuable-company-2024-06-18/">briefly became</a> the world's most valuable company. It was overtaken by Microsoft, and the tech trio's market capitalizations have been neck-and-neck for several months.
+The latest gains lifted Nvidia's market value to $3.4 trillion, just below Apple's $3.5 trillion value and above Microsoft's $3.1 trillion.
+Nvidia has been Wall Street's biggest winner from a race between Alphabet <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a>, Microsoft, Amazon <a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank">(AMZN.O)</a> and other major tech companies to dominate emerging AI technology.
+"We believe the major companies in AI ... face an investment environment characterized by a Prisoner's Dilemma — each is individually incentivized to continue spending, as the costs of not doing so are (potentially) devastating," TD Cowen analysts wrote in a report on Sunday.
+TD Cowen reiterated its $165 price target for Nvidia, which it called its "Top Pick".
+As investors gear up for quarterly reporting season, Apple rose 1.2% and Microsoft added 0.9%, helping drive the S&P 500 <a href="https://www.reuters.com/markets/quote/.SPX" target="_blank">(.SPX)</a> up 0.7% to its own record high.
+Taiwan Semiconductor Manufacturing Co <a href="https://www.reuters.com/markets/companies/2330.TW" target="_blank">(2330.TW)</a>, the contract manufacturer that produces Nvidia's processors, is <a href="/technology/tsmc-third-quarter-profit-seen-jumping-40-strong-ai-chip-demand-2024-10-14/">expected to report</a> a 40% leap in quarterly profit on Thursday, thanks to soaring demand.
+Analysts expect spending to build out AI data centers will help Nvidia's annual revenue more than double to nearly $126 billion, according to LSEG data.
+While Nvidia's rally has lifted the S&P 500 to record highs, investors worry optimism about AI could evaporate if signs emerge of a slowdown in spending on the technology.
+

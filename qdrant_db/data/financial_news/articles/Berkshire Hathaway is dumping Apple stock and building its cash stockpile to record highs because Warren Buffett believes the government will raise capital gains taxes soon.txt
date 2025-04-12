@@ -1,0 +1,44 @@
+link: https://finance.yahoo.com/news/berkshire-hathaway-dumping-apple-stock-190102086.html
+
+source: finance.yahoo.com
+
+title: Berkshire Hathaway is dumping Apple stock and building its cash stockpile to record highs because Warren Buffett believes the government will raise capital gains taxes soon
+
+summary: 
+
+publishDate: 2024-11-04T19:01:02.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.4247553050518036
+
+images: ['https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e', 'https://s.yimg.com/ny/api/res/1.2/2mSv17kfdt3LsywXl0FU7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/ea1360eef24d7bd0272e5d24ce29e6f8', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: Berkshire Hathaway’s cash reserves are at an all-time high of $325.2 billion as Warren Buffett quickly exits what has been one of his most profitable trades of the past decade.
+
+The Oracle of Omaha and his conglomerate holding company Berkshire started to offload shares of Apple late last year, paring down a major bet on the tech company that it opened in 2016.
+
+Berkshire picked up its selling pace earlier this year and by the end of the second quarter, it had halved its stake in Apple, the Financial Times reported, helping to bring its cash reserve to an all-time-high of $277 billion at the time.
+
+But by the end of the third quarter, Berkshire Hathaway smashed its previous cash record by selling another quarter of its stake in the tech company, or 100 million shares, bringing its total shares to 300 million, down from 400 million.
+
+In just over a year, the company has sold more than two-thirds of its stake in Apple. Although the tech company is still its top holding at $69.9 billion worth of shares, at its peak, Apple made up $178 billion worth of Berkshire Hathaway’s portfolio.
+
+The Apple-selling frenzy comes as Buffett has pared down his equity holdings across the board over the past two years. In the third quarter, Berkshire bought just $1.5 billion worth of stocks, making it a net seller of equities for the eighth consecutive quarter, CNN reported.
+
+Berkshire’s $325.2 billion in cash and short-term treasuries now outweigh the market value of its equities, which stood at $271.6 billion as of the end of the third quarter, according to its most recent earnings report. While some have questioned Berkshire's big stock sales, over the last three years the company has done just fine, with its shares rising 52%, outpacing the S&P 500's 22% increase over the same period.
+
+View this interactive chart on Fortune.com
+
+Part of the reason for the massive equity sale lies in Buffett’s prediction that the capital-gains tax rate will increase over the next several years, possibly to help pay down the federal deficit, which stood at about 122% of the country’s GDP as of 2023.
+
+“I would say with present fiscal policies I think that something has to give and I think that higher taxes are quite likely,” Buffett said during Berkshire’s annual shareholder meeting in May.
+
+Vice President Kamala Harris has said that if elected president, she would raise the corporate tax rate from 21% to 28%. Meanwhile, former President Donald Trump has vowed to cut the corporate tax rate to 15% for companies that produce products in the U.S.
+
+While Buffett said Berkshire Hathaway would retain Apple as its largest investment, he added that he wanted to keep more cash on hand.
+
+Story Continues
+

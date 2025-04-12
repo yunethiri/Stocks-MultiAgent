@@ -1,0 +1,32 @@
+link: https://www.yahoo.com/tech/apple-officially-discontinued-three-iphones-150844446.html
+
+source: www.yahoo.com
+
+title: Apple has officially discontinued these three iPhones
+
+summary: 
+
+publishDate: 2024-09-11T15:08:44.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999721348285675
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-officially-discontinued-three-iphones-150844446.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45']
+
+content: Apple introduced four new iPhones this week at the company’s “It’s Glowtime” event. Soon after, as it usually does following new iPhone announcements, Apple retired several older iPhones.
+
+On Monday, Apple announced the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max — adding to the existing lineup that includes the iPhone 14, iPhone 14 Plus, iPhone 15, iPhone 15 Plus, and third-generation iPhone SE. To make room for the newest iPhones, Apple is no longer selling the iPhone 13, iPhone 15 Pro, and iPhone 15 Pro Max.
+
+The discontinued iPhone models will still be available at third-party retailers for a while. In some cases, they may be sold at substantial discounts. Even though Apple no longer offers these phones for purchase, they will continue to receive iOS and security updates for a long time. For example, Apple’s upcoming iOS 18 update will support iPhones starting with the 2018 models, including the iPhone XS, iPhone XS Max, and iPhone XR.
+
+Apple iPhone 13 Dan Baker / Digital Trends
+
+Before purchasing an older phone, it’s important to note that Apple Intelligence will only be supported on the iPhone 16 series and the iPhone 15 Pro and iPhone 15 Pro Max. It will not work on any other older iPhone models. The iPhone 16 Pro and iPhone 16 Pro Max also include larger displays.
+
+The iPhone 16 series will be available for sale starting this Friday, September 13, with the first orders being shipped one week later on September 20. These phones offer several new features, including all-new chips, a new Camera Control feature, new colors, and more. Camera improvements are also coming to all four models.
+
+In addition to the new iPhones, Apple has announced the Apple Watch Series 10 and AirPods 4, as well as slight improvements to the Apple Ultra 2, AirPods Max, and AirPods Pro 2.
+

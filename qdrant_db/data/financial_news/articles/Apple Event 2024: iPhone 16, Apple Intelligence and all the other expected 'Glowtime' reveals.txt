@@ -1,0 +1,82 @@
+link: https://www.yahoo.com/news/apple-event-2024-iphone-16-232655975.html
+
+source: www.yahoo.com
+
+title: Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected 'Glowtime' reveals
+
+summary: 
+
+publishDate: 2024-09-03T23:26:55.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999880790710449
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197618800&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fapple-event-2024-iphone-16-232655975.html&c14=-1', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/E__LWSTEophiUV1Yw_Uaqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/techcrunch_350/b16f6e3037d2fd372b129098988128f0']
+
+content: Sometimes a headline is enough. Apple will reveal the iPhone 16 at its September 9 “It’s Glowtime” event; this much we can tell you for certain. But Apple doesn’t invite us to fly across the country for a single product — not to mention booking a hotel room on the 49ers opening day. Football aside, the timing of the annual event is important, as it’s one last major opportunity to announce a bunch of hardware ahead of the holidays.
+
+The livestream kicks off on Monday at 10 a.m. PT. The invites dropped last week with the “Glowtime” tag line and a color scheme to match. Apple loves to sprinkle small hints into these graphics, and this one appears more on the nose than most.
+
+https://youtu.be/uarNiSl_uh4
+
+Apple Intelligence and Siri
+
+Back at WWDC in June, Apple finally revealed its approach to generative AI. The offering is an extremely Apple approach, right down to the name — Apple Intelligence — which happily hijacks the familiar AI initialism. The “small model” method is emblematic of the company in the sense that it’s trained on limited data relevant to improving the user experience.
+
+That’s a marked difference between it and much larger “black box” models like OpenAI's and Google's Gemini. The efficacy of the approach remains to be seen, as we wait for Apple Intelligence’s wider release. It will almost certainly be a work in progress, as — at the very least — all of generative AI is, at the end of the day.
+
+The answer for how this all ties into “Glowtime” can be found in Siri. In June, Apple announced a much-needed glow up for the O.G. smart assistant. Along with generative AI models and better app integration, the company revealed an updated interface. Gone is the familiar colorful Siri circle, swapped out for a glowing border that surrounds the display when Siri is listening/processing.
+
+Out of every iPhone ever launched, two models will be able to run Apple Intelligence: the iPhone 15 Pro and iPhone 15 Pro Max. According to the company, that’s due to limitations with older chips. Given that non-Pro iPhone 15 models are effectively running the iPhone 14 Pro’s chipset, Apple can credibly make the argument that only one of its chips so far was built with Apple Intelligence in mind. You can decide for yourself whether you think the exclusion of the iPhone 15 is entirely a hardware matter.
+
+With all of this in mind, next week’s event is the perfect chance to announce that Apple Intelligence will be available across the new iPhone line.
+
+iPhone 16, 16 Pro and 16 Pro Max
+
+Photo of a new iPhone 12 package on top of a MacBook Pro package.
+
+https://twitter.com/theapplehub/status/1830046139112178111
+
+We’re heading toward the promise of true edge-to-edge displays millimeter by millimeter. According to one recent leak, the iPhone 16 Pro Max may get an even larger display, courtesy of smaller bezels, moving from 1.5mm to 1.4mm. So, what’s a few fractions of a millimeter between friends? A lot when you’re talking about a total size of under 2mm, turns out.
+
+That will reportedly bump the Pro Max’s screen size from 6.69 to 6.86 inches, without increasing the device’s overall footprint by some unwieldy amount. The iPhone 15 Pro Max is already a big phone. The iPhone 16 Pro, meanwhile, is said to be making the leap from 6.12 to 6.27 inches.
+
+Camera improvements are a no-brainer for annual updates. The most interesting of the bunch is a new glass molded lens that is thinner and lighter, while dramatically increasing optical zoom capabilities. Optical zoom capabilities are worth paying attention to, as they don’t suffer from the same sort of image degradation issues as their digital counterpart.
+
+https://twitter.com/SonnyDickson/status/1775704247348412559?s=20
+
+Leaked dummy models from early in the year give us a rough idea of each model’s design. Most notable on the 16 and 16 Plus are the shift from a diagonal to vertical camera setup. The models, which are designed for third parties to get a jumpstart on accessories, feature the addition of a new “Capture” button across the line. The new feature is designed to provide quick access to different camera capabilities.
+
+The most welcome change, however, may be bigger batteries. Screen and camera improvements are all well and good, but battery life remains a struggle. This particular report could use more substantiating, so take that with an even larger grain of salt than usual. Additional reports, meanwhile, have pointed to Apple making battery replacements more accessible for users. Given that the company has begun offering home repair options as more governments and localities pass right to repair laws, this one certainly tracks.
+
+The Pro models are also expected to gain Wi-Fi 7, which would be a big boon for the latest wireless standard.
+
+Apple Watch Series 10/Ultra 3
+
+five color options for Apple watch series 9
+
+As hard as it is to believe, the Apple Watch turns 10 this year. They grow up so quickly. Apple made a big splash with the iPhone X, so it follows that it'd have something similar planned for the Apple Watch Series 10 (Series X?). Earlier rumors pointing to a significant redesign have cooled in recent months, making way for a familiar design with a larger display, bumping up to 45mm and 49mm models. The new watch should also be slimmer than its predecessor — something especially important when discussing a watch.
+
+Like the iPhone 16, the Apple Watch Series 10 and Ultra 3 should get a new processor — the S10, one imagines. That could mean that additional AI functionality isn’t far out. A glucose monitor is the most exciting rumored addition. Sleep apnea detection is also rumored for the device, but as Bloomberg notes, Apple’s legal woes with Masimo may well trip up that feature.
+
+A long-awaited update to the budget Apple Watch SE with a plastic body could also appear next week.
+
+AirPods 4
+
+Stay with me on this one. Apple is reportedly announcing two versions of the AirPods 4 next week. The cheaper model will replace the still-available AirPods 2, and the more premium version will replace the AirPods 3. Still with me? The more premium model is set to blur the line between it and the AirPods Pro, by adding Active Noise Cancelation and Find My features. All of the models should also finally ditch Lightning for USB-C, as the company transitions its products to comply with EU mandates.
+
+So, how will Apple maintain a clear line between the mid-tier and Pro pods? We’ll have to wait on the answer to that one, as we’re not expecting new AirPods Pro next week. We may, however, finally get the over-ear AirPods Max 2, four years after the original.
+
+New Macs
+
+This one is a big maybe. Recent reporting suggests that Apple will hold off on announcing M4 macs until November. Supply chain issues have been dictating the Mac’s release calendar ever since the pandemic. A big, USB-A-less version of the Mac Mini is said to be arriving before end of year, along with a new iMac and MacBook Pro.
+
+Glow with the flow
+
+Apple's iPhone 16 event invite, stating "It's Glowtime"
+
+Here’s what we can say for sure: Apple’s Glowtime event is scheduled for Monday, September 9 at 10 a.m. PT. As always, we’ll be there, bringing it to you live.
+

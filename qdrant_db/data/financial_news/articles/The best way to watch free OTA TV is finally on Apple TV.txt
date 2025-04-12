@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/best-way-watch-free-ota-183434890.html
+
+source: www.yahoo.com
+
+title: The best way to watch free OTA TV is finally on Apple TV
+
+summary: 
+
+publishDate: 2024-10-02T18:34:34.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9965103268623352
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/B5VDIrIclqUA_k5Ik.flSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/digital_trends_973/38473953deffbd116a2c1dd9f2c3fc8b', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: You can now use the fourth-generation Tablo with Apple TV. That’s it. That’s the tweet. OK, I’ll expand. That means you can now use the best device for watching free, over-the-air (OTA) broadcast channels on what we consider to be the best streaming hardware you can buy.
+
+It’s been a long time coming. This fourth-gen Tablo has been available for about a year. And in that time, it’s worked great on the major platforms like Roku and Amazon Fire TV. You connect an antenna to the Tablo, fire up the app, and watch — and record — free broadcast channels on multiple devices. And you can do so on up to four devices at once, depending on whether you get the two- or four-channel Tablo. You’ll also get a number of free, ad-supported channels — because you can’t go anywhere in 2024 without running into a FAST channel.
+
+Tablo has long been one of the two major options for watching OTA channels on multiple devices over your home network. It also was the easiest if you wanted to record anything on those channels. And the latest model released in fall 2023 improved on the experience in almost every way, as we explained in our full Tablo review. The hardware is better. The onscreen guide is about as good as any. And you can expand on the internal storage by plugging in an external hard drive. And most important — no additional subscriptions. It absolutely lapped the likes of HDHomeRun, both in terms of experience (HDHomeRun’s app remains awful) and support, which still exists, but it’s definitely dwindled over the years.
+
+Buy at AmazonMissing, however, was support for Apple TV. That’s now changed. You’ll need a fourth-gen Tablo, of course, and also the App from the Apple TV App Store. (Be sure to get the dark-blue one, which works with this latest model.)
+
+The only “major” feature missing here is support for ATSC 3.0, otherwise known (or not) as NextGen TV, which allows for, among other things, higher resolution and data to flow from your end of the equation back to the folks showing the shows and selling the ads. That’s very much been stuck in a chicken-and-egg situation, and Tablo hasn’t been in any hurry to wade into that mire. (There also have been patent issues that have kept many from adopting the ATSC 3.0 standard.)
+
+In any event, this is a good thing for Apple TV owners who want a way to watch their local channels for free.
+

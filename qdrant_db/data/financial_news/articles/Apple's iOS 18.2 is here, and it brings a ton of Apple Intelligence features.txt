@@ -1,0 +1,68 @@
+link: https://www.yahoo.com/tech/apples-ios-18-2-brings-140635480.html
+
+source: www.yahoo.com
+
+title: Apple's iOS 18.2 is here, and it brings a ton of Apple Intelligence features
+
+summary: 
+
+publishDate: 2024-12-11T14:06:35.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999337196350098
+
+images: ['https://s.yimg.com/uu/api/res/1.2/tPxtHFFGKy4QlOASUTkwvw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/south_china_morning_post_us_228/b8a3d5fc00433afe9ee6640f24411009.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/F8LJls3C4Aa9SR7t1edNEw--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1174d4bc14e9952c8b06d65df7fe7633.cf.webp', 'https://s.yimg.com/cv/apiv2/games/images/Crossword_GIF_04_300_95.webp']
+
+content: When Apple launched iOS 18 in September, it was perhaps the first time that the company's round number release was the most important iOS release of the year.
+
+That's because the company opted for a slow, staggered launch of its AI (Apple Intelligence) features, most of which weren't available in iOS 18. Today, with the launch of iOS 18.2, nearly all of these features are live on the iPhone, the iPad, and on the Mac.
+
+SEE ALSO: Apple Intelligence on Mac: 5 AI-powered features you can test right now
+
+What's launching today, and where?
+
+Apple is launching iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2.
+
+Advertisement Advertisement
+
+Advertisement
+
+However, these new versions are only available to users who have device and Siri language set to localized English for Australia, Canada, Ireland, New Zealand, South Africa, the U.K., or the U.S.
+
+Not all Apple Intelligence features are available in the EU; they will start rolling on the iPhone and iPad in April. The exception is the Mac, where Apple Intelligence features are available even in the EU.
+
+Which new Apple Intelligence features are available today?
+
+In addition to the AI features introduced in iOS 18, and iOS 18.1, today iPhone, iPad and Mac users are also getting:
+
+Genmoji
+
+Image Playground
+
+Image Wand for Notes
+
+Describe Your Change option in Writing Tools
+
+Visual Intelligence features for the Camera
+
+Seamless integration of ChatGPT in Siri, as well as Writing Tools
+
+For a more detailed overview, check Mashable's guide to iOS 18.2 and the Apple Intelligence features you can test now,
+
+Is this all Apple Intelligence has to offer?
+
+Nope. According to Apple, additional Apple Intelligence capabilities will be available in the "months to come."
+
+Advertisement Advertisement
+
+Advertisement
+
+This includes a more capable Siri with onscreen awareness and the ability for Siri to take "hundreds of new actions" in Apple's own apps, as well as third-party apps. Priority Notifications, which will notify you only of the most important things on your phone are also coming, and Image Playground will get the ability to create images in a Sketch style.
+
+Which devices support these new features?
+
+Apple Intelligence features are available on iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15 Pro, iPhone 15 Pro Max, iPad with A17 Pro or M1 and later, and Mac with M1 and later.
+

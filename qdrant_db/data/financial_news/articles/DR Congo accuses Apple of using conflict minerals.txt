@@ -1,0 +1,50 @@
+link: https://www.bbc.com/news/articles/cn8g540wz3jo
+
+source: www.bbc.com
+
+title: DR Congo accuses Apple of using conflict minerals
+
+summary: The tech giant says it works hard to mitigate risks and make sure its supply chain is clean.
+
+publishDate: 2024-12-17T13:37:35.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.8835006356239319
+
+images: ['https://ichef.bbci.co.uk/news/480/cpsprodpb/2f62/live/2e184200-b7b5-11ef-aff0-072ce821b6ab.jpg.webp', 'https://ichef.bbci.co.uk/news/1024/branded_news/8e07/live/b3feae70-bc76-11ef-9e94-492e454c4f8c.jpg', 'https://ichef.bbci.co.uk/news/480/cpsprodpb/fe3d/live/1b273400-bc59-11ef-a278-abc31536c8b8.jpg.webp']
+
+content: DR Congo accuses Apple of using conflict minerals
+
+The mineral-rich east of DR Congo has seen years of conflict often fuelled by what lies underneath the ground
+
+The authorities in France and Belgium will now look at whether there is enough evidence to take the legal action further.
+
+In its 2023 review of the issue , Apple said it monitors its supply chain and works to mitigate risks as well as improving measures to trace the source of minerals.
+
+Acting on behalf of the Congolese government, lawyers have argued that Apple is complicit in crimes committed by armed groups that control some of the mines in the east of DR Congo.
+
+The Democratic Republic of Congo has filed criminal complaints in France and Belgium against subsidiaries of the tech giant Apple, accusing it of using conflict minerals.
+
+In a statement, the lawyers for the DR Congo talked about Apple's supply chain being contaminated with "blood minerals".
+
+They allege that the tin, tantalum and tungsten is taken from conflict areas and then "laundered through international supply chains".
+
+"These activities have fuelled a cycle of violence and conflict by financing militias and terrorist groups and have contributed to forced child labour and environmental devastation."
+
+Apple has not responded to a BBC request for comment, but in its report to the US Securities and Exchange Commission detailing its actions on this issue in 2023, the company highlights the measures it has taken to ensure that it is not using conflict minerals.
+
+"Although Apple does not directly purchase, procure, or source primary minerals, we are committed to meeting and exceeding internationally accepted due diligence standards for primary minerals and recycled materials in our supply chain," it said.
+
+As a result, all those involved in the supply chain have to participate in an "independent third-party conflict minerals audit". Apple said that in 2023 it removed 14 "smelters and refiners" that would not participate or did not meet the requirements for responsible sourcing.
+
+The east of DR Congo is a major source of minerals and the global thirst for them has fuelled wars there for decades.
+
+Rights groups have long alleged that large quantities of minerals from legitimate mines, as well as from facilities run by armed groups, are transported to neighbouring Rwanda and end up in our phones and computers.
+
+Rwanda has in the past described the Congolese government's legal action against Apple as a media stunt.
+
+It has denied selling any conflict minerals to the tech company.
+

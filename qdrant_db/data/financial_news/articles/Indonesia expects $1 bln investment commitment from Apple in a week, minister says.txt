@@ -1,0 +1,21 @@
+link: https://www.reuters.com/technology/indonesia-expects-1-bln-investment-commitment-apple-a-week-minister-says-2024-12-03/
+
+source: www.reuters.com
+
+title: Indonesia expects $1 bln investment commitment from Apple in a week, minister says
+
+summary: Indonesia is expecting to get a $1 billion investment commitment from tech firm Apple Inc in a week, its investment minister said on Tuesday, after the government banned iPhone 16 sales for failing to meet its local content rules.
+
+publishDate: 2024-12-03T10:02:01.620Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999834299087524
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Indonesia is expecting to get a $1 billion investment commitment from tech firm Apple Inc <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> in a week, its investment minister said on Tuesday, after the government banned iPhone 16 sales for failing to meet its local content rules.
+Minister Rosan Roeslani told lawmakers in a hearing that Indonesia expects more investment if Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> decides to make Indonesia part of its supply chain.
+

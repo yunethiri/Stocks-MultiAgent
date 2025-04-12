@@ -1,0 +1,28 @@
+link: https://www.yahoo.com/news/apple-reportedly-announcing-iphone-16-214339419.html
+
+source: www.yahoo.com
+
+title: Apple reportedly announcing iPhone 16 lineup and more on Sept. 10
+
+summary: 
+
+publishDate: 2024-08-24T21:43:39.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999915361404419
+
+images: ['https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197618800&c7=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fapple-reportedly-announcing-iphone-16-214339419.html&c14=-1', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/yahoo-news-logo-2019.svg']
+
+content: Apple will be unveiling new products on September 10, with the announced phones going on sale on September 20, according to a report from Bloomberg’s Mark Gurman.
+
+That lineup will reportedly include the iPhone 16, with larger screens on the Pro models and a new button just for taking pictures. The phones should also support Apple Intelligence, the company’s suite of AI features announced earlier this year.
+
+The event could also include announcements of the Apple Watch Series 10, which will be thinner than past models, with a larger screen, as well as new AirPods, with noise cancellation coming to more models.
+
+While invites for the September 10 event have not yet gone out, the timing would be consistent with Apple’s press events in recent years.
+
+Gurman also reported that Apple is planning to update its Macs with the M4 processors, but the new Macs probably won’t be announced until later in the fall.
+

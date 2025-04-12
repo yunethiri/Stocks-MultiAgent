@@ -1,0 +1,36 @@
+link: https://www.cnbc.com/2024/07/30/neuralink-rival-synchron-offers-thought-control-with-apple-vision-pro-.html
+
+source: www.cnbc.com
+
+title: Neuralink rival Synchron lets patients control Apple Vision Pro with their thoughts
+
+summary: Neuralink competitor Synchron announces integration with Apple Vision Pro
+
+publishDate: 2024-07-30T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999662637710571
+
+images: ['https://image.cnbcfm.com/api/v1/image/108013171-Screen_Shot_2024-07-29_at_35724_PM.png?v=1722283157&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Neurotech startup Synchron on Tuesday announced it has connected its brain implant to Apple 's Vision Pro headset. It's now possible for patients with limited physical mobility to control the device using only their thoughts.
+
+Synchron is building a brain-computer interface, or a BCI, designed to help patients with paralysis operate technology like smartphones and computers with their minds. The company has implanted its BCI in six patients in the U.S. and four in Australia. It still needs approval from the U.S. Food and Drug Administration to commercialize its technology more broadly.
+
+Apple released the Vision Pro earlier this year, and users typically control it with eye movements, voice commands and hand gestures. Synchron has been working to make it accessible to patients who can't speak or move their upper limbs.
+
+Synchron CEO Thomas Oxley said he thinks Apple's iOS accessibility platform is best in class, which is why the company has initially focused on helping patients control devices within Apple's ecosystem. He said Synchron will likely work to connect its BCI to other headsets, but it's starting with the Vision Pro.
+
+Apple has been "very supportive" of the Vision Pro integration, he added.
+
+"I think BCI is very well placed to add huge value as a synergistic integration into the Apple ecosystem," Oxley told CNBC in an interview.
+
+Synchron is a part of an increasingly competitive BCI industry, and the company said Tuesday that it is the first to connect its system to Apple's Vision Pro. Other companies like Paradromics, Precision Neuroscience, Blackrock Neurotech and Elon Musk's Neuralink are also developing BCI systems, though their designs and ambitions all vary.
+
+Synchron's BCI is inserted through a patient's jugular vein, so no open brain surgery is required. It's delivered to the blood vessel that rests on the surface of the brain's motor cortex. The stent-like device is connected to an antenna that sits under the skin in the chest. The antenna collects raw brain data and sends it to external devices.
+
+Apple did not respond to CNBC's request for comment.
+

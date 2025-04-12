@@ -1,0 +1,80 @@
+link: https://www.yahoo.com/tech/just-tried-apple-intelligence-photo-100053980.html
+
+source: www.yahoo.com
+
+title: I just tried Apple Intelligence photo search in iOS 18 — and I'm surprised with the results
+
+summary: 
+
+publishDate: 2024-09-30T10:00:53.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9977251887321472
+
+images: ['https://s.yimg.com/ny/api/res/1.2/QMChOCsrlBzpHqZbKDVZRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3NA--/https://media.zenfs.com/en/toms_guide_826/1368bc39c5386fc848f4fbad564b060a', 'https://s.yimg.com/ny/api/res/1.2/f_xV7rJd6FrGzllX9kwmsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI5MjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/0f550920-295a-11ed-bffb-cbfc786734bb', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+Apple Intelligence will usher in a lot of new features around images, whether it's generative image editing or creating a movie out of photos stored on your iPhone using just a text prompt. But the most useful change coming via Apple Intelligence may be one that helps you find the images you already have. And it's got implications that could extend beyond the devices capable of running Apple Intelligence.
+
+I'm talking about natural language search, which is coming to the Photos app in the first round of Apple Intelligence feature updates arriving on the iPhone next month. According to Apple, you'll be able to find photos and videos just by describing what you're looking for — not keywords, but actual descriptive phrases like you're talking to another human.
+
+Natural language search is part of the Apple Intelligence features included in the iOS 18.1 public beta, so anyone who's installed that update on a compatible iPhone can take the new feature out for a whirl. And that's exactly what I've been doing as I've used this new form of searching to plumb the depths of my image library. Here's what I've learned about the changes Apple's made to photo searching.
+
+What's new with photo searches
+
+searching for photos of my daughter drinking a milkshate in Photos on iOS 18.1
+
+In olden times — well, iOS 17 — you'd search for images in the Photos app, one image at a time. If I wanted to find a particular photo of my daughter drinking a milkshake from a trip to Hollywood a few years back, I might start by searching for pictures of her with her name. Then, I could try entering terms like "milkshake," or "Hollywood" or "2022." I might get lucky, and the photo I was searching for would appear; most of the time, it would not. (In the case of the milkshake photo, no dice — at least on an iPhone 15 still running iOS 17.)
+
+But on an iPhone 15 Pro running iOS 18.1 all I have to do is start typing "Prunella drinking a milkshake." All the photos matching that description will appear, letting me choose precisely the one I want.
+
+Using natural language search, it's a lot easier to find exactly the shot you're looking for. You might get more than one photo in your search results, but it's a lot more precise than what the old method of searching in Photos might yield.
+
+search results appear as you type in iOS 18.1 Photos
+
+I should also note that results start to appear as you type, so you may even find your photo before you finish entering in your natural language search. I wanted to track down a photo from a baseball game in Houston that I attended with a friend, so I decided to search for "Jason in an Astros shirt." All the photos from that game by the time I got to "Jason in an astr," which is an incredible time saver.
+
+Prior to natural language search, I probably wouldn't have even turned to the search feature in Photos to find that photo at all. Instead, I would have scrolled back through my photo library to the year I thought that game might have taken place. Since the human memory has a habit of forgetting precise dates — particularly when you're an Old like me — you can see the inherent flaw in that approach. In iOS 18, searching now involves a lot more hits than misses.
+
+Some search hiccups
+
+Search terms showing different results in iOS 18.1 photos search
+
+As natural as it may be to search for photos using Apple Intelligence, not every phrase is going to work for you. I tried looking for all of the photos I had of my daughter at night — the search feature apparently has a problem telling night from day, as no results turned up. Other variations on the term — "at sunset," "after dark," "in the evening" also came up blank. (Though as I started typing "eve," photos from various Christmas Eves did appear only to vanish when I added the "ning.")
+
+I wanted to find a video of a mariachi band that I captured at a Fourth of July parade from several years back, but "mariachi band" didn't turn up any results. A search for "music at parade" did, however, which runs counter to my experience that more specific search terms work better. In natural language searching, that appears not to be the case. (For what it's worth, "mariachi band at parade" did turn up results — some of which didn't actually feature a mariachi band. Your guess is as good as mine.)
+
+You might have detected that the last search included a video, so yes, natural language search handles video as well as photos. In fact, Apple's preview page for Apple Intelligence says the AI feature "can even find a particular moment in a video clip that fits your search description and take you right to it."
+
+I didn't have any luck with that specific use case in my testing, though I think that says more about the nature of videos I capture on my phone. Videos in my photo library tend to be short clips of people singing Happy Birthday at a get-together or my daughter doing a goofy dance to Alice Cooper music on the last day of school. I imagine the feature Apple describes works better on longer clips where something visually distinct happens later on in the video — a clown enters the scene or a dog leaps into view. Sadly, I don't own a dog, and I have no videos of clowns. That you know about, at any rate.
+
+What about other iOS 18 phones?
+
+Identical photos search results in iPhone 12 running iOS 18.1 and iPhone 15 Pro running iOS 12
+
+If that's the kind of changes people with Apple Intelligence-ready iPhones can expect, what happens to search on iPhones that can run iOS 18, but lack the silicon and memory for Apple's new suite of AI tools? After all, since only the iPhone 15 Pro models and all of the new iPhone 16 handsets can run Apple Intelligence, there are a lot more iPhones out there that will be going without these features.
+
+I tried to search for photos on an iPhone 12 that's running the iOS 18.1 beta (though, presumably, not benefitting from Apple Intelligence). And I'm pleased to report that the interface for searching for photos is the same as it was on the iPhone 15 Pro, as I had the ability to enter natural language search terms into a search field. Even better, a lot of the time, the results on my iPhone 12 matched those on my iPhone 15 Pro, even though the later supports Apple Intelligence and the other one does not.
+
+"Waterfalls in Hawaii" turned up the same video clips on both phones. When I searched for my daughter at the Eiffel Tower, more results actually turned up on the iPhone 12, and all of them were accurate.
+
+different search results on an iPhone 12 and iPhone 15 Pro for Darth Vader photo
+
+I'm not going to pretend all the searches worked the same on the iPhone 12 as they did on the iPhone 15. Searching for photos of me with Darth Vader produced two different shots where I'm standing in front of a Darth Vader statue at Lucasfilm's San Francisco headquarters. The iPhone 12 came up blank, so maybe you need Apple Intelligence to track down intellectual property.
+
+I have mixed feelings about the fact that photo searches on older iPhones running iOS 18 feel more like the newer way of doing things even if the experience is a little more refined on Apple Intelligence phones. The old photo search method wasn't very useful, so it's nice that you don't need the latest Apple hardware to get a better experience. On the other hand, I'm not sure it's great for the platform that some phones running iOS 18 are getting the full search experience while others are getting that's close but slightly different.
+
+It also takes away an argument for upgrading to a phone that can run Apple Intelligence. Maybe there are other features I can't run on that iPhone 12, but if I can enjoy better searches, perhaps that's enough to let me keep my current phone without upgrading. Then again, I suppose that's a Cupertino problem, not a Phil problem.
+
+Photos search outlook
+
+Like a lot of Apple Intelligence features, natural language search feels like a work in progress where a generally helpful features includes a few rough edges. Even with some search quirks, I think this is a much better approach to finding photos — and it seems to work on more iPhones than you might think.
+
+More from Tom's Guide
+

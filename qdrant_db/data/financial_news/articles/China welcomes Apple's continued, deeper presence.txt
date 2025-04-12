@@ -1,0 +1,23 @@
+link: https://www.reuters.com/technology/china-welcomes-apples-continued-deeper-presence-2024-10-25/
+
+source: www.reuters.com
+
+title: China welcomes Apple's continued, deeper presence
+
+summary: U.S. tech giant Apple Inc is welcome to continue deepening its presence in the Chinese market, Commerce Minister Wang Wentao told its Chief Executive Tim Cook during a meeting on Friday, the ministry said in a statement.
+
+publishDate: 2024-10-25T06:23:19.013Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999984502792358
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: U.S. tech giant Apple Inc is welcome to continue deepening its presence in the Chinese market, Commerce Minister Wang Wentao told its Chief Executive Tim Cook during a meeting on Friday, the ministry said in a statement.
+The remark mirrored the <a href="/technology/apple-ceo-tim-cook-met-chinas-minister-industry-it-beijing-2024-10-23/">exchanges</a> between China's Minister for Industry and Information Technology and Cook during a meeting earlier this week in Beijing.
+China is willing to help return Sino-U.S. economic and trade ties to a healthy and stable track of development through regular exchanges between government and enterprises, Wang added.
+China will further optimise the business environment and continue to provide quality services for foreign enterprises, Wang said, but also told Cook that the highlighting of national security "is not conducive to normal economic and trade exchanges".
+

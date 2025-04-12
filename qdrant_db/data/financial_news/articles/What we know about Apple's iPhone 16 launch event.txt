@@ -1,0 +1,78 @@
+link: https://www.yahoo.com/news/apple-iphone-16-launch-event-september-182423855.html
+
+source: www.yahoo.com
+
+title: What we know about Apple's iPhone 16 launch event
+
+summary: 
+
+publishDate: 2024-09-04T18:24:23.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999591112136841
+
+images: ['https://s.yimg.com/ny/api/res/1.2/_KhcfDpwsNGEJzRUPs5d5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcxOQ--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/8e3dff90-6ad9-11ef-aecd-85a234ca1458', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/ickRQagjg3nHc6GwhZUqUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNQ--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/cf15e940-6ad6-11ef-afcb-66e9dbb4b28f']
+
+content: What we know about Apple's iPhone 16 launch event
+
+Apple CEO Tim Cook revealed some hints of the AI functions earlier this year at the Worldwide Developers Conference. (Getty)
+
+Apple is set to announce the new iPhone 16 line-up on 9 September in a move that will signal the tech giant’s first serious foray into the world of artificial intelligence (AI), spearheaded by a new version of Siri.
+
+The live event in Cupertino, California will be livestreamed on Apple’s site as well as on YouTube, and is expected to debut 'Apple Intelligence' - Apple’s response to rivals such as Samsung and Google which have already baked in AI features into their flagship smartphones this year.
+
+Apple is also expected to unveil new watches and Airpods as well as the usual hardware upgrades across its iPhone and Pro line. The event is billed as ‘Glowtime’, which insiders suggest refers to the boosted on-screen glow of Apple’s Siri assistant, which will receive an AI upgrade this year.
+
+When is Apple's iPhone 16 launch event?
+
+The latest Apple event is billed as 'Glowtime'. (Apple)
+
+The Glowtime event will take place in the Steve Jobs Theater at Apple’s headquarters in Cupertino, California, on Monday 9 September.
+
+The event starts at 10am Pacific Time in the US, or 6pm UK time, and will probably last between one and two hours – judging by previous Apple events – with the biggest news generally held for the end.
+
+What will the iPhone 16 look like?
+
+The latest models will replace the iPhone 15, pictured, but are set to look similar. (PA)
+
+There will be four models – iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max – which will look similar to last year’s iPhone 15 line-up.
+
+The two smaller phones are expected to add Apple’s Action button, according to Bloomberg’s Mark Gurman, while the new Pro models will add a camera button with touch controls (swipe to zoom, touch lightly to autofocus).
+
+The Pro models are also expected to have very slightly bigger screens, with the Pro at 6.3in (up from 6.1in) while the Pro Max will be 6.9in (up from 6.7in).
+
+Which new features will it have?
+
+Siri is expected to have a total revamp in the latest iPhones. (Getty)
+
+The biggest news is a total revamp of Siri, which will be integrated more tightly into the operating system - and have a new ‘glowing’ look.
+
+When users summon Siri, instead of a glowing ball at the bottom, the edges of the display glow instead - hence ‘Glowtime’.
+
+The new phones are expected to have a large number of AI features under the banner Apple Intelligence, billed as "AI for the rest of us".
+
+Apple wrote earlier this year: "With an all-new design, richer language understanding, and the ability to type to Siri whenever it’s convenient for you, communicating with Siri is more natural than ever.
+
+Mobile phone with website of AI platform Apple Intelligence in front of business logo. Focus on top-left of phone display.
+
+"Equipped with awareness of your personal context, the ability to take action in and across apps, and product knowledge about your devices’ features and settings, Siri will be able to assist you like never before.
+
+Apple Intelligence is expected to offer new writing tools including the ability to summarise long content such as websites and lectures, alongside image creation tools including AI Genmoji.
+
+Apple aims to protect users' privacy, with much of the processing done ‘on device’, so private details are never compromised.
+
+When will the iPhone 16 be released?
+
+Tech publications including Forbes and Bloomberg have predicted that (judging by past events) the new iPhones will go on sale on the Friday of the week following the announcement.
+
+This year, that would mean the new iPhones would go on sale on 20 September.
+
+How much will the iPhone 16 cost?
+
+Some leaks have suggested that some iPhone 16 models will retain the prices of last year’s models.
+
+With the new phones seen as an incremental hardware upgrade, before bigger changes arrive next year, it’s plausible that they will keep the same price.
+

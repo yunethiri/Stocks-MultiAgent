@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/meet-stock-split-stock-soared-100200447.html
+
+source: finance.yahoo.com
+
+title: Meet the Stock-Split Stock That Soared 10,610% Over the Past 15 Years. It's Poised to Join Apple, Nvidia, Microsoft, Amazon, Alphabet, and Meta in the $1 Trillion Club by 2025.
+
+summary: 
+
+publishDate: 2024-12-08T10:02:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999773502349854
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/ny/api/res/1.2/Y3aNk9HtNPGxOKeRCCY20w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDg-/https://media.zenfs.com/en/motleyfool.com/21af6e3d32d2bd7a05436b930462eee2']
+
+content: Recent advances in the field of artificial intelligence (AI) help illustrate that technology has come to dominate over the past two decades, with tech issues leading the list of the world's most valuable companies. That wasn't always the case. Just 20 years ago, General Electric and ExxonMobile were the leaders in terms of market cap, valued at $319 billion and $283 billion, respectively.
+
+These days, technology rules the roost. Apple, Nvidia, and Microsoft are each worth more than $3 trillion and led the leaderboard at some point in 2024. Other big tech members of the $1 trillion club are also household names, including Amazon, Alphabet, and Meta Platforms, with valuations of between $1.5 trillion and $2.3 trillion.
+
+Are You Missing The Morning Scoop? Breakfast News delivers it all in a quick, Foolish, and free daily newsletter. Sign Up For Free »
+
+With a market cap of roughly $797 billion (as of this writing), Broadcom (NASDAQ: AVGO) seems a shoo-in for membership in this exclusive fraternity. The company supplies a broad cross-section of products that are critical components in data center infrastructure, where most AI processing takes place, and its indispensable technology could be the fuel that drives Broadcom's successful quest for membership.
+
+Image source: Getty Images.
+
+Chip shot
+
+As well as being one of the world's foremost custom chipmakers, Broadcom also offers a host of complementary products and services in the mobile, cable, broadband, and data center segments. The company states that "99% of all internet traffic crosses through some type of Broadcom technology." This extensive reach illustrates why Broadcom's technology is a critical part of the generative AI ecosystem, as the technology lives primarily in the cloud and in data centers.
+
+Beyond AI, investors continue to underestimate the opportunity represented by Broadcom's purchase of VMWare late last year. During the recent earnings call, management noted that "VMWare bookings continue to accelerate," amounting to $2.5 billion in Q3, up 32% sequentially.
+
+Furthermore, the company continues to drive down VMWare spending. CEO Hock Tan noted that with the VMWare integration proceeding as expected, Broadcom was on track to deliver on its goal of $8.5 billion in adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) by 2025. Once the process is complete, the company expects to deliver expanding margins and increasing profits.
+
+The results highlight an intriguing opportunity. For its fiscal third quarter (ended Aug. 4), Broadcom delivered revenue of $13.1 billion, which jumped 47% year over year, while its adjusted earnings per share (EPS) increased 18% to $1.24. Management expects this upward trajectory to continue, increasing its full-year revenue forecast to $51.5 billion, representing growth of 44%.
+
+Story Continues
+

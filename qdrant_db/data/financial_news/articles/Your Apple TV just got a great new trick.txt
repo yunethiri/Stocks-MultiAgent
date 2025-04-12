@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/tech/apple-tv-just-got-great-150000947.html
+
+source: www.yahoo.com
+
+title: Your Apple TV just got a great new trick
+
+summary: 
+
+publishDate: 2024-12-12T15:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9998468160629272
+
+images: ['https://s.yimg.com/uu/api/res/1.2/Gg7_KoTzPwno4d1bh1H.sw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/ae1aaf06bb380a7b27187b8285f05b0c.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/1WLTpFQTtafx39kAidUFpw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/905777b9b35e6d2a49e3d970fa8a7812.cf.webp', 'https://s.yimg.com/cv/apiv2/games/images/Crossword_GIF_04_300_95.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick Summary
+
+Apple has released the tvOS 18.2 software update which adds a few new tricks to Apple TV, including aspect ratio options.
+
+The software update also brings the Snoopy screensaver to Apple TV – a feature that was also revealed at WWDC in June.
+
+It's been a big week for Apple devices this week after the company released its latest software updates with new features for iPhone, iPad, Mac and Apple Watch.
+
+Advertisement Advertisement
+
+Advertisement
+
+Apple Intelligence is now readily available on iPhone, iPad and Mac, for example, adding some of the more interesting features too, like Image Playground, Genmoji and ChatGPT integration. However, let's not forget about Apple TV – that also gets some new tricks thanks to the tvOS 18.2 software release.
+
+I won't lie, my favourite new feature for Apple TV with tvOS 18.2 is actually the Snoopy screensaver, which was announced at WWDC in June but has only just arrived. That's not what we are talking about here though.
+
+Perhaps more important to some are the new aspect ratio options. We have written about these before as they were available in the public beta of tvOS 18.2, but now they can be selected by anyone who has updated their Apple TV.
+
+You can now choose between Automatic, 16:9, 21:9, 2.37:1. 2.39:1, 2.40:1. DCI 4K and 32:9. Most TVs are 16:9, but if you happen to have a projector connected to your Apple TV, you can choose the aspect ratio that is best suited to your screen.
+
+How to change the aspect ratio on Apple TV
+
+The aspect ratio options can be found in the Audio and Video settings within your Apple TV settings.
+
+You will need to ensure you are running tvOS 18.2, which you will be able to check in the settings menu on your Apple TV, too. If you aren't, you can push the software update through manually and enjoy not only the different aspect ratio options, but Snoopy too.
+

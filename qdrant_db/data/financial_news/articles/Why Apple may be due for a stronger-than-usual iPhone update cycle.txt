@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-12-09T22:36:33.000Z
 
+language: en
+
+sentiment: positive
+
+confidence: 1
+
+images: ['https://s.yimg.com/uu/api/res/1.2/LYljhM_LCZGbU1V6UB0fSw--~B/Zmk9c3RyaW07aD04MTtxPTgwO3c9MTk2O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-12/a6c4be10-b682-11ef-a917-cf6a35803076', 'https://s.yimg.com/uu/api/res/1.2/Mn1vDdu1MjAFeIfhHnY9Xw--~B/Zmk9c3RyaW07aD04MTtxPTgwO3c9MTk2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_video_2/3ecc84c6ae912b93dda036e618345712', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Apple (AAPL) launches its iOS 18.2 update today. Some features in the update include ChatGPT integration into Siri and creating your own emojis.
 
 Creative Strategies CEO and Principal Analyst Ben Bajarin sits down with Asking for a Trend Anchor Josh Lipton to talk about how the new iOS update could impact iPhone demands and sales.
@@ -23,10 +31,4 @@ Watch the video above to hear Bajarin's full take on Apple's iOS update.
 To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.
 
 This post was written by Daniel A. Nelson
-
-language: en
-
-sentiment: positive
-
-confidence: 1
 

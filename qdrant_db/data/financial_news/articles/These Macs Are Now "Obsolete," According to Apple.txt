@@ -1,0 +1,58 @@
+link: https://www.yahoo.com/tech/macs-now-obsolete-according-apple-173552796.html
+
+source: www.yahoo.com
+
+title: These Macs Are Now "Obsolete," According to Apple
+
+summary: 
+
+publishDate: 2024-09-23T17:35:52.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998483657836914
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/EWCZZoSkOJDOQldTbvOaSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI5ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-07/a2960650-3ed2-11ef-995e-7d7bf6be1f39', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: Apple recently adjusted its product support categories, which is impacting a range of MacBook and iMac models. The tech giant added three Mac models to its "vintage" list and shifted nine others to the "obsolete" category.
+
+This change in status means that the affected Mac models will see a significant change in their available support and repair services. Apple's product lifecycle defines vintage products as those the company stopped selling over five (but less than seven) years ago. While vintage products can still receive repairs from Apple Stores and authorized service providers, this depends on the availability of necessary parts.
+
+On the other hand, any products marked as "obsolete" are those that Apple stopped selling over seven years ago. These products generally do not qualify for hardware service, and repair parts are not ordered for them. The major exception is for Mac laptop batteries, which might be eligible for replacement up to ten years after they stop being sold, though this exception is also contingent on the availability of parts.
+
+The Mac models reclassified as vintage are:
+
+MacBook Air (Retina, 13-inch, 2018)
+
+MacBook Pro (13-inch, 2017, 2 Thunderbolt 3 Ports)
+
+MacBook Pro (13-inch, 2018, 4 Thunderbolt 3 Ports)
+
+The models now labeled obsolete are:
+
+MacBook (Retina, 12-inch, Early 2016)
+
+MacBook Air (13-inch, Early 2015)
+
+MacBook Pro (13-inch, 2016, 2 Thunderbolt 3 Ports)
+
+MacBook Pro (13-inch, 2016, 4 Thunderbolt 3 Ports)
+
+MacBook Pro (15-inch, 2016)
+
+MacBook Pro (Retina, 13-inch, Early 2015)
+
+iMac (21.5-inch, Late 2015)
+
+iMac (Retina 4K, 21.5-inch, Late 2015)
+
+iMac (Retina 5K, 27-inch, Late 2015)
+
+Note that these obsolete Macs are stuck with macOS 11 Big Sur and macOS 12 Catalina. They no longer receive software support from Apple, though the vintage Macs still fall under Apple's support windowâApple currently provides support for macOS 13 Venturas and later.
+
+Owners of now-vintage Macs may still receive repairs from authorized service centers. Those with obsolete Macs will need to rely on third-party repair services or consider replacing their laptops and devices if they have any hardware issues, though battery replacements may still be offered, depending on parts availability.
+
+Source: Apple via MacRumors
+

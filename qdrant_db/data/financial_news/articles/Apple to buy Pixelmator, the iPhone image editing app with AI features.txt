@@ -1,0 +1,38 @@
+link: https://www.cnbc.com/2024/11/01/apple-will-buy-pixelmator-iphone-image-editing-app-with-ai-features-.html
+
+source: www.cnbc.com
+
+title: Apple to buy Pixelmator, the iPhone image editing app with AI features
+
+summary: Pixelmator said there "will be no material changes to the Pixelmator Pro, Pixelmator for iOS, and Photomator apps at this time."
+
+publishDate: 2024-11-01T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9852631092071533
+
+images: ['https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/108031071-1725899620564-gettyimages-2170389631-AFP_36FV9CU.jpeg?v=1730480191&w=1920&h=1080']
+
+content: Peopl walk outside Steve Jobs Theater at the Apple Park campus before Apple's "It's Glowtime" event in Cupertino, California, on Sept. 9, 2024.
+
+Apple will buy Pixelmator, the creator of image editing apps for Apple's iPhone and Mac platforms, Pixelmator announced Friday in a blog post.
+
+Pixelmator, a Lithuanian company, was founded in 2007, and in recent years has been best known for Pixelmator and Pixelmator Pro, which compete with Adobe Photoshop. It also makes Photomator, a photo editing app.
+
+Apple has highlighted Pixelmator apps over the years in its keynote product launches. In 2018, Apple named Pixelmator Pro its Mac App of the year, citing the company's enthusiastic embrace of Apple's machine learning and artificial intelligence capabilities, such as removing distracting objects from photos or making automated color adjustments.
+
+"We've been inspired by Apple since day one, crafting our products with the same razor-sharp focus on design, ease of use, and performance," Pixelmator said in its blog post.
+
+Apple does not acquire as many large companies as its Silicon Valley rivals. It prefers to make smaller acquisitions of companies with products or people that it can use to create Apple features. Neither Pixelmator nor Apple provided a price for the transaction.
+
+Pixelmator said in its blog post that there "will be no material changes to the Pixelmator Pro, Pixelmator for iOS, and Photomator apps at this time."
+
+Earlier this week, Apple released the first version of Apple Intelligence, a suite of features that includes photo editing abilities such as Clean Up, which can remove people or objects from photos using AI.
+
+Apple has acquired other popular apps that received accolades at the company's product launches and awards ceremonies.
+
+In 2020, Apple bought Dark Sky, a weather app that eventually became integrated into Apple's default weather app. In 2017, it bought Workflow, an automation and macro app that eventually became Shortcuts, the iPhone's scripting app, as well as the groundwork for a more capable Siri assistant.
+

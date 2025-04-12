@@ -1,0 +1,298 @@
+link: https://www.yahoo.com/tech/apple-iphone-16-pro-review-120000307.html
+
+source: www.yahoo.com
+
+title: Apple iPhone 16 Pro review: Do you need the Pro Max?
+
+summary: 
+
+publishDate: 2024-09-18T12:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999922513961792
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Os5j098Dxf4WWQKjWhMSzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/en/toms_guide_826/fd4edf67bafe70f4522872d8d960385c', 'https://s.yimg.com/ny/api/res/1.2/6Hmw8r5tThjNCjmgMIldzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/en/toms_guide_826/fd01f0688e6ea06c3ab3dc8185efac5a', 'https://s.yimg.com/ny/api/res/1.2/XIVCHUIWTRbbOkC8_426pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY3OA--/https://media.zenfs.com/en/toms_guide_826/2f6589095b74e395655e2f11b36276bb']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Tom's Guide
+
+Between the iPhone 16 Pro and iPhone 16 Pro Max, the latter seems like a bigger deal because of its ginormous 6.9-inch screen. But I’m telling you the iPhone 16 Pro should not be overlooked.
+
+I’ve been using both of these new iPhone Pros side by side, and I think the regular iPhone 16 Pro is a better value. For $999, you get a bigger display than last year (6.3 vs 6.1 inches), the more powerful 5x zoom that used to be a Pro Max exclusive and an impressive battery life boost, based on our testing.
+
+Otherwise, the iPhone 16 Pro has all the same goodies as the Pro Max, including the powerful A18 Pro chip, upgraded 48MP ultra wide camera and impressive video features like 4K 120 fps slow mo videos and Audio Mix for zapping background noise. Apple Intelligence features like Writing Tools and the new Siri are promising based on early testing of the iOS 18.1 developer beta, but that won't officially arrive until October.
+
+As you’ll see in my iPhone 16 Pro review, this is ounce-for-ounce one of the best phones you can buy and the best iPhone for power users on a budget — even if there’s not a truly “wow” feature yet for Apple Intelligence yet.
+
+iPhone 16 Pro review: Specifications
+
+iPhone 16 Pro review: Price and release date
+
+The iPhone 16 Pro goes on sale September 20 and starts at $999 / £999 / AU$1,799 for 128GB of storage. It’s worth noting that the iPhone 16 Pro Max features 256GB of capacity in its base model.
+
+The good news is that you can get 256GB of storage for $100 less than the iPhone 16 Pro Max, and you get the same max storage option of 1TB for those willing to really splurge.
+
+To get the best iPhone 16 Pro price, check out our roundup of the best iPhone 16 Pro deals .
+
+iPhone 16 Pro review: Design
+
+The iPhone 16 Pro is still a compact phone, but there’s a trade-off with getting a larger display. It’s now more of a mid-size phone now as opposed to a small phone, as the size and weight have grown.
+
+iPhone 16 Pro shown held in hand
+
+This handset measures 5.89 x 2.81 x 0.32 inches and weighs 7.03 ounces, compared to 5.77 x 2.78 x 0.32 inches and 6.6 ounces for the iPhone 15 Pro, so the new iPhone is taller and wider and just as thin, but there’s more heft to it.
+
+iPhone 16 Pro shown held in hand
+
+The good news is that the iPhone 16 Pro is still easy to use with one hand, as Apple made the bezels thinner. The design should be more durable, too, as Apple claims that the Ceramic Shield display is 50% tougher. Plus, the band is still made of titanium, which is more durable than aluminum.
+
+iPhone 16 Pro shown held in hand
+
+The iPhone 16 Pro colors aren’t very flashy compared to the regular iPhone 16. There’s White Titanium, Black Titanium, Natural Titanium and the new Desert Titanium, which is like a soft rose gold. I prefer the Desert hue because it looks “new.”
+
+iPhone 16 Pro shown from rear
+
+iPhone 16 Pro review: Display
+
+Don’t expect much new from the iPhone 16 display. The only real news beyond the size increase to 6.3 inches for this OLED screen is that it can get dimmer. The minimum is now just 1 nit (down from 2 nits on the iPhone 15 Pro ). I put the two phones side by side in a dark room, and I noticed the difference immediately.
+
+iPhone 16 Pro shown held in hand
+
+What’s the benefit? You can use your phone in bed without disturbing your partner, and if you’re using StandBy mode, the iPhone 16 Pro won’t be as bright when you’re using it overnight as an alarm clock.
+
+Otherwise, you get the same 120Hz refresh rate on this ProMotion display, and the same max brightness. Apple claims a peak brightness of 2,000 nits outdoors and 1,600 nits for HDR content.
+
+iPhone 16 Pro shown held in hand
+
+We simulate outdoor conditions with a flashlight, and the iPhone 16 Pro reached 1,553 nits. That’s higher than the Galaxy S24 Ultra but way behind the Google Pixel 9 Pro .
+
+iPhone 16 Pro review: Camera Control
+
+Apple has added a new button to the iPhone 16 Pro, but it’s not technically a button. The Camera Control is a recessed capacitive switch that provides haptic feedback. Press once to launch right into the camera and press again to snap a photo. It’s simple and works well in landscape and portrait mode.
+
+iPhone 16 Pro shown held in hand
+
+I found it easy to launch straight into the camera, and I like that you can press and hold the Camera Control to record a video, though if you take your finger off the button the video stops. I wish you could customize that.
+
+iPhone 16 Pro shown held in hand
+
+The Camera Control has a lot of tricks, including the ability to zoom in and out by sliding your finger left and right on the button. And a soft double press launches a mini menu you can scroll through to tweak things like exposure, depth and choose Photographic Styles.
+
+There’s a learning curve to Camera Control, but I’m glad that it’s an option. Plus, this frees up the Action Button on the left side of the iPhone 16 Pro for programming other shortcuts.
+
+iPhone 16 Pro review: Cameras
+
+The iPhone 16 Pro has a few key upgrades that I appreciated during my testing: there’s a sharper 48MP ultra wide camera, a faster 48MP main Fusion Camera with “zero shutter lag” and the 5x tetraprism zoom borrowed from the Pro Max series.
+
+iPhone 16 Pro shown held in hand
+
+In addition, Photographic Styles are integrated directly into the Camera and Photos app, so you can change Skin Undertones and the Mood effect of your photo on the fly. Plus, you can tweak it after the fact.
+
+To test the iPhone 16 Pro’s faster performance I had my son take a photo of me shooting a jump shot side by side with the iPhone 15 Pro, and the result is a brighter and more detailed image.
+
+Shooting subjects in motion using iPhone 16 Pro
+
+How does the iPhone 16 Pro compare to the best camera phones ? I shot a number of pictures using the iPhone 16 Pro alongside the Samsung Galaxy S24 Ultra and the Google Pixel 9 Pro XL to find out.
+
+I put the ultrawide camera to the test on the iPhone 16 Pro with this shot of a beach, and Apple comes out on top. The colors are more natural through the iPhone versus the Galaxy S24 Ultra, and Samsung’s pic looks distorted on the right side by the flowers.
+
+Image 1 of 4
+
+iPhone 16 Pro
+
+Image 2 of 4
+
+Pixel 9 Pro XL
+
+Image 3 of 4
+
+Galaxy S24 Ultra
+
+Image 4 of 4
+
+iPhone 16 Pro Max
+
+The iPhone 16 Pro takes a crisp vivid photo of this Halloween sign with a rich orange in the foreground. But I give the Pixel 9 Pro XL credit for capturing more details in the shadows of the other decorations. Samsung does, too, but the S24 Ultra blows out other parts of the shot.
+
+Image 1 of 4
+
+iPhone 16 Pro
+
+Image 2 of 4
+
+Pixel 9 Pro XL
+
+Image 3 of 4
+
+Galaxy S24 Ultra
+
+Image 4 of 4
+
+iPhone 16 Pro Max
+
+In this photo of peppers, the iPhone 16 Pro’s image is less saturated but I like how the ivory peppers have more depth. The S24 Ultra’s shot is a bit overexposed, although it’s more inviting at first glance.
+
+Image 1 of 4
+
+iPhone 16 Pro
+
+Image 2 of 4
+
+Pixel 9 Pro XL
+
+Image 3 of 4
+
+Galaxy S24 Ultra
+
+Image 4 of 4
+
+iPhone 16 Pro Max
+
+So how good are the macro shots? I took this photo of a pink zinnia flower, purposely focusing on the petals on the left side of the frame. The Samsung shot is more on the purple side and less sharp in the petals.
+
+I’m torn about the look of this portrait shot from the iPhone 16 Pro. I look brighter through the iPhone but also a bit washed out. There’s a green tinge to the image from the S24 Ultra, while the Pixel 9 Pro XL has the most well balanced shot.
+
+Image 1 of 4
+
+iPhone 16 Pro
+
+Image 2 of 4
+
+Pixel 9 Pro XL
+
+Image 3 of 4
+
+Galaxy S24 Ultra
+
+Image 4 of 4
+
+iPhone 16 Pro Max
+
+In low light I think the iPhone 16 Pro wins in this shot of a building. The foreground and the building itself are well exposed, though I wish the lettering on the top of the building looked sharper.
+
+Image 1 of 4
+
+iPhone 16 Pro
+
+Image 2 of 4
+
+Pixel 9 Pro XL
+
+Image 3 of 4
+
+Galaxy S24 Ultra
+
+Image 4 of 4
+
+iPhone 16 Pro Max
+
+I tried something a bit trickier with this comparison of a string of lights outside a restaurant. The iPhone 16 Pro is my favorite here because of the level of detail when you zoom in, though the Pixel 9 Pro XL does a better job with the definition in the bricks. Samsung’s pic is good but a bit fuzzier.
+
+Image 1 of 3
+
+iPhone 16 Pro Max
+
+Image 2 of 3
+
+Pixel 9 Pro XL
+
+Image 3 of 3
+
+Galaxy S24 Ultra
+
+To test the iPhone 16 Pro’s 12MP selfie camera I put it up against the Pixel 9 Pro XL and I slightly prefer Google’s shot. My black shirt looks crisper and the green bushes behind me look brighter.
+
+iPhone 16 Pro review: Video
+
+The video on the iPhone 16 Pro gets a boost as you can now record at 4K and 120fps (up from 60fps). So video will not only look smoother on the 120Hz display, you can adjust the playback speed on the fly to get dramatic-looking slo-mo videos.
+
+I tried this out by recording a ping pong match in Bryant Park, and it’s remarkable how sharp the footage remained as I dropped the playback speed all the way down to 20%. You can have a lot of fun with this feature.
+
+So what about the video quality? I filmed a fountain on a sunny day with the iPhone 16 Pro, Galaxy S24 Ultra and Pixel 9 Pro XL, and the results were mixed. When zoomed out I preferred the natural colors of the iPhone on the flowers on the left side of the frame and the trees in the background, and the water looked super sharp. However, both the Samsung and Google phones delivered better detail in the stone and more contrast when I zoomed in at 5x. It took a second for the iPhone to focus.
+
+In low light the iPhone 16 Pro captured footage that looked a bit dimmer than the Galaxy S24 Ultra of a fountain as I panned around up to a large clock. But once I zoomed in, the S24 Ultra’s footage turned dark and lost detail; the iPhone 16 Pro’s clip was more consistent at 5x zoom.
+
+iPhone 16 Pro review: Apple Intelligence
+
+“Hey, Siri. Are you smart yet?” Apple Intelligence isn’t officially coming to the iPhone 16 series until October, but I was able to try out some of the features ahead of its official launch as part of the iOS 18.1 developer preview.
+
+iPhone 16 Pro shown held in hand
+
+Writing Tools can be fairly helpful. I used it to summarize a long note in the Apple Notes app and it came up with a useful summary. I also had fun with Writing Tools trying to rewrite an email I purposely wrote in a rude tone, choosing the professional option. And the result was indeed closer to what I would usually send.
+
+iPhone 16 Pro shown held in hand
+
+I also used Apple Intelligence to look up how to do various things on the iPhone and got back step-by-step instructions for how to screen record on your iPhone. So you’ll definitely spend less time looking up how-tos online.
+
+iPhone 16 Pro shown held in hand
+
+On the Photos front, my favorite Apple Intelligence feature is Memory Movie. You can give the Photos app a prompt like “Beach memories through the years with an upbeat soundtrack” and you’ll see the AI go to work sifting through all your photos and videos. And the end result was pretty satisfying, fittingly ending with a sunset pic.
+
+iPhone 16 Pro shown held in hand
+
+While it's overdue, I appreciate that the iPhone 16 Pro has a Clean Up button, which is basically Google’s Magic Eraser on iOS. Apple's version of the feature is smart enough to identify objects or subjects you might want to remove and it works quickly. But the feature struggled in some cases to completely erase what I didn’t want in the frame.
+
+Siri is definitely the biggest upgrade with Apple Intelligence. It’s a lot more conversational and forgiving of mistakes as you speak. For example, I was able to correct a timer from 10 minutes to 5 minutes on the fly and Siri got it right.
+
+iPhone 16 Pro Max shown in hand
+
+The new Siri in Apple Intelligence is also better with follow-up questions. For example, I could ask about the weather today and then say “How about the rest of the week” and I got an extended forecast. Siri was also smart enough to answer “Who do the Yankees play next?” and “What are the odds?” in succession, though it couldn’t tell me who the starting pitcher was. I got Safari links instead.
+
+Another plus is that you can talk to Siri just by typing. You tap the bottom of the iPhone 16 Pro to enter your query, which comes in handy when you can’t talk.
+
+Siri is definitely getting better, but it doesn’t have that “wow” factor that you'll experience with Gemini Live voice or GPT-40 voice , where it feels like you're having a real conversation with a chatbot.
+
+iPhone 16 Pro review: Performance
+
+The iPhone 16 Pro packs Apple’s new A18 Pro chip built on second-generation 3-namoeter tech, as well as 8GB of RAM. Based on our testing, it is indeed the fastest chip around, but not on every test.
+
+iPhone 16 Pro shown held in hand
+
+When I played Resident Evil Village, I was scared (in a good way) as I made my way down a snowy path and stumbled upon some dead birds. The graphics are console-grade. I also got to play the Infinity Nikki game, which was in beta, and the lighting and water effects were very impressive.
+
+On Geekbench, which measures overall performance, the iPhone 16 Pro is 50% faster than the Galaxy S24 Ultra’s Snapdragon 8 Gen 3 chip on single core and 15% higher on multi-core performance. The Pixel 9 Pro series is well behind.
+
+To test video editing performance we use Adobe Premiere Rush and time how long it takes to transcode a 4K clip to 1080p. The new iPhone 16 Pro needed just 21 seconds, which is twice as fast as the S24 Ultra.
+
+On the graphics front, the iPhone 16 Pro features a 6-core GPU, compared to 5 cores for the regular iPhone 16 models. Apple says you should get 20% faster performance than the iPhone 15 Pro.
+
+On the 3DMark Solar Bay graphics test, which has support for ray tracing, the iPhone 16 Pro was 22% faster than the iPhone 15 Pro. However, that’s still 18% behind the Galaxy S24 Ultra, which also delivered higher frame rates on the test.
+
+The iPhone 16 Pro Max features a new internal design with a graphite-clad aluminum substructure that’s supposed to result in 20% better sustained performance. To test this claim we ran the 3DMark Wilfe Life Stress Test for 20 minutes.
+
+The iPhone 16 Pro turned in a stability score of 66%. It hit a higher overall loop score than iPhone 16 Pro max but had a bigger drop-off. The Galaxy S24 Ultra’s score was worse at 60.4%. Interestingly, the iPhone 16 Pro Max turned in a stronger stability score of 84%, which is better than the 75% from the iPhone 15 Pro Max.
+
+iPhone 16 Pro review: Battery life and charging
+
+The iPhone 16 Pro gets a big battery life boost, thanks to a larger battery and other efficiencies. On the Tom’s Guide battery life test, which involves continuous web surfing at 150 nits of screen brightness, the new iPhone 16 Pro lasted 14 hours and 7 minutes, which is a big jump from the 10:53 from the iPhone 15 Pro, and enough to just crack our list of the best phone battery life .
+
+The Google Pixel 9 Pro lasted 13:37, so it was a bit behind. The larger Galaxy S24 Ultra endured for 16:45.
+
+The bad news is that the iPhone 16 Pro has the same 20W charging speeds as before, so it wasn’t a surprise to see it get to 56% capacity in 30 minutes. The Google Pixel 9 Pro’s 45W charger was worse at 49% but the S24 Ultra reached 71% in the same time.
+
+Despite reports that the iPhone 16 Pro supports 45W charging, we did not see a difference in our testing. The good news is that MagSafe wireless charging sees a jump from 15W to 25W, if you’re using a 30W adapter.
+
+iPhone 16 Pro review: iOS 18
+
+Apple intelligence isn’t the only major upgrade in iOS 18. As you’ll see in our iOS 18 review, it makes the iPhone a lot more customizable. You can arrange icons however you like on the home screen, and you now get three screens of shortcuts in Control Center that you can tweak how you see fit.
+
+iPhone 16 Pro shown held in hand
+
+With the Photos app, iOS 18 makes it easier to find images in your library by topic and you can also change the look and feel of the app to your liking. Other iOS 18 upgrades include a dedicated Passwords app for security, several Messages improvements (like scheduling messages and RCS support) and the ability to share money with Tap to Cash.
+
+iPhone 16 Pro review: Verdict
+
+Overall, the iPhone 16 Pro is arguably the best flagship phone under $1,000. You get the same excellent cameras as the iPhone 16 Pro Max for $200 less and I think the screen is big enough at 6.3 inches while being easy to use with one hand.
+
+iPhone 16 Pro shown held in hand
+
+I also like the improved battery life, handy Camera Control and compelling Audio Mix feature for videos. The Apple Intelligence capabilities — such as Writing Tools, the new Siri and Cleanup — show promise, but some of the more exciting features like ChatGPT integration, Image Playground and the Google Lens-like Visual Intelligence are coming later.
+
+In terms of the competition, I think the Galaxy S24 Plus and Google Pixel 9 Pro have more compelling AI features right now. But I prefer the camera system from the iPhone in many cases and the extra performance from its A18 Pro chip.
+
+Should you upgrade to the iPhone 16 Pro? If you have an iPhone 13 Pro or older phone I’d say yes, and if you have an iPhone 14 Pro, I’d say wait to see how well Apple Intelligence works once it fully rolls out before you buy.
+

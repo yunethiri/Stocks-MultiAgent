@@ -1,0 +1,23 @@
+link: https://www.reuters.com/business/retail-consumer/peloton-names-former-apple-executive-peter-stern-ceo-2024-10-31/
+
+source: www.reuters.com
+
+title: Peloton names former Apple executive Peter Stern as CEO
+
+summary: Peloton Interactive has appointed former Apple executive Peter Stern as its CEO and president effective Jan. 1, the fitness-equipment maker said on Thursday, to steer its turnaround efforts after a post-pandemic demand slump.
+
+publishDate: 2024-10-31T11:31:31.702Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999394416809082
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Peloton Interactive <a href="https://www.reuters.com/markets/companies/PTON.O" target="_blank">(PTON.O)</a> has appointed former Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> executive Peter Stern as its CEO and president effective Jan. 1, the fitness-equipment maker said on Thursday, to steer its turnaround efforts after a post-pandemic demand slump.
+Peloton's shares jumped 12.5% before the bell.
+The company has been run by interim co-CEOs since May, when Barry McCarthy, a former Spotify <a href="https://www.reuters.com/markets/companies/SPOT.N" target="_blank">(SPOT.N)</a> and Netflix <a href="https://www.reuters.com/markets/companies/NFLX.O" target="_blank">(NFLX.O)</a> executive, <a href="/business/peloton-ceo-step-down-2024-05-02/">stepped down</a> after just over two years as the top boss.
+Stern, 52, will be tasked with steering Peloton back to growth and achieving positive cash flow by fiscal 2025, building on McCarthy's aggressive cost-cutting measures to align spending with revenue.
+

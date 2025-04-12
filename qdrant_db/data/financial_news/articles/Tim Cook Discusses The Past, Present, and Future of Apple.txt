@@ -1,0 +1,346 @@
+link: https://www.yahoo.com/entertainment/tim-cook-discusses-past-present-170000903.html
+
+source: www.yahoo.com
+
+title: Tim Cook Discusses The Past, Present, and Future of Apple
+
+summary: 
+
+publishDate: 2024-12-04T17:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999754428863525
+
+images: ['https://s.yimg.com/uu/api/res/1.2/hSEDzI1CSTQ0ksuYm9sEiA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/bac37d77772eee1ba5d7e093217cc3c7.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/Xu218RFxbe16U9HBkkYeyg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/ff755e3a534901dd56c663b27a31b061.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/KUTbUEC.e2kAydXnC8f1XA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_news_641/2c7ed221f70bc1c4036e9e6d7635590d.cf.webp']
+
+content: "It's hard to imagine life without Apple because my life has been wrapped up in this company...since 1998." WIRED Editor at Large Steven Levy sits down with Apple CEO Tim Cook for The Big Interview, revisiting his early years with the company, discussing where Apple is presently and where he hopes to take it from here. Director: Efrat Kashai Director of Photography: Matthew Caton Editor: Katie Wolford Host: Steven Levy Guest: Tim Cook Line Producer: Joseph Buscemi Associate Producer: Paul Gulyas Production Manager: Peter Brunette Camera Operator: Joe Barnett Assistant Camera: Travis Switzer Sound Mixer: Ian Van Keuren Production Assistant: Nathan Paul Sandoval Post Production Supervisor: Christian Olguin Post Production Coordinator: Ian Bryant Supervising Editor: Doug Larsen Assistant Editor: Billy Ward
+
+Video Transcript
+
+- It's hard to imagine life without Apple, because my life has been wrapped up in this company, as you've mentioned, since 1998.
+
+This is a long time.
+
+Advertisement Advertisement
+
+Advertisement
+
+It's the overwhelming majority of my adult life, and so I love it.
+
+- I'm Steven Levy.
+
+Today we sat down with Apple CEO Tim Cook to discuss the company's past, present, and future.
+
+This is "The Big Interview."
+
+Thank you for doing "The Big Interview," Tim.
+
+- Thank you for being here, Steven.
+
+It's always great to talk to you.
+
+- Yeah, well it's great to be at Apple Park.
+
+I'm looking this backdrop.
+
+I remember you gave me a tour of this place.
+
+- Yeah.
+
+- Before people moved in.
+
+And what about this place, working in here, and having your people in here is either unexpected or striking.
+
+- It's promoted collaboration even more than I thought.
+
+Advertisement Advertisement
+
+And that was a key component of the design, as you know.
+
+But there's so many places in here that you unexpectedly run into people.
+
+You do it at the cafeteria, you do it at the coffee bar, you do it outside when you're going across the pathway.
+
+And I think that promotes this unplanned collaboration.
+
+And I think it's fantastic.
+
+Also, there's a connection here to Steve.
+
+You know, of course we have the theater named after him, and think about him all the time.
+
+But I can feel him in other spaces in here.
+
+He had a perspective that the venue that you worked in was so important to the work, and I think that he's been proven right.
+
+Advertisement Advertisement
+
+- You mentioned the theater.
+
+Will you do product launches now?
+
+You do pre-tapes, or are you ever gonna see live launches in the Steve Jobs theater again like we used to?
+
+- Maybe.
+
+The thing that we learned during COVID was, you know, the audience is primarily an online audience.
+
+Very few people can fit in the theater, and we wanted to have more people engaged in the announcements itself.
+
+And you can do that a lot more productively on tape than you can in live, because of the transitions on the stage and so forth.
+
+- But you don't miss the vibe.
+
+- I do miss it.
+
+I do miss it.
+
+I get it when the WWDC is here, and we announced the film and feel the love from the developers is fantastic.
+
+Advertisement Advertisement
+
+- I heard something interesting recently that Stevie Wonder had a demo of the Vision Pro and loved it.
+
+How's that work?
+
+- He's a friend of Apple.
+
+It's great to get feedback from Stevie, and of course his artistry is just unparalleled.
+
+He's so fantastic.
+
+But accessibility was always important for us from designing all of our products, as you know, that's one of the common threads through Apple over time, is that we don't bolt on accessibility at the end of the design process, it's embedded in the design process.
+
+And so getting that feedback was key.
+
+- So I wanna look back a little bit through your time here.
+
+Advertisement Advertisement
+
+You've been here a long time.
+
+You got here in 1998.
+
+- That's right.
+
+- There had already been eras of Apple.
+
+There had been the Apple II era.
+
+The Mac, the diaspora era where Steve was gone.
+
+You were a compact.
+
+Did you think that at any point watching what was going on that Apple was just not gonna make it?
+
+- You know, I probably thought that before talking to Steve.
+
+At that time, if you remember Michael Dell had said if he was the CEO, he would shut Apple down.
+
+And just return whatever assets were left to the shareholders.
+
+And Michael just said what most everyone else thought.
+
+But I have to say, when I came out to talk to Steve about working at Apple, it felt so alive and so different.
+
+Advertisement Advertisement
+
+He was somebody that was the most unusual CEO I'd ever met.
+
+He was passionate about the product, passionate about Apple, passionate about its reason for being its purpose.
+
+And I thought, I've gotta do this.
+
+I want to do this.
+
+And from that point, I never thought that Apple would be going out of business.
+
+And other people did, and other people advised me, why are you doing this?
+
+You're leaving the world's largest personal computer company and going to one that may not survive.
+
+But I didn't feel that way at that point after talking to Steve.
+
+- So while you're here in your collaboration with Steve, you know, Apple came out with, you know.
+
+Advertisement Advertisement
+
+These great design products, the iMac, then the iPod era, which was so exciting.
+
+- That's right.
+
+- There were so many different versions of iPods, then of course the iPhone.
+
+- Yes.
+
+- Looking back, what did you do that was smart that you really didn't think was going to be so impactful in making that product a success?
+
+- Well, I think each product that you named sort of had its place in history.
+
+The iMac revived Apple, it kind of proved Apple could survive.
+
+The iPod giving people 1,000 songs in the pocket, something very unexpected, and solving a pain point that all of us had that loved music.
+
+It began to introduce people to more people, particularly in the developed markets.
+
+Advertisement Advertisement
+
+And the decision to port to Windows proved that Apple could come out with a product that was larger than the Mac community.
+
+And then iPhone built on everything that came before it.
+
+And with the great work from the technology team on multi-touch, it gave you a totally different way of interfacing with the product.
+
+And then what iPhone did looking back, was introduce people to Apple in the emerging markets.
+
+Going out and forming all of these carry relationships was very important to introducing Apple more broadly and sort of turning the industry on its side and owning the design.
+
+Because at that time, if you remember, the carrier was owning the design of the phone, was sort of directing it.
+
+Advertisement Advertisement
+
+And we said, no no, what we bring is the product skill.
+
+And what they brought was the networking skill.
+
+And we didn't have the networking skill and frankly they didn't have the product skill.
+
+And so this combination was very powerful.
+
+And the rest is history.
+
+- Well, we're beginning maybe a new era of history now with AI.
+
+Apple Intelligence.
+
+- I mean, do you think this is something that is gonna wind up reinventing the company and reinventing the world?
+
+Are you on the cusp of that?
+
+- I do.
+
+I think it's profound.
+
+I think just like multi-touch enabled iPhone and eventually iPad, and the modern smartphone, and the modern tablet, AI will reinvent and it provide a new era and a new chapter for iPhone and iPad, and the Mac, and all of our products over time.
+
+Because I think it changes the way you interface with the products.
+
+I get so much out of Apple Intelligence, and we're just at the beginning.
+
+- So Siri is one thing that's being revitalized here.
+
+I'm wondering, are we going to eventually have this relationship with Siri that'll be our constant companion and we'll do, for instance, everything we might wanna do in search, instead of going to Google, we'll just ask Siri.
+
+- We'll see.
+
+But I think, I use Siri a lot now.
+
+I'm a power user of Siri, and so I'm some of the billion five requests that Siri gets every day.
+
+So I already have a relationship with Siri, but I think more people will, because Siri will become more personally relevant and be able to take task off your plate that you don't have to do.
+
+And sort of a multi-step kind of approach that you saw some of the demos do.
+
+So I couldn't be more excited about the future of Siri.
+
+- You are the CEO.
+
+You've been here for a while.
+
+How long do you see yourself continuing this role?
+
+- Oh, I don't know.
+
+I get asked that question now more than I used to.
+
+- Why is that?
+
+As I age, as my hair turns gray, I love this place, Steven.
+
+I love it.
+
+And I love the people I work with.
+
+It's a privilege of a lifetime to be here.
+
+And I'll do it until the voice in my head says it's time.
+
+And then I'll go and focus on what the next chapter looks like.
+
+My life has been wrapped up in this company, as you mentioned, since 1998.
+
+This is a long time.
+
+It's the overwhelming majority of my adult life.
+
+And so it's tough to envision life without Apple.
+
+- So one more question.
+
+When we were all talking about the tour and things like that, I was also doing a story about the Infinite Loop, One Infinite Loop.
+
+That which used to be the Apple's headquarters.
+
+- That's right.
+
+- And you told me that you didn't move into Steve's office.
+
+- I didn't.
+
+- After he died, it was preserved.
+
+- Yes.
+
+- And that sometimes you would go in there.
+
+- [Tim] Yes.
+
+- And get inspired by being in the surroundings.
+
+- [Tim] Yes.
+
+- Do you still do that?
+
+Is that office still preserved?
+
+- I still do that.
+
+The office is still preserved.
+
+No one's ever moved in there.
+
+And that's been since 2011 as you know.
+
+Most of what we do is forward looking.
+
+But I like my connection back to Steve, and I like the company's connection back to Steve, because from him emanates our values and our DNA.
+
+So I think that connection's important.
+
+- So Tim, thank you so much for doing "The Big Interview."
+
+- Yeah, thank you.
+
+It's so great to spend time with you.
+
+- As always.
+
+- I'll bump into you in Palo Alto again.
+
+- Alright.
+
+Yeah, in a few days.
+
+- In a few days.
+
+- Okay.
+
+Thank you.
+
+- Alright.
+
+[uplifting music]
+

@@ -1,0 +1,32 @@
+link: https://www.reuters.com/technology/paypal-pushes-into-in-person-payments-with-cashback-rewards-apple-integration-2024-09-05/
+
+source: www.reuters.com
+
+title: PayPal pushes into in-person payments with cashback rewards, Apple integration
+
+summary: PayPal is expanding into U.S. point-of-sale payments by integrating its debit card with Apple's mobile wallet and offering cashback rewards, as the global online payments giant seeks direct competition with tech companies and banks.
+
+publishDate: 2024-09-05T12:06:04.781Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9807232022285461
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F702c6da3-9887-48a6-a6e7-112ef832abd3.png?auth=04ad12ba1dd23cd8820186b13514044927e092151baa3577bbcd774b1dd56a96&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F702c6da3-9887-48a6-a6e7-112ef832abd3.png?auth=04ad12ba1dd23cd8820186b13514044927e092151baa3577bbcd774b1dd56a96&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Freuters%2F702c6da3-9887-48a6-a6e7-112ef832abd3.png?auth=04ad12ba1dd23cd8820186b13514044927e092151baa3577bbcd774b1dd56a96&width=120&height=63&smart=true']
+
+content: PayPal <a href="https://www.reuters.com/markets/companies/PYPL.O" target="_blank">(PYPL.O)</a> is expanding into U.S. point-of-sale payments by integrating its debit card with Apple's mobile wallet and offering cashback rewards, as the global online payments giant seeks direct competition with tech companies and banks.
+The bid to grab a slice of in-person purchases at stores, cafes and restaurants is part of <a href="/technology/persistent-competition-likely-keep-pressure-paypal-analysts-say-2024-07-31/">an ambitious</a> turnaround strategy by new CEO Alex Chriss who joined the company from Intuit last year.
+While PayPal has long dominated online payments and peer-to-peer payments via its Venmo app, it has not pushed consumers to use its products in person.
+"E-commerce has obviously been one of the fastest growing areas where people are spending their dollars... but it's not everything," Chriss said. "Now consumers can use PayPal for every purchase, everywhere, every time."
+The push into point-of-sales includes 5% cash back for certain products up to $1,000 per month and additional rewards from brands like DoorDash and Sephora.
+The value of U.S. debit card payments has jumped in recent years, reaching $4.55 trillion in 2021 up from $2.47 trillion in 2015, according to recent U.S. Federal Reserve data.
+Chriss said consumers are becoming increasingly cost-conscious and moving towards debit cards, which allow them to keep within their spending limits.
+PayPal will also allow customers to use debit cards with Apple Pay, as users take advantage of mobile wallets and "tap to pay" options.
+That makes it among the more competitive debit card cash-back products with only 24% of debit cardholders reporting earning cash-back rewards in 2023, compared with 74% of credit cardholders, a report from purchase rewards firm Valuedynamx showed.
+While PayPal has enjoyed a long-held first mover advantage, increasing competition from Apple and Google have taken some share in mobile payments, <a href="/technology/persistent-competition-likely-keep-pressure-paypal-analysts-say-2024-07-31/">according to analysts</a>.
+As part of the push, the company is making its largest-ever marketing investment to promote using PayPal in person. PayPal declined to disclose amount of that investment, but flagged in its quarterly earnings that marketing and brand campaigns would push up expenses in the second half of the year.
+Chriss has called 2024 a "transition year" for PayPal, and has promised to grow revenues beyond transaction-related volume. In January, PayPal launched <a href="/business/paypal-launch-ai-based-products-new-ceo-aims-revive-share-price-2024-01-25/">artificial intelligence-driven products</a> and a one-click checkout feature.
+PayPal's stock price is up more than 17% since the beginning of the year, but still trails benchmark S&P 500 index's 22% gain.
+

@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/tech/this-apple-black-friday-deal-drops-the-apple-watch-series-10-to-a-new-low-price-on-amazon-180028708.html
+
+source: www.yahoo.com
+
+title: This Apple Black Friday deal drops the Apple Watch Series 10 to a new low price on Amazon
+
+summary: 
+
+publishDate: 2024-11-14T18:00:28.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9994902610778809
+
+images: ['https://s.yimg.com/uu/api/res/1.2/MoiwG5s5mG8PeSgMv7cNUQ--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/7c7bbc50-a2bc-11ef-b9de-671ed3258e24', 'https://s.yimg.com/uu/api/res/1.2/nCS5xrFyj_BZxYqnHPTTag--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/439fe610-a2ce-11ef-beea-94a625076769', 'https://s.yimg.com/uu/api/res/1.2/1sbTk11tOMk1Agv2jmZV_Q--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/c7076010-a2be-11ef-b76b-15fa4ed08239']
+
+content: Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products .
+
+You don't have to look too hard to find early Black Friday deals on Apple devices. For one thing, the Apple Watch Series 10 has dropped to a new all-time-low price on Amazon. The wearable can be yours for $350. That's $50 off, or a discount of 13 percent.
+
+That price is for the smaller 42mm model without LTE functionality. However, the 46mm variant is also $50 off at $379 .
+
+The Apple Watch Series 10 is our pick for the best smartwatch overall, but it's probably best to look at other options if you're an Android user. After all, you'll need a compatible iPhone to set up the wearable and get the most out of it.
+
+Advertisement Advertisement
+
+We gave the Apple Watch Series 10 a score of 90 in our review . Apple redesigned the smartwatch to offer a larger screen and thinner frame, both of which were plus points in our book. The wide-angle OLED panel offers better viewing angles. The wearable has in-depth fitness and health tracking too, with new functions including sleep apnea detection.
+
+We found that there was a slight increase in battery life thanks to efficiency improvements, but some alternative smartwatches run for much longer on a single charge. Overall, this is a somewhat iterative update compared with the Series 9 and 8, but if you're upgrading from an older Apple Watch (or buying one for the first time), you may find the features, performance and charging speed to be impressive.
+
+Meanwhile, a four-pack of Apple AirTags has also dropped to a record low price of $70 . Apple will soon enable a new AirTag feature that allows you to more easily share the location of the tracker with airlines and other people.
+
+Check out all of the latest Black Friday and Cyber Monday deals here.
+

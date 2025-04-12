@@ -1,0 +1,31 @@
+link: https://www.reuters.com/technology/tech-firms-halve-business-travel-2023-alphabet-apple-lag-study-shows-2024-09-10/
+
+source: www.reuters.com
+
+title: Tech firms halve business travel in 2023 but Alphabet, Apple lag, study shows
+
+summary: Global tech giants halved their business flight emissions in 2023 compared to 2019, but companies like Apple and Google's parent Alphabet are falling behind, risking a return to pre-pandemic levels, a Brussels-based NGO said in a report.
+
+publishDate: 2024-09-10T22:08:38.735Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998499155044556
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Global tech giants halved their business flight emissions in 2023 compared to 2019, but companies like Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> and Google's parent Alphabet <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> are falling behind, risking a return to pre-pandemic levels, a Brussels-based NGO said in a report.
+Business travel last year approached pre-pandemic levels but trailed behind leisure trips, as geopolitical conflicts and a slower rebound in key markets hindered full recovery.
+Emissions from corporate flights by 26 major tech companies analysed by Travel Smart, a campaign led by Transport & Environment (T&E) dropped by an average of 49% in 2023, it found.
+While this shows that many tech firms are on the right path, only seven have set specific reduction targets that are essential to keeping business flight numbers in check, T&E said.
+Alphabet, which has not set a goal to cut emissions, and Apple, which set a broader target, are slowly creeping back toward 2019 levels, T&E said.
+The two were among the worst performers, with reductions in corporate travel emissions of just 23% and 31% in 2023, respectively.
+"How can (Google chief) Sundar Pichai say that Google is progressing to a sustainable future when its travel emissions are going in the wrong direction?" said Denise Auclair, corporate travel manager at T&E.
+Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a>, IBM <a href="https://www.reuters.com/markets/companies/IBM.N" target="_blank">(IBM.N)</a>, and SAP <a href="https://www.reuters.com/markets/companies/SAPG.DE" target="_blank">(SAPG.DE)</a>, despite significant cuts, are also at risk as they are among the companies that fly the most without having set reduction goals, T&E said.
+"Tech companies have claimed to be climate leaders for a long time and many have substantially reduced their business travel emissions, but if they want to be credible they must set reduction targets," Auclair added.
+Asked about its performance, Apple said it has already reduced its greenhouse gas emissions by more than 55% since 2015 as part of its goal to become carbon-neutral by 2030.
+"We're achieving this by making reductions across our entire carbon footprint — including business travel — and implementing significant cuts to the largest sources of our emissions," a spokesperson for Apple told Reuters.
+Other companies were not immediately available for comment.
+

@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/10/30/apple-updates-macbook-pro-laptops-with-new-chips-more-memory-for-ai-.html
+
+source: www.cnbc.com
+
+title: Apple updates MacBook Pro laptops with new chips, more memory for AI
+
+summary: Apple is making a significant upgrade to its lineup of computers to better support Apple Intelligence.
+
+publishDate: 2024-10-30T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999706745147705
+
+images: ['https://image.cnbcfm.com/api/v1/image/108045530-1728582039428-AI_EFFECT_CNBC_COM_SPECIAL_REPORT_HEADER_BKGD_TEMPLATE_1497x160_v04.jpg?v=1728582058', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Tim Cook, CEO of Apple Inc., during the Apple Worldwide Developers Conference at Apple Park campus in Cupertino, California, on June 10, 2024.
+
+Apple on Wednesday introduced new MacBook Pro laptops with updated processors, in what is likely the company's last major hardware announcement of the year.
+
+The new devices are equipped with Apple's latest chip, the M4. Some models have access to more powerful versions, called the M4 Pro and M4 Max. Apple says the new chips are 1.8 times faster than the M1, which powered Apple's 2021 MacBook Pro.
+
+Apple has also made a significant change across its entire Mac lineup to prepare the computers for future artificial intelligence features.
+
+Apple said the new models, like all devices released this year, are designed for Apple Intelligence, the company's AI system that can generate text, images and emojis.
+
+Additionally, all of the new MacBook Pro models come with at least 16GB of RAM. Until now, low-end Macs often came with 8GB of RAM by default. The more memory a computer has, the more it is capable of handling larger and more sophisticated AI models.
+
+Apple's MacBook Air laptops and iMac desktops are also getting an update to start with at least 16GB of RAM at the same $999 starting price as before. The M4 also has improved AI capabilities. Doubling the RAM on its laptops represents the most significant change Apple has made to its lineup of computers to better support Apple Intelligence.
+

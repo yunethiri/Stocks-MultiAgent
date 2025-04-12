@@ -1,0 +1,40 @@
+link: https://www.yahoo.com/tech/apple-iphone-16-huge-ai-193638997.html
+
+source: www.yahoo.com
+
+title: Apple iPhone 16 huge AI upgrade just tipped ahead of Glowtime event
+
+summary: 
+
+publishDate: 2024-09-07T19:36:38.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.8623668551445007
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-iphone-16-huge-ai-193638997.html&c14=-1']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple Hub
+
+Apple's big Glowtime launch event is just around the corner, where we expect to get our first official look at Apple's iPhone 16 series. Rumors have been swirling for months now, and the latest suggests Apple will adopt SoftBank-owned Arm's newest V9 chip design in its next-gen smartphones — the same architecture behind its upcoming line of M4 MacBook chips to support a suite of AI-powered features.
+
+Apple plans to reveal the A18 chip based on Arm’s newest design architecture at Monday's event, according to sources familiar who spoke with the Financial Times. Arm’s architecture, which is used in nearly every smartphone chip, outlines how a central processor works at its most basic level.
+
+Last September, Apple signed a deal with Arm through 2040 "and beyond," securing access to a core piece of intellectual property, the Arm architecture, used in its iPhone and Mac chips, for the foreseeable future. The multi-year licensing agreement also represents a huge boost for Arm. Arm CEO Rene Haas previously said the V9 chip architecture, originally launched in 2021, brings in twice the royalties of its last-gen V8, which can be found in Apple's A17 Pro chip for the iPhone 15 Pro and Pro Max.
+
+Another step forward for Apple Intelligence
+
+This marks the latest step in Apple's push to bring generative AI features under the Apple Intelligence branding to its smartphones. A full Apple Intelligence release is expected sometime in 2025, but we know a lot about what to expect thanks to several features being out in the wild via developer betas for iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1.
+
+Similar to Microsoft Copilot in Windows, Apple Intelligence can automatically perform tasks within the operation system and works across devices (so long as they run on either an M-series chip or an A17 or above on iPhone). Some features worth shouting out include generating text or images, rewriting text to make it more engaging or legible, removing any distracting objects from a background or identifying users in photos, and upgrading Siri to understand and respond to more natural language.
+
+But running on-device AI models takes a lot of computing power, and that means if Apple wants to bring Apple Intelligence on something that'll fit in your pocket like an iPhone, it'll need top-of-the-line, energy-efficient chip technology under the hood.
+
+We'll have to wait until Apple's big showcase on Monday to learn more. In the meantime, be sure to check out our guide to how to watch the Apple Glowtime event.
+
+More from Tom's Guide
+

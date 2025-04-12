@@ -1,0 +1,21 @@
+link: https://www.reuters.com/business/autos-transportation/stellantis-chairman-pick-apple-cfo-maestri-carmakers-new-ceo-paper-2024-12-04/
+
+source: www.reuters.com
+
+title: Stellantis chairman to pick Apple CFO Maestri as carmaker's new CEO - paper
+
+summary: Stellantis' Chairman John Elkann plans to name Luca Maestri, the outgoing CFO of Apple, as the new CEO of the Italian-French carmaker, newspaper Corriere della Sera reported on Wednesday.
+
+publishDate: 2024-12-04T07:16:13.737Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999704360961914
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Stellantis' <a href="https://www.reuters.com/markets/companies/STLAM.MI" target="_blank">(STLAM.MI)</a> Chairman John Elkann plans to name Luca Maestri, the outgoing CFO of Apple, as the new CEO of the Italian-French carmaker, newspaper Corriere della Sera reported on Wednesday.
+Reuters was not immediately able to verify the report.
+

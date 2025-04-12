@@ -1,0 +1,27 @@
+link: https://www.reuters.com/technology/apple-deletes-us-funded-rferl-news-app-russian-app-store-news-outlet-says-2024-11-15/
+
+source: www.reuters.com
+
+title: Apple deletes US-funded RFE/RL news app from Russian App Store, news outlet says
+
+summary: Apple has deleted one of U.S.-funded Radio Free Europe/Radio Liberty's Russian-language news apps from the Russian App Store at the request of state communications regulator Roskomnadzor, the news outlet said on Friday.
+
+publishDate: 2024-11-15T16:16:08.827Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999754428863525
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has deleted one of U.S.-funded Radio Free Europe/Radio Liberty's Russian-language news apps from the Russian App Store at the request of state communications regulator Roskomnadzor, the news outlet said on Friday.
+Apple and Roskomnadzor did not immediately respond to requests for comment. Reuters reporters in Russia could still access the app on mobile devices.
+Under President Vladimir Putin, Russia has put dozens of opposition media websites on blacklists and banned several foreign social-media platforms in a crackdown it casts as part of an information war unleashed by the West after Moscow's 2022 <a href="https://www.reuters.com/world/ukraine-russia-war/">invasion of Ukraine</a>.
+Moscow's restriction of news sites ultimately limits Russians' access to independent media. Moscow often accuses blocked sites of false reporting.
+RFE/RL journalist Alsu Kurmasheva, who had been found guilty in Russia of <a href="/world/europe/russian-court-sentences-rferl-journalist-kurmasheva-65-years-prison-court-press-2024-07-22/">spreading false information</a> about the Russian army, was released in a prisoner swap with the West on Aug. 1. RFE/RL CEO Stephen Capus had called Kurmasheva's trial and conviction "a mockery of justice".
+One of RFE/RL's local websites in Russia, Siberia.Realities, said Apple had notified Radio Svoboda, which means "freedom" in Russian, that the Svoboda app was being deleted. The app houses Russian content from the Siberia.Realities and North.Realities projects.
+Apple removed <a href="/technology/russia-says-apple-blocks-25-vpn-apps-russia-ifx-reports-2024-07-04/">25 virtual private network applications</a> from its App Store in Russia at Roskomnadzor's behest, the Interfax news agency reported in July, part of Moscow's crackdown on services that help people circumvent online restrictions.
+Apple paused all product sales in Russia soon after the Ukraine invasion and limited its Apple Pay service in Russia.
+

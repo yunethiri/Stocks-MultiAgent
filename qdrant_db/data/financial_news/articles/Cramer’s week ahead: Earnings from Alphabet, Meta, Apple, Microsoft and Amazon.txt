@@ -1,0 +1,54 @@
+link: https://www.cnbc.com/2024/10/25/cramers-week-ahead-earnings-from-alphabet-meta-apple-microsoft-and-amazon.html
+
+source: www.cnbc.com
+
+title: Cramer’s week ahead: Earnings from Alphabet, Meta, Apple, Microsoft and Amazon
+
+summary: CNBC's Jim Cramer on Friday urged investors to keep a level head during next week's busy slate of corporate earnings and influential economic reports.
+
+publishDate: 2024-10-25T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.999996542930603
+
+images: ['https://image.cnbcfm.com/api/v1/image/108053270-1729895316DOTCOM-MM-A-102524-SHORT.jpg?v=1729895315&w=750&h=422&vtcrop=y', 'https://image.cnbcfm.com/api/v1/image/108053269-DOTCOM-MM-A-102524.jpg?v=1729895261&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: With massive corporations including Alphabet , Meta , Apple , Microsoft and Amazon set to report earnings next week, CNBC's Jim Cramer on Friday urged investors to keep a level head. He also said not to forget about the nonfarm payroll report next Friday, where a weak hiring result could urge the Federal Reserve to keep cutting rates.
+
+"Huge opportunity," he said. "Just please remember, the first move's been the wrong move almost half the time since this earnings season began. Wait to process the numbers and listen to the conference calls before you pull the trigger."
+
+Monday starts off the week with earnings from Ford . Cramer said he wishes the automaker giant will report a clean quarter with no issues from warranty costs and not too much lost on electric vehicles.
+
+Tuesday brings McDonald's earnings report, and Cramer said to expect "a full airing of the e-coli situation," but that it is too early to tell how much damage it will do to the fast food chain. The Centers for Disease Control and Prevention said Friday that a deadly E. coli outbreak linked to McDonald's Quarter Pounders has led to 75 cases in 13 states.
+
+
+
+Cramer predicts Royal Caribbean , Reddit and PayPal to all report a large beat and raise in year-end guidance.
+
+Alphabet will report after the close on Tuesday. While the tech behemoth's stock has been all over the map, Cramer said it has been "rarely in a good way." He said Alphabet is a great company, but not a solid stock as the leadership doesn't seem to prioritize what investors want to hear.
+
+
+
+Cramer said he believes Advanced Micro Devices will do well enough to take parts of Nvidia's business. Chipotle will report its earnings for the first time since former-CEO Brian Niccol's left the helm to run Starbucks , and Cramer said he believes announcing a permanent CEO would help the stock.
+
+Another large slate of reports are set for Wednesday, including Caterpillar and Eli Lilly . Cramer said he saw the former's machines all over Chevron's floating platform in the Gulf of Mexico, but isn't sure whether the likely strong report will be enough to move the already hot stock. The latter has had a strong run on the back of the GLP-1 weight-loss drugs, and Cramer said a Stifel report on the negative impact weight-loss drugs may have on food stock means Eli Lilly stocks will benefit.
+
+
+
+Meta and Microsoft will dominate the after-the-bell reports, and while Cramer said he believes Meta can continue its phenomenal quarterly run, he isn't too sure whether Microsoft will be able to convince investors that its AI-tool Copilot is as strong as advertised. Two more companies Cramer said will likely show a hot quarter, Booking Holding and DoorDash , will shed more light on consumers prior to the nonfarm payroll report.
+
+The monster week for earnings will continue into Thursday, as both Apple and Amazon will report after the bell. Even after the lackluster iPhone 16 launch, Cramer said "we've seen this movie before" with the company and the best strategy is to hold on.
+
+
+
+Another moment not to panic, he said Amazon is doing well and not to dogpile on the potential hammering the stock received last quarter. Cramer said he believes two drug stocks, Merck and Bristol-Myers , are too low, but if Friday brings a weak employment number then they are two stocks investors should not have bought.
+
+On Friday, the nonfarm payroll report will be released, and Cramer said he "can't stress how important this number is." He said continued strong employment will mean no November interest rate cut, and even though some investors will want to sell, fed rate cut cycles are times to buy. Oil titans Chevron and Exxon will report the same day.
+
+
+
+Cramer said he was impressed on his trip by the way Chevron's returned a huge amount of capital in dividends and buybacks even though it is still the worst performer in the group. He also said Exxon is more loved than Chevron from the battle over the Hess acquisition, even as Exxon doesn't have as much earnings power, and suggested people should switch sides.
+

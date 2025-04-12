@@ -1,0 +1,34 @@
+link: https://www.yahoo.com/tech/qualcomm-hitting-apple-where-hurts-110029665.html
+
+source: www.yahoo.com
+
+title: Qualcomm is hitting Apple where it hurts the most
+
+summary: 
+
+publishDate: 2024-09-04T11:00:29.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999449253082275
+
+images: ['https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45', 'https://s.yimg.com/ny/api/res/1.2/RUFvwxEcd8uUTzATdyvBGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/digital_trends_973/2fa8df7a10e6e6e8731012b4f42a6db5', 'https://s.yimg.com/ny/api/res/1.2/lz31J6bwGRNFXUAzr7D0Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzNQ--/https://media.zenfs.com/en/digital_trends_973/116874a20fa9e446f0e5082806a3deb6']
+
+content: Just a day after Intel revealed its Lunar Lake laptop CPUs at IFA 2024, Qualcomm is firing back with a new Snapdragon X Plus chip. The aptly named Snapdragon X Plus 8-core trims down the core count that we’ve seen on a wave of Snapdragon X Elite laptops to undercut the competition from Apple. Qualcomm says that machines sporting the new CPU, which could show up on the list of the best laptops, will be available to purchase starting today.
+
+The Snapdragon X Plus isn’t new, but this is a new variant of the chip. The major difference is right in the name. This CPU comes with eight cores instead of 10, but Qualcomm is still using a 4nm process, and it says the chip can reach up to 3.4GHz with single-core boosts up to 4GHz. Critically, the chip still sports a Neural Processing Unit (NPU), allowing it to show up in Copilot+ laptops with 45 Tera Operations Per Second (TOPS) of power. Laptops sporting this chip should come with great battery life as well — that’s a common thread we’ve seen with Qualcomm laptops like the new Dell XPS 13 9345.
+
+Qualcomm
+
+Although this new chip will likely be weaker than the 10-core Snapdragon X Plus and 12-core Snapdragon X Elite, Qualcomm says it’s still much more powerful than the competition. The company says the chip delivers 108% better performance than the Intel Core Ultra 5 125U at 15 watts in multi-core performance, and that it provides a single-core advantage of 40% at 6W compared to the AMD Ryzen 5 8640U. Qualcomm likes to use these efficiency metrics, showing what it can deliver at certain power levels. As we’ve seen with new x86 laptops like the Asus Zenbook S 16, peak performance numbers are much closer than Qualcomm suggests.
+
+Qualcomm
+
+Performance isn’t the main draw here, however. Price is. Qualcomm says this new CPU “enables” Copilot+ laptops in the $700 to $900 range. The verbiage here is important because it doesn’t appear Qualcomm is saying that these new laptops will be between $700 and $900 — the company is just saying that price range is possible. Two of the first laptops sporting this chip that we know about, the Asus Vivobook S 15 and ProArt PZ13, are arriving at $899 and $1,099, respectively.
+
+Even if only a handful of laptops can reach down to $700, though, that provides Qualcomm a big advantage compared to the competition from Apple. You’ll spend at least $1,000 on the MacBook Air, and that’s with the aging M2 chip. By offering Copilot+ laptops below that price, particularly with requirements like 16GB of RAM, Qualcomm could make a big dent in the mainstream market.
+
+Qualcomm says that laptops with the Snapdragon X Plus 8-core will be available from Acer, Asus, Dell, HP, Lenovo, and Samsung, with “select devices” available to purchase now.
+

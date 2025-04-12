@@ -1,0 +1,40 @@
+link: https://finance.yahoo.com/news/magnificent-seven-set-shed-1-121217049.html
+
+source: finance.yahoo.com
+
+title: Magnificent Seven set to shed $1 trillion in value, led by Apple, Nvidia
+
+summary: 
+
+publishDate: 2024-08-05T12:12:17.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998741149902344
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://media.zenfs.com/en/reuters-finance.com/3fb15d8cb7cd61b171d7d68bc12a870b', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1183300103&c7=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fmagnificent-seven-set-shed-1-121217049.html&c14=-1']
+
+content: (Reuters) -Apple and Nvidia led a sell-off in technology stocks on Monday as U.S. recession fears and Berkshire Hathaway's decision to cut its stake in the iPhone maker punctured a months-long rally in the sector.
+
+High-performing shares of Alphabet, Amazon, Meta Platforms, Microsoft and Tesla fell as much as 12.2% in premarket trading.
+
+The losses in the Magnificent Seven stocks were set to wipe out nearly $1 trillion from the combined market value of the companies.
+
+Chip stocks, the big winners of Wall Street's picks and shovels trade for AI, also tumbled, with Advanced Micro Devices, Intel, Super Micro Computer and Broadcom falling as much as 10.3%.
+
+The share slide followed a weak U.S. payrolls report on Friday that pushed investors to safe assets and spurred bets that the Federal Reserve will have to soon cut interest rates to aid growth.
+
+Over the weekend, Warren Buffett's Berkshire Hathaway said it had halved its stake in Apple - the conglomerate's top holding - in a stock-selling spree that raised worries about the outlook for the tech industry.
+
+Meanwhile, Nvidia shares took a hit from a report that the launch of its upcoming AI chips could be delayed by three months due to design flaws, which could impact customers such as Facebook-parent Meta, Alphabet's Google and Microsoft.
+
+After driving gains on Wall Street for more than a year, big technology stocks have come under pressure in the past few weeks also on signs that the payoff from hefty AI investments would take longer than some investors had initially hoped.
+
+Shares of Amazon, Microsoft and Alphabet - the three biggest providers of cloud-computing services - fell as their earnings reports dashed big bets of hefty AI investments translating quickly into growth.
+
+"Expectations have arguably become too high for the so-called Magnificent Seven group of companies. Their success has made them untouchable in the eyes of investors and when they fall short of greatness, out come the knives," Dan Coatsworth, investment analyst at AJ Bell, said.
+
+(Reporting by Aditya Soni in Bengaluru; Editing by Arun Koyyur)
+

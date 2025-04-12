@@ -1,0 +1,34 @@
+link: https://www.yahoo.com/news/apple-needs-to-remember-what-the-iphone-16-is-for-134535338.html
+
+source: www.yahoo.com
+
+title: Apple needs to remember what the iPhone 16 is for
+
+summary: 
+
+publishDate: 2024-09-10T13:45:35.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9996052384376526
+
+images: ['https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404']
+
+content: There’s a meme that comes around when people are urged to see a movie on the biggest screen as the filmmaker intended . People then mock up images of them watching it on the worst, least-immersive devices possible, from iPods to Game Boys. It came to mind during the iPhones 16 launch event, Apple said its new models have CPUs that can challenge “even high-end desktop PCs” and “desktop-class GPU architecture.” And it made me wonder if anyone is actually playing AAA games on a 6-inch smartphone for any real length of time?
+
+Look, we all know this is just Apple flexing the power of its homegrown silicon, given even its A-Series SOCs run almost as fast as a flagship Intel CPU. We also all know that if you tried to run your iPhone with the same load as you could put on a desktop, you’d quickly burn it out. (Case in point, Resident Evil Village caused GamesHub’s iPhone 15 Pro to run “uncomfortably hot” and burned through 30 percent of its battery life in an hour.) All of that power is great for the sort of tasks an iPhone needs to do which are only demanding in short bursts. Processing audio and video, or the odd blast of generative AI (when it arrives) that Apple is understandably proud of being able to do on-device.
+
+But this emphasis on raw power suggests the company has lost sight of what the iPhone is for, and what its limitations are. Yes, I’m sure some people love playing Death Stranding on the bus into school, or work. I’m sure there are some people who will try and use the Notes app to write their term papers, and one or two filmmakers who will use the iPhone instead of a Red, but those can’t be massive constituencies of the overall user base.
+
+It’s hard to see people using their iPhone to get the sort of Serious Work done that you’d need a better user interface to achieve. iPhones are great for photography, social media, communication, casual gaming, but they can’t be a comprehensive replacement for a laptop or games console. Well, you can use them for those purposes, but I’m not sure anyone should.
+
+Another telling example was the demo showing a person using Voice Notes to record a new vocal over a backing track they’d previously recorded. It’s a great way to show the iPhones 16’s ability to isolate audio even when the sources are so close together. Apple added the feature to Voice Notes because it has seen user feedback that it’s become a valuable tool in a musician’s arsenal. But it’s also something of an own-goal given Apple’s own multi-track recording platform, Garageband, has been left (deservedly) ignored and unloved for the last decade.
+
+I suspect all of this points to the fact that Apple, with its key strengths of merging hardware and software, has run out of worlds to conquer in the former. After all, as glorious as the new iPhone is, the upgrades have been incremental for a long while now. As fancy and high-tech as the new camera shutter button is, it’s not as if adding a dedicated button for capture is groundbreaking — I had one of those on my Sony Ericsson K750i . I’m also curious how many iPhone users actually harness those extra camera features (like adjusting the focal length, or shooting in RAW) when they’re snapping clips for TikTok. And if you, like me, don’t really value Apple Intelligence, or just think those features aren’t really compelling, then there’s little reason to rush out and upgrade.
+
+It doesn’t help that I was also reminded of what Steve Jobs said in 2010, describing personal computers as “trucks” whose prominence would fall as people switched to the “cars” of phones and tablets. Trucks were go-anywhere, do-anything tools that were vital a century or more ago but were phased out when people started using more specific tools suited to their needs. The iPhone 16 launch event, however, felt like Apple showing everyone that it’d managed to cram a Big Rig engine into a Porsche.
+
+Catch up on all the news from Apple’s iPhone 16 event!
+

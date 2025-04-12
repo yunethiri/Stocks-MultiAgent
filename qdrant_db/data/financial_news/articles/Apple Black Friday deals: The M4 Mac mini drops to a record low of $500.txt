@@ -1,0 +1,28 @@
+link: https://www.yahoo.com/tech/apple-black-friday-deals-the-m4-mac-mini-drops-to-a-record-low-of-500-144307243.html
+
+source: www.yahoo.com
+
+title: Apple Black Friday deals: The M4 Mac mini drops to a record low of $500
+
+summary: 
+
+publishDate: 2024-11-18T14:43:07.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9932448267936707
+
+images: ['https://s.yimg.com/os/creatr-uploaded-images/2023-09/72819a70-4d9b-11ee-97ef-bc308af496e0', 'https://s.yimg.com/uu/api/res/1.2/bCz3iFKIV5LXObyLC2VQvA--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/f3440c20-a839-11ef-b9f7-b5b62c0fd556', 'https://s.yimg.com/uu/api/res/1.2/fvmjpNXXlaWehijfoyVpMA--~B/Zmk9ZmlsbDtoPTUwNDtweW9mZj0wO3E9OTU7dz04OTY7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/3f81eb80-a6c2-11ef-b2af-ddc04cd064e3']
+
+content: Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products .
+
+Apple's new Mac mini hasn’t been available for that long yet, but you can already grab it at a discount. The M4-powered Mac mini has dropped to an all-time low of $500 thanks to a discount and an additional, clippable coupon that will bring the final price down to $500. That’s a total of $100 of savings off the original price of the model with 16GB of RAM and 256GB of storage.
+
+The 2024 Mac Mini is available with an M4 or M4 Pro chip, both of which give the desktop computer a real boost from its previous version. We gave the upgrade a 90 in our review, in part due to the Pro's perks (which we'll get into later), but also general features like the base level being 16GB of RAM. This generation also offers front USB-C and headphone ports, as well as a design that's less than half the size of its predecessor.
+
+The Mac Mini with M4 chip should be plenty of power for all your basic tasks. But, if you need a bigger boost, then check out Mac Mini with an M4 Pro chip. It's currently on sale for $1,270, down from $1,370, due to a $100 coupon available on the product page. This deal is available on the model with 24GB of unified memory and 512GB of SSD storage. It's remarkably fast and offers Thunderbolt 5 support, rather than the M4's Thunderbolt 4. Thunderbolt 5 can triple data transfer speeds to 120GB/s, up from 40GB/s.
+
+Check out all of the latest Black Friday and Cyber Monday deals here.
+

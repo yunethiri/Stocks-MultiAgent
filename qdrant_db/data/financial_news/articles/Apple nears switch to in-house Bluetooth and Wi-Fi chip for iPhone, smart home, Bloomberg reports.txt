@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/apple-nears-switch-in-house-bluetooth-wi-fi-chip-iphone-smart-home-bloomberg-2024-12-12/
+
+source: www.reuters.com
+
+title: Apple nears switch to in-house Bluetooth and Wi-Fi chip for iPhone, smart home, Bloomberg reports
+
+summary: Apple is planning to switch to a homegrown chip for Bluetooth and Wi-Fi connections for its devices starting next year, a move that will phase out some parts currently supplied by Broadcom , Bloomberg News reported on Thursday.
+
+publishDate: 2024-12-12T19:47:43.860Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999732971191406
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> is planning to switch to a homegrown chip for Bluetooth and Wi-Fi connections for its devices starting next year, a move that will phase out some parts currently supplied by Broadcom <a href="https://www.reuters.com/markets/companies/AVGO.O" target="_blank">(AVGO.O)</a>, Bloomberg News reported on Thursday.
+The chip, code-named Proxima, has been under development for several years and is now slated to go into the first iPhones and smart home devices produced in 2025, the report said, citing people familiar with the matter.
+The iPhone maker's in-house chips will be produced by Taiwan Semiconductor Manufacturing Co <a href="https://www.reuters.com/markets/companies/2330.TW" target="_blank">(2330.TW)</a>, the report added.
+At its annual developer conference <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">in June</a>, Apple said that it plans to use its own server chips to help power artificial intelligence features on its devices.
+The move is separate from Apple's reported plans to launch its long-awaited series of cellular modem chips next year, which will replace components from longtime partner Qualcomm <a href="https://www.reuters.com/markets/companies/QCOM.O" target="_blank">(QCOM.O)</a>, the report added.
+However, the two parts will eventually work together, Bloomberg said on Thursday.
+Apple did not immediately respond to Reuters' request for comment.
+The company is working with Broadcom to develop its first server chip, which is internally code-named Baltra, specifically designed for AI processing, the Information <a href="/technology/apple-is-working-ai-chip-with-broadcom-information-reports-2024-12-11/">reported on Wednesday</a>.
+The iPhone maker, along with some other big technology companies, has found it hard to cut reliance on Nvidia's <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> pricey and short-in-supply processors despite in-house efforts to develop their own chips to power compute-heavy AI services.
+Last year, Broadcom, a major supplier of wireless components to Apple, had <a href="/markets/deals/apple-inks-multi-billion-dollar-deal-with-broadcom-us-made-chips-2023-05-23/">signed a multi-billion-dollar deal</a> with the company to develop 5G radio frequency components.
+

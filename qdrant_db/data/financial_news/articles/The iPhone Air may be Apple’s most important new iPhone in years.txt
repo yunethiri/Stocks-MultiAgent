@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/tech/iphone-air-may-apple-most-230957532.html
+
+source: www.yahoo.com
+
+title: The iPhone Air may be Apple’s most important new iPhone in years
+
+summary: 
+
+publishDate: 2024-08-12T23:09:57.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999548196792603
+
+images: ['https://s.yimg.com/ny/api/res/1.2/tL9mW6GeMj4wySexB.Xm0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/digital_trends_973/e61eaf0a3c55c37ebf11077a5b00a199', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45']
+
+content: It seems Apple is trying to shoehorn the “Air” concept into the iPhone portfolio, and it may not necessarily turn out to be a wallet destroyer. According to Bloomberg, the “far thinner” iPhone 17 model planned for 2025 will sit between the entry-point iPhone 17 and the more expensive Pro models.
+
+Earlier in May this year, The Information reported that Apple was planning “a significantly thinner version of the iPhone” slated for launch next year. However, the report added that it could well be the most expensive smartphone in Apple’s 2025 lineup. But the latest report from Bloomberg puts this skinnier iPhone model in the mid-segment as a replacement for the ongoing “Plus” model in Apple’s lineup. “The idea is to create an “Air” version of the iPhone of sorts,” says the report.
+
+It further adds that Apple will market this new iPhone 17 model as “something that looks much cooler while still having the specifications of a regular iPhone.” That’s the textbook definition of what the iPhone 15 Plus currently has to offer and the short-lived mini iPhones before it.
+
+Jon Prosser at Front Page Tech also predicted the possibility of an iPhone Air happening in the near future. Apparently, Apple didn’t quite taste the sales success that it expected from the iPhone Plus models, which seems like a repeat of the “mini” strategy that also survived for only a couple of generations.
+
+iPhone Air mockup Front Page Tech
+
+Now, an “iPhone Air” sounds like an impressive proposition — one that is reminiscent of the iPad Air family, which hits the sweet spot between affordability and performance. Apple has positioned the “Air” slates between the vanilla iPad and the flagship iPad Pro models, combining top-shelf performance with a palatable asking price.
+
+In the iPhone lineup, the iPhone Plus offers nothing compelling aside from a bigger display and a larger battery. However, the close price proximity with the “Pro” iPhones — which offer a faster processor, better cameras, and software features — pushed many buyers to get the latter at a smaller premium.
+
+Notably, the iPhone 15 Pro could very well serve as the stepping stone for what iPhones will look like in the coming years. Apple will reportedly push the iPhone Air’s design across its entire smartphone portfolio, as per Bloomberg’s report. In addition to a thinner build, Apple is reportedly experimenting with a new battery design.
+
+One of the core technologies in making the next-gen battery is called electrically induced adhesive debonding, and according to research, it could very well pave the way forward for batteries that are easily removable and replaceable.
+

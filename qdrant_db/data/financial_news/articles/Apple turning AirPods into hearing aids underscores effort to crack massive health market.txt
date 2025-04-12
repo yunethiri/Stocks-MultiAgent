@@ -1,0 +1,40 @@
+link: https://www.cnbc.com/2024/09/12/apple-turns-airpods-into-hearing-aids-focusing-on-big-health-market.html
+
+source: www.cnbc.com
+
+title: Apple turning AirPods into hearing aids underscores effort to crack massive health market
+
+summary: Apple is using its newest AirPods Pro as a way to help break into the health industry, a potential $15 trillion market.
+
+publishDate: 2024-09-12T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9999613761901855
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://image.cnbcfm.com/api/v1/image/108031280-17259074301725907427-36190186051-1080pnbcnews.jpg?v=1725907429&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Soon, people with AirPods in their ears might not be drowning you out — they might be wearing them to hear you better.
+
+Apple announced on Monday that its AirPods Pro 2 headphones will become an FDA-cleared hearing aid in the coming weeks through a software update. That means that adults with mild or moderate hearing loss — about 30 million Americans, according to the Food and Drug Administration — will be able to use Apple earphones to amplify specific sounds they want to hear better.
+
+"After you take a hearing test, your AirPods Pro are transformed into a personalized hearing aid, boosting the specific sounds you need in real time, like parts of speech, or elements within your environment," Apple's vice president of health, Sumbul Desai, said in the feature's launch video.
+
+The announcement is the latest example of Apple's strategy to break into the health industry, a potential $15 trillion market by the year 2030, according to RBC Capital Markets. Apple CEO Tim Cook has highlighted health features as the company's "most important contribution to mankind."
+
+That strategy includes developing FDA-cleared features for its wearable products and replacing what are often more expensive purpose-built medical devices. Since 2020, Apple has added a notification service for irregular heartbeats, an atrial fibrillation reader and an electrocardiogram reader to its Apple Watch, according to FDA filings.
+
+The new feature is a free software update for some AirPods models and will be included with Apple's $249 AirPods Pro 2.
+
+Many over-the-counter hearing aids are much more expensive, according to buyers guides cited by the Hearing Loss Association of America, an advocacy group. While some OTC hearing aids cost as little as $99, most range from $799 into the thousands of dollars.
+
+"What is really cool about Apple now saying their AirPods can be over-the-counter hearing aids, is we're seeing that technology innovation at a price point and in a product that's very mainstream," said Barbara Kelley, executive director of the Hearing Loss Association of America.
+
+Apple is trying to jump-start AirPods sales after a few soft years.
+
+The company doesn't break out AirPods stats individually, but its Wearables category declined 2% annually for the most recent quarter that sales are available. Analysts say that adding health features like a hearing aid expands the market for the device, which could help sales.
+
+"The hearing aid piece is a very specific use case," said Deepwater Asset Management founder Gene Munster, who estimates that AirPods account for about 5% of Apple's total revenue. "It does open it up to a different market."
+

@@ -1,0 +1,26 @@
+link: https://www.reuters.com/technology/ireland-says-ecj-apple-ruling-is-of-historical-relevance-only-2024-09-10/
+
+source: www.reuters.com
+
+title: Ireland says ECJ Apple ruling is 'of historical relevance only'
+
+summary: The Irish government said Tuesday's ruling from Europe's top court that it granted Apple unlawful aid through its tax treatment was an issue "now of historical relevance only" due to changes in its tax system since.
+
+publishDate: 2024-09-10T10:29:10.616Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9992648959159851
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: The Irish government said <a href="/technology/apple-loses-fight-against-13-billion-euro-eu-tax-order-ireland-2024-09-10/">Tuesday's ruling</a> from Europe's top court that it granted Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> unlawful aid through its tax treatment was an issue "now of historical relevance only" due to changes in its tax system since.
+It said it would now begin the process of releasing assets from an escrow fund, estimated at 13.8 billion euros ($15 billion) at the end of last year, after the Court of Justice of the European Union (CJEU) ordered the recovery of the funds from Apple.
+Ireland has long fought a 2016 European Commission order that said the iPhone maker benefited from two Irish tax rulings for over two decades that artificially reduced its tax burden to as low as 0.005% in 2014.
+"The CJEU has found that the tax paid was insufficient and that a greater amount of taxation was required to be recovered," the statement said.
+"The Irish position has always been that Ireland does not give preferential tax treatment to any companies or taxpayers."
+Since the EU order in 2016, Ireland has changed rules regarding corporate residence, the attribution of profits to branches of non-resident companies operating in the state and has adapted its tax rules in line with international agreements, the statement said.
+($1 = 0.9057 euros)
+

@@ -1,0 +1,26 @@
+link: https://www.cnbc.com/2024/09/06/honor-announces-ai-assistant-as-it-looks-to-get-ahead-of-apple-in-china.html
+
+source: www.cnbc.com
+
+title: Honor looks to get ahead of Apple in China with its own AI assistant
+
+summary: The upgraded AI agent from Honor will look to compete with the likes of Samsung's Bixby and Apple's Siri.
+
+publishDate: 2024-09-06T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9515975117683411
+
+images: ['https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://image.cnbcfm.com/api/v1/image/101091331-1672755376781-Arjun_Kharpal_-_Headshot.jpg?v=1672755428&w=60&h=60&ffmt=webp', 'https://image.cnbcfm.com/api/v1/image/107203560-1678110976428-Honor_Booth_MWC_2023_Next_To_Samsung.jpg?v=1678149457&w=1920&h=1080']
+
+content: Huawei spin off Honor had one of the most prominent booths at Mobile World Congress in February 2023. It was right next to Samsung's stand in a sign that Honor is targeting the South Korean firm in the premium end of the smartphone market.
+
+Honor announced its first artificial intelligence assistant on Friday, as it looks to jump ahead of companies like Apple and introduce software it hopes will spur users to buy its latest devices.
+
+Honor's digital assistant Yoyo has got an AI upgrade and will be coming to users in China in the near future, with international markets to follow, the company said. Yoyo is not new — but the AI infusion is. honor is calling it the Honor AI Agent.
+
+In one demonstration seen by CNBC ahead of the announcement, Honor showed how a user could ask Yoyo to find automatic subscriptions across WeChat and Alipay, the two most popular payment apps in China. During the exercise, Yoyo found the subscriptions, then asked the user whether to cancel them.
+

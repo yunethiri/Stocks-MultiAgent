@@ -1,0 +1,18 @@
+link: https://www.cnbc.com/2024/07/11/too-young-for-an-iphone-apple-promoting-apple-watch-for-kids.html
+
+source: www.cnbc.com
+
+title: Too young for an iPhone? Apple says its watch is 'a great call for kids' in new promotion
+
+summary: The Apple Watch lets kids stay in touch with their parents without the distractions of social media apps and games, according to the tech giant's pitch.
+
+publishDate: 2024-07-11T12:00:01.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

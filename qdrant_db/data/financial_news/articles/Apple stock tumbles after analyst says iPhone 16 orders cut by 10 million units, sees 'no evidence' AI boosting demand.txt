@@ -1,0 +1,56 @@
+link: https://finance.yahoo.com/news/apple-stock-tumbles-analyst-says-030627595.html
+
+source: finance.yahoo.com
+
+title: Apple stock tumbles after analyst says iPhone 16 orders cut by 10 million units, sees 'no evidence' AI boosting demand
+
+summary: 
+
+publishDate: 2024-10-24T03:06:27.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999810457229614
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/eO8cpgUJWmxVX2Ebyci1Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/8474f39fcbb92895cf60bbc85c8ee102', 'https://s.yimg.com/ny/api/res/1.2/jP0jh0xDjtCG2XwJhYVUBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMyNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2024-04/81befb70-0706-11ef-9fbf-6960dce53585']
+
+content: Carlos Barria/Reuters
+
+Apple stock fell 3% after a report said demand for the latest iPhone is waning.
+
+Analyst Ming-Chi Kuo said Apple cut iPhone 16 orders by 10 million units.
+
+Apple's AI features are not yet driving immediate iPhone upgrades, Kuo said.
+
+Apple stock tumbled on Wednesday, outpacing the broader market's declines as a prominent supply chain analyst warned of waning demand for its new iPhone 16 models.
+
+Shares of Apple dropped about 3% compared to the Nasdaq 100's 2% decline in Wednesday afternoon trades. The stock was trading at $229.50 at 2:50 p.m. ET.
+
+The decline in Apple stock accelerated Wednesday morning after closely followed Apple analyst Ming-Chi Kuo of TF International Securities said that the company slashed its iPhone 16 orders by about 10 million units.
+
+The reported production cuts cover the fourth-quarter of 2024 and the first half of 2025, according to the report.
+
+Kuo said the iPhone drop in orders suggests there's "no evidence yet that Apple Intelligence could boost iPhone shipments in the near term."
+
+Apple Intelligence refers to Apple's artificial intelligence tools, which include on-device AI capabilities that could also be outsourced to the cloud.
+
+While the company released its new iPhone line last month, its first round of software updates to bring Apple Intelligence to users of its devices isn't scheduled until later this month, and some features won't be updated until later this year.
+
+In an interview with The Wall Street Journal, Apple's head of software, Craig Federighi, said the company's AI tools are a long-term story.
+
+"This is a big lift, and we feel like we want to get it right," Federighi said.
+
+He added: "This isn't a one-and-done kind of situation. This is a many year, honestly even decades-long arc of this technology playing out."
+
+For now, consumers don't seem to be rushing to upgrade their iPhones for the yet-to-be-released AI software features, which include summaries of text and email notifications, enhanced photo editing capabilities, and the ability to rewrite or generate an e-mail or text message response.
+
+According to Kuo, the production cut for the iPhone 16 likely won't be fully reflected in Apple's fourth-quarter revenue results, as the product mix of more expensive iPhone Pro models "is more favorable."
+
+"However, iPhone revenues are expected to come under pressure in 1H25 due to a YoY shipment decline and a less favorable product mix due to the launch of the SE4," Kuo said.
+
+The iPhone SE4 is Apple's lower-cost iPhone, which is expected to be launched in the first quarter of next year. The phone is expected to cost around $500 and have the processing power required to run Apple Intelligence features.
+
+Story Continues
+

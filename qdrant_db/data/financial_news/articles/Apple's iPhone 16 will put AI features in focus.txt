@@ -1,0 +1,35 @@
+link: https://www.reuters.com/technology/artificial-intelligence/apples-iphone-16-will-put-ai-features-focus-2024-09-09/
+
+source: www.reuters.com
+
+title: Apple's iPhone 16 will put AI features in focus
+
+summary: Apple on Monday is set to unveil its iPhone 16 lineup, focusing on how its flagship device's features have been infused with artificial intelligence, rather than its usual emphasis on hardware upgrades.
+
+publishDate: 2024-09-09T10:01:29.414Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9718904495239258
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F76a3a4d5-9adc-4ddc-bd21-a76a8632cdcc.png?auth=6f9824c4e42e664e8675684db1d39fcc6ec2cec31e4160149209f5e13d5e96c6&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F76a3a4d5-9adc-4ddc-bd21-a76a8632cdcc.png?auth=6f9824c4e42e664e8675684db1d39fcc6ec2cec31e4160149209f5e13d5e96c6&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Freuters%2F76a3a4d5-9adc-4ddc-bd21-a76a8632cdcc.png?auth=6f9824c4e42e664e8675684db1d39fcc6ec2cec31e4160149209f5e13d5e96c6&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Monday is set to unveil its iPhone 16 lineup, focusing on how its flagship device's features have been infused with artificial intelligence, rather than its usual emphasis on hardware upgrades.
+The event at the tech giant's Apple Park headquarters at 10 a.m. PDT (1700 GMT) follows its <a href="/technology/ai-is-sole-focus-apples-annual-conference-2024-06-10/">developer conference</a> in June during which the company unveiled Apple Intelligence, its take on generative AI that can conjure text, images and other content on command.
+It had also showed off an improved version of voice assistant Siri, featuring an integration with ChatGPT, the chatbot developed by Microsoft-backed <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a> OpenAI.
+The refresh comes as iPhones face stiff <a href="/technology/huaweis-china-smartphone-shipments-leap-while-apple-share-dips-2024-07-25/">competition from Huawei</a> (HWT.UL) in China, where consumers are hankering for more AI features and are willing to pay for them. Huawei itself has scheduled its own product announcement mere hours after Apple's event.
+Apple Intelligence must be approved by Beijing in order to be released in the Chinese market. In July, OpenAI blocked access to ChatGPT in China, a move that could impact the chatbot's integration into Siri.
+"The Chinese market is hungrier for AI features than the U.S. market,” said Ben Bajarin, CEO and principal analyst at Creative Strategies. "It will be very difficult to bring it to China immediately, so they'll be going off the merits of the hardware."
+IPhones accounted for more than half of Apple's $383 billion sales last year, and the new devices are an important update for the Cupertino, California-based company that is betting the AI feature will drive consumers to upgrade amid a <a href="/technology/apples-ai-push-could-reinvigorate-iphone-sales-customers-look-upgrade-2024-06-11/">slowdown in iPhone sales</a>.
+In China, Apple aggressively <a href="/technology/apple-slashes-iphone-prices-china-amid-fierce-huawei-competition-2024-05-20/">slashed prices</a> earlier this year, prompted by <a href="/technology/china-moves-widen-state-employee-iphone-curbs-sources-2023-09-07/">government restrictions</a> and <a href="/technology/huawei-flagship-store-surge-china-signals-showdown-with-apple-2024-05-15/">increased domestic competition</a>.
+The iPhone 16 lineup will be the first Apple smartphones designed around these AI features, though those will also be available on iPhone 15 Pro and Pro Max, the top-end versions of the previous-generation devices. New versions of the Apple Watch and AirPods are also expected.
+"The software side, and how Apple frames it, is the biggest question," said Bajarin. "Investors will look for if it's compelling enough to have a larger than normal upgrade cycle."
+Rivals including Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google are also showcasing AI features to try to upend Apple's dominance in the high-end smartphone market.
+Google, developer of the Android operating system which competes with Apple's iOS, traditionally announced its Pixel smartphones in the autumn. This year, it pushed <a href="/technology/google-unveils-new-phones-other-gadgets-powered-by-ai-2024-08-13/">the event</a> to August ahead of Apple's announcement.
+Google focused on AI features including Gemini Live, which allows users to hold live voice conversations with a digital assistant. Many of the AI features Google announced were also rolled out to the Android-based devices made by manufacturers such as Samsung <a href="https://www.reuters.com/markets/companies/005930.KS" target="_blank">(005930.KS)</a> and Motorola <a href="https://www.reuters.com/markets/companies/MSI.N" target="_blank">(MSI.N)</a>.
+"The question is who is going to be the first to combine a truly personal AI assistant with knowledge and information that is accurate and personalized," said Bob O’Donnell, chief analyst for TECHnalysis Research.
+Apple has so far shared a timeline for the release of Apple Intelligence only in the United States, where it is slated to launch on compatible devices in the autumn.
+In June, one week after its developer conference, Apple said it would <a href="/technology/artificial-intelligence/apple-delay-launch-ai-powered-features-europe-blames-eu-tech-rules-2024-06-21/">delay the release in Europe</a> due to European Union tech rules.
+

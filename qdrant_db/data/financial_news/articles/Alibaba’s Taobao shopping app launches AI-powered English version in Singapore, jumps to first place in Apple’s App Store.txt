@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/09/13/alibabas-taobao-launches-ai-powered-english-version-in-singapore.html
+
+source: www.cnbc.com
+
+title: Alibaba’s Taobao shopping app launches AI-powered English version in Singapore, jumps to first place in Apple’s App Store
+
+summary: Alibaba's Taobao app topped Singapore's Apple Store charts after launching an AI-powered English version on Tuesday, boosting accessibility for users.
+
+publishDate: 2024-09-13T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9981957077980042
+
+images: ['https://image.cnbcfm.com/api/v1/image/108033066-1726133794089-2023-10-31T070133Z_1500815177_RC2KZ3AMP9OA_RTRMADP_3_CHINA-E-COMMERCE-ALIBABA.JPG?v=1726133815&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://image.cnbcfm.com/api/v1/image/108033012-17261146041726114602-36222931912-1080pnbcnews.jpg?v=1726114603&w=750&h=422&vtcrop=y']
+
+content: In this article BABA Follow your favorite stocks CREATE FREE ACCOUNT
+
+The logo of Alibaba's e-commerce app Taobao is displayed next to mobile phones displaying the app, in this illustration picture taken October 25, 2023. Reuters | Florence Lo
+
+Singapore — Chinese e-commerce giant Alibaba 's Taobao shopping app topped the Apple App Store charts in Singapore after releasing an English version on Tuesday — thanks to translations powered by artificial intelligence. That's according to Sensor Tower, a market intelligence firm whose data shows Taobao shot to first place in Apple's Singapore App Store across all categories, as of Sept. 11. On Tuesday, the day the English-language version was announced, the app rose from fifth to first place in the shopping category. Prior to this, the Taobao app had still enjoyed relative popularity and was consistently ranked in the top ten shopping apps for iPhone users from mid-August onwards, according to Sensor Tower. The new update "highlights Taobao's dedication to serving its Singapore users, who have shown a strong desire for an English-language interface, reflecting their diverse language fluency," Alibaba said in a press release Tuesday. It did not elaborate on the AI translation features. The company has its own AI model. The release said the new platform "enhances accessibility for non-Chinese users, eliminating their need for manual translations that previously made shopping less convenient for them."
+
+watch now
+
+Taobao and Tmall are Alibaba's biggest source of revenue by far, but to date have primarily sold to people in China using a Chinese-language interface. Taobao and Tmall Group's revenue for the quarter ended June 30 was 26.55 billion yuan ($3.65 billion), a 6% increase year-on-year. Alibaba has in recent years has also sought to ramp up its overseas e-commerce business with platforms such as Alibaba.com and AliExpress. Singapore is the first market where Taobao will introduce this new update, alongside the city-state's neighbor, Malaysia, according to Alibaba. As early as last year, Singaporean Taobao users had previously made guides on how to purchase clothes, furniture and lifestyle items from Taobao. These video guides were posted on the ByteDance-owned TikTok platform, another Chinese app. Several videos amassed more than 10,000 views, with one accumulating 105,000 views. Alibaba's latest move reflects the growing trend of Chinese businesses striving to expand globally, and using Singapore as a cultural testbed to further their ambitions to reach the Western market. Last week, consulting firm Bain and Company said in their study of Asia Pacific-headquartered consumer goods companies that Chinese companies have a significant advantage versus South Korean and Japanese companies in the race to go global: the large ethnic Chinese diaspora settled outside of mainland China. "There are many of these Chinese companies that have really ambitious global mindsets and are able to take the sort of entrepreneurial, fast-innovation capability that they built domestically and use that to create new positions overseas," David Zehner, senior partner at Bain, previously told CNBC. According to a government report as of end-June 2023, almost three-quarters of Singapore's 5.92 million-strong nation is of Chinese descent. About 20% of Malaysia's population is ethnically Chinese.
+
+Not a perfect English-language experience
+

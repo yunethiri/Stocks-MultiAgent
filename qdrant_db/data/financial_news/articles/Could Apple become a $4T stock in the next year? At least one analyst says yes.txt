@@ -1,0 +1,18 @@
+link: https://www.cnbc.com/2024/07/08/could-apple-become-a-4t-stock-in-the-next-year-one-analyst-says-yes.html
+
+source: www.cnbc.com
+
+title: Could Apple become a $4T stock in the next year? At least one analyst says yes
+
+summary: For those keeping score, Apple closed above a $3 trillion market value just over one year ago.
+
+publishDate: 2024-07-08T20:02:29.000Z
+
+language: en
+
+sentiment: 
+
+images: []
+
+content: 
+

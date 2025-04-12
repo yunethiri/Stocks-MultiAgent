@@ -1,0 +1,22 @@
+link: https://www.reuters.com/technology/apple-slams-metas-numerous-interoperability-requests-2024-12-18/
+
+source: www.reuters.com
+
+title: Apple slams Meta's numerous interoperability requests
+
+summary: Apple on Wednesday hit out at Meta Platforms , saying its numerous requests to access the iPhone maker's software tools to its devices could impact users' privacy and security, underscoring the intense rivalry between the two tech giants.
+
+publishDate: 2024-12-18T22:53:38.782Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9975805282592773
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> on Wednesday hit out at Meta Platforms <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a>, saying its numerous requests to access the iPhone maker's software tools to its devices could impact users' privacy and security, underscoring the intense rivalry between the two tech giants.
+Under the European Union's landmark Digital Markets Act that took effect last year, Apple must allow rivals and app developers to inter-operate with its own services or risk a fine of as much as 10% of its global annual turnover.
+Meta has made 15 interoperability requests thus far, more than any other company, for potentially far-reaching access to Apple's technology stack that could affect users' privacy and security, the latter said in a report.
+

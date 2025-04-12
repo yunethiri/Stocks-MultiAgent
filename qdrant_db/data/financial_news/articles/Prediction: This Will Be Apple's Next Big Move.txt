@@ -8,6 +8,14 @@ summary:
 
 publishDate: 2024-10-25T08:50:00.000Z
 
+language: en
+
+sentiment: neutral
+
+confidence: 0.8903312683105469
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Wgq7gIQZsA8MYBdhkcWX9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5dd4a7360d35694ed912487ed3a8827a', 'https://s.yimg.com/ny/api/res/1.2/Y1rv4hH6EjhJbSv7gYuwvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
 content: Apple (NASDAQ: AAPL) brought about a revolution in the smartphone market in 2007 when it launched its first-ever iPhone, changing the fortunes of established smartphone companies such as Nokia and BlackBerry (known as Research in Motion at that time).
 
 It's worth noting that Apple sold just 1.4 million iPhones in 2007. For comparison, the popular Nokia 3310 sold 7.4 million units in the fourth quarter of that year alone. The Nokia device was seven years old at that time, and it was simply a feature phone. However, Apple changed the game by infusing the internet, entertainment, and a touchscreen into the same device.
@@ -25,10 +33,4 @@ Apple hasn't announced whether it will charge a fee for its generative AI featur
 The important thing here is that the services business has a much fatter margin profile than Apple's product business. Apple's services business reported a 74% gross margin in the fiscal third quarter, compared to the product segment's gross margin of 35%. The services business currently has a range of offerings that include cloud storage, music, TV, gaming, fitness, and news.
 
 Story Continues
-
-language: en
-
-sentiment: neutral
-
-confidence: 0.8903312683105469
 

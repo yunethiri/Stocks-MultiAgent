@@ -1,0 +1,48 @@
+link: https://www.yahoo.com/tech/apple-tv-just-got-amazing-123000798.html
+
+source: www.yahoo.com
+
+title: Apple TV just got an amazing free update that home cinema fans will love
+
+summary: 
+
+publishDate: 2024-11-07T12:30:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9553565979003906
+
+images: ['https://s.yimg.com/ny/api/res/1.2/K73z3P.ZUckB9KI3LXyR2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTkwO2g9NjA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/9433d880-2958-11ed-9bce-9d7c5b92c276', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Quick Summary
+
+There are already a number of new features for Apple TV with tvOS 18, including InSight and Enhance Dialogue.
+
+But, the public beta for tvOS 18.2 has been released, bringing support for different aspect ratios which'll suit projectors, especially.
+
+Software updates are great. Sometimes they only fix bugs and help with performance issues, while other times they add a range of new features to your devices, making them feel brand new.
+
+Apple has released several software updates over the last couple of weeks, with iPhones, iPads and Macs all getting access to the initial phase of Apple Intelligence features, with iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1. However, the company has also started to release public betas of the next build of software for all those devices.
+
+It isn't just iPhone, iPad and Mac that will benefit when next build of software arrives in its final release form – Apple TV owners will too. Just like iOS 18, iPadOS 18 and macOS Sequoia, the first release of tvOS 18 didn't have all the features Apple announced during its Worldwide Developer Conference (WWDC) in June.
+
+Several arrived, including Insight, that displays information about actors, characters and music on the screen, Enhance Dialogue that uses machine learning for better vocal clarity, and subtitles appearing automatically when you press mute. But, Apple also announced support for different aspect ratios during WWDC and that didn't appear in the first release of tvOS 18.
+
+It is in the public beta of tvOS 18.2 however, and there's several on offer.
+
+What is coming with tvOS 18.2?
+
+When tvOS 18.2 fully arrives, you will be able to choose between Automatic, 16:9, 21:9, 2.37:1. 2.39:1, 2.40:1. DCI 4K and 32:9. Most TVs are 16:9 but as 9to5Mac points out, if you're a home cinema enthusiast who connects your Apple TV to a projector, the support for different aspect ratios allows you to pick the one best suited to your projector screen.
+
+You'll find the aspect ratio options in your Apple TV's Audio and Video settings in the tvOS 18.2 public beta now. Or if you'd rather wait for a more stable final build, that arrives in December.
+
+December is also when localised Apple Intelligence for the UK is set to arrive on iPhone, iPad and Mac, negating the need to set those devices to US English like you currently have to do to get access to the Apple's AI features.
+
+We suppose then, Santa is bringing us software for our pressies this year. Let's just you're not on the naughty list or there will be no screen aspect ratio options for you.
+

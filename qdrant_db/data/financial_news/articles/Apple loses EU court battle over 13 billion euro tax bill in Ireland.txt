@@ -1,0 +1,30 @@
+link: https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html
+
+source: www.cnbc.com
+
+title: Apple loses EU court battle over 13 billion euro tax bill in Ireland
+
+summary: Europe's top court on Tuesday ruled against Apple in the tech giant's 10-year court battle over its tax affairs in Ireland.
+
+publishDate: 2024-09-10T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9971879124641418
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg']
+
+content: Europe's top court on Tuesday ruled against Apple in the tech giant's 10-year court battle over its tax affairs in Ireland.
+
+The pronouncement from the European Court of Justice comes hours after Apple unveiled a swathe of new product offerings, looking to revitalize its iPhone, Apple Watch and AirPod line-ups.
+
+CNBC has reached out to Apple for comment. The company's shares were down 1% in premarket trading at 09:07 a.m. London time.
+
+In 2014, the European Commission, the European Union's executive arm, opened an investigation into Apple's tax payments in Ireland, the tech giant's headquarters in the EU.
+
+The Commission in 2016 ordered Dublin to recover up to 13 billion euros ($14.4 billion) in back taxes from Apple, at the time saying that the tech company had received "illegal" tax benefits from Ireland over the course of two decades.
+
+Apple and Ireland appealed the Commission's decision in 2019, and in 2020 the EU General Court sided with the U.S. tech giant. The EU's second-highest court anulled the Commission's 2016 decision and said that the executive arm did not prove that the Irish government had given Apple a tax advantage.
+

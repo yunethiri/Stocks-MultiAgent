@@ -1,0 +1,33 @@
+link: https://www.reuters.com/world/india/past-disruptions-apple-facilities-in-india-2024-09-28/
+
+source: www.reuters.com
+
+title: Past disruptions at Apple facilities in India
+
+summary: A fire at a major Tata Electronics plant manufacturing components for Apple iPhones in southern India halted production on Saturday, the latest in a series of incidents disrupting Apple's facilities in the region.
+
+publishDate: 2024-09-28T11:49:48.538Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999649524688721
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: A fire at a major Tata Electronics plant manufacturing components for Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> iPhones in southern India <a href="/world/india/fire-disrupts-operations-tata-electronics-iphone-plant-india-sources-say-2024-09-28/">halted</a> production on Saturday, the latest in a series of incidents disrupting Apple's facilities in the region.
+It is not yet clear what caused the blaze in Tata's Tamil Nadu plant.
+Apple has been <a href="/technology/iphone-3g-first-retail-store-apples-15-year-journey-india-2023-04-18/">eyeing</a> a large manufacturing base in India since it began iPhone assembly in the country in 2017.
+Currently, its products are manufactured through contracts with firms including Foxconn <a href="https://www.reuters.com/markets/companies/2317.TW" target="_blank">(2317.TW)</a> and Tata Electronics.
+The extent of the fire's impact on Tata's supplies is still unknown.
+One building where iPhone components are made caught fire, but it is unclear whether a neighbouring building where manufacturing of the complete smartphone was to start by the year-end is affected.
+Here's a look at other incidents in recent years that disrupted Apple facilities in India:
+February 2024: Hundreds of workers at a manufacturing plant of Apple supplier Flex <a href="https://www.reuters.com/markets/companies/FLEX.O" target="_blank">(FLEX.O)</a> in India's Tamil Nadu state staged a <a href="/world/india/workers-apple-supplier-flexs-india-plant-stage-one-day-strike-2024-02-16/">one-day strike</a> demanding higher wages for the next three years and the recognition of a union.
+December 2023: Foxconn's operations at its Indian facility near Tamil Nadu's capital, Chennai, <a href="/world/india/foxconn-cancels-first-shift-tuesday-indian-iphone-facility-after-extreme-weather-2023-12-05/">halted for a day</a> due to weather disruptions.
+September 2023: Pegatron temporarily stopped iPhone assembly at its Chennai facility in the same southern Indian state after a <a href="/world/india/fire-apple-supplier-pegatrons-india-factory-disrupts-production-sources-2023-09-25/">fire</a> at the factory.
+February 2023: Foxlink, which manufactures iPhone chargers, suspended production at its assembly facility in Chittoor in the state of Andhra Pradesh after a <a href="/world/india/india-state-launches-probe-into-fire-apple-supplier-foxlink-2023-03-01/">fire</a> caused part of the building to collapse.
+December 2021: Operations at a plant belonging Foxconn in Chennai city were <a href="/business/foxconn-india-iphone-plant-reopen-jan-12-govt-officials-2022-01-10/">halted</a> for more than three weeks after 250 workers fell sick, sparking protests. Apple later found facilities did not meet required standards.
+December 2020: Workers at a Wistron plant in Karnataka state's Narsapura destroyed property during <a href="/world/india/apple-probes-supplier-after-workers-wistron-plant-india-rampage-2020-12-14/">protests</a> over non-payment of wages, causing millions of dollars in losses and forcing the Taiwanese contract manufacturer to shut the plant for three months.
+Wistron <a href="/technology/tata-make-iphones-india-after-buying-wistron-business-2023-10-27/">sold</a> its India business to the Tata Group last year.
+

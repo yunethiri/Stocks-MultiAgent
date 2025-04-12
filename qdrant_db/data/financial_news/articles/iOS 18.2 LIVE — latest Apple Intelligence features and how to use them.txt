@@ -1,0 +1,264 @@
+link: https://www.yahoo.com/tech/ios-18-2-live-latest-133942510.html
+
+source: www.yahoo.com
+
+title: iOS 18.2 LIVE — latest Apple Intelligence features and how to use them
+
+summary: 
+
+publishDate: 2024-12-11T13:39:42.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9954257607460022
+
+images: ['https://s.yimg.com/ny/api/res/1.2/HmODCt_LrPIFMpoXj27MBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/4f6dd90d5facaa1fa392afa4de17a3a5', 'https://s.yimg.com/uu/api/res/1.2/2amoDUBml2fj2OLO.q_cQw--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2023-11/53a814c0-8974-11ee-adac-9b2035fff84f.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/NAUrDmnkZVWYxINOyOzRWQ--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2020-11/175a9270-2b28-11eb-866d-b6ca74aaefaf.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+The iOS 18.2 rollout is underway as Apple finally brings the second wave of Apple Intelligence features to compatible iPhone, iPad and Mac devices. This includes several major new integrations, like the seriously impressive Visual Intelligence tool.
+
+It's also a significant update for iPhone users in the U.K., Australia and a few other countries outside the U.S. who will now be able to access the AI features without needing to set their devices to US English.
+
+Advertisement Advertisement
+
+Advertisement
+
+Apple Intelligence is undoubtedly the headline act but as a reminder, it's only compatible with iPhone 15 Pro and Pro Max and the iPhone 16 series of phones. For the record, here's why it's worth upgrading your iPhone to get access.
+
+But that doesn't mean iOS 18.2 isn't a bumper upgrade for all Apple users — noteworthy non-AI features include an update to Find My that lets you share AirTag locations with trusted friends or the option to view fullscreen videos in the redesigned Photos app.
+
+The nature of software rollouts mean they won't hit everyone all at once, but we're following along with the update process live — as well as calling out some of our favorite features below — so you can stay updated with the latest changes you're getting on your iPhone, iPad or Mac.
+
+Top New Apple Intelligence Features
+
+Apple Intelligence is Apple's tightly integrated suite of AI solutions that will touch almost all areas of your iPhone. Here are some of the best new features you're going to want to try out as soon as you've updated.
+
+Advertisement Advertisement
+
+Advertisement
+
+Image Playground: Apple’s new AI image generator that lets you turn a description or person into an image with fun style options.
+
+Genmoji: Genmoji lets you create your own emoji using the keyboard. Can also be shared as Stockers or Tapbacks.
+
+Writing Tools Describe your change. New feature lets you describe a specific change you want to make to your text, such as adding more dynamic action words to a resume.
+
+Visual intelligence: Helps users instantly learn about objects and places instantly, thanks to the new Camera Control on the iPhone 16 series. Think of it as Google Lens on steroids.
+
+ChatGPT integration: Siri can tap into ChatGPT with your permission to answer questions and requests. And users can ask ChatGPT to help compose original content in Writing Tools as well as generate images.
+
+Image Wand: Transforms a rough sketch into a polished image that complements a user’s notes. Works with Apple Pencil on iPad.
+
+Live updates
+
+How to install iOS 18.2
+
+Software Update menu on iPhone showing iOS 18.2 ready to download
+
+The first thing you’re going to want to know is how do you actually get the iOS 18.2 update on your iPhone? Luckily, the process couldn’t be simpler. The most efficient way to make sure you’re in line to get it is to turn on automatic updates in your iPhone’s Setting menu. Simply go to Settings > General > Software Update on a compatible device.
+
+If you want a full step-by-step breakdown, we’ve got you covered. Just follow our how-to guide here which includes screenshots walking you through the process.
+
+Genmoji: A personal way to communicate
+
+Genmoji in iOS 18
+
+Genmoji is a brilliant addition to the Apple ecosystem. It uses AI image generation technology for the specific purpose of letting users craft their own custom emojis. You can then send them in a chat as an emoji reaction, sticker or tapback.
+
+There are now hundreds of different emojis available through the emoji keyboard, but with Genmoji you don’t need to find one, or even a combination, that fit your requirements — you can just make exactly what you want. For example, craft a slice of pizza with bananas on top or an emoji version of yourself playing guitar.
+
+Advertisement Advertisement
+
+Advertisement
+
+Available on any device capable of running Apple Intelligence, the genmoji is generated entirely ‘on device’, meaning no information is sent out to the cloud. Your phone, laptop or iPad does all the hard work which also makes it much faster and accessible.
+
+There are limitations though as Apple has implemented guardrails preventing the creation of potentially harmful genmojis. Basically, if it wouldn’t be available on a normal emoji keyboard then you probably can’t generate it using Genmoji.
+
+Visual Intelligence is Apple's answer to Google Lens
+
+How to use Visual Intelligence.
+
+Visual intelligence is one of the most exciting features of Apple Intelligence coming through with iOS 18.2. It’s Apple’s answer to the likes of Google Lens and is only available on the iPhone 16 series where it can be accessed directly from the Camera Control button.
+
+All you have to do is point your camera at something you want to learn about and click the shutter. You’ll know Apple Intelligence is working because you’ll see a rainbow-colored flash.
+
+Advertisement Advertisement
+
+Advertisement
+
+Once you have the image captured, Visual Intelligence will tell you things like opening hours for a shop, reviews for a cafe or even what a sign in a foreign language says. While you can typically do this with an old fashioned image search, the seamless interaction of Visual Intelligence with your iPhone’s camera will hugely speed up this process.
+
+Finally, if you snap a picture of something with a lot of text in it, Visual Intelligence can generate a quick summary for you to help save time.
+
+Who is getting Apple Intelligence and when?
+
+Apple Intelligence on white background
+
+Apple Intelligence is a pretty seismic shift in how you use your iPhone but, crucially, not everyone is going to get it with iOS 18.2. There are both device and region limitations to be aware of.
+
+Cupertino's suite of AI enhancements will be available on the following devices: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15 Pro, iPhone 15 Pro Max, any iPad with A17 Pro or M1 and later, and any Mac with an M1 chip and later.
+
+Advertisement Advertisement
+
+When we're talking about iPad and Mac, those enhancements come with iPadOS 18.2 and macOS Sequoia 15.2 which are also rolling out today.
+
+There's a caveat in place for anyone reading this in the EU — while Apple Intelligence will roll out for the Mac in that region, it won't become available on iPhone or iPad for several months yet. Apple says it will be giving EU iPhone and iPad users access to Writing Tools, Genmoji, a redesigned Siri with richer language understanding, ChatGPT integration, and more from April 2025.
+
+For anyone reading this outside of an English-speaking country, Apple Intelligence can be accessed in most regions around the world when the device and Siri language are set to localized English for the following regions: Australia, Canada, Ireland, New Zealand, South Africa, the U.K., or the U.S.
+
+Image Playground: Apple’s new AI image generator
+
+Image Playground in iOS 18.2
+
+Image Playground does something special that only Apple can do at this scale. It is fine-tuning an AI image model on your own pictures. This is known as personal context and its possible because it happens entirely on-device.
+
+Advertisement Advertisement
+
+Your phone, tablet or laptop are doing all the hard work in analyzing your images, describing you and your family and then creating something new based on that detail.
+
+It is an incredibly fun way to create personalized stickers to send in the group chat, build your own custom memes and otherwise generate images with a personal touch.
+
+Available as a standalone app or from within Messages, Image Playground pictures come in two styles: Cartoon and Illustration. There's no photorealism, in part because that would over-tax the capabilities of a phone, but also because it allows Apple to reduce the potential for misuse.
+
+It is one of those Apple Apps that you don’t really "get" until you try it, and once you’ve tried it it’ll likely become one of your favorites.
+
+The reviews are in...
+
+Apple Intelligence type to Siri in iOS 18.1
+
+We've covered Apple Intelligence a fair bit on Tom's Guide, but we're not the only ones excited by the potential of this new technology. Over at the Wall Street Journal, Joanna Stern has given her thoughts in an in-depth Apple Intelligence review with the title "The AI Apple Promised Us".
+
+Advertisement Advertisement
+
+You can read it for yourself here but Stern's take is similar to my own feeling on Apple Intelligence: it makes the iPhone 16 what was promised to us back in September.
+
+What's interesting is that the WSJ isn't convinced a software update alone is enough to get people to upgrade their device. I'm not sure I agree. We know that users are holding onto their phones for longer and with seemingly ever-more-incremental hardware upgrades happening, the big draw to update your iPhone in future could well depend on large scale software improvements like Apple Intelligence.
+
+Apple Intelligence in more languages
+
+iPhone 16 Pro vs iPhone 16 Pro Max in one hand
+
+To use Apple Intelligence in iOS 18.1, you had to have your device set to U.S. English. That's fine but not ideal if you speak a different flavor (or flavour if you prefer) of English, and could be tricky if English is not your native language.
+
+Fortunately, among its upgrade iOS 18.2 allows devices using Australian, Canadian, Irish, New Zealand, South African and U.K. English to work with Apple Intelligence. Sadly beyond that, other languages are still only due to arrive between now and April 2025.
+
+Advertisement Advertisement
+
+If you want to switch languages to take advantage of Apple Intelligence, you can use this guide.
+
+ChatGPT comes to iPhone
+
+iOS 18.2 ChatGPT integration
+
+Perhaps one of the biggest talking points in iOS 18.2 that I'm most excited for is the fact that ChatGPT itself will now be integrated with your iPhone.
+
+It needs to be enabled manually, but with the feature switched on, ChatGPT will be able to take care of things that Siri can't alone, like generating text with Writing Tools. You can also log-in with your own account if you wish so you can access your ChatGPT Plus subscription if you have one.
+
+ChatGPT also helps with Visual Intelligence on iPhone 16. The "Ask" function directs your requests through the chatbot to hopefully teach you more about what's in front of you.
+
+Supercharged Siri
+
+iPhone 16 Pro Max Siri
+
+Siri tends to take something of a beating when we talk about which virtual assistant is the best, but you're going to notice several changes once you've updated to iOS 18.2 that make it far more helpful.
+
+Advertisement Advertisement
+
+For starters, Siri is now able to talk with a more conversational tone, and is better at understanding what you’re asking. Better still it can remember what you’ve asked before, and continue conversations regardless of how many other requests you make in the interim.
+
+Oh, and those requests can be made by typing, rather than forcing you to use your voice. If you want to get the best from Siri after you've installed your update, try these seven prompts first.
+
+Apple Intelligence on iOS 18.2 will make writing easier
+
+Apple Intelligence Writing Tools
+
+Today's update will also introduce Apple’s Writing Tools, a suite of AI-driven features that enhance writing and communication. These tools offer functionalities such as grammar and spelling checks, tone adjustments, and sentence rewrites, directly integrated into Apple's ecosystem.
+
+This development positions Apple Intelligence as a direct competitor to established services like Grammarly. Yet, with Apple Intelligence, users don't have to add any external writing tool apps because everything they need works seamlessly across Apple products.
+
+Apple Intelligence in iOS 18.2 will provide comprehensive grammar correction, stylistic refinement, and tone adjustments regardless across multiple platforms. Open a Google Doc or email on your phone and start writing with the assistance of Apple AI. This is going to be very useful.
+
+How to use Image Playground
+
+The interface in Image Playground for generating images with text prompts
+
+Philip Michaels here. I'm the managing editor for mobile at Tom's Guide, and I'll be taking over for Jeff Parsons the rest of the way. And now that we've talked about what features are available via the iOS 18.2 update, let's talk about how to use them.
+
+Let's start with Image Playground, which is probably the feature people are most excited about. We've got a step-by-step guide on how to use Image Playground, but the TLDR; version is that you'll launch the app and be immediately greeted by a text field where you can enter in the image you want to see. There's also some suggestions on various objects, themes and backgrounds to use in your generated image if you need help coming up with a prompt or fine-tuning your creation.
+
+My advice to you after using the app is to make a lot of adjustments to your image, either by adding more to your prompt or removing the parts of the prompt that don't quite work.
+
+During the iOS 18.2 beta, you had to first sign up with Apple to use Image Playground, and you could only get started with the app once you were approved. In my experience, that took a couple of days. I don't know if that will continue now that iOS 18.2 is out of beta, but it's something to bear in mind when firing up Image Playground for the first time.
+
+Using ChatGPT in iOS 18.2
+
+ChatGPT Siri on iPhone iOS 18.2
+
+The arrival of ChatGPT on your iPhone is a pretty big deal, so you're going to want to get started with it right away. Here's our guide on how to use ChatGPT in iOS 18.2, including pointers on to set it up and how it integrates with features like Siri and Visual Intelligence.
+
+How to use Visual Intelligence
+
+An iPhone 16 Pro Max using Visual Intelligence to identify a portrait
+
+Apple Intelligence features don't work on every iPhone that can run iOS 18, as you probably know. But there's at least one Apple Intelligence feature that won't work on every iPhone that supports Apple Intelligence.
+
+We're talking about Visual Intelligence, Apple's answer to Google Lens, which is limited to the four new iPhone 16 models. But if you happen to be an iPhone 16 owner upgrading to iOS 18.2, you'll want to read our step-by-step guide on how to use Visual Intelligence with your new iPhone.
+
+An iOS 18 overview
+
+Apple Intelligence on an iPhone screen
+
+We're focusing on Apple Intelligence here for obvious reasons, but sometimes it helps to take a step back and look at the entire iOS 18 update to grasp just how many changes Apple has made. Our iOS 18 hub is now updated to reflect the new features introduced by iOS 18.2 — you might find it a handy reference for all the big changes that have come to your iPhone in the last few months.
+
+How to use Genmoji
+
+apple wwdc 2024 keynote genmoji section
+
+As someone who doesn't really use the emoji that already exist, I'm pretty sure that Genmoji — Apple's generative imaging feature to create custom emoji through text prompts — is not going to be something I turn to in iOS 18.2. But plenty of the rest of you seem to be emoji-crazy, so Genmoji is probably going to be one of the first things you try.
+
+If so, you'll want to read our guide on how to use Genmoji, which walks you through the process of creating your very own emoji for just the right situation.
+
+Assessing Image Playground
+
+An Image Playground generated image of a man dressed as a pilgrim on an iPhone 15 Pro screen
+
+I had the chance to test Image Playground as part of the iOS 18.2 beta. My verdict: while the images the app creates are certainly fun, the tool feels very limited at the moment. There are just two styles at the moment — animation and illustration — and that inevitably means your output starts looking the same the more you use Image Playground.
+
+I also wish you could do more with images once you've generated them. Right now, your output seems to be limited to ones that you can share in Messages or paste into a Note, but that's about it.
+
+Your mileage may vary, of course, so we'd love to hear about what you wind up using Image Playground to create.
+
+More than just Apple Intelligence
+
+iOS 18.2 photos clear recently viewed photos and arrange albums alphabetically
+
+Apple Intelligence is the focus of iOS 18.2, but it's not the only source of changes in this software update. Among the changes available to all iPhones that run iOS 18 are some tweaks to the Photos app, which should make it easier to customize the look of things.
+
+With iOS 18.2, you can now sort albums alphabetically. You're also able to clear the history in the Recently Viewed and Recently Shared albums. Additional improvements include the ability to scrub frame-by-frame when you're viewing videos and to turn off auto-looping video in the Settings app.
+
+Revisiting my iOS 18 review
+
+iOS 18 public beta
+
+Whenever there's an update to Apple's iPhone software as hefty as iOS 18.2 is, I typically go and update my review of the operating system. That's why I've just finished the update to my iOS 18 review, accounting for the new Apple Intelligence features and some of the other changes Apple has made with this update.
+
+My assessment hasn't changed that much since iOS 18.1 — the Apple Intelligence additions are significant steps in Apple's move to include more AI-powered capabilities in its devices, though it remains a work in progress. Some tools are quite useful — summaries for example — while others need a bit more polish. (I refer you to my Image Playground criticism from earlier.) The biggest step forward will be a more context-aware Siri, but I don't imagine that's going to be complete until next year.
+
+Experimenting with Visual Intelligence
+
+Screenshot of food with response from Siri/ChatGPT
+
+Some AI features can feel like gimmicks, but that doesn't seem to be the case with Visual Intelligence, where you can use both the camera on your iPhone and AI to look up information. Here's a look at one of the practical uses of that capability — using Visual Intelligence to count calories in the food you eat.
+
+More on ChatGPT and iOS 18.2
+
+12 Days of OpenAI
+
+OpenAI, which makes ChatGPT, is understandably excited about the integration of its AI model with iOS 18.2. That was the focus of today's installment of OpenAI's 12 days of announcements. And we've got a look at what OpenAI had to say about ChatGPT and Siri.
+

@@ -1,0 +1,29 @@
+link: https://www.reuters.com/technology/indonesia-says-apples-100-mln-investment-proposal-inadequate-2024-11-25/
+
+source: www.reuters.com
+
+title: Indonesia says Apple's $100 mln investment proposal inadequate
+
+summary: Indonesia said a $100 million investment proposal from Apple to build an accessory and component plant was not enough for the country to allow the tech giant to sell its latest iPhone model, its industry ministry said on Monday.
+
+publishDate: 2024-11-25T11:50:20.977Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998741149902344
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Indonesia said a $100 million investment proposal from Apple to build an accessory and component plant was not enough for the country to allow the tech giant to sell its latest iPhone model, its industry ministry said on Monday.
+Indonesia in November banned sales of Apple's iPhone 16 after it failed to meet requirements that smartphones sold domestically should comprise at least 40% locally-made parts.
+Indonesia has also banned the sale of Alphabet's <a href="/technology/indonesia-bans-sales-google-smartphones-days-after-blocking-apples-iphone-16-2024-11-01/">Google Pixel phones</a> over a similar lack of use of local components.
+Indonesian authorities last week said Apple had put forward the investment <a href="/technology/apple-sends-100-mln-investment-proposal-build-plant-indonesia-2024-11-20/">proposal</a> to lift the sales ban.
+Apple did not immediately respond to a request for comment.
+"We have done an assessment and this (proposal) has not met principles of fairness," Industry Minister Agus Gumiwang Kartasasmita told a press conference, comparing the proposal to Apple's bigger investments in neighboring <a href="/technology/apple-wants-spend-more-suppliers-vietnam-2024-04-16/">Vietnam</a> and <a href="/technology/apple-talks-with-suppliers-make-macbooks-thailand-nikkei-2023-04-13/">Thailand</a>.
+Apple has no manufacturing facilities in Indonesia, but has since 2018 set up application-developer academies, which Jakarta considers a way for the company to meet local content requirement for the sale of older iPhone models.
+Companies usually increase the use of domestic components to meet such rules through partnerships with local suppliers or by sourcing parts domestically.
+Agus said Apple had an outstanding investment commitment of $10 million it should have carried out before 2023. He also wanted Apple to commit to new investment until 2026.
+The ministry would invite Apple to visit Indonesia to negotiate further, Agus said.
+

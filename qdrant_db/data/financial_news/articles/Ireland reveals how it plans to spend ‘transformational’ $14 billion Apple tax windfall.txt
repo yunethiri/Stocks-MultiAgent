@@ -1,0 +1,32 @@
+link: https://www.cnbc.com/2024/10/02/ireland-reveals-how-it-plans-to-spend-its-14-billion-apple-windfall.html
+
+source: www.cnbc.com
+
+title: Ireland reveals how it plans to spend ‘transformational’ $14 billion Apple tax windfall
+
+summary: Ireland's government on Tuesday outlined how it intends to deploy more than $14 billion in back taxes from Apple.
+
+publishDate: 2024-10-02T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999581575393677
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg', 'https://image.cnbcfm.com/api/v1/image/107154042-1668771117300-SM_Twitter_Profile_1_copy_.jpg?v=1668771807&w=60&h=60&ffmt=webp']
+
+content: Ireland's government on Tuesday outlined how it intends to spend 13 billion euros ($14.4 billion) in Apple back taxes — a windfall that Dublin actually spent several years fighting to avoid.
+
+In a bumper pre-election budget speech, Irish Finance Minister Jack Chambers said the recent judgement from Europe's top court had provided the country with one-off revenue "that has the capacity to be transformational."
+
+Chambers said Ireland's future economic performance would depend on how the country's infrastructure program is prioritized and delivered over the next decade, adding it is "imperative" not the use the cash injection "for day-to-day expenditure or to narrow the tax base."
+
+"It is this government's view that we should utilize these revenues to address the known challenges that we face in housing, energy, water and transport infrastructure," Chambers said.
+
+His comments come three weeks after the European Court of Justice (ECJ) ruled against Apple over its tax affairs in Ireland. The landmark decision, which the court said was final, said Apple must pay Ireland billions of euros in back taxes.
+
+The ECJ's ruling was welcomed by tax justice advocates, as well as the bloc's outgoing competition chief Margrethe Vestager, who described the pronouncement as a "huge win" for European citizens.
+
+Apple said at the time that it was disappointed with the decision, while the Irish government said that its position had always been that it "does not give preferential tax treatment to any companies or taxpayers."
+

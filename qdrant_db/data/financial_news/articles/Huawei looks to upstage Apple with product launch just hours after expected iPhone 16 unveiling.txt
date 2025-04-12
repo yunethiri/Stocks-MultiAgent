@@ -1,0 +1,34 @@
+link: https://www.cnbc.com/2024/09/02/huawei-plans-sept-10-launch-event-just-hours-after-apple-iphone-launch.html
+
+source: www.cnbc.com
+
+title: Huawei looks to upstage Apple with product launch just hours after expected iPhone 16 unveiling
+
+summary: It's unclear what Huawei plans to launch, but the company's consumer and automotive technology executive Richard Yu, called it an "epoch-making product."
+
+publishDate: 2024-09-02T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9940484762191772
+
+images: ['https://image.cnbcfm.com/api/v1/image/108028166-1725271707657-gettyimages-2169269083-HUAWEI_Apple_Store_in_Shanghai.jpeg?v=1725271752&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg']
+
+content: The Huawei flagship store and the Apple flagship store are seen at Nanjing Road Pedestrian Street in Shanghai, China, September 2, 2024.
+
+Huawei said Monday it plans to hold a product launch event this month just hours after Apple 's annual iPhone reveal as the Chinese technology giant looks to upstage its U.S. rival.
+
+The event will take place on Sept. 10 at 2:30 p.m. Beijing time, Huawei said in a post on Chinese X-like service Weibo on Monday.
+
+That timing would be late evening on Sept. 9 on the west coast of the U.S., where Apple's event is set to take place.
+
+Apple is expected to unveil its iPhone 16 lineup on the morning of Sept. 9 at its event which features the tagline "It's Glowtime".
+
+It's unclear what Huawei plans to launch at its event. Richard Yu, who heads up Huawei's consumer and automotive technology group, said the company's "leading, innovative, and disruptive product is here," according to a Google translation of his Weibo post on Monday.
+
+"This is an epoch-making product that others have thought of but cannot make," Yu said.
+
+The executive added that after five years of investment, Huawei has "turned science fiction into reality."
+

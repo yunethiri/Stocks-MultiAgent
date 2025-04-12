@@ -1,0 +1,30 @@
+link: https://finance.yahoo.com/news/apple-pay-finally-alternative-iphone-182742302.html
+
+source: finance.yahoo.com
+
+title: Apple Pay finally has an alternative on the iPhone, and it’s a big deal
+
+summary: 
+
+publishDate: 2024-12-09T18:27:42.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9970752000808716
+
+images: ['https://s.yimg.com/ny/api/res/1.2/qsehz9h4B5geJTKl5u660A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45', 'https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/WksTPfxwjI5w5CQoxuDY_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/digital_trends_973/eba5b3d9bd4b71549b2492a4278ea047']
+
+content: The General Data Protection Regulation (GDPR) has forced a lot of companies to change their practices in order to comply with these guidelines. While the GDPR is a European-focused set of rules, consumers all over the world have seen beneficial side effects. One of those is that Apple has opened up its NFC technology to third parties, resulting in the first-ever alternative to Apple Pay on the iPhone.
+
+Vipps is a Norwegian-based firm and the first company to have a tap-to-pay solution on the iPhone besides Apple itself. For now, the service only supports Norwegian banks, but it’s expected to grow in time and spread to other payment providers across Europe.
+
+Part of this change is informed by Apple’s ongoing legal issues in different parts of the world. For example, Apple is under fire for alleged anti-competitive policies in India, similar to a suit filed in the European Union. However, it’s also clear that this change has been ongoing for quite some time — and the ability for third-party companies to create their own payment apps isn’t limited to just Europe.
+
+Apple
+
+Users of the iOS 18.2 beta already have the option to set a default contactless payment app, and that setting will presumably remain in place when the full version of iOS 18.2 goes public. While Apple Pay is an extraordinarily effective app, it’s always better for users to have more options than less.
+
+Vipps has already announced its intention to extend the service into Denmark, Finland, and Sweden next year. Vipps is only the first company to launch an app like this. That said, it would be no surprise to see several alternatives pop up in the months ahead, especially if those are sponsored by banks or other financial organizations.
+

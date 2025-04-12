@@ -1,0 +1,52 @@
+link: https://finance.yahoo.com/news/apple-intelligence-changing-way-siri-160211018.html
+
+source: finance.yahoo.com
+
+title: How Apple Intelligence changes the way you use Siri on your iPhone
+
+summary: 
+
+publishDate: 2024-10-28T15:50:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9992857575416565
+
+images: ['https://s.yimg.com/cv/apiv2/flags/de.svg', 'https://s.yimg.com/ny/api/res/1.2/7fSdWrqSoC0hADYSteTN4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8fafa780-9273-11eb-bde7-ba860fc23b66', 'https://s.yimg.com/ny/api/res/1.2/1eoWg8i6k2CZJAGm42TZYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/57595dde590716d5bb5e109963031d7c']
+
+content: Following years of talk around Apple’s lack of innovation when it comes to Siri, Apple has promised the launch of a smarter version of its digital assistant. Siri is getting new features and updates with the launch of iOS 18.1 thanks to the addition of Apple Intelligence, the company’s generative AI offering.
+
+It’s worth noting that some of Siri’s upcoming major updates, such as an integration with OpenAI's ChatGPT and onscreen awareness, aren't yet available with iOS 18.1.
+
+Here's a look at what the introduction of Apple Intelligence allows you to do with the revamped digital assistant.
+
+Enhanced language understanding
+
+Apple is making it easier for people to communicate with Siri, as the assistant is now equipped to better understand natural language. Even if you stumble on your words when talking to Siri, the assistant will still be able to understand you. You can say, for instance, “Siri, set an alarm for, oh wait no, set a timer for 10 minutes. Actually, make that five.” Siri will understand what you’re asking.
+
+Plus, you can ask Siri follow-up questions without having to repeat context. For example, if you ask Siri where your next family reunion is going to take place, it will respond with a location. You can then follow up by asking, “What will the weather be like there?” without having to mention the name of the location.
+
+Type to Siri
+
+Image Credits:Apple
+
+Up until now, you could only communicate with Siri via your voice. With Apple Intelligence, you can now type to Siri when you don’t want to speak out loud. You just need to double tap the button on your iPhone or iPad screen to ask Siri any question.
+
+The option to type to Siri is handy when you’re in a quiet environment and can’t speak out loud. Or, perhaps you're in a loud environment; typing to Siri can ensure your inquiry is understood clearly.
+
+Siri now has product knowledge
+
+Siri now has more information about Apple’s products and services, so if you have a question about your Apple device, you can ask Siri for help. That includes how to use a feature for the first time on your iPhone, iPad, and Mac.
+
+For instance, you can ask Siri how to schedule a text message to send later. Siri will then give you step-by-step instructions on how to do so. Otherwise you'd have to go into your settings and navigate to a help page if you needed more information about your device.
+
+Coming soon
+
+While the features listed above are launching Monday, Apple has promised the roll out of additional Apple Intelligence-powered features for Siri.
+
+Siri will be able to tap into OpenAI's ChatGPT to answer certain questions. For example, if you need recipe ideas to make a meal using some ingredients from your garden, you will be able to ask Siri, and Siri will automatically feed that info to ChatGPT to generate some options for you.
+
+Story Continues
+

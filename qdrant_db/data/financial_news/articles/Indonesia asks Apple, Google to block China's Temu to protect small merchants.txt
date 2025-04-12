@@ -1,0 +1,44 @@
+link: https://finance.yahoo.com/news/indonesia-asks-apple-google-block-110349964.html
+
+source: finance.yahoo.com
+
+title: Indonesia asks Apple, Google to block China's Temu to protect small merchants
+
+summary: 
+
+publishDate: 2024-10-11T11:03:49.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9990492463111877
+
+images: ['https://s.yimg.com/ny/api/res/1.2/B2QWNQ.ajDn9Pof.LXDj_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/reuters.com/0f501063fbb4cd89e35794135b989fed', 'https://media.zenfs.com/en/reuters.com/0f501063fbb4cd89e35794135b989fed', 'https://s.yimg.com/cv/apiv2/flags/de.svg']
+
+content: JAKARTA (Reuters) - Indonesia has asked Alphabet's Google and Apple to block Chinese fast fashion e-commerce firm Temu in their application stores in the country so it cannot be downloaded, a minister said on Friday.
+
+The move was intended to pre-emptively protect the country's small and medium-sized businesses against cheap products being offered by PDD Holdings' Temu, communications minister Budi Arie Setiadi told Reuters, even though authorities have not found any transactions yet by its residents on the platform.
+
+Temu's rapid growth has triggered scrutiny over its low-cost business model of sending parcels to customers from China by several countries.
+
+Temu's business model, which connects consumers directly with factories in China in order to significantly reduce prices, is "unhealthy competition," Budi said.
+
+"We're not here to protect e-commerce, but we protect small and medium enterprises. There are millions we must protect," the minister said.
+
+Jakarta will also block any investment by Temu in local e-commerce if it makes such a move, Budi said, adding he has not heard of any such plan.
+
+Budi also said the government plans to request a similar block for Chinese shopping service Shein.
+
+Temu, Shein, Apple and Google did not respond to requests to comment. Temu can still be downloaded in app stores in Indonesia.
+
+Indonesia forced China's ByteDance social media platform TikTok to close its e-commerce service in the country last year to protect local merchants and users' data.
+
+Months later, TikTok agreed to buy a majority stake in Indonesian tech conglomerate GoTo's e-commerce unit in order to stay in Southeast Asia's biggest e-commerce market.
+
+On Tuesday, Indonesian homegrown e-commerce Bukalapak.com denied reports about an acquisition plan by Temu.
+
+Indonesia's e-commerce industry is set to expand to about $160 billion by 2030 from $62 billion in 2023, according to a report by Google, Singapore state investor Temasek Holdings and consultancy Bain & Co.
+
+(Reporting by Ananda Teresia; Editing by Kim Coghill)
+

@@ -1,0 +1,68 @@
+link: https://www.cnbc.com/2024/10/31/apple-aapl-q4-earnings-report-2024.html
+
+source: www.cnbc.com
+
+title: Apple to report earnings as investors worry about 'mixed' iPhone demand
+
+summary: It's the end of Apple's fiscal year, and the first quarter with some sales from the September launch of the iPhone 16.
+
+publishDate: 2024-10-31T00:00:00.000Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.9999992847442627
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://image.cnbcfm.com/api/v1/image/108031319-1725910698172-gettyimages-2171029311-js2_6082_j5yp30b1.jpeg?v=1725910843&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg']
+
+content: Apple CEO Tim Cook inspects the new iPhone 16 during an Apple special event at Apple headquarters on September 09, 2024 in Cupertino, California.
+
+Apple reports fourth-quarter earnings after the bell Thursday. It's the end of Apple's fiscal year, and it's the first quarter with sales from the September launch of the iPhone 16.
+
+Here's what to expect, according to LSEG consensus estimates:
+
+Earnings per share : $1.53
+
+: $1.53 Revenue: $94.46 billion
+
+The most critical item will be what Apple signals to investors about its December quarter, which is its largest seasonal sales period of the year. That will set the tone about the current iPhone sales cycle and whether it represents a chance for revenue growth driven by the launch of Apple Intelligence.
+
+Apple doesn't provide official guidance, but it typically offers forecast data points on a call with analysts that suggest whether the company expects sales growth and how some of its product lines might fare — especially the iPhone, which still accounts for a majority of Apple's sales.
+
+Without Apple's official guidance and sales, investors parse surveys and shipping dates on Apple's website to get a clue.
+
+Some analysts are pointing to signs so far as "mixed."
+
+"To be clear, we have not heard of any iPhone build cuts in our checks, but after a month of tracking iPhone 16 demand indicators, we'd characterize iPhone demand as mixed," wrote Morgan Stanley analyst Erik Woodring in a note Oct. 22.
+
+Other analysts are watching for when exactly Apple Intelligence will start to boost sales. Apple Intelligence is rolling out in pieces over the next few months. It's available in American English now, but will add support for German, Italian, Korean, Chinese, French, Japanese and Spanish next year, Apple says.
+
+"While iPhone sales will be on everybody's mind when AAPL reports, the stream of data points indicates that there is little reason to believe an upgrade cycle has started," wrote D.A. Davidson analyst Gil Luria in a note this week. "That should be expected, as Apple Intelligence features (the only reason to upgrade)
+
+have yet to be rolled out in a significant way."
+
+U.S. carriers, including AT&T, Verizon and T-Mobile, have also seemed unexcited about an Apple Intelligence upgrade cycle.
+
+"We're still waiting, obviously, for the software release and whether or not that software release drives interest in the consumer base," AT&T CEO John Stankey said on an earnings call last week.
+
+Sales in greater China were one of the weakest parts of Apple's most recent quarterly report, declining 6% in the face of increased pressure from Chinese rivals.
+
+"We believe even with new iPhone launch, Apple still faces pressure from Huawei, and we don't expect the competition to ease any time soon," Citi analyst Malif Atik wrote in a note this week.
+
+But research firm Counterpoint Research told CNBC in October that iPhone sales, especially for the lower-priced devices, were strong in China.
+
+"We're seeing strong iPhone 16 series unit sales in China, up 20% compared to iPhone 15 series during its first three weeks of sales last year," a Counterpoint representative said.
+
+Investors will also look closely at Apple's "wearables" category, which includes its Apple Watch and AirPods headphones. Both of those product lines saw new models hit store shelves during the quarter, including Apple Watches with bigger screens and low-end AirPods with noise canceling.
+
+The new products could reverse the trend of Apple's wearables sales declining on a year-over-year basis for four straight quarters.
+
+Overall, analysts polled by LSEG expect about 5.6% revenue growth on an annual basis to about $95 billion in revenue.
+
+That's in line with what Apple signaled in August. Apple also said at the time that its services unit — the company's catch-all, high-margin unit that includes everything from Major League Soccer subscriptions to Google search deals and extended iPhone warranties — would rise about 14% during the quarter, continuing its steady growth.
+
+Thursday's report will also likely be the last with CFO Luca Maestri. Apple said in August that Maestri will step down Jan. 1 and be replaced by longtime lieutenant Kevan Parekh. Maestri won't be leaving Apple, though, and will retain oversight of some teams focusing on IT, real estate, and security.
+
+WATCH: Apple Intelligence rollout could be an inflection point, says Futurum Group CEO's Daniel Newman
+

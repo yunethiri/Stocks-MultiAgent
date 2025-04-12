@@ -1,0 +1,36 @@
+link: https://www.yahoo.com/tech/apple-watch-ultra-2-just-173400906.html
+
+source: www.yahoo.com
+
+title: The Apple Watch Ultra 2 just got a stunning new color
+
+summary: 
+
+publishDate: 2024-09-09T17:34:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9693146347999573
+
+images: ['https://s.yimg.com/ny/api/res/1.2/ltwz5m.vyShOQ1qIyZollg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/digital_trends_973/e27ef6194fc644371f3f930e9badd789', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/zLhgXZMUuSPVblBx4K7LhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0NDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ae654c70-8974-11ee-b75b-8e1676987d45']
+
+content: It’s Glowtime! Apple has kicked off its biggest event of the year, where it unveils a myriad new devices. Although the 10th anniversary Apple Watch is the star among wearables being unveiled today, the Watch Ultra is getting some attention in the form of a new Satin Black finish without many internal changes. That means, there’s no actual update besides the new finish, but Apple has a lot to back it up.
+
+The new Satin Black Apple Watch Ultra 2 is also made with Grade-5 recycled titanium. Apple says the finish has been achieved through a blasting process. To match the new finish, Apple is betting on a dark zirconia crystal for the underside. The orange accents remain unchanged from previous generations.
+
+The Apple Watch Ultra 2 now comes with a matching new titanium Milanese Loop band with intricately woven metal parts. The buckle now has connectors on both sides, which Apple says has been inspired by parachutes. Alongside the new titanium band, the Apple Watch Ultra also gets a new Alpine, Trail, and Ocean Loop bands in a darker gray shades, which, we hope, can be paired to other Apple Watch models as well. Apple also includes a new fabric band in partnership with Hermes.
+
+Apple
+
+Through watchOS 11, the Apple Watch Ultra 2 models — new and old — get the ability to detect sleep apnea, a medical condition that results in small stoppages in breathing that not only disrupts sleep but also have a lasting negative effect on your overall energy levels. Earlier this year, Samsung also added sleep apnea detection to its line of Galaxy Watch models.
+
+As part of watchOS 11, the Watch Ultra 2 also gets stackable live activities complication on the watch face, direct media playback through the speaker, personalized trainer, and the ability to track your Training Load.
+
+The Apple Watch Ultra has been surprisingly successful, so much so that it even inspired Samsung to make a similar smartwatch for the outdoorsy. The Apple Watch Ultra 2 had little to differ from the first-gen Watch Ultra, and the models combined became the second-best selling Apple Watch model between September last year and June 2024, despite a ban that blocks out the blood-oxygen sensor. That also means Apple’s detection of sleep apnea may be less accurate than Samsung, which uses low blood oxygen as a metric to state of “hypopnea” or disrupted flow of oxygen.
+
+The first-gen Apple Watch Ultra is still an excellent companion for the iPhone. So, Apple’s choice to skip the third-generation Watch Ultra is forgivable. It already offers the longest battery life, the brightest display, and the most durable design on any Apple Watch model.
+
+The Apple Watch Ultra 2 in Satin Black will cost $799. It is up for preorder starting today and will be available starting September 20.
+

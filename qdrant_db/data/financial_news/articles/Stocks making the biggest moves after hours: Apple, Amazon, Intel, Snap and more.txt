@@ -1,0 +1,46 @@
+link: https://www.cnbc.com/2024/08/01/stocks-making-the-biggest-moves-after-hours-aapl-amzn-intc-and-more.html
+
+source: www.cnbc.com
+
+title: Stocks making the biggest moves after hours: Apple, Amazon, Intel, Snap and more
+
+summary: These are the stocks posting the largest moves in extended trading.
+
+publishDate: 2024-08-01T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999310970306396
+
+images: ['https://image.cnbcfm.com/api/v1/image/108009670-1721653918743-gettyimages-2162396280-cfoto-applevis240722_npa5p.jpeg?v=1722545558&w=1920&h=1080', 'https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: Customers are trying on and learning about Apple Vision Pro headsets at an Apple store in Shanghai, China, on July 22, 2024.
+
+Check out the companies making headlines in extended trading.
+
+Apple – Shares of the iPhone maker slipped nearly 2%, even as the company beat analysts' estimates on the top and bottom lines. Apple reported fiscal third-quarter earnings of $1.40 per share while analysts polled by LSEG called for $1.35 per share. Revenue clocked in at $85.78 billion, also surpassing the Street's estimates.
+
+Intel — The chip stock sank 17%. Intel said it would suspend its dividend in the fiscal fourth quarter, and it announced plans to layoff 15% of its workforce. The news coincided with worse-than-expected quarterly results. Intel also shared disappointing guidance for the current quarter.
+
+Amazon - Shares of the e-commerce giant dropped 5% in extended trading. The company reported weaker-than-expected revenue for the second quarter and issued a disappointing forecast for the third quarter. Revenue in its cloud division increased 19% in the second quarter, beating analyst estimates, however.
+
+DoorDash — Shares surged nearly 14% after the online food ordering company reported a revenue beat in the second quarter. DoorDash posted $2.63 billion in revenue while analysts polled by LSEG had estimated $2.54 billion. Management also raised the marketplace gross order value forecast for the third quarter.
+
+Coinbase – The crypto exchange operator saw its shares rise nearly 5% in extended trading. In the second quarter, revenue came in at $1.45 billion, slightly above estimates of $1.40 billion, according to LSEG.
+
+Block — The fintech company rallied more than 7% on better-than-expected adjusted earnings in the second quarter. Block reported adjusted earnings of 93 cents per share, coming above consensus calls for 84 cents per share, according to analysts surveyed by LSEG. Meanwhile, revenue of $6.16 billion missed analysts' estimates for $6.28 billion.
+
+Snap – The parent of the instant messaging app cratered 17%. Snap called for third-quarter adjusted earnings to range between $70 million to $100 million, falling short of the $110 million estimate from analysts polled by StreetAccount. Revenue for the latest quarter missed the Street's forecasts.
+
+Roku — Shares jumped more than 5% after Roku posted second-quarter results that exceeded expectations. The streaming device company posted a narrower-than-expected quarterly loss of 24 cents per share, better than the loss of 43 cents per share anticipated by analysts polled by LSEG. Revenue of $968 million topped the $938 million consensus estimate.
+
+Clorox — The stock advanced 4%. Clorox issued fiscal full-year earnings guidance in a range between $6.55 and $6.80 per share, coming above analysts' estimates of $6.45 earnings per share, according to analysts polled by LSEG. Fiscal fourth quarter adjusted earnings came in at $1.82 per share, while consensus estimates called for $1.56 per share.
+
+Coterra Energy — Shares dipped 1.8% after Coterra Energy posted disappointing earnings results. Coterra reported adjusted second-quarter earnings of 37 cents per share, below the FactSet consensus estimate of 39 cents earnings per share.
+
+GoDaddy — Shares jumped 6% after the web hosting company raised its revenue guidance for the full year. GoDaddy issued full-year revenue guidance between $4.525 billion to $4.565 billion, while analysts polled by FactSet had expected $4.53 billion.
+
+— CNBC's Sarah Min, Yun Li, Samantha Subin, Tanaya Macheel and Darla Mercado contributed reporting
+

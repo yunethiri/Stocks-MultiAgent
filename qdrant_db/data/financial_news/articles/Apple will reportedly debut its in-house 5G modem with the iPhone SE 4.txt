@@ -1,0 +1,26 @@
+link: https://www.yahoo.com/tech/apple-will-reportedly-debut-its-in-house-5g-modem-with-the-iphone-se-4-103023682.html
+
+source: www.yahoo.com
+
+title: Apple will reportedly debut its in-house 5G modem with the iPhone SE 4
+
+summary: 
+
+publishDate: 2024-10-04T10:30:23.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999806880950928
+
+images: ['https://s.yimg.com/ny/api/res/1.2/YwfCRgIe90exOChYec9Cjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/d5b30fb0-aa58-11ee-bbbf-af6360643ddf', 'https://s.yimg.com/cv/apiv2/default/20190724/app-store-icon@3x.png', 'https://s.yimg.com/cv/apiv2/default/20190724/google-play-icon@3x.png']
+
+content: Bloomberg recently reported that Apple is close to releasing an updated iPhone SE, which will be its first update to the low-end model since 2022. According to 9to5Mac, Apple is also planning to use the phone as a launching pad for its in-house 5G modems. The company purchased the majority of Intel's smartphone modem business for $1 billion back in 2019 after taking steps to be more self-reliant and aggressively recruiting staff to make that happen. But it has yet to release devices that use the modems designed by its internal team.
+
+Apple and Qualcomm have somewhat of a complicated history. Qualcomm sued Apple in 2017, accusing it of violating its patents related to its phones' ability to quickly connect to the internet after they're switched on, as well as patents related to battery efficiency, graphics processing and apps' capability to download data faster. They eventually settled their patent dispute after Apple agreed to pay Qualcomm royalties and to enter a six-year licensing deal, as well as a multi-year wireless chipset supply deal.
+
+At the moment, Apple still equips its devices with Qualcomm-made 5G modems. Qualcomm also announced last year that it will continue providing modems to Apple until 2026. It's possible that Apple wants to put its in-house modem to the test with just one iPhone first before it puts its technology in more devices.
+
+The iPhone SE 4 will look similar to the iPhone 14 (pictured above), 9to5Mac says, and will be powered by an A18 chip with 8GB of RAM that will make it possible for it to have some Apple Intelligence features. It will reportedly feature Face ID and will no longer have a home button like previous iPhone SEs, and the device will apparently have the iPhone 15's 48MP wide camera and 12MP front cam. The iPhone SE 4 is expected to be unveiled next year, possibly sometime in the spring.
+

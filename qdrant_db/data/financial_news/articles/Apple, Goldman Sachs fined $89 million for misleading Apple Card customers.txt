@@ -1,0 +1,30 @@
+link: https://www.yahoo.com/tech/apple-goldman-sachs-fined-89-million-for-misleading-apple-card-customers-192538650.html
+
+source: www.yahoo.com
+
+title: Apple, Goldman Sachs fined $89 million for misleading Apple Card customers
+
+summary: 
+
+publishDate: 2024-10-23T19:25:38.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9994844198226929
+
+images: ['https://s.yimg.com/os/creatr-uploaded-images/2024-10/869c3c60-9172-11ef-bfef-22eb32ee2e03', 'https://s.yimg.com/ny/api/res/1.2/W3vNXndNCX2WZfzkanuvuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/869c3c60-9172-11ef-bfef-22eb32ee2e03', 'https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=1197810144&c7=https%3A%2F%2Fwww.yahoo.com%2Ftech%2Fapple-goldman-sachs-fined-89-million-for-misleading-apple-card-customers-192538650.html&c14=-1']
+
+content: The Apple Card has landed Apple and Goldman Sachs in hot water. In a press release spotted by The Verge, the Consumer Financial Protection Bureau (CFPB) said it was fining the two companies a combined $89 million over practices involving the Apple Card.
+
+The CFPB says Apple failed to send “tens of thousands” of disputed card transactions to Goldman Sachs. When it finally sent the transactions to the investment bank, Goldman Sachs failed to follow “numerous federal requirements for investigating the disputes,” according to the CFPB’s announcement.
+
+Apple and Goldman are also accused of misleading customers about the Apple Card. Some consumers believed they could make interest-free payments to purchase an Apple device with the credit card but interest charges still showed up on their bill “because they were not automatically enrolled as expected.”
+
+Apple is also accused of keeping its interest-free payment option off of its website if the customer wasn’t using a Safari browser. The CFPB also says Goldman Sachs misled customers about the application of some refunds that racked up additional interest charges.
+
+The CFPB has ordered Goldman Sachs to pay at least $19.8 million in redress funds and a $45 million civil money penalty. The company is also required to present a “credible plan” to comply with laws before launching any new credit card product. Apple also received a $25 million civil money penalty that will go to the CFPB’s victims relief fund.
+
+Apple and Goldman Sachs introduced the Apple Card in 2019, advertising it as a product that could “help customers lead a healthier financial life.”. Four years later, a report from the Wall Street Journal said that Goldman Sachs was starting to have doubts about the consumer lending industry and thought the venture may have been a mistake.
+

@@ -1,0 +1,34 @@
+link: https://www.yahoo.com/tech/apple-black-friday-deals-discount-the-m3-macbook-air-with-16gb-of-ram-to-the-lowest-price-weve-seen-180617828.html
+
+source: www.yahoo.com
+
+title: Apple Black Friday deals discount the M3 MacBook Air with 16GB of RAM to the lowest price we've seen
+
+summary: 
+
+publishDate: 2024-11-14T18:06:17.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.7931908369064331
+
+images: ['https://s.yimg.com/ny/api/res/1.2/Y7QHayaGR9QZ.tXN4ddXrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/24973a20-a5bc-11ef-afbd-22b4596b6240', 'https://s.yimg.com/uu/api/res/1.2/NrnLdLBTqMj42VKA8gmDxQ--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/b9d380c0-a76b-11ef-b7ef-619e4908deed', 'https://s.yimg.com/uu/api/res/1.2/qOrLiAEZRfPovSmmq2SHqw--~B/Zmk9ZmlsbDtoPTE0ODtweW9mZj0wO3E9OTU7dz0xNDg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/2395de80-a763-11ef-bf5d-f02f59016b09']
+
+content: Engadget has been testing and reviewing consumer tech since 2004. Our stories may include affiliate links; if you buy something through a link, we may earn a commission. Read more about how we evaluate products .
+
+Black Friday deals are already coming in hot with some excellent discounts on MacBooks. Key among them is a sale on the M3 MacBook Air, the machine we consider to be the best laptop for most people and the best laptop for college students. Amazon has the notebook with 16GB of RAM and 256GB of storage for $849, which is $250 off the list price.
+
+That's the base amount of storage, but other configurations with more storage space are on sale too. One with 8GB of RAM and a 512GB SSD is available for $999, though we'd recommend having at least 16GB of memory. It's not possible to upgrade the RAM in an Apple Silicon MacBook, but you can always add external storage if need be.
+
+Apple just released its first M4-powered Macs, but it has yet to slot the latest chip into the MacBook Air. The 13-inch MBA's blend of power and portability makes it a potent choice and we gave it a score of 90 in our review. It delivers fast performance and has a killer display. The design is sleek and sturdy and it sounds great thanks to a quad-speaker array. We like the trackpad and keyboard as well, while the upgrade to Wi-Fi 6E connectivity is a definite plus.
+
+Our main quibble is that the USB-C ports are on the same side of the unit as the one for the charger — having even one USB-C on the right side would be handy. But that's a minor complaint about an otherwise terrific laptop.
+
+Advertisement Advertisement
+
+If you're willing to go with a slightly older (but no less capable) processor, the M2 MacBook Air with 16GB of RAM and 256GB of storage has dropped to $749 thanks to a clippable coupon.
+
+Check out all of the latest Black Friday and Cyber Monday deals here.
+

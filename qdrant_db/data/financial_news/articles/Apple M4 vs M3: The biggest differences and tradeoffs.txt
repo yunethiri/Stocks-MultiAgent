@@ -1,0 +1,112 @@
+link: https://www.yahoo.com/tech/apple-m4-vs-m3-biggest-100000061.html
+
+source: www.yahoo.com
+
+title: Apple M4 vs M3: The biggest differences and tradeoffs
+
+summary: 
+
+publishDate: 2024-11-01T10:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999755620956421
+
+images: ['https://s.yimg.com/ny/api/res/1.2/bI3UjUWDhVafwTrDbZIT_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2022-08/b58087f0-2952-11ed-bd77-c4838d5619e0', 'https://s.yimg.com/g/images/spaceball.gif', 'https://s.yimg.com/ny/api/res/1.2/dCTNGXVt77jWRd6rI6TjoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/laptopmag_536/7e2ff52be0663877326a712589a3144a']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Apple
+
+Apple's yearly silicon upgrade — the M4 chip — made waves with its debut in the iPad Pro back in mid-May. It's the first time we've ever seen Apple's proprietary chip launch in an iPad rather than a MacBook, and despite some iPad Pro-related limitations, the M4 chip has impressed both critics and consumers.
+
+Now that Apple has officially launched the M4 MacBook Pro lineup, people are understandably wondering: "Should I stick with my M3 MacBook Pro or upgrade to an M4 MacBook Pro?" Or, if you're a new buyer, is it worth searching out a new M4 model over an M3 model?
+
+The M4 chip is objectively a better chip compared to the M3, but are the upgrades enough to justify spending top dollar on an M4 MacBook over a possibly discounted M3 MacBook? We'll help you figure that out by comparing the two chips by their specs, performance and AI capabilities, and availability. Let's get into it.
+
+M4 vs. M3: Price and availability
+
+MacBook Air 15 M3 lid closed on a slatted wooden table
+
+Overall, Apple's M4 lineup is much bigger than its M3 lineup. That's all thanks to the M4 chip upgrade gracing Apple's iPad Pro and Mac Mini, both of which made the jump from M2 to M4, skipping over the M3 chip entirely.
+
+From past experience, we know the M4 chip will come to the MacBook Air eventually, but as Apple's budget-friendly laptop, it likely won't be until sometime next year.
+
+It's worth noting the lack of Apple's M3 Ultra and M4 Ultra chips in the table above. If Apple was going to launch an M3 Ultra chip, the company likely would have done so at WWDC 2024. Because WWDC 2024 came and went with no M3 Ultra announcement, and the company has now announced M4 chips for its lineup, it's safe to assume there will be no M3 Ultra variant.
+
+But what about the M4 Ultra? Well, there's still a good chance Apple could launch an ultra-powerful M4 variant, but it probably wouldn't launch until at least WWDC 2025 in June.
+
+Looking to the present, here are the M4 devices you can currently order:
+
+All of the devices listed above have the same starting price as their last-gen, M3-powered counterparts, with three exceptions. The M4 Pro Mac Mini costs $100 more than the M3 Pro Mac Mini, and both the 11-inch and 13-inch M4 iPad Pro models costs $200 more than their M2-powered predecessors.
+
+Although Apple is only selling new, M4-powered devices at full price, many retailers still have M3-powered devices in stock — often at a discount. At the time of writing, you can save up to $800 on an M2 iPad Pro, save up to $500 on an M3 MacBook Pro, or save $150 on an M2 Mac mini or M3 iMac.
+
+Although buying an M4 device over an older M2 or M3 device seems like a no-brainer at the same or similar starting prices, it gets a bit trickier when you throw major discounts into the mix. So let's take a look at each chip's makeup to see how much more power you get with the M4 chip over the M3, and whether it's worth the price difference.
+
+M4 vs. M3: Architecture
+
+Both the M4 chip and the M3 chip use the 3-nanometer (nm) manufacturing process, though the M4 chip is built using the slightly improved, second-gen version. The changes made between these two chips on paper are fairly minimal, but performance-wise, it should make a noticeable difference.
+
+The M4 chip found in the iPad Pro offers either 3 or 4 performance cores paired with 6 efficiency cores, but the lower-end M4 with a 9-core CPU will only be available in the iPad Pro. All other devices will start with a 10-core CPU variant of the M4 chip, which should mean extended battery life for each applicable device, as we've seen with the iPad Pro.
+
+Compared to the M3 chip, the M4 chip has an extra 3 billion transistors and more memory bandwidth, great for faster processing speeds. For most devices, it also has a higher max memory capacity than the M3 chip. The only exception here is the iPad Pro, which has a max memory capacity of 16GB due to its own limitations.
+
+Logic Pro on iPad Pro M4
+
+Apple also improved on the M3 Pro and M3 Max chips' architecture, though it looks like the M4 Pro chip got a slightly larger upgrade than the M4 Max.
+
+The company did away with the lower-end, 11-core CPU option in the M3 Pro and instead made a 12-core CPU the base for the M4 Pro. Now, you can choose between a 12-core CPU or a 14-core CPU, to be paired with a 16-core or 20-core GPU, respectively.
+
+Furthermore, the M4 Pro chip has a higher max memory capacity of 64GB, up almost double from the M3 Pro chip's max memory capacity of 36GB, and more memory bandwidth: 273GB/s versus the M3 Pro's 150GB/s.
+
+The M4 Max chip shares quite a bit with the M3 Max, like a max memory capacity of 128GB and a choice between a 14- or 16-core CPU with identical splits between performance and efficiency cores.
+
+Here are the slight differences. First, the base GPU cores got a slight bump from 30 with the M3 Max to 32 with the M4 Max. Then, the M4 Max chip's memory bandwidth of 546GB/s trumps the M3 Max chip's memory bandwidth of 400GB/s.
+
+Apple has yet to reveal the number of transistors on the M4 Pro and M4 Max chips, but it's undoubtedly a much higher number than the number of transistors on the M3 Pro and M3 Max chips.
+
+If the ratio of transistors to the M3, M3 Pro, and M3 Max chips is applied to the M4 chip lineup, then the M4 Pro should have about 41 billion transistors and the M4 Max should have about 103 billion transistors.
+
+With the technical specs out of the way, let's take a look at how they translate into real-world performance.
+
+M4 vs. M3: Performance
+
+When the M4 chip initially debuted, Apple had plenty of comparisons to the M2 chip, as that's the chip that was in the previous iPad Pro model. The M4 chip boasts a CPU that's up to "50% faster" than the M2 chip, and a GPU that's up to "4x faster."
+
+Apple M4 spec sheet
+
+As far as how the M4 lineup compares to the M3 lineup, it's still a bit up in the air. MacBook Pro models with the M4, M4 Pro, and M4 Max chips officially launch on November 8. Until we get closer to that release date, we probably won't see many, if any, Geekbench 6 scores for these new chips.
+
+For right now, the only rumored performance gauge we have to go off of comes from a Russian outlet that got their hands on an M4 MacBook Pro. The outlet found the M4 MacBook Pro to be about 25% faster than the M3 MacBook Pro, with a wildly impressive Geekbench 6 multi-core score of 15,228.
+
+That's slightly higher than the Geekbench 6 multi-core score our sister site got from their iPad Pro M4 review unit: 14,523. And it's much higher than the multi-core score we saw in our MacBook Pro 14 M3 review: 11,870.
+
+In the Tom's Guide review of an M3 Pro MacBook Pro, the 14-inch laptop earned a multi-core score of 14,357 on Geekbench 6. Then, our 16-inch M3 Max MacBook Pro earned a staggering multi-core score of 20,863.
+
+Using these numbers, we can estimate that the M4 Pro may achieve a Geekbench 6 multi-core score of 18-19,000, and the M3 Max could earn an even more impressive score of 26-27,000.
+
+When we're able to run tests on our own M4 MacBooks, we'll update this section with hands-on performance results.
+
+M4 vs. M3: Neural engine
+
+On paper, both the M4 and M3 chip variants are equipped with a 16-core Neural Engine, but Apple says the "M4 has Apple’s fastest Neural Engine ever, capable of up to 38 trillion operations per second."
+
+apple m4 neural engine
+
+Thanks to the M4 chip's faster memory bandwidth, a better-performing GPU, and "next-generation machine learning (ML) accelerators in the CPU," devices with an M4 chip will be able to carry out AI-powered tasks faster and more efficiently than the M3. And luckily, we already have a few real-world tests to back that claim up.
+
+Our sister site TechRadar ran three different Geekbench ML benchmarks on the iPad Pro M4 and an M3 MacBook, and found that the M4 chip boasted a performance increase of 32 - 46%, depending on the test. So if utilizing AI on your MacBook is important to you, it might be worth splurging on an M4 MacBook.
+
+Outlook
+
+Apple's M4 chip is clearly more powerful than its base M3 chip, but does the average everyday laptop user need all the power an M4 chip promises? Probably not, but hear me out.
+
+If you already have an M3-powered MacBook or iMac and it's not giving you any issues, there's probably no reason to upgrade — unless you want to be able to play graphically-intensive games, edit lengthy videos, mess around with 3D rendering, or have any additional needs that you didn't have when you first purchased your M3 MacBook.
+
+If you're buying a MacBook (or another Apple device) for the first time, I'd say it's worth the splurge for the best performance possible. On top of wildly impressive performance and strong on-device AI capabilities, M4 MacBooks will likely have incredible battery life.
+
+That said, I'm a sucker for a great deal, and there's a chance we could see some stellar deals in the near future for M2- and M3-powered Apple devices being replaced by a newer, M4-powered model. If you only need a laptop with a great battery life or a tiny desktop to carry out simple tasks, you absolutely can't go wrong buying a discounted last-gen device.
+

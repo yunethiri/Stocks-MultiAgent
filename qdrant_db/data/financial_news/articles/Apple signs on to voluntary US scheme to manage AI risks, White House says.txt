@@ -1,0 +1,21 @@
+link: https://www.reuters.com/technology/artificial-intelligence/apple-signs-voluntary-us-scheme-manage-ai-risks-white-house-says-2024-07-26/
+
+source: www.reuters.com
+
+title: Apple signs on to voluntary US scheme to manage AI risks, White House says
+
+summary: Apple Inc has signed U.S. President Joe Biden's voluntary commitments governing artificial intelligence (AI), joining 15 other firms that have committed to ensuring that AI's power is not used for destructive purposes, the White House said on Friday.
+
+publishDate: 2024-07-26T14:42:52.137Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9997887015342712
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: Apple Inc <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> has signed U.S. President Joe Biden's voluntary commitments governing artificial intelligence (AI), joining 15 other firms that have committed to ensuring that AI's power is not used for destructive purposes, the White House said on Friday.
+The original commitments, announced in July 2023, were signed on to by firms including Google and OpenAI partner Microsoft <a href="https://www.reuters.com/markets/companies/MSFT.O" target="_blank">(MSFT.O)</a>. In September, <a href="/sustainability/adobe-others-join-white-houses-voluntary-commitments-ai-2023-09-12/">eight more firms</a> including Adobe <a href="https://www.reuters.com/markets/companies/ADBE.O" target="_blank">(ADBE.O)</a>, IBM <a href="https://www.reuters.com/markets/companies/IBM.N" target="_blank">(IBM.N)</a>, Nvidia <a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank">(NVDA.O)</a> signed on.
+

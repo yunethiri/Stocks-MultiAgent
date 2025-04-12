@@ -1,0 +1,22 @@
+link: https://www.cnbc.com/2024/11/04/jim-cramer-on-apple-after-more-selling-from-warren-buffetts-berkshire.html
+
+source: www.cnbc.com
+
+title: Where Jim Cramer stands on Apple after more selling from Warren Buffett's Berkshire
+
+summary: Berkshire sold another chunk of Apple stock, cutting its stake by about 25% during the third quarter.
+
+publishDate: 2024-11-04T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999858140945435
+
+images: ['https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg', 'https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg']
+
+content: Another day. Another Apple headline. The news Berkshire Hathaway sold another large chunk of Apple shares, according to the Warren Buffett -led company's earnings report Saturday. The Omaha-based conglomerate reduced its stake by about 25% during the third quarter. But it still held roughly $69.9 billion worth of Apple shares at the end of September. Apple remains, by far, Berkshire's biggest position. Berkshire, which has also been selling down its Bank of America position, saw its cash pile top $300 billion. It's unclear why Berkshire is selling Apple, but investors don't seem too worried. AAPL YTD mountain Apple YTD Apple stock fell 1% in Monday's down market, the first chance Wall Street got to react to the news. Apple shares did come out of last week on a three-session losing streak. As of Friday's close of around $223, the stock was down 5.5% from its record-high close of just over $236 on Oct. 21, a little bit more than a week before earnings. Big picture The Berkshire disclosure follows Apple's better-than-feared quarterly earnings release last week, which beat expectations on revenue and earnings per share. But Wall Street continues to have mixed feelings about the iPhone maker. Loop Capital lowered its Apple price target Monday to $275 per share from $300. Still, that implies nearly 24% upside from Friday's close. On the positive side, Morgan Stanley analysts on Monday touted Apple for reaching decade-high operating margins. BofA research analysts pointed to global App Store revenue and download increases in October. Bottom line Apple investors typically face a barrage of headlines. And, per usual, Jim Cramer advised Club members to tune out the noise. We reiterate our "own it, don't trade it" mantra. That's because Berkshire's Apple sales are not indications of the company's health. "Who am I to challenge the 'Oracle of Omaha?'" Jim said while suggesting Buffett is probably taking profits in Apple because the stock has been up a lot. (Jim Cramer's Charitable Trust is long AAPL. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+An Apple store in Manhattan, New York, on July 5, 2024. Nurphoto | Nurphoto | Getty Images
+

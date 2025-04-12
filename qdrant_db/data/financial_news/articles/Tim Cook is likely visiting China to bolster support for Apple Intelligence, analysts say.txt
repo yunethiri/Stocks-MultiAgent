@@ -1,0 +1,58 @@
+link: https://www.cnbc.com/2024/10/24/tim-cook-is-likely-visiting-china-to-bolster-support-for-apple-intelligence-analysts-say.html
+
+source: www.cnbc.com
+
+title: Tim Cook is likely visiting China to bolster support for Apple Intelligence, analysts say
+
+summary: The CEO met with China's Minister of Industry and Information Technology as well as the heads of some local companies, including China Mobile and Weibo.
+
+publishDate: 2024-10-24T00:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.707585334777832
+
+images: ['https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg', 'https://static-redesign.cnbcfm.com/dist/2469ed0a9a4cafdf055e.svg', 'https://static-redesign.cnbcfm.com/dist/17269f1b6083fd5f61be.svg']
+
+content: In his second visit to China this year, Apple CEO Tim Cook met with Beijing officials and local partners as the company faces challenges with its launch of Apple intelligence and increased competition in the market.
+
+China's Minister of Industry and Information Technology met with the CEO in Beijing on Wednesday to discuss Apple's development in China, network data security and cloud services, according to a ministry statement.
+
+During the conversation, the ministry said Cook signaled Apple's commitment to the country, promising to increase investment in the market and to grow alongside Chinese companies. He also met with the leaders of several local Chinese firms in the same day, including China Mobile Chairman Yang Jie, to discuss digital content and 5G product cooperation, according to local reports.
+
+Ivan Lam, senior research analyst for Counterpoint Research, said the timing of the trip is significant, coming as local competitors are introducing updated operating systems that integrate AI and new flagship products.
+
+"This trip seems notable now as the company could be looking to shore up collaboration with local players to launch Apple Intelligence in China," Lam said.
+
+Le Xuan Chiew, Canalys' analyst focusing on Apple strategy research, said the roll out of Apple Intelligence in China was likely the main motivation for Cook's trip, as well as to "bolster the importance of China to Apple's global strategy."
+
+The timeline for the introduction of Apple Intelligence in China remains "uncertain" and will depend largely on regulatory approvals, which could explain some of the messaging focus of his China trip, Chiew said.
+
+This could be a problem for the company as the lack of Apple Intelligence on Chinese devices is expected to weaken the motivation for users to upgrade to the iPhone 16, he added.
+
+Apple Intelligence is the company's artificial intelligence play, which aims to bring AI across its devices, with features such as an improved voice assistant and tools that automatically organize emails and transcribe and summarize audio recordings.
+
+While the company has said Apple Intelligence will roll out in U.S. English this fall, it has been more quiet on plans for the product offering in China.
+
+Cook often travels to China — Apple's largest overseas market — to launch products and factories, visit suppliers and meet with local officials. During his visit in March, he had been in Shanghai for the opening of a new retail store. He also visited Chengdu this time last year as Apple faced lackluster demand in the world's second largest economy.
+
+During his current trip, Cook was photographed visiting the offices of the Chinese social media giant Weibo and meeting with its CEO in a post on his personal Weibo account. Weibo is one of the local app developers that has launched applications for Apple's Vision Pro mixed reality headset, which was released in the Chinese market in June.
+
+Apple successfully launched the iPhone 16, its latest model in the series, in China this September, and the new phones got off to a strong start. Sales were up 20% in the first three weeks since launch, compared to the 2023 model, according to data from research firm Counterpoint.
+
+But despite the successful product launch, overall iPhone unit sales, including older models, were down 2% year-over-year in China during the three-week period.
+
+Apple has faced dwindling market share in China amid increased competition with local players and an increasing preference among Chinese consumers to pick domestically made goods.
+
+The company saw its market share in the second quarter fall 5.7% year-over-year, according to Counterpoint.
+
+After it made a splash with a surprise 5G model last year, Huawei, one of Apple's main competitors in China, launched competing handsets the same day the iPhone 16 went on sale.
+
+"Huawei's recent resurgence in the high-end market, driven by its in-house chips and HarmonyOS ecosystem, has intensified the competitive landscape, making it harder for Apple to maintain its leadership position," said Canalys's Chiew.
+
+Apple's Vision Pro could also face more competition in the market as Huawei is reportedly gearing up to launch its own competing headset as soon as next week.
+
+— CNBC's Arjun Kharpal contributed to this report
+

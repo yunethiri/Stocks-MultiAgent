@@ -1,0 +1,25 @@
+link: https://www.reuters.com/technology/apple-bring-satellite-communications-smartwatch-next-year-bloomberg-news-reports-2024-12-10/
+
+source: www.reuters.com
+
+title: Apple to bring satellite communications to smartwatch next year, Bloomberg News reports
+
+summary: Apple plans to bring satellite connections to its smartwatch in 2025 and is ramping up work on a blood-pressure feature for the device, Bloomberg News reported on Tuesday.
+
+publishDate: 2024-12-10T19:57:47.166Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999805688858032
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> plans to bring satellite connections to its smartwatch in 2025 and is ramping up work on a blood-pressure feature for the device, Bloomberg News reported on Tuesday.
+The satellite feature is expected to come to next year's version of the iPhone maker's Apple Watch Ultra, the report said, citing people familiar with the matter. The feature will allow users to send messages without cellular or internet connection.
+Apple began to offer satellite communication through its iPhones in 2022. In November, it <a href="/technology/apple-invest-up-15-bln-globalstar-satellite-coverage-expansion-2024-11-01/">invested $1.5 billion</a> into satellite provider Globalstar <a href="https://www.reuters.com/markets/companies/GSAT.A" target="_blank">(GSAT.A)</a> to fund the expansion of iPhone communication services.
+The other medical feature, which would allow users to monitor their blood pressure levels, may also arrive in 2025, the report said.
+Apple has been working to add more health-focused capabilities to its products. In September, the company <a href="/technology/artificial-intelligence/apples-iphone-16-will-put-ai-features-focus-2024-09-09/">unveiled a new smartwatch</a>, which could discover longer-term health conditions such as sleep apnea, and respond to emergencies.
+Apple did not immediately respond to a Reuters request for comment.
+

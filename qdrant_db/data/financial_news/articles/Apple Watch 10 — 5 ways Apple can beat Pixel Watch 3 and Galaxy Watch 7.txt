@@ -1,0 +1,80 @@
+link: https://www.yahoo.com/tech/apple-watch-10-5-ways-040136203.html
+
+source: www.yahoo.com
+
+title: Apple Watch 10 — 5 ways Apple can beat Pixel Watch 3 and Galaxy Watch 7
+
+summary: 
+
+publishDate: 2024-09-02T04:01:36.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9980302453041077
+
+images: ['https://s.yimg.com/cv/apiv2/default/20190501/placeholder.gif', 'https://s.yimg.com/ny/api/res/1.2/Ncs5JZL4RgTrj17nOan8YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/9ba94d5a23c35d2f1f66f39511661862', 'https://s.yimg.com/ny/api/res/1.2/IdjjMmVItD3uVrOqsYVSgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/toms_guide_826/821123f61b3765ca7e5ae15cb5f7063f']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: @concept_central
+
+It’s the most wonderful time of the year. No, not the holiday season, but unofficial smartwatch launch season.
+
+We’ve already seen shiny new devices debut from the likes of Samsung, Google and Garmin. Now, it’s time to get ready for the granddaddy of all smartwatch launch shows at this year's Apple Event on September 9th.
+
+Apple will likely show off its latest line of watches, including (presumably) the all-new Apple Watch 10. The original model was announced in ten years ago in September 2014. And ever since its debut, Apple has continuously pumped out many of the best smartwatches money can buy, while generally leading the pack when it comes to new features and tech.
+
+By comparison, the first Google Pixel Watch didn’t arrive until 2022, eight years after the first Apple Watch, while the modern Galaxy Watch line launched in 2018. Of course, Samsung has been producing wearables going back to 2013’s Galaxy Gear. But, unlike the first Apple Watch, the Galaxy Gear was mostly a flop.
+
+Apple Watch X render with larger display
+
+In 2024, Samsung and Google have seriously upped the ante, and the latest Samsung Galaxy Watch 7 and Google Pixel Watch 3 are nothing short of impressive; I’ve reviewed the former and am in the process of assessing the latter.
+
+Needless to say, Apple has its work cut out. To remain the smartwatch king, here are five ways that the Cupertino giant can outshine the competition with the launch of the Apple Watch 10.
+
+1. Offer more than 2 sizes
+
+Samsung has long offered the Galaxy Watch range in multiple sizes, with the last several iterations available in 40mm or 44mm. Google, meanwhile, just introduced a second larger smartwatch model this year with the release of the Pixel Watch 3 in 41mm and 45mm.
+
+Like Google, the Apple Watch 9 is available in either 41mm or 45mm and all signs point to similar size options for the Apple Watch 10. However, Apple could shake things up by offering the new wearable in a third size.
+
+Fears of cannibalizing the Ultra line aside, a 49mm Apple Watch 10 could be a winner amongst fans of big screens. On the other hand, a smaller, 38mm option might appeal to those with smaller wrists or more fashion-conscious smartwatch shoppers.
+
+2. Crush the 24-hour battery life mark
+
+Samsung Galaxy Watch 7 in 40mm on a user's wrist
+
+Under standard operating conditions, the Pixel Watch 3 and Galaxy Watch 7 offer roughly the same battery life as their predecessors: about 24 hours. Sure, you can stretch that to 36 hours or more when using either watch’s power-saving mode but battery life limitations remain a stumbling block for most full-feature smartwatches.
+
+The Apple Watch 9 promises 18 hours of battery life (36 in power-saving mode) which isn’t particularly impressive. To match its rivals, hitting the 24-hour mark is a must. However, it’d be even more remarkable if Apple managed to double the battery life of its most popular wearable to 36 hours, matching that of the Apple Watch Ultra 2 ; this would be the ultimate dunk on Google and Samsung.
+
+3. 100 meters of water resistance
+
+Aside from high-end rugged models like the Apple Watch Ultra range, most smartwatches offer no more than 50 meters of water resistance. This may sound like a lot but in reality, it means that your watch can survive brief periods of surface-level swimming, often thirty minutes or less, without damage.
+
+So, while your new Galaxy Watch 7 and Pixel Watch 3 are fine for some splashing around, they’re not suitable for activities like snorkeling, diving or waterskiing. Surfing and river rafting are also probably out.
+
+The Apple Watch 9 is also stuck at 50 meters of water resistance but there’s no reason that the Apple Watch 10 has to be. Bumping the rating up to 100 meters would mean folks could truly wear it in water without worry for all but the most extreme scuba diving scenarios.
+
+4. Increase screen brightness beyond 2,000 nits
+
+The Google Pixel Watch 3 and 3 XL in a user's hand showing the screen
+
+Brighter screens are better and Apple has long led the way when it comes to maximum screen output. Both the Pixel Watch 3 and Galaxy Watch 7 max out a respectable 2,000 nits which is more than bright enough for viewing in bright sunlight.
+
+While the older Galaxy Watch 6 also sports a 2,000-nit display, an increase in max screen brightness from 1,000 nits to 2,000 nits is one of the key selling points of the Pixel Watch 3 vs. Pixel Watch 2 .
+
+If Apple wants to really rain on Google’s parade, pushing the Apple Watch 10’s maximum brightness to 3,000 nits would surely do the trick. The Apple Watch Ultra 2 currently maxes out at 3,000 nits and the Ultra 3 could push things even further. If that happens, I see no reason why the Apple Watch 10 couldn’t conceivably receive a brightness boost, too.
+
+5. Make it thinner
+
+The Pixel Watch 3 remains the same thickness as its predecessor (12.3mm) regardless of whether you choose the 41mm or 45mm option. The Galaxy Watch 7, meanwhile, is 9.7mm thick in both 40mm and 44mm, or 0.7mm thicker than its predecessor.
+
+The Apple Watch 9, by comparison, is 10.7mm thick, the same as the Apple Watch 8. None of these devices are particularly chunky and they all wear fairly comfortably on the wrist but a thinner smartwatch would still be welcomed.
+
+Apple already needs to shave off 1mm of depth to match the Galaxy Watch 7 but I’d like to see an even greater reduction of 2mm. This would make the Apple Watch 10 the thinnest full-feature smartwatch on the market (that I’m aware of), giving Apple even more bragging rights over Google and Samsung.
+
+More from Tom's Guide
+

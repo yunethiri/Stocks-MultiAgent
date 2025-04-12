@@ -1,0 +1,50 @@
+link: https://www.yahoo.com/tech/watch-ring-apple-could-launch-110000676.html
+
+source: www.yahoo.com
+
+title: Watch out Ring, Apple could launch its own smart home camera
+
+summary: 
+
+publishDate: 2024-11-12T11:00:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9989228844642639
+
+images: ['https://s.yimg.com/uu/api/res/1.2/zNVi6mbJ3wF9IYvmrHN.Zg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_ecomm_415/9d3ad1db1b2558841aa35a111e7e93f5.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/Shk7Mr0MJIi0zZsYW55rqQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/interesting_engineering_646/d96e2697a8e4ec6c0a6b9e0660a7bb39.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/jz97dxxsSPTDAzwSizVO2Q--~B/Zmk9c3RyaW07aD0xNDg7cT05NTt3PTE0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/9d08dcc99eac935f1d68496da4167e6d.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Justin Sullivan / Getty Images
+
+Quick Summary
+
+Apple is planning to launch a wireless smart home security camera in 2026, claims an industry insider.
+
+The camera is expected to integrate with Apple's home platform, Siri, and Apple Intelligence.
+
+Smart home security is one of the biggest areas for smart tech, but the choice for Apple users isn't huge. When I was looking for one of the best video doorbells to integrate with my Apple HomeKit home, the choice was very small (I ended up with a Eufy, which uses its own app instead). However, that could change.
+
+Advertisement Advertisement
+
+According to a respected industry insider, Apple plans to sell "tens of millions" of its own smart home security camera from 2026.
+
+Analyst Ming-Chi Kuo has a long track record of revealing Apple's plans and in a new post on Medium , he writes that the company is "making its first foray into the smart home IP camera market". He also predicts that the first devices will be launched in two years time.
+
+But, to say that it'll sell so many devices from the off is ambitious – as Kuo says, global IP camera shipments are currently 30-40 million units per year, and Apple's entering the market completely cold.
+
+What to expect from Apple's smart home security cameras
+
+Apple clearly believes it's got something that rival smart home platforms haven't: Siri, in its new Apple Intelligence era.
+
+Advertisement Advertisement
+
+It's also part of a much bigger smart home push. As we've previously reported , Apple is believed to be working on multiple smart home products including a smart home hub and a new HomePod-style device with a display in a design that resembles the old anglepoise iMac.
+
+Apple is also reportedly working on robots, although that's likely to be much longer term.
+
+In terms of what features this new camera may have, the only detail Kuo has shared is that it'll be wireless. Apple doesn't tend to go in at the low end of any market, though, so it's safe to predict that any such camera will have both a higher spec and a higher price than existing options from rivals, such as Ring.
+

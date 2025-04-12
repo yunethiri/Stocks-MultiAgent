@@ -1,0 +1,38 @@
+link: https://www.cnbc.com/2024/11/05/nvidia-passes-apple-as-worlds-most-valuable-company-.html
+
+source: www.cnbc.com
+
+title: Nvidia passes Apple as world's most valuable company
+
+summary: Nvidia shares have nearly tripled this year as demand continues to swell for the company's graphics processing units.
+
+publishDate: 2024-11-05T00:00:00.000Z
+
+language: en
+
+sentiment: positive
+
+confidence: 0.9997976422309875
+
+images: ['https://image.cnbcfm.com/api/v1/image/108057424-17307664782ED3-MM-C-BLOCK-110424.jpg?v=1730766477&w=750&h=422&vtcrop=y', 'https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg', 'https://image.cnbcfm.com/api/v1/image/107146541-1667589609182-kif_IMG_2787rr.jpg?v=1667589664&w=60&h=60&ffmt=webp']
+
+content: NVIDIA founder, President and CEO Jensen Huang speaks about the future of artificial intelligence and its effect on energy consumption and production at the Bipartisan Policy Center on September 27, 2024 in Washington, DC.
+
+Nvidia passed Apple in market cap on Tuesday becoming, for a second time, the most-valuable publicly traded company in the world.
+
+Nvidia rose nearly 3% to close with a market cap of $3.43 trillion, ahead of Apple at $3.4 trillion. Nvidia shares have almost tripled in 2024, as investors show continued confidence in the company's ability to maintain a rapid growth rate from its graphics processing units (GPUs) and a leadership position in the artificial intelligence market.
+
+Apple shares are up about 17% this year, although many analysts say the recent release of the Apple Intelligence suite of features for iPhones could drive increased sales and put the company in a leadership position in "edge AI," which relies less on GPU-based servers.
+
+Nvidia is the dominant supplier of GPUs, which are used to develop and deploy advanced AI software like OpenAI's ChatGPT. Its stock is now up more than 2,700% in the last five years, and revenue has more than doubled in each of the past five quarters, tripling in three of them.
+
+Apple was the first company to reach a $1 trillion and a $2 trillion market cap. Nvidia previously passed Apple in June before sliding over the summer. Microsoft , ranked third with a market cap of close to $3.1 trillion, is a major customer of Nvidia GPUs to fuel its partnership with OpenAI as well as its own AI ambitions.
+
+Founded in 1991 to produce chips for playing 3D games, Nvidia has taken off in recent years for a very different reason. In the past decade, scientists and researchers discovered that the same Nvidia chip designs that could render polygons and computer graphics were ideal for the kind of parallel processing needed for AI. Nvidia then developed software and more powerful chips specifically for AI.
+
+Last week, Apple reported a 6% increase in revenue for the most recent quarter but signaled weaker growth than analysts expected in the current period. Nvidia is scheduled to report results on Nov. 20.
+
+S&P Dow Jones announced on Friday that Nvidia will join the Dow Industrial Average on Friday, replacing long-time rival Intel , and joining Apple in the blue-chip index.
+
+WATCH: The Dow is modernizing by replacing Intel with Nvidia
+

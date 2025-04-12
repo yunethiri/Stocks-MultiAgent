@@ -1,0 +1,62 @@
+link: https://www.yahoo.com/tech/just-got-apple-watch-christmas-103000665.html
+
+source: www.yahoo.com
+
+title: Just got an Apple Watch for Christmas? Here are five apps you should download right away
+
+summary: 
+
+publishDate: 2024-12-25T10:30:00.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9999973773956299
+
+images: ['https://s.yimg.com/uu/api/res/1.2/WInLF4uJOvZ6HxMYcFbW7w--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2020-11/2bcc7fd0-2b81-11eb-b8bf-81d014a63a87.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/hjUnwsMUq687p28wr.dUmQ--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-08/6b86add0-2959-11ed-bdbf-bfb343e5af5f.cf.webp', 'https://s.yimg.com/uu/api/res/1.2/csGxtGMzXoi7P3OiRpEwoA--~B/Zmk9Zml0O2g9NDA7cHlvZmY9MDtxPTEwMDt3PTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2021-06/0c895a10-d5bf-11eb-9eff-ff3e6357acd9.cf.webp']
+
+content: When you buy through links on our articles, Future and its syndication partners may earn a commission.
+
+Credit: Future
+
+If you’ve opened up an Apple Watch for the first time this Christmas, then you might be wondering where to start. While you can do a range of things on all of the best Apple Watch models, from tracking workouts and making payments to turn-by-turn navigation and voice calling, having even a few great apps can make your Apple Watch a do-it-all wearable companion you’ll wonder how you ever lived without.
+
+Like the iPhone, the Apple Watch relies on an ecosystem of third-party apps to expand its user experience, and downloading some out the gate can really make a difference.
+
+Advertisement Advertisement
+
+Advertisement
+
+I’ve been using and writing about the Apple Watch for nearly 10 years, really since it first debuted. With that in mind, I’ve pulled five of my top picks for apps you should download right away on your Apple Watch.
+
+Three Apple Watches on a blue background showing the SmartGym app
+
+The Apple Watch boasts a wealth of fitness tracking and health features built-in. But what if you could track and follow personalized workouts directly from your wrist, even if you don’t have your iPhone nearby? SmartGym is a standalone watch app that uses AI to create personalized workouts for you, even suggesting changes as you go. It supports gym workouts, home workouts, and even High Intensity Interval Training. There's a reason it’s featured in Apple’s own Watch adverts. This app is free to download and has a small monthly subscription for more workouts.
+
+Download SmartGym for Apple Watch
+
+Runna app being used on track
+
+I used Runna to kickstart my return to running in 2024 and was really impressed. Runna is an easy-to-use running coach with a great standalone watch app. Without your iPhone, you can get tailor-made running workouts on your wrist, including spoken instructions that give you pace, intervals, and time updates through your headphones. A quick glance at the wrist will show live pace updates, timings, and more. If you want to use your Apple Watch to get running in 2025, definitely give Runna a bash.
+
+Citymapper app on apple watch
+
+Advertisement Advertisement
+
+Advertisement
+
+While you can use Apple Maps and even turn-by-turn navigation on your Apple Watch, Citymapper takes navigation on your wrist to the next level. This app can help you find the best way to traverse over 400 cities by bus, train, walking, tram, subway, or any combination of transport modes. It offers step-by-step directions and instructions, with features to save destinations like Home or Work. It’ll even give you the frequency of buses and trains, and alert you when your stop is coming up.
+
+CARROT Weather on Apple Watch
+
+Award-winning app, CARROT Weather brings personality to weather forecasting. It has five personalities including a “profanity-laden” overkill setting, delivering a weather robot that will literally swear at you while telling you the weather. It gathers weather data from various sources including Apple Weather, AccuWeather, and Tommorow.io, and includes alerts for rain, lighting, and more. You can customize the interface and there’s even an Apple Watch complication. It’s a big step up from the basic Apple Weather app.
+
+The CheatSheet app on Apple Watch
+
+Cheatsheet is a cheat code when it comes to the Apple Watch and might be one of my all-time favorite life hacks. Cheatsheet is a tiny widget app that lets you store important information on your Apple Watch for easy access. Maybe you need the Wi-Fi password handy for visitors, or the combination to a locked door, or the coordinates to your safe hou… Okay, maybe not, but you get the idea. Cheatsheet is an easy way to store important information you’d otherwise forget, viewable as a list or in a complication on your Apple Watch face, replete with more than 200 custom icons for visual cues.
+
+Kickstart your Apple Watch
+
+So there you have it, five top apps to give your Apple Watch a much-needed boost right out of the gate. Even if just one of these apps ends up a mainstay on your wrist, you’ll definitely appreciate the benefits they offer. Be sure to visit Apple’s App Store to continue discovering handy apps for Apple Watch. You might even find that apps you’re already using have dedicated Apple Watch versions you didn’t even know existed!
+

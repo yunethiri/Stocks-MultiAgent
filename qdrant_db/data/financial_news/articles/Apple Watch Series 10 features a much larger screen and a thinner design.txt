@@ -1,0 +1,50 @@
+link: https://www.yahoo.com/news/apple-watch-series-10-features-a-much-larger-screen-and-a-much-thinner-design-171307821.html
+
+source: www.yahoo.com
+
+title: Apple Watch Series 10 features a much larger screen and a thinner design
+
+summary: 
+
+publishDate: 2024-09-09T17:13:07.000Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9936891794204712
+
+images: ['https://s.yimg.com/ny/api/res/1.2/_vizngEQl7a6U1_yMb1giA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/37212000-6ed2-11ef-adcd-6ae044269105', 'https://s.yimg.com/ny/api/res/1.2/PDR33Vid0XXeCHY61fMQ_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/87ed5110-6ece-11ef-bf8f-e1874b79d279', 'https://s.yimg.com/ny/api/res/1.2/WhZk139ILeF0I4Hr4sFM8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/b1da0f90-244a-11eb-bfaf-e0fb13dde404']
+
+content: The new Apple Watch is here. A decade after the company revealed its first model, the Apple Watch Series 10 has a bigger screen and thinner design than all its predecessors. The watch also appears brighter from wider viewing angles, and it includes a redesigned speaker. The Apple Watch Series 10, available for pre-order now, is the biggest design change since Series 4.
+
+The new Apple Watch comes in 46mm and 42mm screen sizes (up from 45mm and 41mm, respectively). Apple says the display on the Series 10 wearable has 30 percent more area than the Series 6 model. The display is even slightly bigger than that of the Apple Watch Ultra (when measured by area, not the diagonal). Apple says the watch’s wide-angle OLED screen is 40 percent brighter at angles than its predecessor.
+
+The screen’s resolutions are 416 x 496 (46mm) and 374 x 446 (42mm). The display updates once per second, and the ticking second hand even shows while the device is in passive ambient mode. Both the display and case have more rounded corners than previous Apple Watch models.
+
+Apple Watch Series 10 (Apple)
+
+The Apple Watch Series 10 is nearly 10 percent thinner than the Series 9 model. It’s also 10 percent lighter than last year’s watch (or 20 percent lighter if you opt for the new titanium model). The latter replaces stainless steel as the wearable’s premium casing option. Apple says the thinner and lighter design on the Series 10 watch makes it “more comfortable than ever.”
+
+Powering the device is the new S10 SIP (System in Package) chip, which Apple claims will enhance performance and efficiency. The S10 helps give the Apple Watch Series 10 longer “all-day” battery life: an estimated 18 hours. The company claims its improved fast charging can juice it up from empty to an 80 percent charge in 30 minutes.
+
+The watch’s speakers are 30 percent smaller, allegedly without sacrificing audio performance. And its speakers can play media (like music and podcasts) for the first time — handy if you forget your AirPods. It also includes enhanced voice isolation for clearer calls in loud environments.
+
+Apple Watch 10 (Apple)
+
+The watch’s metal back integrates with the antenna, which Apple says will enhance cellular performance and water resistance (up to 50m). That new water resistance combines with its built-in depth gauge and water temperature sensor for diving capabilities. Supporting that on the software side is the Depth app (previously only available on the Ultra model) and the new Tides app, which offers seven-day tidal forecasts, sunrise and sunset times and local beach info for surfing, fishing and other underwater activities. There’s also an Oceanic+ app for the snorkelers out there.
+
+The Apple Watch Series 10 includes sleep apnea tracking, another first in the lineup. The company says the wearable uses the accelerometer and machine learning to look for breathing disturbances when you wear it overnight. Apple expects FDA approval for that feature soon. You’ll find sleep apnea insights in a new Breathing Disturbances category in the Health app.
+
+Apple describes the new wearable as a carbon-neutral product. The company says the Series 10 watch uses 95 percent recycled aluminum and is made with 100 percent renewable electricity.
+
+Apple Watch Series 10 (Apple)
+
+Of course, the new Apple Watch (along with older models starting with Series 6 and the second-gen SE) will run watchOS 11. The 2024 software adds the ability to pause and further customize Rings and Activity goals, along with a new Vitals app to check overnight metrics, training loads and pregnancy data.
+
+The Apple Watch Series 10 starts at $399 for a GPS-only variant. (The titanium model starts at $699.) The GPS + cellular model costs $499. Pre-orders start today, and it will be available starting on September 20. The aluminum model is available in jet black (for the first time), rose gold and silver aluminum. The titanium model comes in natural, gold and slate. New band styles this year include collaborations with Nike and Hermès and an updated Milanese Loop.
+
+Catch up on all the news from Apple’s iPhone 16 event!
+
+Pre-order the Apple Watch Series 10 $399 See at Apple
+

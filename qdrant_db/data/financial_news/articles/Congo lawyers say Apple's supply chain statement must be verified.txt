@@ -1,0 +1,39 @@
+link: https://www.reuters.com/world/africa/congo-lawyers-say-apples-supply-chain-statement-must-be-verified-2024-12-18/
+
+source: www.reuters.com
+
+title: Congo lawyers say Apple's supply chain statement must be verified
+
+summary: International lawyers for the Democratic Republic of Congo welcomed Apple's decision to stop sourcing minerals from there due to worsening conflict, but said they would press ahead with their cases against the company in Europe.
+
+publishDate: 2024-12-18T13:17:27.366Z
+
+language: en
+
+sentiment: neutral
+
+confidence: 0.9998900890350342
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FH24NV3AFCZCWPC463OG3JRYY7U.jpg?auth=4dd3566d980534ddab2fb815cfdf9f08e04ca3d4f4dd0c88f6e42931b1e77167&width=120&height=63&smart=true']
+
+content: International lawyers for the Democratic Republic of Congo welcomed Apple's <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> decision to stop sourcing minerals from there due to worsening conflict, but said they would press ahead with their cases against the company in Europe.
+<a href="/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/">Criminal complaints</a> were filed against Apple subsidiaries in France and Belgium this week on behalf of Congo, accusing the tech firm of using conflict minerals in its supply chain.
+Congo is a major source of tin, tantalum and tungsten, so-called 3T minerals used in computers and mobile phones. But some artisanal mines are run by armed groups involved in massacres, rapes and other crimes, say U.N. experts and rights groups.
+Apple said on Tuesday that it strongly disputes the claims and has told suppliers they must not use the minerals in question sourced from Congo or Rwanda.
+The lawyers representing Congo said on Wednesday they welcomed that statement with "satisfaction and caution."
+"Apple's statements about changes to its supply chain will have to be verified on the ground, with facts and figures to support them," the lawyers said in a statement to Reuters.
+"Apple's statements do not change the past and the crimes that are alleged to have been committed," they added, saying it was now up to the French and Belgian judges to rule on the case.
+There has been no comment from either nation's prosecuting authorities.
+
+SUPPLIERS INSTRUCTED
+The lawyers argue that Apple used minerals pillaged from Congo and laundered through international supply chains, making it complicit in crimes taking place in Congo.
+Apple does not directly source primary minerals and says it audits suppliers, publishes findings and funds bodies that seek to improve mineral traceability.
+"As conflict in the region escalated earlier this year we notified our suppliers that their smelters and refiners must suspend sourcing tin, tantalum, tungsten, and gold from the DRC and Rwanda," Apple said in its statement on Tuesday, using an abbreviation for Congo's full name.
+It did not say when suppliers were notified.
+"We took this action because we were concerned it was no longer possible for independent auditors or industry certification mechanisms to perform the due diligence required to meet our high standards."
+Apple said the majority of the minerals in question in its phones and computers are recycled.
+Since the 1990s, Congo's mining heartlands in the east have been devastated by conflict between armed groups, some backed by neighbouring Rwanda, and the Congolese military.
+Millions of civilians have died and been displaced.
+Competition for minerals is one of the main drivers of conflict as armed groups sustain themselves and buy weapons with the proceeds of exports, often smuggled via Rwanda, according to the U.N. experts and rights organisations.
+Rwanda denies benefiting from the trade.
+

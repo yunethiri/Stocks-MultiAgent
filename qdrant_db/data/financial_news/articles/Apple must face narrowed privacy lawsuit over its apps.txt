@@ -1,0 +1,29 @@
+link: https://www.reuters.com/legal/apple-must-face-narrowed-privacy-lawsuit-over-its-apps-2024-09-27/
+
+source: www.reuters.com
+
+title: Apple must face narrowed privacy lawsuit over its apps
+
+summary: A federal judge narrowed a lawsuit accusing Apple of violating the privacy of iPhone, iPad and Apple Watch users by collecting their personal data through proprietary apps such as the App Store, Apple Music and Apple TV.
+
+publishDate: 2024-09-27T15:47:48.776Z
+
+language: en
+
+sentiment: negative
+
+confidence: 0.7459313273429871
+
+images: ['https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1080&height=565&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=1200&height=628&smart=true', 'https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4QXBW6RP45FBRHDZQXLNRGX5UY.jpg?auth=e1772941ce808f8ae868041cda5dcfc1b331c1a72daa0dd1981d9596d7332199&width=120&height=63&smart=true']
+
+content: A federal judge narrowed a lawsuit accusing Apple <a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank">(AAPL.O)</a> of violating the privacy of iPhone, iPad and Apple Watch users by collecting their personal data through proprietary apps such as the App Store, Apple Music and Apple TV.
+U.S. District Judge Edward Davila in San Jose, California, dismissed nearly all claims based on the "Allow Apps to Request to Track" setting on Apple mobile devices, but let some claims proceed over the "Share [Device] Analytics" setting.
+Mobile device users said Apple violated their user agreements and several privacy and consumer protection laws by assuring that disabling the settings would limit its collection, storage and use of their data - only to then ignore their choices and collect, store and use that data.
+The lawsuit seeking unspecified damages is one of many accusing technology companies such as Apple, Alphabet's <a href="https://www.reuters.com/markets/companies/GOOGL.O" target="_blank">(GOOGL.O)</a> Google and Meta Platforms' <a href="https://www.reuters.com/markets/companies/META.O" target="_blank">(META.O)</a> Facebook of allowing the collection of user data without consent.
+In a 39-page decision late Thursday, Davila said Apple made clear to users that the "Allow Apps to Request to Track" setting applied to "other companies' apps and websites."
+He said that made it "implausible" for reasonable people to believe that by turning the setting off, they were withdrawing consent for Apple to collect their data through its own apps.
+But the judge said users plausibly alleged they withdrew such consent by disabling the "Share [Device] Analytics" setting, citing Apple's disclosure that users may "disable the sharing of Device Analytics altogether."
+The Cupertino, California-based company has said it collects data through that setting to improve its products and services.
+Lawyers for the plaintiffs did not immediately respond to requests for comment on Friday. Apple and its lawyers did not immediately respond to similar requests.
+The case is In re Apple Data Privacy Litigation, U.S. District Court, Northern District of California, No. 22-07069.
+
