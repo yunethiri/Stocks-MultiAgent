@@ -2,7 +2,7 @@ pymupdf
 cohere
 qdrant-client
 python-dotenv
-langchain-qdrant
-langchain-cohere
 streamlit
 plotly
+langchain-qdrant
+langchain-cohere
