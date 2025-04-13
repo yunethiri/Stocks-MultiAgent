@@ -51,10 +51,11 @@ class QueryResponse(BaseModel):
     debug_info: Optional[Dict[str, Any]] = None
 
 @app.post("/query", response_model=QueryResponse)
-async def process_query(query: str):
+async def process_query(query: str, session_id: str = None):
     try:
         # Generate session ID if not provided
-        session_id = memory_agent.get_session_id()
+        if not session_id:
+            session_id = memory_agent.get_session_id()
             
         # Process the query through the intent agent
         result = intent_agent.process_query(query, session_id)
