@@ -120,8 +120,8 @@ class SentimentAgent:
             """
         )
 
-        self.event_detection_chain = LLMChain(llm=self.llm, prompt=self.event_detection_template)
-        self.trend_analysis_chain = LLMChain(llm=self.llm, prompt=self.trend_analysis_template)
+        self.event_detection_chain = self.event_detection_template | self.llm
+        self.trend_analysis_chain = self.trend_analysis_template | self.llm
         self.article_sentiment_parser = PydanticOutputParser(pydantic_object=ArticleSentiment)
 
     def _extract_timeframe(self, query: str) -> Dict[str, Any]:
