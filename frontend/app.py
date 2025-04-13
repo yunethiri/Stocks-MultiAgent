@@ -381,7 +381,7 @@ def main():
         display_example_prompts()
         display_chat_messages()
         handle_chat_input()
-        """Handle stock symbol selection in sidebar and sidebar information is displayed."""
+        """🤖 How can I assist with your stock analysis? \n\n Manage chat sessions and settings via the sidebar."""
 
     except Exception as e:
         st.error("Error: " + str(e))
