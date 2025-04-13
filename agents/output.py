@@ -62,15 +62,26 @@ class OutputAgent:
 
             USER QUERY: {query}
 
-            {agent_responses}
+            AGENT RESPONSES: {agent_responses}
+                                                                
+            Instructions:
+            1. If any agent responses clearly indicate the query is **not related to finance** (e.g., queries about cooking, travel, etc.), respond with:
+            "The query doesn't seem to be related to finance. It appears to be about a non-financial topic (briefly specify the topic). Please ask any finance-related questions, and I’ll be happy to help!"
+                                                                
+            2. If the responses suggest the query **is finance-related but not about Apple** (e.g., related to Google or Tesla stocks), say:
+            "Internal data is only available for Apple Inc. (AAPL). Therefore, the answer below is generated solely based on web search results:"
 
-            If the agent responses include web search results that indicate the query is not related to finance (for example, if the query is about baking or any other non-financial topic), please respond with:
-            "The query doesn't seem to be related to finance. It appears to be more about a non-financial topic (specify what non-financial topic it is). Please ask any finance-related questions, and I will be happy to help!"
-            If the aggregated responses indicate that the query is not related to Apple but still finance related, for example, if the query is about another stock, reply with 'Internal data is only available for Apple. Therefore, the answer below is generated solely based on web search results:'
-            Otherwise, integrate all the provided information into a final answer without any reference to the source being web search.
-            
-            Please provide a well-structured, professional answer that directly addresses the user's query.
-            Be concise yet thorough, and if there are differing perspectives, provide a balanced view.
+            3. In the above case, also provide a **summary of the key findings** from the web search results. 
+            - Embed **clickable links** (if provided) in markdown format.
+            - Preserve and display any **web links or references** given by the web search agent.
+            - Write a clear summary first, then list the links below it.
+
+            4. If the query is related to Apple and financial in nature, integrate all relevant insights from the agent responses into a well-structured answer. Do not mention the source (e.g., RAG, web search, etc.)—just provide a unified expert-level analysis.
+
+            Keep your response:
+            - Professional and easy to follow
+            - Balanced when differing perspectives are present
+            - Free of any redundant explanation about how you arrived at the answer
             """)
             
             chain = synthesis_prompt | self.llm

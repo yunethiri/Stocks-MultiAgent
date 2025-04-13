@@ -141,8 +141,6 @@ class RAGAgent:
                 embedding_types=["float"],
             )
 
-            print(f"Query Embeddings: {query_embeddings}")
-
             # Retrieve documents
             response = self.qdrant_client.query_points(
                 collection_name=state.collection_choice,
@@ -151,7 +149,6 @@ class RAGAgent:
                 with_payload = True,
                 with_vectors = False,
             ).points
-            print(f"Response: {response}")
 
             docs = []
             for point in response:
@@ -160,8 +157,6 @@ class RAGAgent:
                     k: v for k, v in point.payload.items() if k not in ["document"]
                 }
                 docs.append(Document(page_content=content, metadata=metadata))
-
-            print(f"Retrieved Content: {docs}")
 
             # Update state
             state.context = docs
@@ -200,7 +195,6 @@ class RAGAgent:
             - entity_type: The type of entity (e.g., company, metric, stock_symbol, financial_term, person, date)
             - entity_name: The name of the entity
             - value: Any associated value or metric (if applicable)
-            - sentiment: Positive, negative, or neutral (if applicable)
             
             Format your response as a valid JSON array, nothing else.
             """
@@ -277,8 +271,6 @@ class RAGAgent:
                 "entity_info": entity_info,
             }
         )
-
-        print(f"Generated Response: {response}")
 
         # Update state
         state.response = response
