@@ -57,18 +57,18 @@ class OutputAgent:
             
             # 3) Always synthesize a final response using the query and aggregated agent responses
             synthesis_prompt = ChatPromptTemplate.from_template("""
-            If the response does not relate to Apple finance at all, make sure that the response contains:
-            "If the query is unrelated to finance, respond as follows:\n"
-                    "Example Query: 'How do I bake a chocolate cake?'\n"
-                    "Response: 'The query doesn't seem to be related to finance. It looks like it's more about cooking. Feel free to ask any finance-related questions, and I'll be happy to help!'
-
             You are an expert financial analyst specializing in Apple (AAPL) stock.
-            Synthesize the following information from different analysis agents into a coherent, comprehensive response.
+            Synthesize the following information from various analysis agents into a coherent, comprehensive response.
 
             USER QUERY: {query}
 
             {agent_responses}
 
+            If the agent responses include web search results that indicate the query is not related to finance (for example, if the query is about baking or any other non-financial topic), please respond with:
+            "The query doesn't seem to be related to finance. It appears to be more about a non-financial topic (specify what non-financial topic it is). Please ask any finance-related questions, and I will be happy to help!"
+            If the aggregated responses indicate that the query is not related to Apple but still finance related, for example, if the query is about another stock, reply with 'Internal data is only available for Apple. Therefore, the answer below is generated solely based on web search results:'
+            Otherwise, integrate all the provided information into a final answer without any reference to the source being web search.
+            
             Please provide a well-structured, professional answer that directly addresses the user's query.
             Be concise yet thorough, and if there are differing perspectives, provide a balanced view.
             """)
