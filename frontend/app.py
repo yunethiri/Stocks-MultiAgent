@@ -220,23 +220,34 @@ def main():
     init_session_state()
 
     # page title
-    st.title("Stock Analysis Chatbot")  ## to edit to make it more special
+    st.title("📊 Smart Stock Insight Chatbot")  ## to edit to make it more special
     with st.sidebar:
-        st.header("Settings")
+        st.header("⚙️ Settings")
         new_symbol = st.selectbox(
             "Select Stock Symbol:",
             options=STOCK_SYMBOLS,
             index=STOCK_SYMBOLS.index(st.session_state.current_symbol),
         )
 
-        st.subheader("How to use:")
-        st.write("1. Select a stock symbol from the dropdown")
-        st.write("2. Type a question about the stock in the input box")
-        st.write("3. Press Enter to get the answer from the chatbot")
+        st.subheader("💡 How to Use:")
+        st.markdown(
+            """
+            1. **Choose a stock** from the dropdown menu.  
+            2. **Ask a question** related to the stock’s performance, reports, or news.  
+            3. Press **Enter** to receive data-driven insights from the chatbot.
+            """
+        )
 
-        st.subheader("About:")
-        st.write("This app uses OpenAI's chat model to analyse stock data.")
-        st.write("API pulls 2024 data.")
+        st.subheader("ℹ️ About:")
+        st.markdown(
+            """
+            This app uses **OpenAI's chat model** to provide smart analysis of **stock data from 2024**.  
+            Insights are powered by:  
+            - 📄 **10K / 10Q Reports**  
+            - 📰 **Financial News**  
+            - 🗣️ **Earnings Calls**  
+            """
+        )
 
     try:
         df = pd.read_csv("AAPL_2024_stock_data.csv")
@@ -260,7 +271,7 @@ def main():
 
         # Chat interface
         #st.subheader("Stock Analysis Chat")
-        st.write("📅 Note: This app currently provides data exclusively for the year 2024.")
+        st.write("📅 Note: This app currently provides AAPL data exclusively for the year 2024.")
         display_example_prompts()
         display_chat_messages()
         handle_chat_input()
