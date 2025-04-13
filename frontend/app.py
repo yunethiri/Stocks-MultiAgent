@@ -6,15 +6,13 @@ import plotly.graph_objects as go
 import requests
 import json
 import os
+import io
+import base64
+from io import BytesIO
+from PIL import Image
 
 # Set the backend URL from environment (defaults to 127.0.0.1 for local testing)
 BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
-
-
-#from openai import OpenAI
-
-#openai_api_key = st.secrets["openai_api_key"]  # Use OpenAI API key
-#client = OpenAI(api_key = openai_api_key)
 
 # constants
 STOCK_SYMBOLS = ["AAPL"]
@@ -35,6 +33,8 @@ def init_session_state() -> None:
         "current_symbol": DEFAULT_SYMBOL,
         "stock_data": pd.DataFrame(),
         "pending_prompt": None,
+        "chart_image": None,
+        "needs_rerun": False,
     }
 
     for key, value in session_defaults.items():
@@ -114,7 +114,7 @@ def display_chat_messages() -> None:
 
 def display_example_prompts() -> None:
     """Display example prompts."""
-    st.write("**Try these example questions:**")
+    st.write("**💡 Here are some example questions to get you started:**")
     cols = st.columns(2)
     for idx, prompt in enumerate(EXAMPLE_PROMPTS):
         with cols[idx % 2]:
@@ -140,37 +140,57 @@ def process_prompt(prompt: str) -> None:
     with st.chat_message("assistant"):
         with st.spinner("Generating Response..."):
             try:
-                response = generate_chat_response(prompt)
-                st.session_state.messages.append(
-                    {"role": "assistant", "content": response}
-                )
-                safe_response = f"```text\n{response}\n```"
-                st.markdown(safe_response)
+                response_json = generate_chat_response(prompt)
+                response_text = response_json.get("response")
+                image_b64 = response_json.get("image_base64", None)
+
+                if response_text:
+                    st.session_state.messages.append(
+                        {"role": "assistant", "content": response_text}
+                    )
+                    safe_response = response_text.replace('$','\$')
+                    st.write(safe_response)
+                
+                # if visualisation agent 
+                if image_b64:
+                    try:
+                        image_bytes = BytesIO(base64.b64decode(image_b64))
+                        image = Image.open(image_bytes)
+                        st.session_state.chart_image = image
+                        st.image(image, use_container_width=True)
+
+                        # provide download button
+                        st.download_button(
+                            label="📥 Download Image",
+                            data=image_bytes,
+                            file_name="chart.png",
+                            mime="image/png"
+                        )
+
+                    except Exception as e:
+                        st.error(f"Error decoding image: {e}")
+
             except Exception as e:
                 # logging.error(f"Chat error: {str(e)}")
                 st.error("Failed to generate response. Please try again.")
-
-    # rerun to update display
-    st.rerun()
+    
+    st.session_state.needs_rerun = True
 
 
 def generate_chat_response(prompt: str) -> str:
-    payload = {
-        "query": prompt,  # Only the user question
-        # You may also choose to pass session_id as a URL parameter if needed.
-    }
-    
+    payload = {"query": prompt,}
     try:
         # Use 'params' to send as URL query parameters
         response = requests.post(url=f'{BACKEND_URL}/query', params=payload)
         response_text = response.content.decode('utf-8')
         response_json = json.loads(response_text)
-        return response_json['response']
+        return response_json
+    except requests.exceptions.RequestException as e:
+        st.error("Error connecting to backend.")
+        return "Failed to connect to backend."
     except Exception as e:
         st.error(f"Failed to generate response: {str(e)}")
         return "Error occurred. Please try again later."
-
-
 
 
 def handle_chat_input() -> None:
@@ -226,28 +246,28 @@ def main():
         st.session_state.stock_data = df
 
         # Display stock data section
-        if not st.session_state.stock_data.empty:
-            metrics = get_stock_metrics(st.session_state.stock_data)
-            display_stock_metrics(metrics)
+        #if not st.session_state.stock_data.empty:
+            #metrics = get_stock_metrics(st.session_state.stock_data)
+            #display_stock_metrics(metrics)
 
-            fig = create_candlestick_chart(
-                st.session_state.stock_data, st.session_state.current_symbol
-            )
-            st.plotly_chart(fig, use_container_width=True)
-        else:
-            st.warning("No stock data available for the selected symbol.")
+            #fig = create_candlestick_chart(
+            #    st.session_state.stock_data, st.session_state.current_symbol
+            #)
+            #st.plotly_chart(fig, use_container_width=True)
+        #else:
+        #    st.warning("No stock data available for the selected symbol.")
 
         # Chat interface
-        st.subheader("Stock Analysis Chat")
-        st.write("Displaying stock data for the full year 2024.")
+        #st.subheader("Stock Analysis Chat")
+        st.write("📅 Note: This app currently provides data exclusively for the year 2024.")
         display_example_prompts()
         display_chat_messages()
         handle_chat_input()
         """Handle stock symbol selection in sidebar and sidebar information is displayed."""
 
+
     except Exception as e:
         st.error("Error: " + str(e))
-
 
 if __name__ == "__main__":
     main()
