@@ -18,12 +18,13 @@ BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
 STOCK_SYMBOLS = ["AAPL"]
 DEFAULT_SYMBOL = "AAPL"
 EXAMPLE_PROMPTS = [
-    "What is your role?",
-    "Give me an overview of the stock",
-    "Give me an overview of Apple's 10K Report for 2024",
-    "What is the sentiment of the stock in financial news in Q4 2024?",
-    "What is the overall sentiment of the stock in 2024?",
-    "What are the key points in Apple's Earnings Calls in Q4 2024 regarding the stock?",
+    "What are the main takeaways from Apple's 10K Report for 2024?",
+    "Summarise the revenue trends in Apple's 10Q report in Q2 2024.",
+    "What was the tone of Apple’s CEO in the Q1 2024 earnings call?",
+    "Summarize how the media portrayed Apple after its Q2 2024 earnings release.",
+    "What is the sentiment of financial news about Apple Stocks in November 2024?",
+    "What consistent issues are highlighted across Apple’s 10Q reports and news in 2024?",
+    "Provide a visualisation of Apple Stocks in Q3 2024.",
 ]
 
 def init_session_state() -> None:
