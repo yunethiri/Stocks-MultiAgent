@@ -15,15 +15,13 @@ BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
 STOCK_SYMBOLS = ["AAPL"]
 DEFAULT_SYMBOL = "AAPL"
 EXAMPLE_PROMPTS = [
-    "What are the main takeaways from Apple's 10K Report for 2024?",
-    "Summarise the revenue trends in Apple's 10Q report in Q2 2024.",
+    "What were the key takeaways from Apple's 2024 10-K report?",
+    "Summarize the revenue trends in Apple's Q3 2024 10-Q report and provide a stock price visualization.",
     "What was the tone of Apple’s CEO in the Q1 2024 earnings call?",
-    "Summarize how the media portrayed Apple after its Q2 2024 earnings release.",
-    "What is the sentiment of financial news about Apple Stocks in November 2024?",
-    "What consistent issues are highlighted across Apple’s 10Q reports and news in 2024?",
-    "Provide a visualisation of Apple Stocks in Q3 2024.",
+    "What was the sentiment of financial news about Apple stock in November 2024?",
+    "What were the top-performing stocks in 2024?",
+    "What are the key features of the new iPhone 16?",
 ]
-
 
 def init_session_state() -> None:
     """creating session state variables."""
@@ -90,8 +88,27 @@ def rename_session(session_id, new_name):
         st.session_state.sessions[session_id]["name"] = new_name.strip()
     st.session_state.rename_mode = False
 
+def generate_chat_name(prompt):
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/generate_chat_name", params = {"request": prompt}
+        )
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("name", "New Chat")
+        else:
+            st.error(f"Backend error: {response.status_code} - {response.text}")
+            return "New Chat"
+    except Exception as e:
+        st.error(f"Error generating chat name: {str(e)}")
+        # Fallback to a simpler method
+        words = prompt.split()
+        return " ".join(words[:3]) + ("..." if len(words) > 3 else "")
+
+
 def load_session_if_needed(session_id):
     """Load session from backend if not loaded already"""
+
     if session_id not in st.session_state.session_loaded or not st.session_state.session_loaded[session_id]:
         try:
             # Get chat history from backend
@@ -106,27 +123,19 @@ def load_session_if_needed(session_id):
                 if "assistant_message" in item and item["assistant_message"]:
                     messages.append({"role": "assistant", "content": item["assistant_message"]})
             
-            # Parse first user message for naming the chat if name is default
             name = "New Chat"
             created_at = datetime.now().strftime("%Y-%m-%d %H:%M")
-
-            if messages and len(messages) >= 1:
-                first_msg = next((msg for msg in messages if msg["role"] == "user"), None)
-                if first_msg:
-                    # Use the first few words of the first query as the chat name
-                    words = first_msg["content"].split()
-                    name = " ".join(words[:3]) + ("..." if len(words) > 3 else "")
                 
-                # Try to extract creation time from history if available
-                if isinstance(history, list) and history and "timestamp" in history[0]:
-                    try:
-                        # Assuming timestamp is in ISO format or similar
-                        timestamp = history[0]["timestamp"]
-                        if isinstance(timestamp, str):
-                            dt = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
-                            created_at = dt.strftime("%Y-%m-%d %H:%M")
-                    except (ValueError, TypeError):
-                        pass
+            # Try to extract creation time from history if available
+            if isinstance(history, list) and history and "timestamp" in history[0]:
+                try:
+                    # Assuming timestamp is in ISO format or similar
+                    timestamp = history[0]["timestamp"]
+                    if isinstance(timestamp, str):
+                        dt = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
+                        created_at = dt.strftime("%Y-%m-%d %H:%M")
+                except (ValueError, TypeError):
+                    pass
             
             # Update session info
             if session_id not in st.session_state.sessions:
@@ -135,12 +144,6 @@ def load_session_if_needed(session_id):
                     "created_at": created_at,
                     "messages": messages
                 }
-            else:
-                st.session_state.sessions[session_id]["messages"] = messages
-
-                # Update name only if it's still the default
-                if st.session_state.sessions[session_id]["name"] == "New Chat" and name != "New Chat":
-                    st.session_state.sessions[session_id]["name"] = name
             
             st.session_state.session_loaded[session_id] = True
 
@@ -154,6 +157,21 @@ def load_session_if_needed(session_id):
                     "messages": []
                 }
             st.session_state.session_loaded[session_id] = True
+    
+    # Attempt to generate a better chat name if it's still "New Chat" or the first 3 words
+    session = st.session_state.sessions.get(session_id)
+    if session:
+        first_msg = next((msg["content"] for msg in session["messages"] if msg["role"] == "user"), None)
+        if first_msg:
+            words = first_msg.split()
+            first_3_words = " ".join(words[:3]) + ("..." if len(words) > 3 else "")
+            if session["name"] == "New Chat" or session["name"] == first_3_words:
+                try:
+                    name = generate_chat_name(first_msg)
+                    if name and name != "New Chat":
+                        session["name"] = name
+                except Exception as e:
+                    print(f"Error generating chat name outside: {e}")
 
 def display_chat_messages() -> None:
     """Display the chat interface for the current session"""
@@ -161,7 +179,7 @@ def display_chat_messages() -> None:
 
     # Load session from backend if needed
     load_session_if_needed(session_id)
-    
+
     current_session = st.session_state.sessions[session_id]
 
     # Display session title
@@ -170,7 +188,6 @@ def display_chat_messages() -> None:
     for message in current_session["messages"]:
         with st.chat_message(message["role"]):
             st.write(message["content"])
-
 
 def display_example_prompts() -> None:
     """Display example prompts."""
@@ -208,9 +225,7 @@ def process_prompt(prompt: str, current_session) -> None:
                     current_session["messages"].append({"role": "assistant", "content": response_text})
 
                     if current_session["name"] == "New Chat" and len(current_session["messages"]) == 2:
-                        # Use the first few words of the first query as the chat name
-                        words = prompt.split()
-                        name = " ".join(words[:3]) + ("..." if len(words) > 3 else "")
+                        name = generate_chat_name(prompt)
                         current_session["name"] = name
 
                     safe_response = response_text.replace("$", "\$")
