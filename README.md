@@ -1,6 +1,6 @@
-# Stocks Multi-Agent System
+# Stocks Multi-Agent
 
-This project is a multi-agent system for analyzing Apple stock data using a combination of specialized agents. These agents perform tasks such as intent classification, sentiment analysis, document retrieval, and visualization. The system is containerized using Docker and orchestrated with Docker Compose.
+This project is a multi-agent for analyzing Apple stock data using a combination of specialized agents. These agents perform tasks such as intent classification, sentiment analysis, document retrieval, and visualization. The system is containerized using Docker and orchestrated with Docker Compose.
 
 ## Environment Variables
 
@@ -18,7 +18,7 @@ This project uses Docker Compose to build and run multiple containers that are i
   Contains the multi-agent system (FastAPI backend), which processes queries, performs sentiment and document analysis, and synthesizes final responses.
   
 - **Frontend Container:**  
-  Hosts the Streamlit application that serves as the user interface. The frontend communicates with the backend container via a configured URL.
+  Hosts the Streamlit application that serves as the user interface. The frontend communicates with the backend container via Requests.
 
 - **Qdrant Database Container:**  
   Runs the Qdrant vector database for storing and retrieving data needed by the sentiment analysis and RAG agents.  
@@ -40,8 +40,10 @@ Follow these steps to run the project:
 
 3. **Build and Start the Containers:**  
    From the project root, run:
-   `docker-compose up -d`
+   ```
+   docker-compose up -d
+   ```
 
-4. **Access the Frontend:**
+5. **Access the Frontend:**
     Open your web browser and navigate to http://localhost:8501 to access the Streamlit UI.
 
