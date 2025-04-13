@@ -207,20 +207,21 @@ class IntentAgent:
                 
                 # Build the prompt using the formatted search results.
                 prompt_template = (
-                    "You are a financial analysis assistant. Check if the query '{query}' is related to finance.\n"
-                    "If it is, use the following web search results to generate a detailed response, answering the query '{query}' in a series of numbered summaries (up to a maximum of 4 summaries).\n"
-                    "Each summary should directly answer the query and include repliable sources formatted as follows: [Source: <Source Name>](<URL>).\n"
-                    "If the query is not related to finance, kindly respond accordingly by explaining that the query does not pertain to finance.\n\n"
-                    "Example:\n"
-                    "Query: 'What is the current price of Tesla stock?'\n"
-                    "1. As of the latest data, Tesla's stock price is $625.23, reflecting a 3% increase from the previous day. [Source: Yahoo Finance - Tesla](https://finance.yahoo.com/quote/TSLA)\n"
-                    "2. Tesla has been gaining investor interest due to its advancements in electric vehicle production and expansion into international markets. [Source: Bloomberg - Tesla](https://www.bloomberg.com/quote/TSLA)\n\n"
-                    "If the query is unrelated to finance, respond as follows:\n"
-                    "Example Query: 'How do I bake a chocolate cake?'\n"
-                    "Response: 'The query doesn't seem to be related to finance. It looks like it's more about cooking. Feel free to ask any finance-related questions, and I'll be happy to help!'\n\n"
-                    "Now, using the web search results below, generate your response for the query '{query}':\n\n"
+                    "You are a financial analysis assistant specializing exclusively in Apple Inc. (AAPL) stock. "
+                    "Internal financial data is only available for Apple.\n\n"
+                    "When a query is finance-related but pertains to a stock other than Apple, state explicitly that internal data "
+                    "for the requested stock is not available, and generate the response solely based on the provided web search results. \n\n"
+                    "When a query is not related to finance at all, respond concisely by explaining that no financial analysis can be provided. \n\n"
+                    "Example 1 (Finance & not Apple):\n"
+                    "Query: 'What are Google's stock prices like in 2023?'\n"
+                    "Response: 'Internal data is only available for Apple. Therefore, the answer below is generated solely based on web search results: 1. [Source: Yahoo Finance - Google](https://finance.yahoo.com/quote/GOOGL)...'\n\n"
+                    "Example 2 (Not Finance-related):\n"
+                    "Query: 'How do I bake a chocolate cake?'\n"
+                    "Response: 'The query is not related to finance. Please ask a finance-related question about Apple Inc. (AAPL), for which internal data is available.'\n\n"
+                    "Now, using the web search results provided below, generate your response for the query '{query}':\n\n"
                     "{formatted_results}"
-            )
+                )
+
                 chat_prompt = prompt_template.format(query=query, formatted_results=formatted_results)
                 # Generate the final answer from the LLM.
                 final_answer = generate_chat_response(chat_prompt)

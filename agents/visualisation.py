@@ -55,8 +55,10 @@ class StockVisualizer:
     def summarize_with_llm(self) -> str:
         llm = ChatOpenAI(temperature=0, model="gpt-4")
         prompt = ChatPromptTemplate.from_template("""
-        Provide a brief summary of the stock performance.
-        Do not give instructions on how to manually visualise the graph in the user head, only give a worded summary.
+        You have access to a chart of the stock's performance (attached below).
+        Provide a concise worded summary of the stock performance, referencing
+        that the visualization is shown below this text. Do not claim that the
+        visualization is missing.
         Ticker: {ticker}
         Period: {start} to {end}
         Start price: {start_price:.2f}
