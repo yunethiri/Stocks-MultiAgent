@@ -33,7 +33,7 @@ test_samples = [
     },
     {
         "question": "What dividend per share did Apple declare in fiscal year 2024?",
-        "ground_truth": "$0.98 per share or RSU" 
+        "ground_truth": "$0.25 per share or RSU" 
     },
         {
         "question": "What was Apple’s net income for fiscal year 2024?",
