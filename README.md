@@ -4,7 +4,7 @@ This project is a multi-agent for analyzing Apple stock data using a combination
 
 ## Environment Variables
 
-Before running the project, create a `.env` file in the **agents** and **qdrant_db** folder. This file should include your OPENAI_API_KEY and COHERE_API_KEY,
+Before running the project, create a `.env` file in the **agents** and **qdrant_db** folder. This file should include your OPENAI_API_KEY, COHERE_API_KEY and BRAVE_AI_API_KEY.
 
 > **Important:**  
 > - Do **not** commit the `.env` file to version control.  
