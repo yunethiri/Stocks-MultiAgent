@@ -8,6 +8,7 @@ from ragas.metrics import (
     answer_relevancy,
 )
 from rag import RAGAgent
+from dotenv import load_dotenv
 
 test_samples = [
     {   
@@ -15,15 +16,15 @@ test_samples = [
         "ground_truth": "$119.58 billion"
         },
     {
-        "question": "What earnings per share (EPS) did Apple report for the December quarter?",
+        "question": "What earnings per share (EPS) did Apple report for the December 2024 quarter?",
         "ground_truth": "$2.18"
     },
        {
-        "question": "What was Apple’s net income for the December quarter?",
+        "question": "What was Apple’s net income for the December 2024 quarter?", 
         "ground_truth": "$33.9 billion"
     },
         {
-        "question": "What guidance did Apple give for company gross margin in the March quarter?",
+        "question": "What guidance did Apple give for company gross margin in the March 2024 quarter?",
         "ground_truth": "between 46% and 47%"
     },
     {
@@ -53,7 +54,6 @@ test_samples = [
 
 ]
 
-from dotenv import load_dotenv
 load_dotenv()
 agent = RAGAgent(model_name="gpt-4o")
 
