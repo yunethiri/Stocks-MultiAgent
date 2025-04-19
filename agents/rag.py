@@ -60,7 +60,10 @@ class RAGAgent:
         self.cohere_client = cohere.ClientV2(self.cohere_api_key)
         self.cohere_model = "embed-english-v3.0"
 
-        self.qdrant_client = QdrantClient(url="http://qdrant:6333")
+        # for local testing
+        self.qdrant_client = QdrantClient(host="localhost", port=6333)
+        # for docker
+        #self.qdrant_client = QdrantClient(url="http://qdrant:6333")
         self.collection_names = [
             "financial_news",
             "earnings_calls",
@@ -127,7 +130,7 @@ class RAGAgent:
 
             return state
         except Exception as e:
-            state["error"] = f"Collection selection failed: {str(e)}"
+            state.error = f"Collection selection failed: {str(e)}"
             return state
 
     def _retrieve_context(self, state: RAGAgentState) -> RAGAgentState:
@@ -211,8 +214,6 @@ class RAGAgent:
             state.intermediate_steps.append(
                 {"action": "extract_entities", "num_entities": len(entities)}
             )
-
-            print(f"Extracted Financial Entities: {entities}")
 
         except Exception as e:
             state.error = f"Error during entity extraction: {str(e)}"
