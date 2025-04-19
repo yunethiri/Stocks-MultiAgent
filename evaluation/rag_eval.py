@@ -22,7 +22,7 @@ def safe_process_query(question, max_retries=5):
             backoff = (2 ** attempt) + random.uniform(0, 1)
             print(f"[RateLimit] attempt {attempt+1}/{max_retries}, sleeping {backoff:.1f}s…")
             time.sleep(backoff)
-    # if we exhaust retries, re‑raise
+    # if exhaust retries, re‑raise
     raise RuntimeError(f"Failed after {max_retries} retries due to rate limits")
 
 test_samples = [
@@ -79,7 +79,6 @@ for sample in test_samples:
     gt = sample["ground_truth"]
 
     out = safe_process_query(q)
-    # out["source_documents"] is a list of dicts with a "content" field:
     contexts = [d["content"] for d in out["source_documents"]]
 
     dataset_dict["question"].append(q)
