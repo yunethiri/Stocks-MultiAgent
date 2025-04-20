@@ -1,5 +1,3 @@
-# main.py
-
 import os
 from typing import Dict, Any, List, Optional
 from dotenv import load_dotenv

@@ -1,5 +1,3 @@
-# core/output_agent.py
-
 from typing import Dict, Any
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
