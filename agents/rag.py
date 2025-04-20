@@ -61,9 +61,9 @@ class RAGAgent:
         self.cohere_model = "embed-english-v3.0"
 
         # for local testing
-        self.qdrant_client = QdrantClient(host="localhost", port=6333)
+        #self.qdrant_client = QdrantClient(host="localhost", port=6333)
         # for docker
-        #self.qdrant_client = QdrantClient(url="http://qdrant:6333")
+        self.qdrant_client = QdrantClient(url="http://qdrant:6333")
         self.collection_names = [
             "financial_news",
             "earnings_calls",
