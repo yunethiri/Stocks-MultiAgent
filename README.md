@@ -10,6 +10,18 @@ Before running the project, create a `.env` file in the **agents** and **qdrant_
 > - Do **not** commit the `.env` file to version control.  
 > - It must reside in the `agents/` and `qdrant_db` folder so that the containers can load it during build/runtime.
 
+### Additional Frontend Configuration
+The Streamlit frontend also requires access to your OpenAI API key. You must provide this in the `frontend/.streamlit` directory as two configuration files:
+
+- `config.toml` – for basic Streamlit settings
+- `secrets.toml` – for securely passing secrets like API keys
+
+**frontend/.streamlit/secrets.toml**
+```toml
+openai_api_key = "your-openai-api-key"
+```
+> This file should also **not** be committed to version control.
+
 ## Docker Architecture Overview
 
 This project uses Docker Compose to build and run multiple containers that are interconnected by a shared internal network:
@@ -37,8 +49,11 @@ Follow these steps to run the project:
 
 2. **Set Up Environment Variables:**  
    In the `agents/` and `qdrant_db` folders, create a `.env` file containing your API keys (see above).
+   
+3. **Configure Frontend Secrets:**
+   In the frontend/.streamlit/ directory, create the secrets.toml files with your OpenAI API key as shown above.
 
-3. **Build and Start the Containers:**  
+4. **Build and Start the Containers:**  
    From the project root, run:
    ```
    docker compose up -d
